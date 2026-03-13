@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Fusion équitable de listes électorales</title>
+  <meta name="description" content="Calculez automatiquement la fusion proportionnelle et équitable de vos listes électorales grâce à l'algorithme Proportional Rankings." />
+
+  <!-- Favicon SVG (logo dégradé vert→rouge) -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+
+  <!-- Open Graph (Facebook, LinkedIn, WhatsApp…) -->
+  <meta property="og:type"        content="website" />
+  <meta property="og:url"         content="https://theo.delemazure.fr/fusion/" />
+  <meta property="og:title"       content="Fusion équitable de listes électorales" />
+  <meta property="og:description" content="Calculez automatiquement la fusion proportionnelle et équitable de vos listes électorales grâce à l'algorithme Proportional Rankings." />
+  <meta property="og:image"       content="https://theo.delemazure.fr/fusion/screenshot.png" />
+  <meta property="og:image:width"  content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:locale"      content="fr_FR" />
+  <meta property="og:site_name"   content="Fusion équitable" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card"        content="summary_large_image" />
+  <meta name="twitter:url"         content="https://theo.delemazure.fr/fusion/" />
+  <meta name="twitter:title"       content="Fusion équitable de listes électorales" />
+  <meta name="twitter:description" content="Calculez automatiquement la fusion proportionnelle et équitable de vos listes électorales grâce à l'algorithme Proportional Rankings." />
+  <meta name="twitter:image"       content="https://theo.delemazure.fr/fusion/screenshot.png" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="bg-decoration"></div>
+
+  <button class="share-btn" id="share-btn" title="Partager le classement">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+    Partager
+  </button>
+
+  <div class="page-wrapper">
+
+    <!-- COLONNE GAUCHE : formulaire -->
+    <main class="left-panel">
+
+      <header class="hero">
+<h1 class="hero-title">Fusion équitable</h1>
+        <h2 class="hero-subtitle">de listes électorales</h2>
+      </header>
+
+      <section class="form-section">
+
+        <p class="description">
+          Entrez le nombre de votes reçus par les différentes listes et l'algorithme retournera une fusion proportionnelle et équitable des listes.
+        </p>
+
+        <!-- Mode de fusion -->
+        <div class="mode-selector" id="mode-selector">
+          <label class="mode-option active" id="mode-prop-label">
+            <input type="radio" name="fusion-mode" value="proportional" checked class="mode-radio" />
+            <span class="mode-checkmark"></span>
+            <div class="mode-text">
+              <span class="mode-title">Fusion parfaitement proportionnelle</span>
+              <span class="mode-desc">Au risque de devoir changer l'ordre des candidats des listes originales</span>
+            </div>
+          </label>
+          <label class="mode-option" id="mode-parity-label">
+            <input type="radio" name="fusion-mode" value="parity" class="mode-radio" />
+            <span class="mode-checkmark"></span>
+            <div class="mode-text">
+              <span class="mode-title">Conserver l'ordre des candidats</span>
+              <span class="mode-desc">Au risque de perdre légèrement en proportionnalité</span>
+            </div>
+          </label>
+        </div>
+
+        <p class="parity-hint hidden" id="parity-hint">Indiquez le genre des têtes de liste à l'aide des boutons H et F.</p>
+
+        <!-- Boutons ville -->
+        <div class="city-action-row">
+        <button class="city-search-btn" id="city-search-btn">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          Chercher une ville
+        </button>
+          <button class="reset-btn hidden" id="reset-btn" title="Réinitialiser le formulaire">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 1 0 .49-4.5"/></svg>
+            Réinitialiser
+          </button>
+        </div>
+
+        <!-- Sélecteur tête de liste forcée -->
+        <div class="forced-head-row" id="forced-head-row">
+          <span class="forced-head-label">Tête de liste&nbsp;:</span>
+          <div class="forced-head-btns" id="forced-head-btns">
+            <!-- Bouton D (défaut) + boutons listes générés par JS -->
+          </div>
+        </div>
+
+        <!-- Zone d'erreur -->
+        <div class="error-box" id="error-box" aria-live="polite"></div>
+
+        <div class="lists-wrapper" id="lists-wrapper"></div>
+
+        <button class="add-btn" id="add-btn" aria-label="Ajouter une liste">
+          <span class="add-btn-icon">+</span>
+        </button>
+
+        <div class="method-toggle-row">
+          <span class="method-toggle-label">Méthode :</span>
+          <div class="method-toggle" id="method-toggle">
+            <button class="method-btn" data-method="classic">Écart minimal</button>
+            <button class="method-btn active" data-method="dhondt">D'Hondt</button>
+          </div>
+        </div>
+
+        <div class="validate-row">
+          <div class="seats-input-group">
+            <label class="seats-label" for="seats-input">Taille de la liste</label>
+            <input type="number" id="seats-input" class="seats-input" value="50" min="5" max="200" />
+          </div>
+          <button class="validate-btn" id="validate-btn">Valider</button>
+        </div>
+
+      </section>
+
+    </main>
+
+    <!-- COLONNE DROITE : résultats -->
+    <aside class="right-panel" id="right-panel">
+
+      <div class="results-placeholder" id="results-placeholder">
+        <span class="results-placeholder-icon">🗳</span>
+        <p>Le classement apparaîtra ici après validation.</p>
+      </div>
+      <div class="results-content" id="results-content"></div>
+
+      <!-- Footer info -->
+      <footer class="info-footer">
+        <div class="info-footer-links">
+          <a href="https://example.com/article-fusions" target="_blank" class="info-link">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+            Plus d'infos sur les fusions de liste
+          </a>
+          <button class="info-link" id="info-project-btn">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+            Plus d'infos sur le projet
+          </button>
+        </div>
+
+        <div class="info-footer-support">
+          <span class="info-support-label">Ce projet est soutenu par :</span>
+          <div class="info-logos">
+            <a href="https://www.cnrs.fr" target="_blank"><img src="img/logo-cnrs.png" alt="CNRS" class="info-logo" /></a>
+            <a href="https://advancingdemocracy.eu/" target="_blank"><img src="img/logo-addi.png" alt="ADDI" class="info-logo" /></a>
+            <a href="https://www.maths-vives.fr/" target="_blank"><img src="img/logo-math-vives.png" alt="Math Vives" class="info-logo" /></a>
+            <!-- Ajouter d'autres logos ici -->
+          </div>
+        </div>
+
+        <div class="info-footer-dev info-dev">
+          Site développé par
+          <a href="https://theo.delemazure.fr" target="_blank" class="info-dev-name">Théo Delemazure</a>
+          <div class="info-dev-links">
+            <a href="https://github.com/TheoDlmz" target="_blank" title="GitHub" class="info-icon-link">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12z"/></svg>
+            </a>
+            <a href="https://twitter.com/DelemazureTheo" target="_blank" title="Twitter / X" class="info-icon-link">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.748l7.73-8.835L1.254 2.25H8.08l4.253 5.622 5.911-5.622zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+          </div>
+        </div>
+      </footer>
+    </aside>
+
+  </div>
+
+  <!-- Modal info projet -->
+  <div class="info-overlay" id="info-overlay"></div>
+  <div class="info-modal" id="info-modal">
+    <button class="share-modal-close" id="info-modal-close">&times;</button>
+
+    <section class="info-section">
+      <h2 class="info-modal-title">Qui sommes-nous ?</h2>
+      <p class="info-modal-text">Nous sommes chercheurs en informatique et en économie, spécialisés dans le domaine du choix social — un champ de recherche interdisciplinaire qui étudie comment agréger les préférences individuelles de manière juste et équitable.</p>
+      <ul class="info-team">
+        <li class="info-team-member">
+          <span class="info-team-name"><a href="https://sites.google.com/view/antoineprevotat" target="_blank" class="info-team-link">Antoine Prévotat</a></span>
+          <span class="info-team-affil">Doctorant au GATE Saint-Etienne</span>
+        </li>
+        <li class="info-team-member">
+          <span class="info-team-name"><a href="https://theo.delemazure.fr" target="_blank" class="info-team-link">Théo Delemazure</a></span>
+          <span class="info-team-affil">Chercheur post-doctorant à l'ILLC de l'Université d'Amsterdam</span>
+        </li>
+        <li class="info-team-member">
+          <span class="info-team-name"><a href="https://www.lamsade.dauphine.fr/~lang/" target="_blank" class="info-team-link">Jérôme Lang</a></span>
+          <span class="info-team-affil">Directeur de recherche CNRS au LAMSADE, Université Paris-Dauphine</span>
+        </li>
+      </ul>
+      <p class="info-modal-text">Merci aussi à <a href="https://dominik-peters.de/" target="_blank" class="info-team-link">Dominik Peters</a> pour ses retours et Olivier Rouyer pour son aide.</p>
+      <p class="info-modal-text">Ce projet est notamment rendu possible grâce aux financements de l'ANR « Condorcet » (<a href="https://www.maths-vives.fr/" target="_blank" class="info-team-link">Maths-vives</a>, <a href="https://anr.fr/france-2030/france-2030/" target="_blank" class="info-team-link">France 2030</a>) et de l'ERC Synergy Grant <a href="https://advancingdemocracy.eu/" target="_blank" class="info-team-link">ADDI</a>.</p>
+      
+      </ul>
+    </section>
+
+    <section class="info-section">
+      <h2 class="info-modal-title">Quel est l'algorithme utilisé ?</h2>
+      <p class="info-modal-text">L'algorithme utilisé est inspiré de la méthode de D'Hondt et suit la procédure suivante :</p>
+      <pre class="info-code">Initialiser S_i = 0 pour chaque liste i
+Répéter pour chaque siège k = 1 … N :
+    Calculer X_i = Votes_i / (S_i + 1) pour chaque liste i
+    Attribuer le siège à la liste i* qui maximise X_i
+    Incrémenter S_i*</pre>
+      <p class="info-modal-text info-modal-text--small">La variante qui conserve l'ordre des candidats ne prend en compte, à chaque étape, que les listes pour lesquelles le genre du prochain candidat disponible correspond au genre requis par l'alternance hommes-femmes.</p>
+    </section>
+
+    <section class="info-section">
+      <h2 class="info-modal-title">Des questions ?</h2>
+      <p class="info-modal-text">Vous pouvez nous contacter par e-mail à <a href="mailto:theo.delemazure@dauphine.eu" class="info-contact-link"><span class="__cf_email__" data-cfemail="700418151f5e14151c151d110a050215301411050018191e155e1505">theo.delemazure@dauphine.eu</span></a>, sur Twitter&nbsp;<a href="https://twitter.com/DelemazureTheo" target="_blank" class="info-contact-link">@DelemazureTheo</a> ou sur Bluesky&nbsp;<a href="https://bsky.app/profile/delemazuretheo.bsky.social" target="_blank" class="info-contact-link">@delemazuretheo.bsky.social</a>.</p>
+    </section>
+  </div>
+
+  <!-- Modal recherche ville -->
+  <div class="city-overlay" id="city-overlay"></div>
+  <div class="city-modal" id="city-modal">
+    <button class="share-modal-close" id="city-modal-close">&times;</button>
+    <div class="city-modal-header">
+      <div class="share-modal-icon">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      </div>
+      <div>
+        <h3 class="share-modal-title">Chercher une ville</h3>
+        <p class="share-modal-desc">Choisissez une ville et sélectionnez les listes à fusionner.</p>
+      </div>
+    </div>
+
+    <!-- Étape 1 : recherche ville -->
+    <div id="city-step-1">
+      <div class="city-input-wrapper">
+        <input type="text" id="city-search-input" class="city-input" placeholder="Nom de la ville (min. 3 caractères)…" autocomplete="off" />
+        <div class="city-results" id="city-results"></div>
+      </div>
+    </div>
+
+    <!-- Étape 2 : sélection des listes (caché initialement) -->
+    <div id="city-step-2" class="hidden">
+      <div class="city-selected-city" id="city-selected-city"></div>
+      <p class="city-step2-desc">Cochez les listes à fusionner (2 à 5) :</p>
+      <div class="city-lists-checkboxes" id="city-lists-checkboxes"></div>
+      <div class="city-use-candidates">
+        <label class="city-candidates-label">
+          <input type="checkbox" id="city-use-candidates-chk" class="city-candidates-chk" checked />
+          <span>Utiliser les noms des candidats</span>
+        </label>
+      </div>
+      <div class="city-modal-footer">
+<button class="city-import-btn" id="city-import-btn" disabled>Importer les listes</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal partage -->
+  <div class="share-overlay" id="share-overlay"></div>
+  <div class="share-modal" id="share-modal">
+    <button class="share-modal-close" id="share-modal-close">&times;</button>
+    <div class="share-modal-icon">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/><line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/><line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/></svg>
+    </div>
+    <h3 class="share-modal-title">Partager le classement</h3>
+    <p class="share-modal-desc">Vous pouvez partager le classement que vous avez obtenu grâce au lien suivant. Toutes les modifications que vous ferez ensuite ne seront pas prises en compte — si vous souhaitez les repartager, cliquez à nouveau sur Partager.</p>
+    <div class="share-link-row">
+      <div class="share-link-input" id="share-link-display">Génération du lien…</div>
+      <button class="share-copy-btn" id="share-copy-btn" title="Copier le lien">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+      </button>
+    </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

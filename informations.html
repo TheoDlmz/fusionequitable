@@ -1,0 +1,699 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Municipales : quand les fusions de listes ne sont pas équitables</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400&display=swap" rel="stylesheet" />
+
+  <style>
+    :root {
+      --green-dark:   #1B4332;
+      --green-mid:    #2D6A4F;
+      --green-light:  #52B788;
+      --green-pale:   #B7E4C7;
+      --green-faint:  #D8F3DC;
+      --accent:       #52B788;
+      --text-body:    #1a1a1a;
+      --text-muted:   #666;
+      --text-light:   #999;
+      --border:       #e8e8e8;
+      --bg:           #ffffff;
+      --bg-aside:     #f7faf8;
+      --radius:       8px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: 'DM Sans', sans-serif;
+      background: var(--bg);
+      color: var(--text-body);
+      font-size: 17px;
+      line-height: 1.75;
+    }
+
+    /* ── NAV ── */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(255,255,255,0.92);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 40px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+    }
+
+    .nav-logo {
+      font-family: 'Playfair Display', serif;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--green-dark);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .nav-logo-dot {
+      width: 8px; height: 8px;
+      background: var(--green-light);
+      border-radius: 50%;
+      display: inline-block;
+    }
+
+    .nav-cta {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--green-dark);
+      color: #fff;
+      text-decoration: none;
+      font-size: 0.8rem;
+      font-weight: 500;
+      padding: 8px 16px;
+      border-radius: 20px;
+      transition: background 0.2s;
+    }
+    .nav-cta:hover { background: var(--green-mid); }
+
+    /* ── HERO ── */
+    .hero {
+      background: var(--green-dark);
+      color: #fff;
+      padding: 80px 40px 72px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 60% 80% at 90% 50%, rgba(82,183,136,0.12) 0%, transparent 70%),
+        radial-gradient(ellipse 40% 60% at 10% 80%, rgba(82,183,136,0.08) 0%, transparent 60%);
+      pointer-events: none;
+    }
+
+    .hero-inner {
+      max-width: 820px;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    .hero-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      background: rgba(82,183,136,0.18);
+      color: var(--green-pale);
+      font-size: 0.72rem;
+      font-weight: 500;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 5px 12px;
+      border-radius: 20px;
+      margin-bottom: 24px;
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(2rem, 4vw, 2.9rem);
+      font-weight: 900;
+      line-height: 1.2;
+      color: #fff;
+      margin-bottom: 24px;
+      max-width: 720px;
+    }
+
+    .hero-meta {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    .hero-authors {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.65);
+    }
+
+    .hero-authors strong {
+      color: var(--green-pale);
+      font-weight: 500;
+    }
+
+    .hero-divider {
+      width: 1px; height: 16px;
+      background: rgba(255,255,255,0.2);
+    }
+
+    /* ── LAYOUT ── */
+    .page-layout {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 0 40px;
+      display: grid;
+      grid-template-columns: 200px 1fr;
+      gap: 0 60px;
+      align-items: start;
+    }
+
+    /* ── TOC ── */
+    .toc {
+      position: sticky;
+      top: 72px;
+      padding: 40px 0;
+      font-size: 0.78rem;
+    }
+
+    .toc-title {
+      font-size: 0.68rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-light);
+      margin-bottom: 14px;
+    }
+
+    .toc-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .toc-list a {
+      display: block;
+      padding: 5px 10px 5px 12px;
+      color: var(--text-muted);
+      text-decoration: none;
+      border-left: 2px solid var(--border);
+      line-height: 1.4;
+      transition: color 0.15s, border-color 0.15s;
+    }
+
+    .toc-list a:hover,
+    .toc-list a.active {
+      color: var(--green-mid);
+      border-color: var(--green-light);
+    }
+
+    /* ── ARTICLE ── */
+    article {
+      padding: 48px 0 80px;
+      max-width: 680px;
+    }
+
+    .article-section {
+      margin-bottom: 56px;
+    }
+
+    h2.section-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.55rem;
+      font-weight: 700;
+      color: var(--green-dark);
+      margin-bottom: 20px;
+      padding-top: 8px;
+      border-top: 2px solid var(--green-faint);
+      padding-top: 20px;
+    }
+
+    .section-number {
+      font-family: 'DM Mono', monospace;
+      font-size: 0.7rem;
+      color: var(--green-light);
+      letter-spacing: 0.05em;
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    p {
+      margin-bottom: 16px;
+      color: #2a2a2a;
+    }
+
+    p:last-child { margin-bottom: 0; }
+
+    em { font-style: italic; }
+
+    strong { font-weight: 500; color: #111; }
+
+    a {
+      color: var(--green-mid);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+      transition: color 0.15s;
+    }
+    a:hover { color: var(--green-dark); }
+
+    /* ── FIGURES ── */
+    .figure-block {
+      margin: 32px 0;
+      background: var(--bg-aside);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+
+    .figure-img {
+      width: 100%;
+      display: block;
+      padding: 20px 24px 0;
+    }
+
+    .figure-img img {
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 4px;
+    }
+
+    .figure-caption {
+      padding: 12px 20px 16px;
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      line-height: 1.5;
+      border-top: 1px solid var(--border);
+      margin-top: 16px;
+    }
+
+    .figure-caption strong {
+      color: var(--text-body);
+      font-weight: 500;
+    }
+
+    /* Figure placeholder (quand image manquante) */
+    .figure-placeholder {
+      width: 100%;
+      aspect-ratio: 16/7;
+      background: linear-gradient(135deg, var(--green-faint) 0%, #e8f5e9 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      gap: 8px;
+      color: var(--green-mid);
+      font-size: 0.8rem;
+    }
+
+    .figure-placeholder svg { opacity: 0.4; }
+
+    /* ── HIGHLIGHT BOX ── */
+    .highlight-box {
+      background: var(--green-faint);
+      border-left: 3px solid var(--green-light);
+      border-radius: 0 var(--radius) var(--radius) 0;
+      padding: 16px 20px;
+      margin: 24px 0;
+      font-size: 0.9rem;
+      color: var(--green-dark);
+    }
+
+    /* ── STAT CALLOUTS ── */
+    .stats-row {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 16px;
+      margin: 28px 0;
+    }
+
+    .stat-card {
+      background: var(--green-dark);
+      color: #fff;
+      border-radius: var(--radius);
+      padding: 20px 16px;
+      text-align: center;
+    }
+
+    .stat-number {
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem;
+      font-weight: 900;
+      color: var(--green-pale);
+      line-height: 1;
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    .stat-label {
+      font-size: 0.73rem;
+      color: rgba(255,255,255,0.65);
+      line-height: 1.4;
+    }
+
+    /* ── CTA FOOTER ── */
+    .article-cta {
+      background: var(--green-dark);
+      color: #fff;
+      border-radius: 12px;
+      padding: 32px 36px;
+      margin-top: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+
+    .article-cta-text {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #fff;
+      max-width: 400px;
+      line-height: 1.4;
+    }
+
+    .article-cta-sub {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.82rem;
+      color: rgba(255,255,255,0.6);
+      font-weight: 400;
+      display: block;
+      margin-top: 4px;
+    }
+
+    .article-cta-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--green-light);
+      color: var(--green-dark);
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 500;
+      padding: 12px 24px;
+      border-radius: 24px;
+      text-decoration: none;
+      white-space: nowrap;
+      transition: background 0.2s, transform 0.15s;
+    }
+    .article-cta-btn:hover {
+      background: var(--green-pale);
+      transform: translateY(-1px);
+      color: var(--green-dark);
+    }
+
+    /* ── REFS ── */
+    .references {
+      margin-top: 48px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      line-height: 1.6;
+    }
+
+    .references h3 {
+      font-family: 'DM Sans', sans-serif;
+      font-size: 0.68rem;
+      font-weight: 500;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--text-light);
+      margin-bottom: 10px;
+    }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 768px) {
+      nav { padding: 0 20px; }
+      .hero { padding: 52px 20px 48px; }
+      .page-layout {
+        grid-template-columns: 1fr;
+        padding: 0 20px;
+      }
+      .toc { display: none; }
+      article { padding: 32px 0 60px; }
+      .stats-row { grid-template-columns: 1fr; }
+      .article-cta { flex-direction: column; align-items: flex-start; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <a href="index.html" class="nav-logo">
+      <span class="nav-logo-dot"></span>
+      Fusion équitable
+    </a>
+    <a href="index.html" class="nav-cta">
+      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"/></svg>
+      Retour à l'outil
+    </a>
+  </nav>
+
+  <!-- HERO -->
+  <div class="hero">
+    <div class="hero-inner">
+      <div class="hero-tag">
+        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="12"/></svg>
+        Article de recherche
+      </div>
+      <h1 class="hero-title">Municipales : quand les fusions de listes ne sont pas équitables</h1>
+      <div class="hero-meta">
+        <span class="hero-authors">
+          <strong>Théo Delemazure</strong>, <strong>Jérôme Lang</strong>, <strong>Antoine Prévotat</strong>
+        </span>
+        <div class="hero-divider"></div>
+        <span class="hero-authors">Élections municipales 2020</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- BODY -->
+  <div class="page-layout">
+
+    <!-- TOC -->
+    <aside class="toc" aria-label="Table des matières">
+      <div class="toc-title">Sommaire</div>
+      <ul class="toc-list">
+        <li><a href="#s1">Les fusions aux municipales</a></li>
+        <li><a href="#s2">Une fusion proportionnelle</a></li>
+        <li><a href="#s3">Des fusions peu proportionnelles</a></li>
+        <li><a href="#s4">Impact sur le report de voix</a></li>
+        <li><a href="#s5">Comment obtenir une fusion proportionnelle&nbsp;?</a></li>
+      </ul>
+    </aside>
+
+    <!-- ARTICLE -->
+    <article>
+
+      <!-- S1 -->
+      <section class="article-section" id="s1">
+        <h2 class="section-title">
+          <span class="section-number">§ 01</span>
+          Les fusions aux municipales
+        </h2>
+
+        <p>Le premier tour des élections municipales vient de se dérouler, marqué par de nombreux commentaires sur les alliances de partis, à gauche comme à droite. Pourtant, un enjeu majeur reste encore peu discuté&nbsp;: celui des fusions de listes. Entre les deux tours, les listes ont la possibilité de s'unir pour se présenter sous une bannière unique, avec un objectif clair : arriver en tête et remporter la majorité. Pour les listes ayant obtenu entre 5&nbsp;% et 10&nbsp;% des voix, la fusion est même l'unique moyen de se maintenir.</p>
+
+        <div class="stats-row">
+          <div class="stat-card">
+            <span class="stat-number">548</span>
+            <span class="stat-label">fusions en 2020</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number">83&nbsp;%</span>
+            <span class="stat-label">entre deux listes</span>
+          </div>
+          <div class="stat-card">
+            <span class="stat-number">12&nbsp;%</span>
+            <span class="stat-label">parfaitement équitables</span>
+          </div>
+        </div>
+
+        <p>En 2020 par exemple, on a dénombré 548 fusions. Si la majorité de ces fusions se sont faites entre deux listes (83&nbsp;%), des alliances à trois (16&nbsp;%), voire quatre listes (1&nbsp;%) existent aussi. Ces fusions se font sur l'ensemble de l'échiquier politique, comme l'illustre la figure suivante.</p>
+
+        <div class="figure-block">
+          <div class="figure-img">
+            <img src="Graphs/liste_fusions.png" alt="Décompte des partenaires de fusion pour les principaux mouvements politiques" onerror="this.parentElement.innerHTML='<div class=\'figure-placeholder\'><svg width=\'32\' height=\'32\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.5\'><rect x=\'3\' y=\'3\' width=\'18\' height=\'18\' rx=\'2\'/><path d=\'M3 9h18M9 21V9\'/></svg><span>liste_fusions.png</span></div>'" />
+          </div>
+          <div class="figure-caption">
+            <strong>Figure 1.</strong> Décompte des partenaires de fusion pour les principaux mouvements politiques.
+          </div>
+        </div>
+
+        <p>Lorsque plusieurs listes fusionnent, elles doivent décider en très peu de temps de l'ordre des candidats sur la nouvelle liste. Ce choix est fondamental : les candidats seront élus dans cet ordre précis, en fonction du nombre de sièges obtenus par la liste finale.</p>
+
+        <p>Dès lors, une question se pose&nbsp;: comment cet ordre est-il fixé&nbsp;? <em>A priori</em>, il résulte de négociations entre les différentes listes. Celles-ci peuvent aboutir aussi bien à une distribution équitable des sièges qu'à un partage inéquitable basé sur les rapports de force.</p>
+
+        <div class="highlight-box">
+          En pratique, la plupart des fusions ne se font pas de manière équitable&nbsp;: l'avantage va généralement à la liste ayant reçu le plus haut score au premier tour. Ce déséquilibre vient possiblement d'un manque d'outils pour mesurer l'équité d'une liste.
+        </div>
+      </section>
+
+      <!-- S2 -->
+      <section class="article-section" id="s2">
+        <h2 class="section-title">
+          <span class="section-number">§ 02</span>
+          Une fusion proportionnelle
+        </h2>
+
+        <p>Avant tout, il convient de définir ce qu'est une distribution équitable des positions sur une liste fusionnée. Dans cet article, nous partons du principe qu'une distribution équitable s'appuie sur les scores du premier tour.</p>
+
+        <p>Imaginons deux listes, la liste A et la liste B, qui s'unissent pour former la liste AB. Au premier tour, la liste A a obtenu 15&nbsp;% des voix et la liste B 30&nbsp;%. Mathématiquement, la liste B pèse deux fois plus que la liste A. On s'attend donc logiquement à ce qu'elle obtienne deux fois plus de sièges dans la liste fusionnée.</p>
+
+        <p>Pour qu'une fusion soit réellement équitable, la règle du «&nbsp;deux pour un&nbsp;» (dans notre exemple) doit se vérifier quel que soit le nombre de sièges obtenus par la liste au second tour. Formellement, cela signifie que pour chaque rang <em>k</em> de la liste, si l'on regarde uniquement les <em>k</em> premiers candidats, alors le nombre de candidats issus de chaque liste d'origine doit rester proportionnel à son score initial, à un arrondi près.</p>
+
+        <p>Prenons un exemple concret. Lors des municipales de 2020 à Nancy, deux listes de gauche ont fusionné&nbsp;: <em>«&nbsp;Nancy en grand&nbsp;»</em> (soutenue par le PS) et <em>«&nbsp;Nancy écologie citoyenne&nbsp;»</em> (soutenue par EELV). La première a obtenu 37,9&nbsp;% des voix au premier tour, et la seconde 10,2&nbsp;%.</p>
+
+        <div class="figure-block">
+          <div class="figure-img">
+            <img src="Graphs/Nancy_base_sans_etiquette.png" alt="Fusion équitable à Nancy — répartition idéale" onerror="this.parentElement.innerHTML='<div class=\'figure-placeholder\'><svg width=\'32\' height=\'32\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.5\'><rect x=\'3\' y=\'3\' width=\'18\' height=\'18\' rx=\'2\'/><path d=\'M3 9h18M9 21V9\'/></svg><span>Nancy_base_sans_etiquette.png</span></div>'" />
+          </div>
+          <div class="figure-caption">
+            <strong>Figure 2.</strong> Nombre de candidats de chaque liste parmi les <em>k</em> premiers candidats de la liste fusionnée pour une fusion <em>équitable</em>, à Nancy.
+          </div>
+        </div>
+
+        <div class="figure-block">
+          <div class="figure-img">
+            <img src="Graphs/Nancy_sans_etiquette.png" alt="Fusion réelle à Nancy" onerror="this.parentElement.innerHTML='<div class=\'figure-placeholder\'><svg width=\'32\' height=\'32\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.5\'><rect x=\'3\' y=\'3\' width=\'18\' height=\'18\' rx=\'2\'/><path d=\'M3 9h18M9 21V9\'/></svg><span>Nancy_sans_etiquette.png</span></div>'" />
+          </div>
+          <div class="figure-caption">
+            <strong>Figure 3.</strong> Nombre de candidats de chaque liste parmi les <em>k</em> premiers candidats de la liste fusionnée, à Nancy. La barre colorée en bas indique la liste d'origine du candidat au rang <em>k</em>.
+          </div>
+        </div>
+
+        <p>Le constat est sans appel&nbsp;: les courbes restent scrupuleusement dans l'espace équitable. À Nancy, l'indice de disproportionnalité est de 0&nbsp;: la fusion était mathématiquement proportionnelle. Des chercheurs ont d'ailleurs récemment proposé un <a href="https://decol.hypotheses.org/9">indice de disproportionnalité</a> pour mesurer mathématiquement ces écarts. Pourtant, comme nous allons le voir, ce cas de figure relève davantage de l'exception que de la règle.</p>
+      </section>
+
+      <!-- S3 -->
+      <section class="article-section" id="s3">
+        <h2 class="section-title">
+          <span class="section-number">§ 03</span>
+          Des fusions peu proportionnelles
+        </h2>
+
+        <p>Si le cas de Nancy est exemplaire, il fait figure d'exception. Dans la grande majorité des cas, la fusion profite à l'un des partenaires, le plus souvent celui qui est arrivé en tête au premier tour. Prenons l'exemple de la fusion des trois listes de gauche à Toulouse en 2020.</p>
+
+        <div class="figure-block">
+          <div class="figure-img">
+            <img src="Graphs/Toulouse_sans_etiquette.png" alt="Fusion à Toulouse" onerror="this.parentElement.innerHTML='<div class=\'figure-placeholder\'><svg width=\'32\' height=\'32\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.5\'><rect x=\'3\' y=\'3\' width=\'18\' height=\'18\' rx=\'2\'/><path d=\'M3 9h18M9 21V9\'/></svg><span>Toulouse_sans_etiquette.png</span></div>'" />
+          </div>
+          <div class="figure-caption">
+            <strong>Figure 4.</strong> Nombre de candidats de chaque liste parmi les <em>k</em> premiers candidats de la liste fusionnée, à Toulouse.
+          </div>
+        </div>
+
+        <p>On constate que la courbe pour la liste «&nbsp;Archipel Citoyen&nbsp;» (soutenue par EELV) se situe bien au-dessus de la fourchette équitable&nbsp;: elle reçoit plus que sa part proportionnelle. À l'inverse, la courbe de la liste «&nbsp;Une nouvelle énergie pour Toulouse&nbsp;» (soutenue notamment par le PS) est largement en dessous. Ici, l'indice de disproportionnalité vaut environ 4.</p>
+
+        <p>Plus rarement, on observe que la liste avec le meilleur score au premier tour est désavantagée par la fusion. Ce fut le cas à Saint-Paul (La Réunion) pour la fusion de trois listes de droite.</p>
+
+        <div class="figure-block">
+          <div class="figure-img">
+            <img src="Graphs/Saint_Paul_sans_etiquette.png" alt="Fusion à Saint-Paul" onerror="this.parentElement.innerHTML='<div class=\'figure-placeholder\'><svg width=\'32\' height=\'32\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.5\'><rect x=\'3\' y=\'3\' width=\'18\' height=\'18\' rx=\'2\'/><path d=\'M3 9h18M9 21V9\'/></svg><span>Saint_Paul_sans_etiquette.png</span></div>'" />
+          </div>
+          <div class="figure-caption">
+            <strong>Figure 5.</strong> Nombre de candidats de chaque liste parmi les <em>k</em> premiers candidats de la liste fusionnée, à Saint-Paul.
+          </div>
+        </div>
+
+        <p>D'une manière générale, sur les 548 fusions ayant eu lieu en 2020, 12&nbsp;% étaient parfaitement équitables, et 31&nbsp;% étaient fortement déséquilibrées (écart supérieur à 10&nbsp;% selon l'indice de disproportionnalité). En général, le déséquilibre est en faveur de la liste ayant eu le plus de voix au premier tour (81&nbsp;% des cas).</p>
+
+        <div class="figure-block">
+          <div class="figure-img">
+            <img src="Graphs/bilan_fusions_flip.png" alt="Bilan des fusions" onerror="this.parentElement.innerHTML='<div class=\'figure-placeholder\'><svg width=\'32\' height=\'32\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.5\'><rect x=\'3\' y=\'3\' width=\'18\' height=\'18\' rx=\'2\'/><path d=\'M3 9h18M9 21V9\'/></svg><span>bilan_fusions_flip.png</span></div>'" />
+          </div>
+          <div class="figure-caption">
+            <strong>Figure 6.</strong> Déséquilibre en faveur de la plus grande liste dans les fusions.
+          </div>
+        </div>
+
+        <p>Cependant, tous les déséquilibres ne se valent pas. Il est donc important d'étudier également l'équité de la répartition effective des sièges <em>après</em> les résultats du second tour. Les résultats sont assez différents&nbsp;: près de 70&nbsp;% des fusions sont effectivement équitables une fois les sièges attribués. Toutefois, il reste 22&nbsp;% de fusions très déséquilibrées.</p>
+      </section>
+
+      <!-- S4 -->
+      <section class="article-section" id="s4">
+        <h2 class="section-title">
+          <span class="section-number">§ 04</span>
+          Impact sur le report de voix
+        </h2>
+
+        <p>L'équité n'est pas la seule raison qui pourrait pousser les listes à privilégier une fusion proportionnelle. Il existe en effet des raisons de penser qu'une fusion déséquilibrée puisse créer des tensions mal perçues par l'électorat, causant <em>in fine</em> un mauvais report de voix.</p>
+
+        <p>À Nancy, où la fusion a été faite de manière parfaitement proportionnelle, les listes sont passées de 8&nbsp;803 voix au premier tour à 11&nbsp;435 au second tour — une augmentation de près de 30&nbsp;%, permettant à la liste de remporter l'élection avec un meilleur score que prévu par les sondages.</p>
+
+        <p>À Toulouse en revanche, la fusion s'est faite sur fond de désaccord. Les listes sont passées de 45&nbsp;688 voix à 51&nbsp;564, soit une augmentation de seulement 13&nbsp;%. La liste a finalement perdu avec 48&nbsp;% des voix. De même, à Saint-Paul, les trois listes sont passées de 14&nbsp;698 voix à seulement 16&nbsp;138 (moins de 10&nbsp;% d'augmentation) et ont subi une large défaite.</p>
+
+        <div class="highlight-box">
+          Ces trois exemples soulignent un lien possible entre une fusion non proportionnelle — souvent synonyme de négociations conflictuelles — et une démobilisation des électeurs potentiels.
+        </div>
+      </section>
+
+      <!-- S5 -->
+      <section class="article-section" id="s5">
+        <h2 class="section-title">
+          <span class="section-number">§ 05</span>
+          Comment obtenir une fusion proportionnelle&nbsp;?
+        </h2>
+
+        <p>Les raisons de la prévalence des fusions disproportionnelles sont multiples. Mais il est probable qu'il manquait, tout simplement, un outil fiable pour construire une liste équitable.</p>
+
+        <p>Pour répondre à ce besoin, nous avons créé un outil basé sur <a href="https://fr.wikipedia.org/wiki/Scrutin_proportionnel_plurinominal#M%C3%A9thode_de_Jefferson_ou_m%C3%A9thode_D'Hondt">la méthode de D'Hondt</a>, un système utilisé dans de nombreux pays pour l'attribution des sièges à la proportionnelle. D'un point de vue mathématique, cette méthode possède deux propriétés majeures&nbsp;:</p>
+
+        <p>1.&nbsp; Elle peut être adaptée pour construire une liste ordonnée (contrairement à la méthode des plus forts restes par exemple).<br>
+        2.&nbsp; Elle garantit à chaque partenaire d'obtenir au moins l'arrondi inférieur de sa part «&nbsp;idéale&nbsp;», quel que soit le nombre final de sièges obtenus par la liste fusionnée.</p>
+
+        <p>L'application de cette méthode aux municipales se heurte toutefois à une contrainte légale&nbsp;: l'alternance obligatoire entre hommes et femmes dans les listes. Il n'est pas toujours possible de respecter à la fois une proportionnalité parfaite, la parité, et l'ordre original des candidats.</p>
+
+        <p>Prenons un cas extrême&nbsp;: deux listes ayant obtenu le même score fusionnent. Une alternance parfaite donnerait la 1ère place à la liste A, la 2e à la liste B, la 3e à la liste A, et ainsi de suite. Si la tête de liste est un homme, toutes les places impaires devront être occupées par des hommes et toutes les places paires par des femmes — aucune femme de la liste A ni aucun homme de la liste B ne pourrait figurer sur la nouvelle liste.</p>
+
+        <p>Pour remédier à ce problème, notre outil propose une variante de la méthode de D'Hondt qui force le respect de l'ordre des candidats originaux, quitte à perdre très légèrement en proportionnalité. En 2020, moins de 1&nbsp;% des fusions ont réussi à conserver l'ordre initial de tous les candidats impliqués.</p>
+
+        <!-- CTA -->
+        <div class="article-cta">
+          <div>
+            <div class="article-cta-text">
+              Essayez l'outil de fusion équitable
+              <span class="article-cta-sub">Gratuit, basé sur la méthode de D'Hondt, avec contrainte de parité.</span>
+            </div>
+          </div>
+          <a href="index.html" class="article-cta-btn">
+            Accéder à l'outil
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+          </a>
+        </div>
+
+        <div class="references">
+          <h3>Références</h3>
+          <p>[1] Delemazure, T., Lang, J., Prévotat, A. — <a href="https://decol.hypotheses.org/9">Indice de disproportionnalité pour les fusions de listes aux élections régionales de 2021</a></p>
+          <p>Contact&nbsp;: <a href="mailto:theo.delemazure@dauphine.eu">theo.delemazure@dauphine.eu</a></p>
+        </div>
+      </section>
+
+    </article>
+  </div>
+
+  <script>
+    // TOC active link on scroll
+    const sections = document.querySelectorAll('.article-section');
+    const links    = document.querySelectorAll('.toc-list a');
+
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          links.forEach(l => l.classList.remove('active'));
+          const active = document.querySelector(`.toc-list a[href="#${entry.target.id}"]`);
+          if (active) active.classList.add('active');
+        }
+      });
+    }, { rootMargin: '-20% 0px -70% 0px' });
+
+    sections.forEach(s => observer.observe(s));
+  </script>
+</body>
+</html>
