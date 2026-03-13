@@ -1,0 +1,78 @@
+code_departement,ville,libelle_liste,rang,genre,nom_prenom
+975,Miquelon-Langlade,L'action continue,1,M,DETCHEVERRY Franck
+975,Miquelon-Langlade,L'action continue,2,F,HAYES Nancy
+975,Miquelon-Langlade,L'action continue,3,M,VIGNEAUX Denis
+975,Miquelon-Langlade,L'action continue,4,F,LEGASSE Maïté
+975,Miquelon-Langlade,L'action continue,5,M,MOREL Gildas
+975,Miquelon-Langlade,L'action continue,6,F,DE LIZARRAGA Magali
+975,Miquelon-Langlade,L'action continue,7,M,BELLIL Samir
+975,Miquelon-Langlade,L'action continue,8,F,OLAÏSOLA ORSINY Flore
+975,Miquelon-Langlade,L'action continue,9,M,DETCHEVERRY Thibault
+975,Miquelon-Langlade,L'action continue,10,F,ORSINY Ketty
+975,Miquelon-Langlade,L'action continue,11,M,GAUTIER Jimmy
+975,Miquelon-Langlade,L'action continue,12,F,BRAQUART Justine-Florence
+975,Miquelon-Langlade,L'action continue,13,M,GASPARD Loïc
+975,Miquelon-Langlade,L'action continue,14,F,YON Vicky
+975,Miquelon-Langlade,L'action continue,15,M,APESTEGUY Garry
+975,Saint-Pierre,Cap sur l'avenir,1,M,CAMBRAY Yannick
+975,Saint-Pierre,Cap sur l'avenir,2,F,URTIZBEREA Tatiana
+975,Saint-Pierre,Cap sur l'avenir,3,M,LETOURNEL Thierry
+975,Saint-Pierre,Cap sur l'avenir,4,F,DODEMAN Catherine
+975,Saint-Pierre,Cap sur l'avenir,5,M,RUEL Jean-Marc
+975,Saint-Pierre,Cap sur l'avenir,6,F,POIRIER ARROSSAMENA Nathalie
+975,Saint-Pierre,Cap sur l'avenir,7,M,GIRARDIN Bryan
+975,Saint-Pierre,Cap sur l'avenir,8,F,CORMIER Clémence
+975,Saint-Pierre,Cap sur l'avenir,9,M,BRIAND Maëlick
+975,Saint-Pierre,Cap sur l'avenir,10,F,HARNETT Justine
+975,Saint-Pierre,Cap sur l'avenir,11,M,ARTHUR Renaud
+975,Saint-Pierre,Cap sur l'avenir,12,F,HAYES Sarah
+975,Saint-Pierre,Cap sur l'avenir,13,M,MOUSSA Foussi
+975,Saint-Pierre,Cap sur l'avenir,14,F,HEUDES DISNARD Léa
+975,Saint-Pierre,Cap sur l'avenir,15,M,BRILLANT Lucas
+975,Saint-Pierre,Cap sur l'avenir,16,F,KERHOAS ANGER Catherine
+975,Saint-Pierre,Cap sur l'avenir,17,M,DEMONTREUX Carl
+975,Saint-Pierre,Cap sur l'avenir,18,F,DISNARD Ghislaine
+975,Saint-Pierre,Cap sur l'avenir,19,M,BECK Mathieu
+975,Saint-Pierre,Cap sur l'avenir,20,F,HEUDES Maeva
+975,Saint-Pierre,Cap sur l'avenir,21,M,AROZAMENA Bastien
+975,Saint-Pierre,Cap sur l'avenir,22,F,MADE Berthine
+975,Saint-Pierre,Cap sur l'avenir,23,M,FOUCHARD Loïc
+975,Saint-Pierre,Cap sur l'avenir,24,F,FITZPATRICK Patricia
+975,Saint-Pierre,Cap sur l'avenir,25,M,HEBDITCH Simon
+975,Saint-Pierre,Cap sur l'avenir,26,F,GIRARDIN Sophia
+975,Saint-Pierre,Cap sur l'avenir,27,M,REVERT Paul
+975,Saint-Pierre,Cap sur l'avenir,28,F,DRILLET Claudie
+975,Saint-Pierre,Cap sur l'avenir,29,M,POIRIER Yoann
+975,Saint-Pierre,Cap sur l'avenir,30,F,COUËPEL Marie-France
+975,Saint-Pierre,Cap sur l'avenir,31,M,LAFITTE Yannick
+975,Saint-Pierre,Ensemble pour Construire,1,M,DETCHEVERRY Martin
+975,Saint-Pierre,Ensemble pour Construire,2,F,BRIAND Joanne
+975,Saint-Pierre,Ensemble pour Construire,3,M,HUET Hervé
+975,Saint-Pierre,Ensemble pour Construire,4,F,DESDOUETS Lydia
+975,Saint-Pierre,Ensemble pour Construire,5,M,REVERT Stéphane
+975,Saint-Pierre,Ensemble pour Construire,6,F,GUILLAUME ÉPOUSE LAURENT Gwendoline
+975,Saint-Pierre,Ensemble pour Construire,7,M,CORBLIN Benoit
+975,Saint-Pierre,Ensemble pour Construire,8,F,MICHEL Julie-Ann
+975,Saint-Pierre,Ensemble pour Construire,9,M,MIADONNET Martin
+975,Saint-Pierre,Ensemble pour Construire,10,F,LEBAILLY Karline
+975,Saint-Pierre,Ensemble pour Construire,11,M,PEREZ Y FOLGADA Yvann
+975,Saint-Pierre,Ensemble pour Construire,12,F,JACKMAN Lydie
+975,Saint-Pierre,Ensemble pour Construire,13,M,NINGRE Arthur
+975,Saint-Pierre,Ensemble pour Construire,14,F,SCHMITT Fanny
+975,Saint-Pierre,Ensemble pour Construire,15,M,MICHEL Pascal
+975,Saint-Pierre,Ensemble pour Construire,16,F,ROVERCH Sandrine
+975,Saint-Pierre,Ensemble pour Construire,17,M,ARROSSAMENA David
+975,Saint-Pierre,Ensemble pour Construire,18,F,CADOR ÉPOUSE MASSY Anouk
+975,Saint-Pierre,Ensemble pour Construire,19,M,LE CARDUNER Michel
+975,Saint-Pierre,Ensemble pour Construire,20,F,SANDEMAN Wendy
+975,Saint-Pierre,Ensemble pour Construire,21,M,RIU Miguel
+975,Saint-Pierre,Ensemble pour Construire,22,F,BOUGET Lydia Marie
+975,Saint-Pierre,Ensemble pour Construire,23,M,BRIAND Cédric
+975,Saint-Pierre,Ensemble pour Construire,24,F,OLLIERO Virginie
+975,Saint-Pierre,Ensemble pour Construire,25,M,DISNARD Joël
+975,Saint-Pierre,Ensemble pour Construire,26,F,GIRARDIN Elodie
+975,Saint-Pierre,Ensemble pour Construire,27,M,DURAND Sébastien
+975,Saint-Pierre,Ensemble pour Construire,28,F,PERRIN Bianca
+975,Saint-Pierre,Ensemble pour Construire,29,M,CAMBRAY Florian
+975,Saint-Pierre,Ensemble pour Construire,30,F,LECHEVALLIER-GARZONI Loïca
+975,Saint-Pierre,Ensemble pour Construire,31,M,JACKMAN Marc

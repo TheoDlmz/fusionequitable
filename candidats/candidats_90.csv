@@ -1,0 +1,2387 @@
+code_departement,ville,libelle_liste,rang,genre,nom_prenom
+90,Andelnans,En action pour Andelnans,1,M,MAUFFREY Bernard
+90,Andelnans,En action pour Andelnans,2,F,AUBERT Pascale
+90,Andelnans,En action pour Andelnans,3,M,COILLOT Yves
+90,Andelnans,En action pour Andelnans,4,F,LAYAFI Myriam
+90,Andelnans,En action pour Andelnans,5,M,GUY Patrick
+90,Andelnans,En action pour Andelnans,6,F,WASBAUER Carole
+90,Andelnans,En action pour Andelnans,7,M,PATTAROZZI Olivier
+90,Andelnans,En action pour Andelnans,8,F,BIGI Marion
+90,Andelnans,En action pour Andelnans,9,M,GOURONNEC Alain
+90,Andelnans,En action pour Andelnans,10,F,WEBER Nathalie
+90,Andelnans,En action pour Andelnans,11,M,BOSCH Laurent
+90,Andelnans,En action pour Andelnans,12,F,BOLLE Ambre
+90,Andelnans,En action pour Andelnans,13,M,PETERSCHMITT David
+90,Andelnans,En action pour Andelnans,14,F,LEQUEULX Aurelie
+90,Andelnans,En action pour Andelnans,15,M,DELANNOY Joffrey
+90,Andelnans,En action pour Andelnans,16,F,GEHANT Valerie
+90,Andelnans,En action pour Andelnans,17,M,COUR Eric
+90,Angeot,L'avenir ensemble,1,M,LOUVET Thierry
+90,Angeot,L'avenir ensemble,2,F,OPPENDINGER Céline
+90,Angeot,L'avenir ensemble,3,M,NAEGEL Stéphane
+90,Angeot,L'avenir ensemble,4,F,TOMACKI Cosette
+90,Angeot,L'avenir ensemble,5,M,CORTINOVIS Gilles
+90,Angeot,L'avenir ensemble,6,F,SANNA Josiane
+90,Angeot,L'avenir ensemble,7,M,BAUWENS Didier
+90,Angeot,L'avenir ensemble,8,F,CORTINOVIS Mélanie
+90,Angeot,L'avenir ensemble,9,M,GEORGE Adrien
+90,Angeot,L'avenir ensemble,10,F,FELBLINGER Annick
+90,Angeot,L'avenir ensemble,11,M,MEUCCI David
+90,Anjoutey,Vivre ensemble à Anjoutey,1,M,BRINGARD Jean-Pierre
+90,Anjoutey,Vivre ensemble à Anjoutey,2,F,POUILLET Nathalie
+90,Anjoutey,Vivre ensemble à Anjoutey,3,M,GARNIER Régis
+90,Anjoutey,Vivre ensemble à Anjoutey,4,F,ANCEL Stéphanie
+90,Anjoutey,Vivre ensemble à Anjoutey,5,M,DOYEN Arnaud
+90,Anjoutey,Vivre ensemble à Anjoutey,6,F,BOURQUARDEZ Sandra
+90,Anjoutey,Vivre ensemble à Anjoutey,7,M,GIROD Cédric
+90,Anjoutey,Vivre ensemble à Anjoutey,8,F,CANTARUTTI Céline
+90,Anjoutey,Vivre ensemble à Anjoutey,9,M,ROY Christian
+90,Anjoutey,Vivre ensemble à Anjoutey,10,F,CLERC Marie-Pierre
+90,Anjoutey,Vivre ensemble à Anjoutey,11,M,CHARRON Mickael
+90,Anjoutey,Vivre ensemble à Anjoutey,12,F,GRISEZ Sandrine
+90,Anjoutey,Vivre ensemble à Anjoutey,13,M,MARLOT Lucas
+90,Anjoutey,Vivre ensemble à Anjoutey,14,F,SCHWEIZER Laura
+90,Anjoutey,Vivre ensemble à Anjoutey,15,M,SCHNOEBELEN Cédric
+90,Anjoutey,Vivre ensemble à Anjoutey,16,F,VERGON Emmanuelle
+90,Anjoutey,Vivre ensemble à Anjoutey,17,M,ECHEMANN Emmanuel
+90,Argiésans,Argiésans notre village,1,M,LAUQUIN Roger
+90,Argiésans,Argiésans notre village,2,F,GUILLEMAIN Jeanne
+90,Argiésans,Argiésans notre village,3,M,ALBRECHT Claude
+90,Argiésans,Argiésans notre village,4,F,ZAMOFING Mireille
+90,Argiésans,Argiésans notre village,5,M,DOUHAIZENET Maxime
+90,Argiésans,Argiésans notre village,6,F,GASSER Claudine
+90,Argiésans,Argiésans notre village,7,M,MARTIN Thierry
+90,Argiésans,Argiésans notre village,8,F,ROVEDA-BEKE Stéphanie
+90,Argiésans,Argiésans notre village,9,M,MILLOT Marc
+90,Argiésans,Argiésans notre village,10,F,BENOIT Marie-Pierre
+90,Argiésans,Argiésans notre village,11,M,PAGEREY Jean-Pierre
+90,Argiésans,Argiésans notre village,12,F,CHAMBRELENT Emilie
+90,Argiésans,Argiésans notre village,13,M,SANDOZ Bernard
+90,Argiésans,Argiésans notre village,14,F,SIBLOT Sylvie
+90,Argiésans,Argiésans notre village,15,M,GROSS Gregory
+90,Autrechêne,Autrechêne autrement 2026,1,F,DORDOR Laurence
+90,Autrechêne,Autrechêne autrement 2026,2,M,ISTE Ghislain
+90,Autrechêne,Autrechêne autrement 2026,3,F,BARROIS Mathilde
+90,Autrechêne,Autrechêne autrement 2026,4,M,CORDIER Benoit
+90,Autrechêne,Autrechêne autrement 2026,5,F,REBILLET Frédérique
+90,Autrechêne,Autrechêne autrement 2026,6,M,BULLIARD Nicolas
+90,Autrechêne,Autrechêne autrement 2026,7,F,PAPON Emilie
+90,Autrechêne,Autrechêne autrement 2026,8,M,DUCLOUX Brice
+90,Autrechêne,Autrechêne autrement 2026,9,F,ROBERTI Séverine
+90,Autrechêne,Autrechêne autrement 2026,10,M,BUMBAR Robert
+90,Autrechêne,Autrechêne autrement 2026,11,F,AQUILANO Johanna
+90,Autrechêne,Ensemble pour Autrechêne,1,M,GRADJAN Gérard
+90,Autrechêne,Ensemble pour Autrechêne,2,F,LOVITON Fanny
+90,Autrechêne,Ensemble pour Autrechêne,3,M,MORO Philippe
+90,Autrechêne,Ensemble pour Autrechêne,4,F,CZAPLEWSKI Estelle
+90,Autrechêne,Ensemble pour Autrechêne,5,M,JUDE Stéphane
+90,Autrechêne,Ensemble pour Autrechêne,6,F,GRADJAN Véronique
+90,Autrechêne,Ensemble pour Autrechêne,7,M,FAIVRE Jean-Marie
+90,Autrechêne,Ensemble pour Autrechêne,8,F,CRETAL Sophie
+90,Autrechêne,Ensemble pour Autrechêne,9,M,CASTELLANI Christian
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,1,M,GROSCLAUDE Jonathan
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,2,F,LACREUSE Odile
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,3,M,LACREUSE Philippe
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,4,F,PELTIER Régine
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,5,M,DINTHEER Alain
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,6,F,MONIN Chantal
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,7,M,PHILIPPE Adrian
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,8,F,BOURQUENEZ Sylvie
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,9,M,OLECH Robert
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,10,F,GUYOT Elodie
+90,Auxelles-Bas,DEMAIN AUXELLES-BAS !,11,M,DARUT Geoffrey
+90,Auxelles-Bas,Pour dynamiser le village,1,F,VOISINET Mauricette
+90,Auxelles-Bas,Pour dynamiser le village,2,M,WIEDERKEHR Julien
+90,Auxelles-Bas,Pour dynamiser le village,3,F,GALOVIC Patricia
+90,Auxelles-Bas,Pour dynamiser le village,4,M,GROSCLAUDE Jean-Noël
+90,Auxelles-Bas,Pour dynamiser le village,5,F,VOZNIAK Malvina
+90,Auxelles-Bas,Pour dynamiser le village,6,M,CHAPUIS Clement
+90,Auxelles-Bas,Pour dynamiser le village,7,F,MARCHAND Ophelie
+90,Auxelles-Bas,Pour dynamiser le village,8,M,VIMONT Christophe
+90,Auxelles-Bas,Pour dynamiser le village,9,F,WITTMANN Lena
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",1,F,BRIE Elisabeth
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",2,M,ZIEGLER Arnaud
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",3,F,DELMER Fanny
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",4,M,PY Adrien
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",5,F,FENIX Salomé
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",6,M,PELTIER Alexandre
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",7,F,GERVAIS Gwenhaëlle
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",8,M,LEMA   MARINO Michael
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",9,F,DEKE Virginie
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",10,M,DEGOUL Samuel
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",11,F,GUYENNET Lorette
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",12,M,JOUQUEZ Antonin
+90,Auxelles-Haut,"Auxelles-Haut, terre de liens",13,F,DELORME Celine
+90,Auxelles-Haut,UN NOUVEL ELAN QUICHELOT,1,M,GOEPFERT Alain
+90,Auxelles-Haut,UN NOUVEL ELAN QUICHELOT,2,F,BLANC Amandine
+90,Auxelles-Haut,UN NOUVEL ELAN QUICHELOT,3,M,ABADIE Antoine
+90,Auxelles-Haut,UN NOUVEL ELAN QUICHELOT,4,F,BESINGE Sandrine
+90,Auxelles-Haut,UN NOUVEL ELAN QUICHELOT,5,M,PY Jean-Charles
+90,Auxelles-Haut,UN NOUVEL ELAN QUICHELOT,6,F,PICHON Angélique
+90,Auxelles-Haut,UN NOUVEL ELAN QUICHELOT,7,M,LACREUSE Julien
+90,Auxelles-Haut,UN NOUVEL ELAN QUICHELOT,8,F,FONTAINE Sonia
+90,Auxelles-Haut,UN NOUVEL ELAN QUICHELOT,9,M,CHARD Jérôme
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,1,M,PATTE Thierry
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,2,F,CHATRON Nadia
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,3,M,MUNIER Daniel
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,4,F,PASCUZZI Sylvie
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,5,M,EHRET Thierry
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,6,F,BOURAS Monia
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,7,M,ROY Pierre-Vincent
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,8,F,GOEPP Adeline
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,9,M,HAININ Olivier
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,10,F,ZUMKELLER Aurélie
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,11,M,BAUDOUIN Christophe
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,12,F,BELMONTE Virginie
+90,Banvillars,AGIR ENSEMBLE POUR BANVILLARS,13,M,ZISKA Alexandre
+90,Bavilliers,BAVILLIERS AVENIR,1,M,KOEBERLE Eric
+90,Bavilliers,BAVILLIERS AVENIR,2,F,HAASZ-JUILLARD Josiane
+90,Bavilliers,BAVILLIERS AVENIR,3,M,GHARBI Slimane
+90,Bavilliers,BAVILLIERS AVENIR,4,F,GRISOT Séverine
+90,Bavilliers,BAVILLIERS AVENIR,5,M,JUHIN Michaël
+90,Bavilliers,BAVILLIERS AVENIR,6,F,GONCALVES Evelyne
+90,Bavilliers,BAVILLIERS AVENIR,7,M,BLUNTZER Mathieu
+90,Bavilliers,BAVILLIERS AVENIR,8,F,FINOT Sandrine
+90,Bavilliers,BAVILLIERS AVENIR,9,M,BARANTON Georges
+90,Bavilliers,BAVILLIERS AVENIR,10,F,JULAN Florence
+90,Bavilliers,BAVILLIERS AVENIR,11,M,THOUVEREZ Gérard
+90,Bavilliers,BAVILLIERS AVENIR,12,F,LOERCHER Michèle
+90,Bavilliers,BAVILLIERS AVENIR,13,M,CETIN Mustafa
+90,Bavilliers,BAVILLIERS AVENIR,14,F,LATRECHE Jalila
+90,Bavilliers,BAVILLIERS AVENIR,15,M,BOUILLET Jean-Paul
+90,Bavilliers,BAVILLIERS AVENIR,16,F,GRIMAULT Claire
+90,Bavilliers,BAVILLIERS AVENIR,17,M,BECKER Jean
+90,Bavilliers,BAVILLIERS AVENIR,18,F,FAIVRE Daisy
+90,Bavilliers,BAVILLIERS AVENIR,19,M,BOVIGNY Emmanuel
+90,Bavilliers,BAVILLIERS AVENIR,20,F,PEDROSI Danielle
+90,Bavilliers,BAVILLIERS AVENIR,21,M,CENEDA Pascal
+90,Bavilliers,BAVILLIERS AVENIR,22,F,PLASSAIS Virginie
+90,Bavilliers,BAVILLIERS AVENIR,23,M,HANRIOT Laurent
+90,Bavilliers,BAVILLIERS AVENIR,24,F,SUTTER Marie
+90,Bavilliers,BAVILLIERS AVENIR,25,M,MARMET Jean
+90,Bavilliers,BAVILLIERS AVENIR,26,F,BEDON Isabelle
+90,Bavilliers,BAVILLIERS AVENIR,27,M,GONCALVES José
+90,Bavilliers,BAVILLIERS AVENIR,28,F,CUREL Jenny
+90,Bavilliers,BAVILLIERS AVENIR,29,M,MOSSMANN Lionel
+90,Bavilliers,Bavilliers c'est vous,1,M,PRASSEL Léo
+90,Bavilliers,Bavilliers c'est vous,2,F,PFAUWADEL Claire
+90,Bavilliers,Bavilliers c'est vous,3,M,TAPIE Yann
+90,Bavilliers,Bavilliers c'est vous,4,F,COLIN Marie-Pierre
+90,Bavilliers,Bavilliers c'est vous,5,M,LAFOSSE Gregory
+90,Bavilliers,Bavilliers c'est vous,6,F,REINICHE Mireille
+90,Bavilliers,Bavilliers c'est vous,7,M,BERTIN-DENYS Patrick
+90,Bavilliers,Bavilliers c'est vous,8,F,LIBOZ Emilie
+90,Bavilliers,Bavilliers c'est vous,9,M,RODIER Joël
+90,Bavilliers,Bavilliers c'est vous,10,F,VIZINOT Corinne
+90,Bavilliers,Bavilliers c'est vous,11,M,JEBBAR Abdelaziz
+90,Bavilliers,Bavilliers c'est vous,12,F,MOSCHENIN Audrey
+90,Bavilliers,Bavilliers c'est vous,13,M,BOILEAU David
+90,Bavilliers,Bavilliers c'est vous,14,F,BELUCHE Marie-Dominique
+90,Bavilliers,Bavilliers c'est vous,15,M,CAN Mehmet
+90,Bavilliers,Bavilliers c'est vous,16,F,BRICE-CORDIER Cécile
+90,Bavilliers,Bavilliers c'est vous,17,M,VUILLEMARD Julien
+90,Bavilliers,Bavilliers c'est vous,18,F,VANNIER Sophie
+90,Bavilliers,Bavilliers c'est vous,19,M,JARDORT Damien
+90,Bavilliers,Bavilliers c'est vous,20,F,VÉJUX Virginie
+90,Bavilliers,Bavilliers c'est vous,21,M,COURTOIS Christian
+90,Bavilliers,Bavilliers c'est vous,22,F,NIYOMUFAHSA Domitille
+90,Bavilliers,Bavilliers c'est vous,23,M,OBRECHT Michel
+90,Bavilliers,Bavilliers c'est vous,24,F,SCHMITT Jacqueline
+90,Bavilliers,Bavilliers c'est vous,25,M,BOURDICHON Didier
+90,Bavilliers,Bavilliers c'est vous,26,F,BOUDJEMAA Lylia
+90,Bavilliers,Bavilliers c'est vous,27,M,ACKERMANN Pascal
+90,Beaucourt,BEAUCOURT PLUS FORT !,1,M,BIETRY Thomas
+90,Beaucourt,BEAUCOURT PLUS FORT !,2,F,MONNIER-VON AESCH Anaïs
+90,Beaucourt,BEAUCOURT PLUS FORT !,3,M,COURGEY Gilles
+90,Beaucourt,BEAUCOURT PLUS FORT !,4,F,CLAYEUX Catherine
+90,Beaucourt,BEAUCOURT PLUS FORT !,5,M,HAMLIL Hamid
+90,Beaucourt,BEAUCOURT PLUS FORT !,6,F,HOUDELAT-LECOMTE Peggy
+90,Beaucourt,BEAUCOURT PLUS FORT !,7,M,MANGIN Eric
+90,Beaucourt,BEAUCOURT PLUS FORT !,8,F,MARTIN Véronique
+90,Beaucourt,BEAUCOURT PLUS FORT !,9,M,COURTOT Francis
+90,Beaucourt,BEAUCOURT PLUS FORT !,10,F,ERNST Caroline
+90,Beaucourt,BEAUCOURT PLUS FORT !,11,M,BRUEY François
+90,Beaucourt,BEAUCOURT PLUS FORT !,12,F,REY Virginie
+90,Beaucourt,BEAUCOURT PLUS FORT !,13,M,FISCHER Charles
+90,Beaucourt,BEAUCOURT PLUS FORT !,14,F,GIRARDOT Christine
+90,Beaucourt,BEAUCOURT PLUS FORT !,15,M,DEFACHE Gaël
+90,Beaucourt,BEAUCOURT PLUS FORT !,16,F,DELFILS Béatrice
+90,Beaucourt,BEAUCOURT PLUS FORT !,17,M,VERNIER Jacques
+90,Beaucourt,BEAUCOURT PLUS FORT !,18,F,SAGEAUX Laëtitia
+90,Beaucourt,BEAUCOURT PLUS FORT !,19,M,DEBROSSE Emilien
+90,Beaucourt,BEAUCOURT PLUS FORT !,20,F,PAPPALARDO Sandra
+90,Beaucourt,BEAUCOURT PLUS FORT !,21,M,MILLIOT Daniel
+90,Beaucourt,BEAUCOURT PLUS FORT !,22,F,MASSON Pauline
+90,Beaucourt,BEAUCOURT PLUS FORT !,23,M,ZARIFI Noah
+90,Beaucourt,BEAUCOURT PLUS FORT !,24,F,CHAVANNE Chantal
+90,Beaucourt,BEAUCOURT PLUS FORT !,25,M,CORNUOT Jean-Claude
+90,Beaucourt,BEAUCOURT PLUS FORT !,26,F,BESSE Josette
+90,Beaucourt,BEAUCOURT PLUS FORT !,27,M,FERHATI Karime
+90,Beaucourt,BEAUCOURT PLUS FORT !,28,F,PERRIN Géraldine
+90,Beaucourt,BEAUCOURT PLUS FORT !,29,M,FRAU Pierre-Alain
+90,Belfort,Belfort avec vous,1,M,CHAUCHE Florian
+90,Belfort,Belfort avec vous,2,F,THANNEUR Murielle
+90,Belfort,Belfort avec vous,3,M,TRAPP Karel
+90,Belfort,Belfort avec vous,4,F,PREUILH-CHOULIER Valérie
+90,Belfort,Belfort avec vous,5,M,VANITOU Lucas
+90,Belfort,Belfort avec vous,6,F,HAMARD Juliette
+90,Belfort,Belfort avec vous,7,M,MOUNTASSIR Zakaria
+90,Belfort,Belfort avec vous,8,F,BESANCON Lise
+90,Belfort,Belfort avec vous,9,M,CHEVALIER Bertrand
+90,Belfort,Belfort avec vous,10,F,REGNAUD Mathilde
+90,Belfort,Belfort avec vous,11,M,ONAY Emin
+90,Belfort,Belfort avec vous,12,F,BOUBEKEUR Lynda
+90,Belfort,Belfort avec vous,13,M,PAGANI Florent
+90,Belfort,Belfort avec vous,14,F,BAULAY Annie
+90,Belfort,Belfort avec vous,15,M,MAHMOUD Driss
+90,Belfort,Belfort avec vous,16,F,BOURCHICHE Scheherazade
+90,Belfort,Belfort avec vous,17,M,BERGER Jean-Luc
+90,Belfort,Belfort avec vous,18,F,JOUQUEZ Edith
+90,Belfort,Belfort avec vous,19,M,BESSOT Jean-Claude
+90,Belfort,Belfort avec vous,20,F,DEWIT Caroline
+90,Belfort,Belfort avec vous,21,M,GIGANTE Sylvain
+90,Belfort,Belfort avec vous,22,F,AOURAG Amel
+90,Belfort,Belfort avec vous,23,M,BERTRAND Daniel
+90,Belfort,Belfort avec vous,24,F,PETER Myriam
+90,Belfort,Belfort avec vous,25,M,VIOLET Philippe
+90,Belfort,Belfort avec vous,26,F,CHAUMET Paule
+90,Belfort,Belfort avec vous,27,M,BOLOT Eliot
+90,Belfort,Belfort avec vous,28,F,MARCHAL Maud
+90,Belfort,Belfort avec vous,29,M,ROMANUS-LIRAUD Olympe
+90,Belfort,Belfort avec vous,30,F,LIETARD Nadine
+90,Belfort,Belfort avec vous,31,M,LIBAI Fredéric
+90,Belfort,Belfort avec vous,32,F,SIMON-ANGEVELLE Véronique
+90,Belfort,Belfort avec vous,33,M,TISSERAND Paul
+90,Belfort,Belfort avec vous,34,F,CHARAF Sarah
+90,Belfort,Belfort avec vous,35,M,SALLOT Bruno
+90,Belfort,Belfort avec vous,36,F,MARCEAUX Brigitte
+90,Belfort,Belfort avec vous,37,M,DAGUET Alain
+90,Belfort,Belfort avec vous,38,F,FORGERIT Anne
+90,Belfort,Belfort avec vous,39,M,MERIMECHE Karim
+90,Belfort,Belfort avec vous,40,F,TERNANT Muriel
+90,Belfort,Belfort avec vous,41,M,SCHMITT René
+90,Belfort,Belfort avec vous,42,F,GUILLAUME Rachel
+90,Belfort,Belfort avec vous,43,M,IBER Matthias
+90,Belfort,Belfort avec vous,44,F,GREIF Michelle
+90,Belfort,Belfort avec vous,45,M,ELOUAFI Abdellah
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,1,M,PHEULPIN Jean-Marie
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,2,F,PETITOT Christiane
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,3,M,ROUILLON Daniel
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,4,F,LACAILLE Eliane
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,5,M,LHEUREUX Jean
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,6,F,VAGO Gabrielle
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,7,M,DOLLE Noël
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,8,F,RAVA Laure
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,9,M,LAHMAR Cheikh
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,10,F,DAFRI Myriam
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,11,M,MEYRIGNAC--DUFAYS Jules
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,12,F,MOUREAUX Fanny
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,13,M,BOULEDJOUIDJA Ilian
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,14,F,CRAVE Marie-Christine
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,15,M,CUZIN Philippe
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,16,F,HATMI Jamila
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,17,M,CAMOZZI Guy
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,18,F,URBANSKI Justine
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,19,M,HADDADOU Abderrezak
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,20,F,LEGER Dominique
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,21,M,WELE Oumar
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,22,F,HENNEGRAVE Alice
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,23,M,EUGSTER Jean-Claude
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,24,F,CADELLI Solène
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,25,M,DOLLE Emanuel
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,26,F,HADJICI Senoussia
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,27,M,ROUVRE Antoine
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,28,F,LHEUREUX Claudine
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,29,M,DESHAYES Jean Luc
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,30,F,PHEULPIN Claire
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,31,M,DUCHESNE Aurélien
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,32,F,CUZIN Martine
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,33,M,MAIGNE François
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,34,F,BOUDI Malika
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,35,M,VUILLEMIN Alain
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,36,F,MENGEARD Catherine
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,37,M,SIMONY Yohan
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,38,F,UVA Rita
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,39,M,BOUILLON Patrice
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,40,F,DUVERNOY Annik
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,41,M,THIESSARD René
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,42,F,LALLEMAND Séverine
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,43,M,HATMI Omar
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,44,F,RAGUENET Aurélia
+90,Belfort,Lutte ouvrière - Le camp des travailleurs,45,M,BELOT Gérard
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",1,M,FAUDOT Bastien
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",2,F,BELORGEY Marie-Eve
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",3,M,MOULON Matthieu
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",4,F,CLAVEQUIN Maude
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",5,M,CHIPOT Thierry
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",6,F,MEGHRICHE Nagia
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",7,M,FEUILLET Laurent
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",8,F,SCHALK Santa
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",9,M,SCHWALM Vivien
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",10,F,CRAVE Nathalie
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",11,M,LETAILLEUR Alain
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",12,F,GREVILLOT Nathalie
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",13,M,GUEMAZI Selim
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",14,F,GALLIEN Francine
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",15,M,ZIANE Clément
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",16,F,DAERON Martine
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",17,M,NAAS Philippe
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",18,F,DREYFUS-SCHMIDT Stephanie
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",19,M,RADID Redallah
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",20,F,CHOLEY Aurelie
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",21,M,WACK Maxime
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",22,F,LAIBE Claire
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",23,M,CHIPOT Hugues
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",24,F,DANTHON Nadine
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",25,M,GLON-VILLENEUVE Jean-Michel
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",26,F,BENIER Natacha
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",27,M,MARTINET Frederic
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",28,F,SCHMITT Tifaine
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",29,M,CHASSAING Joel
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",30,F,ABBANI Jenna
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",31,M,VERT Christian
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",32,F,CHEMLA Manon
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",33,M,ROY Eric
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",34,F,RAYMOND Nathalie
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",35,M,GILLET Allan
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",36,F,DRIDECHE Salima
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",37,M,CREUSOT Pascal
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",38,F,HAASZ-JULLARD Maryse
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",39,M,JACQUEMIN Jean-Marc
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",40,F,DA COL Noelle
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",41,M,REVEL Patrick
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",42,F,ROTH Danielle
+90,Belfort,"TOUS BELFORTAINS - LISTE D'UNION DE LA GAUCHE REPUBLICAINE, DEMOCRATE ET ECOLOGISTE",43,M,GEHANT Emile
+90,Belfort,Tous ensemble pour Belfort,1,M,MESLOT Damien
+90,Belfort,Tous ensemble pour Belfort,2,F,BOVET ZARETTI Corinne
+90,Belfort,Tous ensemble pour Belfort,3,M,BOUCARD Ian
+90,Belfort,Tous ensemble pour Belfort,4,F,KETFI-CHARIF Loubna
+90,Belfort,Tous ensemble pour Belfort,5,M,LE VOILLEMIN Gautier
+90,Belfort,Tous ensemble pour Belfort,6,F,DORIAN Marianne
+90,Belfort,Tous ensemble pour Belfort,7,M,ZIANE Nasreddine
+90,Belfort,Tous ensemble pour Belfort,8,F,IVOL Marie-Hélène
+90,Belfort,Tous ensemble pour Belfort,9,M,VIVOT Sébastien
+90,Belfort,Tous ensemble pour Belfort,10,F,HORLACHER Rachel
+90,Belfort,Tous ensemble pour Belfort,11,M,HERZOG Jean-Marie
+90,Belfort,Tous ensemble pour Belfort,12,F,STABILE Marie
+90,Belfort,Tous ensemble pour Belfort,13,M,KNEIP Tony
+90,Belfort,Tous ensemble pour Belfort,14,F,CASTALDI Corinne
+90,Belfort,Tous ensemble pour Belfort,15,M,ROVIGO Marc
+90,Belfort,Tous ensemble pour Belfort,16,F,AUTHIER Charlène
+90,Belfort,Tous ensemble pour Belfort,17,M,CREEL Robert
+90,Belfort,Tous ensemble pour Belfort,18,F,KARAKYRIOU Eirini
+90,Belfort,Tous ensemble pour Belfort,19,M,MICHEL Brice
+90,Belfort,Tous ensemble pour Belfort,20,F,EINHORN Christiane
+90,Belfort,Tous ensemble pour Belfort,21,M,PATAILLOT Grégory
+90,Belfort,Tous ensemble pour Belfort,22,F,BOUDEVIN Nathalie
+90,Belfort,Tous ensemble pour Belfort,23,M,LEGROS Philippe
+90,Belfort,Tous ensemble pour Belfort,24,F,CALOPRISCO Evelyne
+90,Belfort,Tous ensemble pour Belfort,25,M,HOARAU Benjamin
+90,Belfort,Tous ensemble pour Belfort,26,F,JESUS Sophie
+90,Belfort,Tous ensemble pour Belfort,27,M,BOUSBAINE Farid
+90,Belfort,Tous ensemble pour Belfort,28,F,THARIN Marie-Anne
+90,Belfort,Tous ensemble pour Belfort,29,M,BLOCH Olivier
+90,Belfort,Tous ensemble pour Belfort,30,F,VOISIN Constance
+90,Belfort,Tous ensemble pour Belfort,31,M,KILICPARLAR Bulent
+90,Belfort,Tous ensemble pour Belfort,32,F,TERRAL Zine
+90,Belfort,Tous ensemble pour Belfort,33,M,DESHAYES Samuel
+90,Belfort,Tous ensemble pour Belfort,34,F,CONAT Pauline
+90,Belfort,Tous ensemble pour Belfort,35,M,BRUNOIS Florian
+90,Belfort,Tous ensemble pour Belfort,36,F,ARNAUD Valerye
+90,Belfort,Tous ensemble pour Belfort,37,M,ANTOINE Victor
+90,Belfort,Tous ensemble pour Belfort,38,F,GRAB Geneviève
+90,Belfort,Tous ensemble pour Belfort,39,M,BOURQUIN Maxime
+90,Belfort,Tous ensemble pour Belfort,40,F,CHIPEAUX Dominique
+90,Belfort,Tous ensemble pour Belfort,41,M,GINDRE Serge
+90,Belfort,Tous ensemble pour Belfort,42,F,LHOMET Marie-Lise
+90,Belfort,Tous ensemble pour Belfort,43,M,GRADELER Alain
+90,Belfort,Un avenir pour Belfort,1,M,GRUDLER Christophe
+90,Belfort,Un avenir pour Belfort,2,F,MANGE Véronique
+90,Belfort,Un avenir pour Belfort,3,M,JACQUEMIN Stéphane
+90,Belfort,Un avenir pour Belfort,4,F,GIRARD Cindy
+90,Belfort,Un avenir pour Belfort,5,M,MESSIN Jean-Christophe
+90,Belfort,Un avenir pour Belfort,6,F,VALENTIN Nicole
+90,Belfort,Un avenir pour Belfort,7,M,VOLA Yves
+90,Belfort,Un avenir pour Belfort,8,F,HAMAIDI Atika
+90,Belfort,Un avenir pour Belfort,9,M,KHALAF Esfandyar
+90,Belfort,Un avenir pour Belfort,10,F,MECENERO Marine
+90,Belfort,Un avenir pour Belfort,11,M,SAHIN Mustafa
+90,Belfort,Un avenir pour Belfort,12,F,BARES Nathalie
+90,Belfort,Un avenir pour Belfort,13,M,RIGAULT Gilles
+90,Belfort,Un avenir pour Belfort,14,F,RINGENBACH Céline
+90,Belfort,Un avenir pour Belfort,15,M,MAHMOUDI Ali
+90,Belfort,Un avenir pour Belfort,16,F,RINGOT Chrystele
+90,Belfort,Un avenir pour Belfort,17,M,ROUSSELET Renaud
+90,Belfort,Un avenir pour Belfort,18,F,LANG-GARTNER Isabelle
+90,Belfort,Un avenir pour Belfort,19,M,FONTANEL Gilles
+90,Belfort,Un avenir pour Belfort,20,F,DUFFNER Nathalie
+90,Belfort,Un avenir pour Belfort,21,M,FLEURY Michel
+90,Belfort,Un avenir pour Belfort,22,F,GAMMA Chantal
+90,Belfort,Un avenir pour Belfort,23,M,SONET Fabrice
+90,Belfort,Un avenir pour Belfort,24,F,FRANCOIS Martine
+90,Belfort,Un avenir pour Belfort,25,M,CUQUEMELLE Bernard
+90,Belfort,Un avenir pour Belfort,26,F,JEROME Léa
+90,Belfort,Un avenir pour Belfort,27,M,SUBIGER Romain
+90,Belfort,Un avenir pour Belfort,28,F,GIACOMONI Marie-Catherine
+90,Belfort,Un avenir pour Belfort,29,M,RINGENBACH Jean-Paul
+90,Belfort,Un avenir pour Belfort,30,F,GUYEZ Sophie
+90,Belfort,Un avenir pour Belfort,31,M,JOSEPH-HENRI Yvon
+90,Belfort,Un avenir pour Belfort,32,F,KEPKA Cristobalina
+90,Belfort,Un avenir pour Belfort,33,M,MULLER Bastien
+90,Belfort,Un avenir pour Belfort,34,F,RUFFIO Vanessa
+90,Belfort,Un avenir pour Belfort,35,M,CACCAMO Vincenzo
+90,Belfort,Un avenir pour Belfort,36,F,GAXATTE-LEPRON Lise
+90,Belfort,Un avenir pour Belfort,37,M,MAHMOUDI Fatah
+90,Belfort,Un avenir pour Belfort,38,F,ARIA Laurence
+90,Belfort,Un avenir pour Belfort,39,M,VERDANT Daniel
+90,Belfort,Un avenir pour Belfort,40,F,TOURDOT Patricia
+90,Belfort,Un avenir pour Belfort,41,M,GIRARD Thomas
+90,Belfort,Un avenir pour Belfort,42,F,TEKLER Gisèle
+90,Belfort,Un avenir pour Belfort,43,M,GRUDLER Thiebaud
+90,Belfort,Un avenir pour Belfort,44,F,MANGE Janelle
+90,Belfort,Un avenir pour Belfort,45,M,MESSIN Richard
+90,Belfort,Une identité pour Belfort,1,M,SOUSTELLE Christophe
+90,Belfort,Une identité pour Belfort,2,F,SCALET Priscillia
+90,Belfort,Une identité pour Belfort,3,M,BIGOT Guillaume
+90,Belfort,Une identité pour Belfort,4,F,CARNICER Sophie
+90,Belfort,Une identité pour Belfort,5,M,GARGIONI Marc
+90,Belfort,Une identité pour Belfort,6,F,CHAPUT Deborah
+90,Belfort,Une identité pour Belfort,7,M,FORESTIER Patrick
+90,Belfort,Une identité pour Belfort,8,F,FRITZ Sara
+90,Belfort,Une identité pour Belfort,9,M,DIAS Gregory
+90,Belfort,Une identité pour Belfort,10,F,CASTALDO Anna
+90,Belfort,Une identité pour Belfort,11,M,DECOMBLE Valentin
+90,Belfort,Une identité pour Belfort,12,F,EVALET Fabienne
+90,Belfort,Une identité pour Belfort,13,M,FERRALI Xavier
+90,Belfort,Une identité pour Belfort,14,F,GUERIN Anne
+90,Belfort,Une identité pour Belfort,15,M,DIOT Régis
+90,Belfort,Une identité pour Belfort,16,F,ARDON Christelle
+90,Belfort,Une identité pour Belfort,17,M,RENAUDIN Tommi
+90,Belfort,Une identité pour Belfort,18,F,DEPOIRE Sylvie
+90,Belfort,Une identité pour Belfort,19,M,FREUND Dominique
+90,Belfort,Une identité pour Belfort,20,F,ANTOINE Magali
+90,Belfort,Une identité pour Belfort,21,M,DELANNE Loic
+90,Belfort,Une identité pour Belfort,22,F,KIRAZIAN Suzanne
+90,Belfort,Une identité pour Belfort,23,M,SION Frédéric
+90,Belfort,Une identité pour Belfort,24,F,JOURD'HEUIL Léa
+90,Belfort,Une identité pour Belfort,25,M,BOULAN Christophe
+90,Belfort,Une identité pour Belfort,26,F,COUPIN Laurence
+90,Belfort,Une identité pour Belfort,27,M,JEANNOT Dominique
+90,Belfort,Une identité pour Belfort,28,F,TREMBLAYE Bernadette
+90,Belfort,Une identité pour Belfort,29,M,DEMANGEOT Anthony
+90,Belfort,Une identité pour Belfort,30,F,KOLAILAKOV Yona
+90,Belfort,Une identité pour Belfort,31,M,READO Olivier
+90,Belfort,Une identité pour Belfort,32,F,ANTOINE Raymonde
+90,Belfort,Une identité pour Belfort,33,M,KOEHL Christophe
+90,Belfort,Une identité pour Belfort,34,F,KNOPF Colette
+90,Belfort,Une identité pour Belfort,35,M,BLANCHET Nicolas
+90,Belfort,Une identité pour Belfort,36,F,MIDEY Bernadette
+90,Belfort,Une identité pour Belfort,37,M,PEDRO Damien
+90,Belfort,Une identité pour Belfort,38,F,BAHITI Edlira
+90,Belfort,Une identité pour Belfort,39,M,DONADELLI Maurizio
+90,Belfort,Une identité pour Belfort,40,F,DAUDENTHUN Marie
+90,Belfort,Une identité pour Belfort,41,M,COLLINO Jean-Michel
+90,Belfort,Une identité pour Belfort,42,F,BUCHWALDER Josiane
+90,Belfort,Une identité pour Belfort,43,M,REMY Alexis
+90,Bermont,Bermont Demain,1,M,GROSJEAN Pascal
+90,Bermont,Bermont Demain,2,F,DIEMER Estelle
+90,Bermont,Bermont Demain,3,M,MARTIN Bruno
+90,Bermont,Bermont Demain,4,F,DEVAUX Bernadette
+90,Bermont,Bermont Demain,5,M,PETITE Patrice
+90,Bermont,Bermont Demain,6,F,MOREL Lolita
+90,Bermont,Bermont Demain,7,M,JEAMBRUN Gilles
+90,Bermont,Bermont Demain,8,F,PAVERNE Valerie
+90,Bermont,Bermont Demain,9,M,BRUGNONI Pierre
+90,Bermont,Bermont Demain,10,F,SIMONIN Milène
+90,Bermont,Bermont Demain,11,M,COURTOT Alexandre
+90,Bermont,Bermont Demain,12,F,COURTOT Anne-Laure
+90,Bermont,Bermont Demain,13,M,SCHERRER Jean-Michel
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",1,M,BESANCON Thierry
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",2,F,LUDWIG Carole
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",3,M,ARRIGHI Pascal
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",4,F,HECKEL Nicole
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",5,M,NGUYEN DAI Luc
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",6,F,ROBERT Cécile
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",7,M,HARDOUIN Yves
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",8,F,MIROUSSET Marguerite
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",9,M,SCHEUBEL Baptiste
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",10,F,VU Brigitte
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",11,M,BLONDE Michel
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",12,F,POLLIEN Nathalie
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",13,M,GASPARD Sebastien
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",14,F,GUENAT Pauline
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",15,M,MAILLARD Maxime
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",16,F,WALTER Doriane
+90,Bessoncourt,"Bessoncourt, notre village, notre avenir",17,M,HENRIEY Sylvain
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",1,M,VUILLEMARD-JUNG Hugo
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",2,F,BELIN Jackie
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",3,M,FIORI Martial
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",4,F,STEIMETZ Isabelle
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",5,M,WALGER Christian
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",6,F,KOLLER Audrey
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",7,M,CHAMPENOIS Sébastien
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",8,F,TAMBY-EGGENSPILLER Sandra
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",9,M,PFEIFFER Joel
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",10,F,SETTE Brigitte
+90,Bethonvilliers,"BETHONVILLIERS, CONSTRUISONS LE ENSEMBLE",11,M,LEMERCIER Célian
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,1,M,TRITTER Alain
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,2,F,ZIEGLER Pascale
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,3,M,TRAVERSIER Johan
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,4,F,MAT Cynthia
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,5,M,THURIOT Mickaël
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,6,F,LIBLIN Francine
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,7,M,NUSBAUMER Pascal
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,8,F,TROUSSELOT Marjorie
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,9,M,MEUNIER Patrice
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,10,F,SCHINDLER Martine
+90,Bethonvilliers,ENSEMBLE POUR BETHONVILLIERS,11,M,GIRARDOT Marcel
+90,Boron,BORON CAP 2032,1,M,TRELA Dominique
+90,Boron,BORON CAP 2032,2,F,SALOMON Michèle
+90,Boron,BORON CAP 2032,3,M,COURTOT Pierre
+90,Boron,BORON CAP 2032,4,F,ZANINI Elizabete
+90,Boron,BORON CAP 2032,5,M,PIANZI Jean-Luc
+90,Boron,BORON CAP 2032,6,F,BOUAROUDJ Djouher
+90,Boron,BORON CAP 2032,7,M,ZAUGG Emmanuel
+90,Boron,BORON CAP 2032,8,F,MOSER Laura
+90,Boron,BORON CAP 2032,9,M,HERMETET Jean-François
+90,Boron,BORON CAP 2032,10,F,MUDRY Emilie
+90,Boron,BORON CAP 2032,11,M,HAMBERT René
+90,Boron,BORON CAP 2032,12,F,GUITTARD Brigitte
+90,Boron,BORON CAP 2032,13,M,TERRASSON Joran
+90,Botans,Avançons ensemble,1,F,FRIEZ Marie-Laure
+90,Botans,Avançons ensemble,2,M,BLANC Frédéric
+90,Botans,Avançons ensemble,3,F,HENRY Séverine
+90,Botans,Avançons ensemble,4,M,THOMAS Alex
+90,Botans,Avançons ensemble,5,F,BALLARE Marie-Noëlle
+90,Botans,Avançons ensemble,6,M,WEISS Denis
+90,Botans,Avançons ensemble,7,F,AUBRY Béatrice
+90,Botans,Avançons ensemble,8,M,KADOURI Mohamed
+90,Botans,Avançons ensemble,9,F,CHOPARD Juliana
+90,Botans,Avançons ensemble,10,M,DIOGUARDI François
+90,Botans,Avançons ensemble,11,F,PIGUET Bénédicte
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,1,M,NAWROT Armand
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,2,F,DEPORTE Christine
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,3,M,ROSSÉ Jean-Loup
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,4,F,LARDIER Sylvie
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,5,M,VERARD Michel
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,6,F,GILLET-BLANC Elisabeth
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,7,M,PIEMONTESE Sébastien
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,8,F,TESTA Fabienne
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,9,M,BLANCHET Jean-François
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,10,F,BOUAZI Audrey
+90,Bourg-sous-Châtelet,Pour qu'il fasse toujours bon vivre à Bourg,11,M,SALMERON Cyril
+90,Bourogne,BIEN VIVRE A BOUROGNE,1,M,GUARDIA Baptiste
+90,Bourogne,BIEN VIVRE A BOUROGNE,2,F,SANGLARD Geneviève
+90,Bourogne,BIEN VIVRE A BOUROGNE,3,M,CORTI Robert
+90,Bourogne,BIEN VIVRE A BOUROGNE,4,F,ZARAGOZA Odile
+90,Bourogne,BIEN VIVRE A BOUROGNE,5,M,BASSI Jean-Michel
+90,Bourogne,BIEN VIVRE A BOUROGNE,6,F,POUX Sandrine
+90,Bourogne,BIEN VIVRE A BOUROGNE,7,M,ANDRE Philippe
+90,Bourogne,BIEN VIVRE A BOUROGNE,8,F,MEIER Carol
+90,Bourogne,BIEN VIVRE A BOUROGNE,9,M,HENRIOT Mehdi
+90,Bourogne,BIEN VIVRE A BOUROGNE,10,F,EICH Celestine
+90,Bourogne,BIEN VIVRE A BOUROGNE,11,M,ROLIN Jérémie
+90,Bourogne,BIEN VIVRE A BOUROGNE,12,F,OGIER Céline
+90,Bourogne,BIEN VIVRE A BOUROGNE,13,M,PAQUIT Philippe
+90,Bourogne,BIEN VIVRE A BOUROGNE,14,F,MALNATI Joëlle
+90,Bourogne,BIEN VIVRE A BOUROGNE,15,M,ROLLAND Cyrille
+90,Bourogne,BIEN VIVRE A BOUROGNE,16,F,LOPEZ Corinne
+90,Bourogne,BIEN VIVRE A BOUROGNE,17,M,BAUDIN François
+90,Bourogne,BIEN VIVRE A BOUROGNE,18,F,DEMAIMAY Sylviane
+90,Bourogne,BIEN VIVRE A BOUROGNE,19,M,MALNATI Cédric
+90,Bourogne,BIEN VIVRE A BOUROGNE,20,F,NARDIN Dominique
+90,Bourogne,BIEN VIVRE A BOUROGNE,21,M,SCHAINQUELIN Jean-Pierre François
+90,Bourogne,"Bourogne, ensemble pour l'avenir",1,M,CHAMAGNE Didier
+90,Bourogne,"Bourogne, ensemble pour l'avenir",2,F,HOFF Sabine
+90,Bourogne,"Bourogne, ensemble pour l'avenir",3,M,SIGNE Patrick
+90,Bourogne,"Bourogne, ensemble pour l'avenir",4,F,VIATTE Marie-Laure
+90,Bourogne,"Bourogne, ensemble pour l'avenir",5,M,HUMAIR Alain
+90,Bourogne,"Bourogne, ensemble pour l'avenir",6,F,RIGARD Gaelle
+90,Bourogne,"Bourogne, ensemble pour l'avenir",7,M,GOBETTI Bernard
+90,Bourogne,"Bourogne, ensemble pour l'avenir",8,F,HENNESSY Fiona Michelle
+90,Bourogne,"Bourogne, ensemble pour l'avenir",9,M,CRELIER Régis
+90,Bourogne,"Bourogne, ensemble pour l'avenir",10,F,BONZANI Blandine
+90,Bourogne,"Bourogne, ensemble pour l'avenir",11,M,PLUMELEUR Florian
+90,Bourogne,"Bourogne, ensemble pour l'avenir",12,F,RANDAUT Danièle Renée
+90,Bourogne,"Bourogne, ensemble pour l'avenir",13,M,PILLIOT Maxime
+90,Bourogne,"Bourogne, ensemble pour l'avenir",14,F,PERNOT LAHEURTE Laurence
+90,Bourogne,"Bourogne, ensemble pour l'avenir",15,M,BULET Luc
+90,Bourogne,"Bourogne, ensemble pour l'avenir",16,F,MOTTNER Juliette
+90,Bourogne,"Bourogne, ensemble pour l'avenir",17,M,MARI Etienne
+90,Bourogne,"Bourogne, ensemble pour l'avenir",18,F,LOUIS-SIGAUD Gaelle
+90,Bourogne,"Bourogne, ensemble pour l'avenir",19,M,VON BANCK Patrick Joseph
+90,Brebotte,Ensemble pour Brebotte,1,M,VALLAT Pierre
+90,Brebotte,Ensemble pour Brebotte,2,F,SABATIER Chloé
+90,Brebotte,Ensemble pour Brebotte,3,M,BAGUEREY Fabien
+90,Brebotte,Ensemble pour Brebotte,4,F,GROSDIDIER Maggy
+90,Brebotte,Ensemble pour Brebotte,5,M,LHERMITTE Patrick
+90,Brebotte,Ensemble pour Brebotte,6,F,BOUNIOL-EHRET Martine
+90,Brebotte,Ensemble pour Brebotte,7,M,BOURQUARD Jonathan
+90,Brebotte,Ensemble pour Brebotte,8,F,SEGUI Marie-Noëlle
+90,Brebotte,Ensemble pour Brebotte,9,M,VALLAT Alex
+90,Brebotte,Ensemble pour Brebotte,10,F,CLERGET Céline
+90,Brebotte,Ensemble pour Brebotte,11,M,BIOJOUT Alix
+90,Brebotte,Ensemble pour Brebotte,12,F,DARMIGNY Aurélie
+90,Brebotte,Ensemble pour Brebotte,13,M,SCALAMANDRE Carlo
+90,Bretagne,Bretagne continuons ensemble,1,M,FREARD Vincent
+90,Bretagne,Bretagne continuons ensemble,2,F,LAMARE Gisèle
+90,Bretagne,Bretagne continuons ensemble,3,M,SCHIRCH Pierre
+90,Bretagne,Bretagne continuons ensemble,4,F,WARTELLE Véronique
+90,Bretagne,Bretagne continuons ensemble,5,M,MARINELLI Jean-Claude Antoine
+90,Bretagne,Bretagne continuons ensemble,6,F,MOUREAUX Cynthia
+90,Bretagne,Bretagne continuons ensemble,7,M,JEANDIN Francis
+90,Bretagne,Bretagne continuons ensemble,8,F,VALENTIN Jésabelle
+90,Bretagne,Bretagne continuons ensemble,9,M,FERNEZ Claude
+90,Bretagne,Bretagne continuons ensemble,10,F,MAQUIN Martine
+90,Bretagne,Bretagne continuons ensemble,11,M,MANCILLA Lionel
+90,Buc,Ensemble pour Buc,1,M,SACKSTEDER Didier
+90,Buc,Ensemble pour Buc,2,F,PETEY Edith
+90,Buc,Ensemble pour Buc,3,M,PETEY Thibaud
+90,Buc,Ensemble pour Buc,4,F,KUPCZAK Candy
+90,Buc,Ensemble pour Buc,5,M,FEGELE Damien
+90,Buc,Ensemble pour Buc,6,F,PREVOT Valérie
+90,Buc,Ensemble pour Buc,7,M,GAIFFE Fabrice
+90,Buc,Ensemble pour Buc,8,F,RAIGNAULT Alexia
+90,Buc,Ensemble pour Buc,9,M,SOYER Pierre-Alain
+90,Buc,Ensemble pour Buc,10,F,ROLLIN Geneviève
+90,Buc,Ensemble pour Buc,11,M,WIAND Hervé
+90,Charmois,CHARMOIS DYNAMIQUE,1,M,PLUMELEUR Julien
+90,Charmois,CHARMOIS DYNAMIQUE,2,F,TIZIANI Corinne
+90,Charmois,CHARMOIS DYNAMIQUE,3,M,BOURQUIN Jean-Luc
+90,Charmois,CHARMOIS DYNAMIQUE,4,F,FAIVRE Stéphanie
+90,Charmois,CHARMOIS DYNAMIQUE,5,M,PLUMELEUR Laurent
+90,Charmois,CHARMOIS DYNAMIQUE,6,F,GROSCLAUDE Angélique
+90,Charmois,CHARMOIS DYNAMIQUE,7,M,DESVERNOIS Nicolas
+90,Charmois,CHARMOIS DYNAMIQUE,8,F,PREVOT Marie-Odile
+90,Charmois,CHARMOIS DYNAMIQUE,9,M,CONSTANTIN Nicolas
+90,Charmois,CHARMOIS DYNAMIQUE,10,F,MAZZOLA Corentine
+90,Charmois,CHARMOIS DYNAMIQUE,11,M,DACLIN Nicolas
+90,Chaux,"Chaux, un village qui avance",1,M,DEVILLONI Jean-Luc
+90,Chaux,"Chaux, un village qui avance",2,F,LABEUCHE Pacale
+90,Chaux,"Chaux, un village qui avance",3,M,CHIPAUX Jacky
+90,Chaux,"Chaux, un village qui avance",4,F,COURGET Aurore
+90,Chaux,"Chaux, un village qui avance",5,M,MARIE Jean-Charles
+90,Chaux,"Chaux, un village qui avance",6,F,BONVALOT Audrey
+90,Chaux,"Chaux, un village qui avance",7,M,DUPONT Jean-Michel
+90,Chaux,"Chaux, un village qui avance",8,F,THIRION Sandrine
+90,Chaux,"Chaux, un village qui avance",9,M,FAIVRE Louis
+90,Chaux,"Chaux, un village qui avance",10,F,MONNIER Severine
+90,Chaux,"Chaux, un village qui avance",11,M,HENNEQUIN Laurent
+90,Chaux,"Chaux, un village qui avance",12,F,GAUTIER Stéphanie
+90,Chaux,"Chaux, un village qui avance",13,M,RIO Eric
+90,Chaux,"Chaux, un village qui avance",14,F,GORCE Myriam
+90,Chaux,"Chaux, un village qui avance",15,M,CHIPAUX Fréderic
+90,Chaux,"Chaux, un village qui avance",16,F,BOUERY Mélanie
+90,Chaux,"Chaux, un village qui avance",17,M,BEGOT Frederic
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,1,F,DINET Monique
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,2,M,DIETRICH Jérôme
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,3,F,GUERRE Eliane
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,4,M,TINNES Julien
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,5,F,WADEL Aline
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,6,M,LIODON Robert
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,7,F,CARRARA Amélie
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,8,M,VIRON Gilbert
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,9,F,TAILLARD Dulce
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,10,M,CARRARA Nicolas
+90,Chavanatte,Chavanatte 2026 une équipe pour notre village,11,F,BONMARCHAND Fabienne
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,1,M,WERSINGER Frédéric
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,2,F,LABOUE Danielle
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,3,M,STUTZ Adrien
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,4,F,DELAITRE Justine
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,5,M,COLIN René
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,6,F,GONDELBERT Cindy
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,7,M,ECOFFET Matthieu
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,8,F,MICHEL Sophie
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,9,M,VOELIN Gille
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,10,F,DREYER Estelle
+90,Chavannes-les-Grands,Ensemble pour Chavannes-les-Grands,11,M,VALLET Pascal
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",1,M,LACHAIZE Lionel
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",2,F,HURTH Florence
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",3,M,LOEBY Alain
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",4,F,SIEDEL Christine
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",5,M,MUESSER Bernard
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",6,F,CURTI Laura Patricia
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",7,M,COURBERAND Christophe
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",8,F,CAVAZZONI Aurélie Suzanne
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",9,M,MICHELAT Pascal
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",10,F,PERKOVIC Slavica
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",11,M,BEDNARCZYK Philipe
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",12,F,PEKAS Maria
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",13,M,DROIT André
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",14,F,SCHMITT Agnès Alice Angèle
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",15,M,MENIGOZ Eric
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",16,F,ALONSO VALENSIA Marie Dolorès
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",17,M,JOYEUX Cyrille
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",18,F,LAMIELLE Marie-Ange Marthe
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",19,M,GABETE Grégory
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",20,F,MENIGOZ Pascale
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",21,M,INVERNIZZI Pascal Jean Chares
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",22,F,GIRARD Patricia
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",23,M,NORMAND Guillaume
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",24,F,MILLOT Danielle
+90,Châtenois-les-Forges,"Avec vous, pour construire demain",25,M,TEKIN Mehmet
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",1,F,BAILLIF Marie-Josée
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",2,M,BOUQUET Florian
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",3,F,GROSJEAN Céline
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",4,M,LUTHY Damien
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",5,F,BREUX Pauline
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",6,M,WINISZEWSKI Patrice
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",7,F,DECREUSE Emelylne
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",8,M,GROSJEAN Thibaut
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",9,F,PEROLLA Laetitia
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",10,M,GROSJEAN Denis
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",11,F,MELNYK Céline
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",12,M,GRILLON Fabien
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",13,F,MAIRE Marie-Nadine
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",14,M,VAUTHIER Lionnel
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",15,F,GIGANDET Doris
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",16,M,WELKLEN Marc
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",17,F,LAMBERT Aline
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",18,M,RINGER Thierry
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",19,F,SANTUCCI-JOSSE Sylvie
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",20,M,GUIDOLIN Victor
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",21,F,DUPONT Amandine
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",22,M,LEDRAPIER Christophe
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",23,F,CAPPELLI Eliane
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",24,M,FORESTIER Jean-Luc
+90,Châtenois-les-Forges,"Proches de vous, fiers de Châtenois-les-Forges",25,F,THELLIER Claire
+90,Chèvremont,Chèvremont dynamique et proche de vous,1,M,HEIDET Jean-Daniel
+90,Chèvremont,Chèvremont dynamique et proche de vous,2,F,FREMY Maria
+90,Chèvremont,Chèvremont dynamique et proche de vous,3,M,PACAUD Pierre
+90,Chèvremont,Chèvremont dynamique et proche de vous,4,F,CESCA Mélanie
+90,Chèvremont,Chèvremont dynamique et proche de vous,5,M,VAGNEY Fabrice
+90,Chèvremont,Chèvremont dynamique et proche de vous,6,F,TAVERNIER Aurélia
+90,Chèvremont,Chèvremont dynamique et proche de vous,7,M,TOURNIER Bernard
+90,Chèvremont,Chèvremont dynamique et proche de vous,8,F,SCHAUER Agnès
+90,Chèvremont,Chèvremont dynamique et proche de vous,9,M,BRUN Alain
+90,Chèvremont,Chèvremont dynamique et proche de vous,10,F,ROBIN Béatrice
+90,Chèvremont,Chèvremont dynamique et proche de vous,11,M,HILT Julien
+90,Chèvremont,Chèvremont dynamique et proche de vous,12,F,DUSART Claire-Marie
+90,Chèvremont,Chèvremont dynamique et proche de vous,13,M,KACHEL Christian
+90,Chèvremont,Chèvremont dynamique et proche de vous,14,F,LECHGUER Najat
+90,Chèvremont,Chèvremont dynamique et proche de vous,15,M,SCHWALM Michael
+90,Chèvremont,Chèvremont dynamique et proche de vous,16,F,BOULANGEOT Bénédicte
+90,Chèvremont,Chèvremont dynamique et proche de vous,17,M,MAMET Benoit
+90,Chèvremont,Chèvremont dynamique et proche de vous,18,F,QUENOT Anne
+90,Chèvremont,Chèvremont dynamique et proche de vous,19,M,HOUOT Olivier
+90,Chèvremont,Chèvremont dynamique et proche de vous,20,F,BUFFENOIR Ilona
+90,Chèvremont,Chèvremont dynamique et proche de vous,21,M,POWOLNY Thomas
+90,Courcelles,UN ELAN DE JEUNESSE,1,F,PRENAT Annick
+90,Courcelles,UN ELAN DE JEUNESSE,2,M,PRENAT Pascal
+90,Courcelles,UN ELAN DE JEUNESSE,3,F,CHASSEROT Martine
+90,Courcelles,UN ELAN DE JEUNESSE,4,M,VEQUAUD Matthieu
+90,Courcelles,UN ELAN DE JEUNESSE,5,F,DUMORTIER Corinne
+90,Courcelles,UN ELAN DE JEUNESSE,6,M,WALLAT Sébastien
+90,Courcelles,UN ELAN DE JEUNESSE,7,F,PECQUEUX Madeleine
+90,Courcelles,UN ELAN DE JEUNESSE,8,M,TRIGNAN Sébastien
+90,Courcelles,UN ELAN DE JEUNESSE,9,F,GARNIER Aurélia
+90,Courcelles,UN ELAN DE JEUNESSE,10,M,BIGUET Paul
+90,Courcelles,UN ELAN DE JEUNESSE,11,F,GARNIER Isabelle
+90,Courtelevant,Courtelevant autrement,1,M,BULET Jean-Marc
+90,Courtelevant,Courtelevant autrement,2,F,FLEURY Amandine
+90,Courtelevant,Courtelevant autrement,3,M,DUPUIS Patrick
+90,Courtelevant,Courtelevant autrement,4,F,PIEGELIN Delphine
+90,Courtelevant,Courtelevant autrement,5,M,GUYON Alain
+90,Courtelevant,Courtelevant autrement,6,F,PILLER Sabine
+90,Courtelevant,Courtelevant autrement,7,M,LAIBE Jean-Marc
+90,Courtelevant,Courtelevant autrement,8,F,POLONI Stéphanie
+90,Courtelevant,Courtelevant autrement,9,M,PRETET Stephane
+90,Courtelevant,Courtelevant autrement,10,F,SIEGENTHALER Christelle
+90,Courtelevant,Courtelevant autrement,11,M,WIDMER Eric
+90,Cravanche,Continuons ensemble pour Cravanche,1,M,VEBER Renaud
+90,Cravanche,Continuons ensemble pour Cravanche,2,F,GIRARDEY Sylvaine
+90,Cravanche,Continuons ensemble pour Cravanche,3,M,DANEL Sébastien
+90,Cravanche,Continuons ensemble pour Cravanche,4,F,TRUONG Anne-Claude
+90,Cravanche,Continuons ensemble pour Cravanche,5,M,DORE Alain
+90,Cravanche,Continuons ensemble pour Cravanche,6,F,MODOLO Aline
+90,Cravanche,Continuons ensemble pour Cravanche,7,M,FEVRIER Eric
+90,Cravanche,Continuons ensemble pour Cravanche,8,F,GUILLARD Nadine
+90,Cravanche,Continuons ensemble pour Cravanche,9,M,GHADDAR Abdallah
+90,Cravanche,Continuons ensemble pour Cravanche,10,F,POUGET Nadine
+90,Cravanche,Continuons ensemble pour Cravanche,11,M,DEFER Jean-Noël
+90,Cravanche,Continuons ensemble pour Cravanche,12,F,TAMISIER Emilie
+90,Cravanche,Continuons ensemble pour Cravanche,13,M,GAVOILLE Richard
+90,Cravanche,Continuons ensemble pour Cravanche,14,F,BONVALLOT Martine
+90,Cravanche,Continuons ensemble pour Cravanche,15,M,TOMAS Jean-Michel
+90,Cravanche,Continuons ensemble pour Cravanche,16,F,NAVARRO Julie
+90,Cravanche,Continuons ensemble pour Cravanche,17,M,PETER Anthony
+90,Cravanche,Continuons ensemble pour Cravanche,18,F,CHALVERAT Olga
+90,Cravanche,Continuons ensemble pour Cravanche,19,M,NAVARRO Gregory
+90,Cravanche,Continuons ensemble pour Cravanche,20,F,MAGNI Claudine
+90,Cravanche,Continuons ensemble pour Cravanche,21,M,GUILLARD Jean-Philippe
+90,Croix,On y Croix,1,M,PIQUEREZ Louis
+90,Croix,On y Croix,2,F,PY Emanuelle
+90,Croix,On y Croix,3,M,MONNIER Claude
+90,Croix,On y Croix,4,F,ADATTE Cécile
+90,Croix,On y Croix,5,M,JOHNSON Alexander
+90,Croix,On y Croix,6,F,VALBERT Evelyne
+90,Croix,On y Croix,7,M,ULMAN Joseph
+90,Croix,On y Croix,8,F,WOLFER Amandine
+90,Croix,On y Croix,9,M,TOURNOUX Fabrice
+90,Croix,On y Croix,10,F,KAPP Marie-François
+90,Croix,On y Croix,11,M,JUIF Tristan
+90,Cunelières,Ensemble pour CUNELIERES,1,M,OSTERMANN Henri
+90,Cunelières,Ensemble pour CUNELIERES,2,F,ROBERT Sophie
+90,Cunelières,Ensemble pour CUNELIERES,3,M,TAHRI Jean
+90,Cunelières,Ensemble pour CUNELIERES,4,F,CHARTAUX Caroline
+90,Cunelières,Ensemble pour CUNELIERES,5,M,AUBERT Cyril
+90,Cunelières,Ensemble pour CUNELIERES,6,F,LINDECKER Martine
+90,Cunelières,Ensemble pour CUNELIERES,7,M,RUFFIO Anthony
+90,Cunelières,Ensemble pour CUNELIERES,8,F,HUMBERT Sandra
+90,Cunelières,Ensemble pour CUNELIERES,9,M,PAUCHET Frédéric
+90,Cunelières,Ensemble pour CUNELIERES,10,F,DACHER Stéphanie
+90,Cunelières,Ensemble pour CUNELIERES,11,M,MOREAU Jérôme
+90,Danjoutin,Danjoutin avenir,1,M,FLUCKIGER Stéphane
+90,Danjoutin,Danjoutin avenir,2,F,VAUDOUX Céline
+90,Danjoutin,Danjoutin avenir,3,M,RIVIER Stéphane
+90,Danjoutin,Danjoutin avenir,4,F,SAUGIER Elisabeth
+90,Danjoutin,Danjoutin avenir,5,M,PLEIGNET Benjamin
+90,Danjoutin,Danjoutin avenir,6,F,GARCIA Agnès
+90,Danjoutin,Danjoutin avenir,7,M,OUCHELLI Karim
+90,Danjoutin,Danjoutin avenir,8,F,VAUCHER Mélissa
+90,Danjoutin,Danjoutin avenir,9,M,BOULEDJOUIDJA Farouk
+90,Danjoutin,Danjoutin avenir,10,F,DEMANDRE Catherine
+90,Danjoutin,Danjoutin avenir,11,M,TAHIRI Nassir
+90,Danjoutin,Danjoutin avenir,12,F,RITTER Patricia
+90,Danjoutin,Danjoutin avenir,13,M,GUNES Musab
+90,Danjoutin,Danjoutin avenir,14,F,BEDIER Patricia
+90,Danjoutin,Danjoutin avenir,15,M,ANTOINE Christophe
+90,Danjoutin,Danjoutin avenir,16,F,CHIPEAUX Evelyne
+90,Danjoutin,Danjoutin avenir,17,M,DIETRICH Ludovic
+90,Danjoutin,Danjoutin avenir,18,F,PERRIN Bérangère
+90,Danjoutin,Danjoutin avenir,19,M,MANGUIN Michel
+90,Danjoutin,Danjoutin avenir,20,F,CHOUX Valérie
+90,Danjoutin,Danjoutin avenir,21,M,COCHET Franck
+90,Danjoutin,Danjoutin avenir,22,F,JEANNIN Claude
+90,Danjoutin,Danjoutin avenir,23,M,MARINI Lucas
+90,Danjoutin,Danjoutin avenir,24,F,DI MACCIO Sylvie
+90,Danjoutin,Danjoutin avenir,25,M,MALOUVET Laurent
+90,Danjoutin,Danjoutin avenir,26,F,SIGNE Geneviève
+90,Danjoutin,Danjoutin avenir,27,M,LLAMAS Georges
+90,Danjoutin,Danjoutin avenir,28,F,PIETIN Christine
+90,Danjoutin,Danjoutin avenir,29,M,HERBACH Franck
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,1,M,FORMET Emmanuel
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,2,F,GAILLARD Marie-France
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,3,M,BARON Ghislain
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,4,F,VUILLEROT Emilie
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,5,M,VALLAT Jean-Claude
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,6,F,CUROT Martine
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,7,M,HOWALD Florent
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,8,F,CLEMENTE Marlène
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,9,M,STIRNEMANN Pascal
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,10,F,SEIGEOT Liliane
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,11,M,CARLIN Fabian
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,12,F,LE QUERE Aurore
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,13,M,GOBERT Pierre
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,14,F,CARDOT Dany
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,15,M,LUCQ Laurent
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,16,F,ALKAN Ayse
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,17,M,BOULANGER Johann
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,18,F,AUGIER Patricia
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,19,M,PANDOLFO Pascal
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,20,F,STIRNEMANN Valérie
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,21,M,GARDOT Serge
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,22,F,LE HAELLEC Kalem
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,23,M,OTKY Taoufik
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,24,F,GRABENSTAETTER Peggy
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,25,M,GENTUSA Olivier
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,26,F,DUBOIS Nelly
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,27,M,DEMESTRE Noa
+90,Danjoutin,ENSEMBLE POUR DEMAIN DANJOUTIN,28,F,LUCIANI Claire
+90,Delle,Fiers d'être Dellois !,1,M,ROUSSE Frédéric
+90,Delle,Fiers d'être Dellois !,2,F,VERONES Agnes
+90,Delle,Fiers d'être Dellois !,3,M,HECHE Bastien
+90,Delle,Fiers d'être Dellois !,4,F,BANDELIER Marielle
+90,Delle,Fiers d'être Dellois !,5,M,NORMAND Frédéric
+90,Delle,Fiers d'être Dellois !,6,F,MERCY Frédérique
+90,Delle,Fiers d'être Dellois !,7,M,DUCHET-ANNEZ Anthony
+90,Delle,Fiers d'être Dellois !,8,F,CLAUDEL Mélanie
+90,Delle,Fiers d'être Dellois !,9,M,CHELMA Philippe
+90,Delle,Fiers d'être Dellois !,10,F,JACOUTOT Annie
+90,Delle,Fiers d'être Dellois !,11,M,CORDIER Jonathan
+90,Delle,Fiers d'être Dellois !,12,F,BLARDONE Lou-Anne
+90,Delle,Fiers d'être Dellois !,13,M,LESCURE Benoit
+90,Delle,Fiers d'être Dellois !,14,F,YAHIAOUI Cilia
+90,Delle,Fiers d'être Dellois !,15,M,SPECKLIN Sylvain
+90,Delle,Fiers d'être Dellois !,16,F,AUBRY Marie-Josée
+90,Delle,Fiers d'être Dellois !,17,M,BRUDER Yohan
+90,Delle,Fiers d'être Dellois !,18,F,HERMANN Lauriane
+90,Delle,Fiers d'être Dellois !,19,M,DJEBASSI Zachary
+90,Delle,Fiers d'être Dellois !,20,F,BEBBER Claudine
+90,Delle,Fiers d'être Dellois !,21,M,GAOUDILLAT Laurent
+90,Delle,Fiers d'être Dellois !,22,F,GERBER Mélanie
+90,Delle,Fiers d'être Dellois !,23,M,TAVIER Alexandre
+90,Delle,Fiers d'être Dellois !,24,F,LAMARRE Julie
+90,Delle,Fiers d'être Dellois !,25,M,BRON Jérémy
+90,Delle,Fiers d'être Dellois !,26,F,SCHNEGG Gwladys
+90,Delle,Fiers d'être Dellois !,27,M,VAN ASSCHE Samuel
+90,Delle,Fiers d'être Dellois !,28,F,MONNIN Liliane
+90,Delle,Fiers d'être Dellois !,29,M,BETTIG Didier
+90,Delle,Fiers d'être Dellois !,30,F,VETERE Lydie
+90,Delle,Fiers d'être Dellois !,31,M,GAULARD Patrick
+90,Delle,Rassemblement dellois,1,F,NICOL Doriane
+90,Delle,Rassemblement dellois,2,M,DELANNOY Mickaël
+90,Delle,Rassemblement dellois,3,F,MASSON Aurélie
+90,Delle,Rassemblement dellois,4,M,BOILLON Yann
+90,Delle,Rassemblement dellois,5,F,DAVOUST Lénaïc
+90,Delle,Rassemblement dellois,6,M,SIMONIN Hervé
+90,Delle,Rassemblement dellois,7,F,BOYER Ophélie
+90,Delle,Rassemblement dellois,8,M,PIERRE Théo
+90,Delle,Rassemblement dellois,9,F,BASSET Axelina
+90,Delle,Rassemblement dellois,10,M,PICARD Alan
+90,Delle,Rassemblement dellois,11,F,DROUHOT Ségolène
+90,Delle,Rassemblement dellois,12,M,RAMASSOT Pierre
+90,Delle,Rassemblement dellois,13,F,GONET Margaux
+90,Delle,Rassemblement dellois,14,M,LUKASZEWSKI Bastien
+90,Delle,Rassemblement dellois,15,F,MARCUCCI Michèle
+90,Delle,Rassemblement dellois,16,M,PEREK Kévin
+90,Delle,Rassemblement dellois,17,F,BODIN Sylvia
+90,Delle,Rassemblement dellois,18,M,DROUHOT Geoffrey
+90,Delle,Rassemblement dellois,19,F,AIGUIER Laetitia
+90,Delle,Rassemblement dellois,20,M,JACOUTOT Olivier
+90,Delle,Rassemblement dellois,21,F,LONGHI Nelly
+90,Delle,Rassemblement dellois,22,M,AIGUIER Raphaël
+90,Delle,Rassemblement dellois,23,F,RONDOT Félicita
+90,Delle,Rassemblement dellois,24,M,JEHLEN Stéphane
+90,Delle,Rassemblement dellois,25,F,THIAW Magatte
+90,Delle,Rassemblement dellois,26,M,BETZLER Gilbert
+90,Delle,Rassemblement dellois,27,F,RECEVEUR Carole
+90,Delle,Rassemblement dellois,28,M,MORA Mickaël
+90,Delle,Rassemblement dellois,29,F,BASSET Delphine
+90,Delle,"S'unir pour Delle, agir pour demain",1,F,JANIAUD LARCHER Sandrine
+90,Delle,"S'unir pour Delle, agir pour demain",2,M,ROY Lionel
+90,Delle,"S'unir pour Delle, agir pour demain",3,F,MEBANI KHELIFI Fatima
+90,Delle,"S'unir pour Delle, agir pour demain",4,M,ABDOUN-SONTOT Lounès
+90,Delle,"S'unir pour Delle, agir pour demain",5,F,COINTOT Isabelle
+90,Delle,"S'unir pour Delle, agir pour demain",6,M,NATALE Robert
+90,Delle,"S'unir pour Delle, agir pour demain",7,F,BLIND Martine
+90,Delle,"S'unir pour Delle, agir pour demain",8,M,JACQUEMIN Kevin
+90,Delle,"S'unir pour Delle, agir pour demain",9,F,ESPINOSA Laurence
+90,Delle,"S'unir pour Delle, agir pour demain",10,M,GARNIER Philippe
+90,Delle,"S'unir pour Delle, agir pour demain",11,F,PETERLINI Valérine
+90,Delle,"S'unir pour Delle, agir pour demain",12,M,LARBI Boualem
+90,Delle,"S'unir pour Delle, agir pour demain",13,F,MAROTEL Elise
+90,Delle,"S'unir pour Delle, agir pour demain",14,M,OUASSIN André
+90,Delle,"S'unir pour Delle, agir pour demain",15,F,CHANVIN Audrey
+90,Delle,"S'unir pour Delle, agir pour demain",16,M,LECHINE Jean-Baptiste
+90,Delle,"S'unir pour Delle, agir pour demain",17,F,VAUCHY Sandra
+90,Delle,"S'unir pour Delle, agir pour demain",18,M,SOME Gustave
+90,Delle,"S'unir pour Delle, agir pour demain",19,F,GIRARDCLOS Marie
+90,Delle,"S'unir pour Delle, agir pour demain",20,M,BECHIR Nicolas
+90,Delle,"S'unir pour Delle, agir pour demain",21,F,SAADAOUI Myriam
+90,Delle,"S'unir pour Delle, agir pour demain",22,M,LOUAIL Mourad
+90,Delle,"S'unir pour Delle, agir pour demain",23,F,QUEIROS Martine
+90,Delle,"S'unir pour Delle, agir pour demain",24,M,THILL Thierry
+90,Delle,"S'unir pour Delle, agir pour demain",25,F,PALMA-GERARD Emmanuelle
+90,Delle,"S'unir pour Delle, agir pour demain",26,M,LUTENSCHLAGUER Didier
+90,Delle,"S'unir pour Delle, agir pour demain",27,F,EL MOUSSAFER Imann
+90,Delle,"S'unir pour Delle, agir pour demain",28,M,MAAZOUZ Ali
+90,Delle,"S'unir pour Delle, agir pour demain",29,F,RODA Cécile
+90,Delle,"S'unir pour Delle, agir pour demain",30,M,BOUR Daniel
+90,Delle,"S'unir pour Delle, agir pour demain",31,F,BINETRUY Stéphanie
+90,Denney,Au bien vivre à Denney,1,F,FERNANDEZ Dorothée
+90,Denney,Au bien vivre à Denney,2,M,CHATILLON Ludovic
+90,Denney,Au bien vivre à Denney,3,F,MEY Béatrice
+90,Denney,Au bien vivre à Denney,4,M,COURBOT Paul
+90,Denney,Au bien vivre à Denney,5,F,GASPARI Christelle
+90,Denney,Au bien vivre à Denney,6,M,BROCHET Laurent
+90,Denney,Au bien vivre à Denney,7,F,LUDWIG Pauline
+90,Denney,Au bien vivre à Denney,8,M,RUI Fernand
+90,Denney,Au bien vivre à Denney,9,F,SCHOENAUER Laurence
+90,Denney,Au bien vivre à Denney,10,M,PERIAT Fabrice
+90,Denney,Au bien vivre à Denney,11,F,REMOND Samantha
+90,Denney,Au bien vivre à Denney,12,M,SCHERRER Pierre
+90,Denney,Au bien vivre à Denney,13,F,EHRET Gaëlle
+90,Denney,Au bien vivre à Denney,14,M,ANTHOINE Matthieu
+90,Denney,Au bien vivre à Denney,15,F,GOCTU Aysun
+90,Denney,Vivre ensemble,1,M,CORDIER Aurélien
+90,Denney,Vivre ensemble,2,F,CESCA Christelle
+90,Denney,Vivre ensemble,3,M,GARCIA Jean-Luc
+90,Denney,Vivre ensemble,4,F,MERUCCI Italia
+90,Denney,Vivre ensemble,5,M,TENISCI Fabio
+90,Denney,Vivre ensemble,6,F,AMET Ariane
+90,Denney,Vivre ensemble,7,M,CUENOT Georges
+90,Denney,Vivre ensemble,8,F,BEFORT MARCHAND Patricia
+90,Denney,Vivre ensemble,9,M,CHAUDEY Tom
+90,Denney,Vivre ensemble,10,F,TENISCI Colette
+90,Denney,Vivre ensemble,11,M,GROSJEAN Hervé
+90,Denney,Vivre ensemble,12,F,KUBIAK Claire
+90,Denney,Vivre ensemble,13,M,RATTE Marc
+90,Denney,Vivre ensemble,14,F,LE GUILLOUX Dominique
+90,Dorans,Dorans héritage d'avenir,1,M,CHEVALLIER Dorian
+90,Dorans,Dorans héritage d'avenir,2,F,LUCE Aurore
+90,Dorans,Dorans héritage d'avenir,3,M,PASTEUR Stephen
+90,Dorans,Dorans héritage d'avenir,4,F,MARTIN Nicole
+90,Dorans,Dorans héritage d'avenir,5,M,BOILLOT Sébastien
+90,Dorans,Dorans héritage d'avenir,6,F,PRESTAVOINE Linda
+90,Dorans,Dorans héritage d'avenir,7,M,DEBBICHE Billel
+90,Dorans,Dorans héritage d'avenir,8,F,SAUCET Caroline
+90,Dorans,Dorans héritage d'avenir,9,M,FERRADI Merouane
+90,Dorans,Dorans héritage d'avenir,10,F,GRAVIER Cecile
+90,Dorans,Dorans héritage d'avenir,11,M,GACHOD Gilbert
+90,Dorans,Dorans héritage d'avenir,12,F,CHEVALLIER Sophie
+90,Dorans,Dorans héritage d'avenir,13,M,ADAM Michael
+90,Dorans,Dorans héritage d'avenir,14,F,SEBAUT Victoria
+90,Dorans,Dorans héritage d'avenir,15,M,RONDOT Christophe
+90,Dorans,Dorans plus proche de vous,1,M,HENZELIN Michel
+90,Dorans,Dorans plus proche de vous,2,F,BILLEREY Marie-France
+90,Dorans,Dorans plus proche de vous,3,M,GAUCHET Patrice
+90,Dorans,Dorans plus proche de vous,4,F,MOURCELY Corinne
+90,Dorans,Dorans plus proche de vous,5,M,FOLLOT Michel
+90,Dorans,Dorans plus proche de vous,6,F,BAZIN Justine
+90,Dorans,Dorans plus proche de vous,7,M,FRUHAUF Laurent
+90,Dorans,Dorans plus proche de vous,8,F,RAVAL Deolinda
+90,Dorans,Dorans plus proche de vous,9,M,GRAS Francis
+90,Dorans,Dorans plus proche de vous,10,F,SANDOZ Stéphanie
+90,Dorans,Dorans plus proche de vous,11,M,ROSSETTO Gregory
+90,Dorans,Dorans plus proche de vous,12,F,GIRGENTI Emilie
+90,Dorans,Dorans plus proche de vous,13,M,MOREY Franck
+90,Dorans,Dorans plus proche de vous,14,F,BAILLY Héloise
+90,Dorans,Dorans plus proche de vous,15,M,DEMOLY Frédéric
+90,Eguenigue,EGUENIGUE 2026,1,M,PAYROU Gérard
+90,Eguenigue,EGUENIGUE 2026,2,F,TAMAGNE Bernadette
+90,Eguenigue,EGUENIGUE 2026,3,M,BERNARDIN Christophe
+90,Eguenigue,EGUENIGUE 2026,4,F,GAUTHIER Evelyne
+90,Eguenigue,EGUENIGUE 2026,5,M,BERNARD Alain
+90,Eguenigue,EGUENIGUE 2026,6,F,LAROCHE Patricia
+90,Eguenigue,EGUENIGUE 2026,7,M,FALCONE Franco
+90,Eguenigue,EGUENIGUE 2026,8,F,BARBER Virginie
+90,Eguenigue,EGUENIGUE 2026,9,M,EGGENSPILLER Georges
+90,Eguenigue,EGUENIGUE 2026,10,F,ROTH Hélène
+90,Eguenigue,EGUENIGUE 2026,11,M,JOLIVET Romain
+90,Eguenigue,EGUENIGUE 2026,12,F,BISCHOFF Hélène
+90,Eguenigue,EGUENIGUE 2026,13,M,MANNI Eric
+90,Eloie,Ensemble pour Eloie,1,M,GILBERT Eric
+90,Eloie,Ensemble pour Eloie,2,F,BOITEUX Elise
+90,Eloie,Ensemble pour Eloie,3,M,STIRNEMANN Laurent
+90,Eloie,Ensemble pour Eloie,4,F,BECK Annie
+90,Eloie,Ensemble pour Eloie,5,M,ORIEZ Emmanuel
+90,Eloie,Ensemble pour Eloie,6,F,HOUMAIRE Lucie
+90,Eloie,Ensemble pour Eloie,7,M,ROY Billy
+90,Eloie,Ensemble pour Eloie,8,F,SOUILLIER Fanny
+90,Eloie,Ensemble pour Eloie,9,M,BULLIARD Laurent
+90,Eloie,Ensemble pour Eloie,10,F,ZELLER Elodie
+90,Eloie,Ensemble pour Eloie,11,M,CRELEROT Olivier
+90,Eloie,Ensemble pour Eloie,12,F,EGLINGER Sandrine
+90,Eloie,Ensemble pour Eloie,13,M,HARTER Yannick
+90,Eloie,Ensemble pour Eloie,14,F,KOVACS Virginie
+90,Eloie,Ensemble pour Eloie,15,M,NICLOSSE Kévin
+90,Essert,Avec Vous pour Essert,1,M,BURGER Alain
+90,Essert,Avec Vous pour Essert,2,F,MARTIN Danielle
+90,Essert,Avec Vous pour Essert,3,M,RETAUX Matthieu
+90,Essert,Avec Vous pour Essert,4,F,MACCHI Delphine
+90,Essert,Avec Vous pour Essert,5,M,LAURENT Philippe
+90,Essert,Avec Vous pour Essert,6,F,MOINAULT Séverine
+90,Essert,Avec Vous pour Essert,7,M,BARRAUX Lucas
+90,Essert,Avec Vous pour Essert,8,F,MADONNA Myriam
+90,Essert,Avec Vous pour Essert,9,M,KOKCU Ethem
+90,Essert,Avec Vous pour Essert,10,F,LEUCK Caroline
+90,Essert,Avec Vous pour Essert,11,M,ISRAEL Romain
+90,Essert,Avec Vous pour Essert,12,F,MARAZZATO Sophie
+90,Essert,Avec Vous pour Essert,13,M,MUGNIER Jérémie
+90,Essert,Avec Vous pour Essert,14,F,GRISEY Hélène
+90,Essert,Avec Vous pour Essert,15,M,ABDAIN Karim
+90,Essert,Avec Vous pour Essert,16,F,PAYOT Emmanuelle
+90,Essert,Avec Vous pour Essert,17,M,BOUSSALEM Mohamed
+90,Essert,Avec Vous pour Essert,18,F,OLOFSSON Nina
+90,Essert,Avec Vous pour Essert,19,M,SEVIMLI Fidel
+90,Essert,Avec Vous pour Essert,20,F,GARNIER Emmanuelle
+90,Essert,Avec Vous pour Essert,21,M,JACQUEL Arthur
+90,Essert,Avec Vous pour Essert,22,F,CHAUDEY Syvie
+90,Essert,Avec Vous pour Essert,23,M,GENRE-JAZELET David
+90,Essert,Avec Vous pour Essert,24,F,ROMESTAING Marie-Françoise
+90,Essert,Avec Vous pour Essert,25,M,MARTIN Thierry
+90,Essert,Une nouvelle ère pour ESSERT,1,F,CLAUSTRAT Grégorie
+90,Essert,Une nouvelle ère pour ESSERT,2,M,SOYLU Samed
+90,Essert,Une nouvelle ère pour ESSERT,3,F,DUFOUR Nathalie
+90,Essert,Une nouvelle ère pour ESSERT,4,M,AVISSE Michel
+90,Essert,Une nouvelle ère pour ESSERT,5,F,GERMAIN Cecilia
+90,Essert,Une nouvelle ère pour ESSERT,6,M,RICCI Andre
+90,Essert,Une nouvelle ère pour ESSERT,7,F,ROZE Emeline
+90,Essert,Une nouvelle ère pour ESSERT,8,M,ROUSSILLE Damien
+90,Essert,Une nouvelle ère pour ESSERT,9,F,HUBERT Marine
+90,Essert,Une nouvelle ère pour ESSERT,10,M,MARTINEZ Jean-Yves
+90,Essert,Une nouvelle ère pour ESSERT,11,F,HEITZLER Jeannine
+90,Essert,Une nouvelle ère pour ESSERT,12,M,SCHWALM Cyrille
+90,Essert,Une nouvelle ère pour ESSERT,13,F,MARTIN Catherine
+90,Essert,Une nouvelle ère pour ESSERT,14,M,LEGRET Alexandre
+90,Essert,Une nouvelle ère pour ESSERT,15,F,BURGY Ludivine
+90,Essert,Une nouvelle ère pour ESSERT,16,M,GUEZ Didier
+90,Essert,Une nouvelle ère pour ESSERT,17,F,FRISON Anne
+90,Essert,Une nouvelle ère pour ESSERT,18,M,CARRE Marcel
+90,Essert,Une nouvelle ère pour ESSERT,19,F,MORINA Christalle
+90,Essert,Une nouvelle ère pour ESSERT,20,M,ANDRE Michel
+90,Essert,Une nouvelle ère pour ESSERT,21,F,MEYER Céline
+90,Essert,Une nouvelle ère pour ESSERT,22,M,DUFOUR Didier
+90,Essert,Une nouvelle ère pour ESSERT,23,F,ROHRIG Edith
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",1,M,FLORI Fabien
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",2,F,RAFAEL Carole
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",3,M,GASTON Julien
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",4,F,FICHET Amandine
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",5,M,BARLIER Gabriel
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",6,F,SCHAAF Virgine
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",7,M,LORENTZ Florian
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",8,F,FAIVRE Justine
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",9,M,BOURQUARDEZ Mathieu
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",10,F,DE CARVALHO Nathalie
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",11,M,VANDEKERKHOVE Freddy
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",12,F,OUASSIN Amélie
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",13,M,VAILLANT Philippe
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",14,F,DAVID Aurore
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",15,M,GILLET Sébastien
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",16,F,OUTHIER Noelle
+90,Etueffont,"AGIR AUJOURD'HUI, BÂTIR DEMAIN",17,M,ANGUENOT Enrique
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,1,M,GRISEY Hervé
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,2,F,PERRIN Anne-Lise
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,3,M,BAZIN René
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,4,F,FENDELEUR Angélique
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,5,M,GROSS Pascal
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,6,F,MONTEIL Pernelle
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,7,M,TORRAO Francisco
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,8,F,BOURGEOIS Françoise
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,9,M,RENAUD Maxime
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,10,F,MONTI Alice
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,11,M,HECK Nicolas
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,12,F,STEMMELEN Armelle
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,13,M,DRUON Thomas
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,14,F,MOUGET Gersende
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,15,M,PRETOT Vincent
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,16,F,JEANNOT Véronique
+90,Etueffont,FORGEONS L'AVENIR D'ETUEFFONT,17,M,HUMBERT Alain
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,1,M,DEMESY Laurent
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,2,F,DAMERON Jocelyne
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,3,M,LAURENT Philippe
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,4,F,PELTIER Yvette
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,5,M,BRUNET Marc
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,6,F,WURTZ Flore
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,7,M,CHASSIGNET Thierry
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,8,F,BOHN Marie-Josephe
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,9,M,BRUEZ Georges
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,10,F,GREC Marie Christine
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,11,M,MEYER Yves
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,12,F,RIHN Catherine
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,13,M,DELAFORGE Michel
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,14,F,BUSCH Claudine
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,15,M,SOPPERA André
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,16,F,LHUILLIER-SIMON Murielle
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,17,M,GERARD Jacques
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,18,F,SAUVAGEOT Florence
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,19,M,LAINE Thierry
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,20,F,DIET Caroline
+90,Evette-Salbert,ENSEMBLE POUR EVETTE-SALBERT,21,M,MARGUIER Rodolphe
+90,Faverois,Bien vivre à Faverois,1,F,STOJANOVIC Kristina
+90,Faverois,Bien vivre à Faverois,2,M,MOSER Kévin
+90,Faverois,Bien vivre à Faverois,3,F,TOURENNE Lydie
+90,Faverois,Bien vivre à Faverois,4,M,BERTIN Patrick
+90,Faverois,Bien vivre à Faverois,5,F,SARRET Claudine
+90,Faverois,Bien vivre à Faverois,6,M,STOUFF Grégory
+90,Faverois,Bien vivre à Faverois,7,F,BAU Anne
+90,Faverois,Bien vivre à Faverois,8,M,ROSSI Matthieu
+90,Faverois,Bien vivre à Faverois,9,F,MARICHAL Valentine
+90,Faverois,Bien vivre à Faverois,10,M,MANGIN Esteban
+90,Faverois,Bien vivre à Faverois,11,F,RICHARD Louise
+90,Faverois,Bien vivre à Faverois,12,M,PAUTZ Jérémy
+90,Faverois,Bien vivre à Faverois,13,F,GAIFFE Eliane
+90,Faverois,Bien vivre à Faverois,14,M,PLUMET Fabien
+90,Faverois,Bien vivre à Faverois,15,F,KOKES Céline
+90,Felon,Avenir Felon,1,M,WEISS Eric
+90,Felon,Avenir Felon,2,F,PERSONENI Fiona
+90,Felon,Avenir Felon,3,M,JORY Ludovic
+90,Felon,Avenir Felon,4,F,POULAIN Esthelle
+90,Felon,Avenir Felon,5,M,CHRETIEN David
+90,Felon,Avenir Felon,6,F,BLANCO Fanny
+90,Felon,Avenir Felon,7,M,FARQUE Alexandre
+90,Felon,Avenir Felon,8,F,KIHM Valérie
+90,Felon,Avenir Felon,9,M,COTTET Pascal
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,1,M,CERAUDO Jonathan
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,2,F,YODER Denise
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,3,M,MAULE Cedric
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,4,F,SCHREINER Elsa
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,5,M,ROUSSEL Alain
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,6,F,MAULE Anastasia
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,7,M,PLACKO Jeann-Charles
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,8,F,GRISARD Caroline
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,9,M,GRUMBLATT Quentin
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,10,F,LEUENBERGER Jacqueline
+90,Florimont,FLORIMONT NOTRE HERITAGE NOTRE AVENIR,11,M,GIGON Frederic
+90,Fontaine,POUR VOUS AVEC NOUS,1,M,FIETIER Pierre
+90,Fontaine,POUR VOUS AVEC NOUS,2,F,COLLIN Fanny
+90,Fontaine,POUR VOUS AVEC NOUS,3,M,ROSSÉ Valentin
+90,Fontaine,POUR VOUS AVEC NOUS,4,F,JULLEROT Carole
+90,Fontaine,POUR VOUS AVEC NOUS,5,M,JACQUES Fabrice
+90,Fontaine,POUR VOUS AVEC NOUS,6,F,IFFENECKER Patricia
+90,Fontaine,POUR VOUS AVEC NOUS,7,M,DUBOIS Régis
+90,Fontaine,POUR VOUS AVEC NOUS,8,F,ANDRE Delphine
+90,Fontaine,POUR VOUS AVEC NOUS,9,M,SCHNEIDER Yves
+90,Fontaine,POUR VOUS AVEC NOUS,10,F,CHALIER Pascale
+90,Fontaine,POUR VOUS AVEC NOUS,11,M,REVERTE Juan
+90,Fontaine,POUR VOUS AVEC NOUS,12,F,DAVAL Nadège
+90,Fontaine,POUR VOUS AVEC NOUS,13,M,SCHERRER Pascal
+90,Fontaine,POUR VOUS AVEC NOUS,14,F,ALVARADO Myriam
+90,Fontaine,POUR VOUS AVEC NOUS,15,M,KAMMERER Rudy
+90,Fontenelle,Nouvel élan pour Fontenelle,1,M,MOUGIN Jean-Claude
+90,Fontenelle,Nouvel élan pour Fontenelle,2,F,DESHAIE Caroline
+90,Fontenelle,Nouvel élan pour Fontenelle,3,M,ALGHIERI Philippe
+90,Fontenelle,Nouvel élan pour Fontenelle,4,F,HELBLING Carole
+90,Fontenelle,Nouvel élan pour Fontenelle,5,M,DAVID Emmanuel
+90,Fontenelle,Nouvel élan pour Fontenelle,6,F,ETIENNE Virginie
+90,Fontenelle,Nouvel élan pour Fontenelle,7,M,CLAUDEL Christophe
+90,Fontenelle,Nouvel élan pour Fontenelle,8,F,HARNIST Karol
+90,Fontenelle,Nouvel élan pour Fontenelle,9,M,CUSENZA Gaëtan
+90,Fontenelle,Nouvel élan pour Fontenelle,10,F,STUDER Nathalie
+90,Fontenelle,Nouvel élan pour Fontenelle,11,M,CHEVILLARD Thierry
+90,Fontenelle,Nouvel élan pour Fontenelle,12,F,MOUQUET Anaïs
+90,Fontenelle,Nouvel élan pour Fontenelle,13,M,GUIET Alain
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",1,M,MIOTTE Arnaud
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",2,F,LONCHAMPT Isabelle
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",3,M,JACQUET Eric
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",4,F,COURTOT Céline
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",5,M,PILEYRE Christophe
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",6,F,CHABRIER Chantal
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",7,M,MONNET Jean-Luc
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",8,F,VERMENOT Anne-Charlotte
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",9,M,REBLAUB Vincent
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",10,F,DEGERMANN Wendy
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",11,M,LABRIET Alain
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",12,F,BEUGNET Joëlle
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",13,M,FREYBURGER Claude
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",14,F,FERRER Christelle
+90,Foussemagne,"NOTRE VILLAGE, NOTRE AVENIR",15,M,ANGIONE Benjamin
+90,Frais,Pour l'avenir de Frais,1,M,CONSTANTAKATOS Miltiades
+90,Frais,Pour l'avenir de Frais,2,F,BASBAS Farida
+90,Frais,Pour l'avenir de Frais,3,M,BARBOSA Romain
+90,Frais,Pour l'avenir de Frais,4,F,CESCHIA Anne
+90,Frais,Pour l'avenir de Frais,5,M,BITSCH Simon
+90,Frais,Pour l'avenir de Frais,6,F,GAUFROID Lydie
+90,Frais,Pour l'avenir de Frais,7,M,GRIMONT Fabien
+90,Frais,Pour l'avenir de Frais,8,F,MARCUZ Anne
+90,Frais,Pour l'avenir de Frais,9,M,MUNCH Laurent
+90,Frais,Pour l'avenir de Frais,10,F,NGUYEN Emily
+90,Frais,Pour l'avenir de Frais,11,M,RAMILLON Serge
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,1,F,MOUGIN Martine
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,2,M,MOUCHET Jérôme
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,3,F,COSTANTINI Fabienne
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,4,M,JEANNENEZ Jean-Marc
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,5,F,MERVELLET Pascale
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,6,M,GASSER Jean-Etienne
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,7,F,MATHIE Laetitia
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,8,M,SCHMITT Aurélien
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,9,F,BACHOLLE Céline
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,10,M,GONCALVES Dylan
+90,Froidefontaine,BATISSSONS ENSEMBLE L'AVENIR,11,F,OLEI Véronique
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",1,F,CURTIL Nathalie
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",2,M,BOUILLOT Nathael
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",3,F,BENOIT-SCHLIER Mandy
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",4,M,BUCHAILLOT Hervé
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",5,F,BIETRY Eva
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",6,M,EBERHARDT Julien
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",7,F,BOUILLOT Marine
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",8,M,FERRY Bastien
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",9,F,CURTIL Tiffanie
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",10,M,MANGUE Pascal
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",11,F,MARCJAN Céline
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",12,M,MARCJAN Thierry
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",13,F,VON AESCH Véronique
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",14,M,PERNOT Olivier
+90,Fêche-l'Eglise,"FECHE L'EGLISE, NOTRE ENGAGEMENT COMMUN",15,F,ZAUGG Véronique
+90,Giromagny,Giromagny au coeur,1,M,DEMOUGE Patrick
+90,Giromagny,Giromagny au coeur,2,F,CLAVEY Patricia
+90,Giromagny,Giromagny au coeur,3,M,ORLANDI Christian
+90,Giromagny,Giromagny au coeur,4,F,COLIN Angély
+90,Giromagny,Giromagny au coeur,5,M,ANTOINE Pierre
+90,Giromagny,Giromagny au coeur,6,F,DOUMERC Martine
+90,Giromagny,Giromagny au coeur,7,M,FREYBURGER Paul
+90,Giromagny,Giromagny au coeur,8,F,PREVOT Josiane
+90,Giromagny,Giromagny au coeur,9,M,DEMOUGE Elisée
+90,Giromagny,Giromagny au coeur,10,F,ERBRECH Aurélie
+90,Giromagny,Giromagny au coeur,11,M,DEMOUGIN Patrick
+90,Giromagny,Giromagny au coeur,12,F,DIDIER Delphine
+90,Giromagny,Giromagny au coeur,13,M,PEY Laurent
+90,Giromagny,Giromagny au coeur,14,F,DIDIER Elodie
+90,Giromagny,Giromagny au coeur,15,M,MARROIG Patrick
+90,Giromagny,Giromagny au coeur,16,F,VACHEZ Genevieve
+90,Giromagny,Giromagny au coeur,17,M,HEIDET Jean Luc
+90,Giromagny,Giromagny au coeur,18,F,RECEVEUR Marlène
+90,Giromagny,Giromagny au coeur,19,M,DUNEZ Christophe
+90,Giromagny,Giromagny au coeur,20,F,JACQUINOT Béatrice
+90,Giromagny,Giromagny au coeur,21,M,RECEVEUR Jean
+90,Giromagny,Giromagny au coeur,22,F,SEBAG Sonia
+90,Giromagny,Giromagny au coeur,23,M,ANTOINE Jérémy
+90,Giromagny,Giromagny cap sur demain,1,M,CODDET Christian
+90,Giromagny,Giromagny cap sur demain,2,F,BROS-ZELLER Liliane
+90,Giromagny,Giromagny cap sur demain,3,M,SALORT Jean-Louis
+90,Giromagny,Giromagny cap sur demain,4,F,VUILLAUME Patricia
+90,Giromagny,Giromagny cap sur demain,5,M,PLAISANCE Patrick
+90,Giromagny,Giromagny cap sur demain,6,F,MOZER Frederique
+90,Giromagny,Giromagny cap sur demain,7,M,MBOUKOU Alphonse
+90,Giromagny,Giromagny cap sur demain,8,F,CHOQUET Magalie
+90,Giromagny,Giromagny cap sur demain,9,M,PRENEZ Roland
+90,Giromagny,Giromagny cap sur demain,10,F,LAROCHE Corinne
+90,Giromagny,Giromagny cap sur demain,11,M,SCHNOEBELEN André
+90,Giromagny,Giromagny cap sur demain,12,F,PERRIN Aurelie
+90,Giromagny,Giromagny cap sur demain,13,M,PIGUET Jean-François
+90,Giromagny,Giromagny cap sur demain,14,F,PERRIN-GALLI Adèle
+90,Giromagny,Giromagny cap sur demain,15,M,MARLINE Louis
+90,Giromagny,Giromagny cap sur demain,16,F,WILLEMAIN Elisabeth
+90,Giromagny,Giromagny cap sur demain,17,M,PERREZ Christophe
+90,Giromagny,Giromagny cap sur demain,18,F,HUGENDOBLER Marine
+90,Giromagny,Giromagny cap sur demain,19,M,LACOUR André
+90,Giromagny,Giromagny cap sur demain,20,F,DUPATY Chloé
+90,Giromagny,Giromagny cap sur demain,21,M,BLANCHARD Lucien
+90,Giromagny,Giromagny cap sur demain,22,F,LION Janine
+90,Giromagny,Giromagny cap sur demain,23,M,ESSELIN JANNIOT Marc
+90,Giromagny,Giromagny cap sur demain,24,F,ESSELIN-JANNIOT Christelle
+90,Giromagny,Giromagny cap sur demain,25,M,DI CATERINA Pascal
+90,Giromagny,Giromagny le choix du bon sens,1,M,PISCHOFF Laurent
+90,Giromagny,Giromagny le choix du bon sens,2,F,DAMOTTE Sarah
+90,Giromagny,Giromagny le choix du bon sens,3,M,DESDAMES Michel
+90,Giromagny,Giromagny le choix du bon sens,4,F,MATERNIK Celine
+90,Giromagny,Giromagny le choix du bon sens,5,M,TRAVERS Thomas
+90,Giromagny,Giromagny le choix du bon sens,6,F,DELAHAYE Sophie
+90,Giromagny,Giromagny le choix du bon sens,7,M,FAIVRE Lionel
+90,Giromagny,Giromagny le choix du bon sens,8,F,RAUSHER Julie
+90,Giromagny,Giromagny le choix du bon sens,9,M,CLERC Emmanuel
+90,Giromagny,Giromagny le choix du bon sens,10,F,BEN Nathalie
+90,Giromagny,Giromagny le choix du bon sens,11,M,OEUVRARD Julien
+90,Giromagny,Giromagny le choix du bon sens,12,F,BERGDOLL Justine
+90,Giromagny,Giromagny le choix du bon sens,13,M,CREVOISIER Mathieu
+90,Giromagny,Giromagny le choix du bon sens,14,F,SCHMALTZ Marie-Claire
+90,Giromagny,Giromagny le choix du bon sens,15,M,SCHILLINGER Eliott
+90,Giromagny,Giromagny le choix du bon sens,16,F,WEISSE Bernadette
+90,Giromagny,Giromagny le choix du bon sens,17,M,RANZA Fabrice
+90,Giromagny,Giromagny le choix du bon sens,18,F,GOUMEZ LE FRIEC Talia
+90,Giromagny,Giromagny le choix du bon sens,19,M,PIERRAT Jean-Michel
+90,Giromagny,Giromagny le choix du bon sens,20,F,CARGNINO Amelie
+90,Giromagny,Giromagny le choix du bon sens,21,M,SIMONNET Frederic
+90,Giromagny,Giromagny le choix du bon sens,22,F,RIOTTE Stephanie
+90,Giromagny,Giromagny le choix du bon sens,23,M,MARZOLLA Andre
+90,Giromagny,Giromagny le choix du bon sens,24,F,TOURNIER Veronique
+90,Grandvillars,Ensemble agissons pour Granvillars,1,M,MOURAT Alain
+90,Grandvillars,Ensemble agissons pour Granvillars,2,F,MANCK Carine
+90,Grandvillars,Ensemble agissons pour Granvillars,3,M,FETSCHER Marc
+90,Grandvillars,Ensemble agissons pour Granvillars,4,F,ROSSI Caroline
+90,Grandvillars,Ensemble agissons pour Granvillars,5,M,ISARTE Yann
+90,Grandvillars,Ensemble agissons pour Granvillars,6,F,KOEHREN Maryline
+90,Grandvillars,Ensemble agissons pour Granvillars,7,M,ALDEA André
+90,Grandvillars,Ensemble agissons pour Granvillars,8,F,BOURLETTE Anastasia
+90,Grandvillars,Ensemble agissons pour Granvillars,9,M,ISARTE Pascal
+90,Grandvillars,Ensemble agissons pour Granvillars,10,F,FENAUX Cassandra
+90,Grandvillars,Ensemble agissons pour Granvillars,11,M,OUDOT Thomas
+90,Grandvillars,Ensemble agissons pour Granvillars,12,F,ALDEA Margaux
+90,Grandvillars,Ensemble agissons pour Granvillars,13,M,MUSSOT Michel
+90,Grandvillars,Ensemble agissons pour Granvillars,14,F,BELET Rachel
+90,Grandvillars,Ensemble agissons pour Granvillars,15,M,GLATH Christophe
+90,Grandvillars,Ensemble agissons pour Granvillars,16,F,BUSSIERE Elodie
+90,Grandvillars,Ensemble agissons pour Granvillars,17,M,CERAUDO Giosuele
+90,Grandvillars,Ensemble agissons pour Granvillars,18,F,LAVE Faïs
+90,Grandvillars,Ensemble agissons pour Granvillars,19,M,GOUX Dominique
+90,Grandvillars,Ensemble agissons pour Granvillars,20,F,LIMOSIN Sabine
+90,Grandvillars,Ensemble agissons pour Granvillars,21,M,SEGER Philippe
+90,Grandvillars,Ensemble agissons pour Granvillars,22,F,SCHOTTKOWSKI Mélanie
+90,Grandvillars,Ensemble agissons pour Granvillars,23,M,ANTOINE Frédéric
+90,Grandvillars,Grandvillars au coeur,1,M,RAYOT Christian
+90,Grandvillars,Grandvillars au coeur,2,F,BRIKH Anissa
+90,Grandvillars,Grandvillars au coeur,3,M,PELLETIER Jean-Marc
+90,Grandvillars,Grandvillars au coeur,4,F,RERAT Claudia
+90,Grandvillars,Grandvillars au coeur,5,M,CARPENTIER Yves
+90,Grandvillars,Grandvillars au coeur,6,F,HAMADI Céline
+90,Grandvillars,Grandvillars au coeur,7,M,GAILLARD Christian
+90,Grandvillars,Grandvillars au coeur,8,F,RICHERT Sophie
+90,Grandvillars,Grandvillars au coeur,9,M,REGNAULT Christophe
+90,Grandvillars,Grandvillars au coeur,10,F,MENDES Michèle
+90,Grandvillars,Grandvillars au coeur,11,M,BITARD Pierrick
+90,Grandvillars,Grandvillars au coeur,12,F,JEANROY Evelyne
+90,Grandvillars,Grandvillars au coeur,13,M,BIRSEN Mehmet
+90,Grandvillars,Grandvillars au coeur,14,F,VERON Valérie
+90,Grandvillars,Grandvillars au coeur,15,M,CHIESA Damien
+90,Grandvillars,Grandvillars au coeur,16,F,MARROU Fabienne
+90,Grandvillars,Grandvillars au coeur,17,M,BOURGOIN Patrick
+90,Grandvillars,Grandvillars au coeur,18,F,SAAD-BATTAGLIA Audrey
+90,Grandvillars,Grandvillars au coeur,19,M,BENISID Djamel
+90,Grandvillars,Grandvillars au coeur,20,F,DAVAL Coralie
+90,Grandvillars,Grandvillars au coeur,21,M,KOHLER Arnaud
+90,Grandvillars,Grandvillars au coeur,22,F,COTTET Virginie
+90,Grandvillars,Grandvillars au coeur,23,M,BONNET Jean-Romuald
+90,Grosmagny,Avec vous pour notre village,1,M,LEGUILLON Maurice
+90,Grosmagny,Avec vous pour notre village,2,F,PELTIER Laura
+90,Grosmagny,Avec vous pour notre village,3,M,NAAS Christian
+90,Grosmagny,Avec vous pour notre village,4,F,CHAUMERLIAC Agnès
+90,Grosmagny,Avec vous pour notre village,5,M,PERREZ Thierry
+90,Grosmagny,Avec vous pour notre village,6,F,HEINTZ Natacha
+90,Grosmagny,Avec vous pour notre village,7,M,BARBERET Yannick
+90,Grosmagny,Avec vous pour notre village,8,F,BOURGEOIS Marina
+90,Grosmagny,Avec vous pour notre village,9,M,FLEURY Luc
+90,Grosmagny,Avec vous pour notre village,10,F,CANAL Angeline
+90,Grosmagny,Avec vous pour notre village,11,M,MARCHAL Alain
+90,Grosmagny,Avec vous pour notre village,12,F,GALANTI Agnes
+90,Grosmagny,Avec vous pour notre village,13,M,DAOUDAL Sebastien
+90,Grosmagny,Avec vous pour notre village,14,F,BARRÉ Colette
+90,Grosmagny,Avec vous pour notre village,15,M,BARRÉ Edmond
+90,Grosmagny,Avec vous pour notre village,16,F,BESSON Martine
+90,Grosmagny,Avec vous pour notre village,17,M,MEYER Denis
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,1,M,COUTHERUT Guillaume
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,2,F,KELLER Sylvie
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,3,M,GOEPFERT Hervé
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,4,F,NAWROT Marie
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,5,M,SCHWALM Hervé
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,6,F,ROLLAND Sylvie
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,7,M,DIDIER Ludovic
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,8,F,LUMIA Véronique
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,9,M,RODIER Stephen
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,10,F,PHOMMABOUTH Aude
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,11,M,POIRRIER Francis
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,12,F,MIOSSEC Amandine
+90,Grosmagny,Ensemble pour le renouveau de Grosmagny,13,M,LANGLOIS Gaétan
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,1,F,TISSIER Régine
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,2,M,HOTTLET Jean-Louis
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,3,F,FERRY Catherine
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,4,M,SABOURIN Daniel
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,5,F,FREY Nathalie
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,6,M,BAUMONT Jean-François
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,7,F,LEFEVRE Favel
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,8,M,TISSIER Michel
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,9,F,TRELA Maud
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,10,M,WIDMER David
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,11,F,SABOURIN Fabienne
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,12,M,PLUMELEUR Fabien
+90,Grosne,L'ART DE BIEN VIVRE A GROSNE,13,F,BOURQUIN Adeline
+90,Joncherey,AIMER JONCHEREY,1,M,THEVENEAU Sebastian
+90,Joncherey,AIMER JONCHEREY,2,F,COTTET Priscillia
+90,Joncherey,AIMER JONCHEREY,3,M,BLANC Francis
+90,Joncherey,AIMER JONCHEREY,4,F,BELOSSAT Michèle
+90,Joncherey,AIMER JONCHEREY,5,M,RICHE Guy
+90,Joncherey,AIMER JONCHEREY,6,F,GOSSART Brigitte
+90,Joncherey,AIMER JONCHEREY,7,M,STALDER Michel
+90,Joncherey,AIMER JONCHEREY,8,F,COMANDINI Régine
+90,Joncherey,AIMER JONCHEREY,9,M,MARI Maxime
+90,Joncherey,AIMER JONCHEREY,10,F,TATTU Elisabeth
+90,Joncherey,AIMER JONCHEREY,11,M,RICHE Emmanuel
+90,Joncherey,AIMER JONCHEREY,12,F,BOREANIZ Pierrette
+90,Joncherey,AIMER JONCHEREY,13,M,DA CUNHA José
+90,Joncherey,AIMER JONCHEREY,14,F,REBERT Muriele
+90,Joncherey,AIMER JONCHEREY,15,M,ROUGEOT Brice
+90,Lachapelle-sous-Chaux,Proximité et engagement,1,F,PEUREUX-DEMANGELLE Anne-Sophie
+90,Lachapelle-sous-Chaux,Proximité et engagement,2,M,GUIGON Patrice
+90,Lachapelle-sous-Chaux,Proximité et engagement,3,F,MALSOT Florence
+90,Lachapelle-sous-Chaux,Proximité et engagement,4,M,LOYNET Christophe
+90,Lachapelle-sous-Chaux,Proximité et engagement,5,F,COLOMBIÉ Nathalie
+90,Lachapelle-sous-Chaux,Proximité et engagement,6,M,JEANNEZ Pascal
+90,Lachapelle-sous-Chaux,Proximité et engagement,7,F,LAFOUGE Isabelle
+90,Lachapelle-sous-Chaux,Proximité et engagement,8,M,VON-ARBOURG Jean-Philippe
+90,Lachapelle-sous-Chaux,Proximité et engagement,9,F,CHABOD Kelly
+90,Lachapelle-sous-Chaux,Proximité et engagement,10,M,KOKTEN Mehmet
+90,Lachapelle-sous-Chaux,Proximité et engagement,11,F,AST Corinne
+90,Lachapelle-sous-Chaux,Proximité et engagement,12,M,TISSERAND Pascal
+90,Lachapelle-sous-Chaux,Proximité et engagement,13,F,SIMON Marie-Laure
+90,Lachapelle-sous-Chaux,Proximité et engagement,14,M,COUVREUX Quentin
+90,Lachapelle-sous-Chaux,Proximité et engagement,15,F,DURY Nathalie
+90,Lachapelle-sous-Chaux,Proximité et engagement,16,M,MONNIN Jacques
+90,Lachapelle-sous-Chaux,Proximité et engagement,17,F,RANÇON Géraldine
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",1,M,GUÉRO Pierre-Yves
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",2,F,MOSBACH Frédérique
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",3,M,PERRADIN Richard
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",4,F,ZANRÉ Peggy
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",5,M,RONFORT Gérald
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",6,F,COPIN Maryline
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",7,M,DERNONCOURT Cédric
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",8,F,WEBER Christine
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",9,M,LEGAGNEUR Lucas
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",10,F,PIERSON Paméla
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",11,M,PROBST Gérard
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",12,F,STOUFF Sabrina
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",13,M,VEJNOVIC Dijan
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",14,F,GUEFFIER Viviane
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",15,M,LÉTANG Frédéric
+90,Lachapelle-sous-Rougemont,"LACHAPELLE-SOUS-ROUGEMONT, CONSTRUISONS L'AVENIR ENSEMBLE !",16,F,JEFFRIES Shirley
+90,Lacollonge,LACOLLONGE ENSEMBLE,1,M,DUMEL Patrick
+90,Lacollonge,LACOLLONGE ENSEMBLE,2,F,BLANC Christiane
+90,Lacollonge,LACOLLONGE ENSEMBLE,3,M,MURAT Michaël
+90,Lacollonge,LACOLLONGE ENSEMBLE,4,F,BALTOLU Magalie
+90,Lacollonge,LACOLLONGE ENSEMBLE,5,M,LOIGEROT Vincent
+90,Lacollonge,LACOLLONGE ENSEMBLE,6,F,GUYOT Sarah
+90,Lacollonge,LACOLLONGE ENSEMBLE,7,M,POYER Jean-Pierre
+90,Lacollonge,LACOLLONGE ENSEMBLE,8,F,LUPFER Isabelle
+90,Lacollonge,LACOLLONGE ENSEMBLE,9,M,MELON Gérard
+90,Lacollonge,LACOLLONGE ENSEMBLE,10,F,CASIER Laetitia
+90,Lacollonge,LACOLLONGE ENSEMBLE,11,M,THOMAS Fabrice
+90,Lagrange,Un nouvel Elan,1,M,GUERRE-GENTON Bernard Georges
+90,Lagrange,Un nouvel Elan,2,F,LOERCHER Stéphanie
+90,Lagrange,Un nouvel Elan,3,M,GOMEZ Emmanuel
+90,Lagrange,Un nouvel Elan,4,F,DA COL Mélaine
+90,Lagrange,Un nouvel Elan,5,M,GROSJEAN FROMAGEOT Gilles
+90,Lagrange,Un nouvel Elan,6,F,GIRARDOT Deborah
+90,Lagrange,Un nouvel Elan,7,M,JEANMOUGIN Didier
+90,Lagrange,Un nouvel Elan,8,F,GROSJEAN-FROMAGEOT Marion
+90,Lagrange,Un nouvel Elan,9,M,MARCONNET Didier
+90,Lamadeleine-Val-des-Anges,Les habitants de Lamadeleine-Val-des-Anges d'abord,1,M,BAZIN Olivier
+90,Lamadeleine-Val-des-Anges,Les habitants de Lamadeleine-Val-des-Anges d'abord,2,F,THEUBET Camille
+90,Lamadeleine-Val-des-Anges,Les habitants de Lamadeleine-Val-des-Anges d'abord,3,M,IRENEE Robert
+90,Lamadeleine-Val-des-Anges,Les habitants de Lamadeleine-Val-des-Anges d'abord,4,F,KART Cindy
+90,Lamadeleine-Val-des-Anges,Les habitants de Lamadeleine-Val-des-Anges d'abord,5,M,DEDEURWAERDER Gérard
+90,Lamadeleine-Val-des-Anges,Les habitants de Lamadeleine-Val-des-Anges d'abord,6,F,DUPONT Elodie
+90,Lamadeleine-Val-des-Anges,Les habitants de Lamadeleine-Val-des-Anges d'abord,7,M,BONGIOVANNI Benjamin
+90,Lamadeleine-Val-des-Anges,Tous unis au Val-des-Anges,1,M,GABLE Alexandre
+90,Lamadeleine-Val-des-Anges,Tous unis au Val-des-Anges,2,F,BAZIN Alexandra
+90,Lamadeleine-Val-des-Anges,Tous unis au Val-des-Anges,3,M,BAZIN Etienne
+90,Lamadeleine-Val-des-Anges,Tous unis au Val-des-Anges,4,F,SIMONIN Magalie
+90,Lamadeleine-Val-des-Anges,Tous unis au Val-des-Anges,5,M,MUTZ Julien
+90,Lamadeleine-Val-des-Anges,Tous unis au Val-des-Anges,6,F,GABLE Marie-Françoise
+90,Lamadeleine-Val-des-Anges,Tous unis au Val-des-Anges,7,M,MONNIER René
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,1,M,BLONDÉ Marc
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,2,F,CHOQUART Yvette
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,3,M,RONZANI Sylvain
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,4,F,MARCHAL Sylvie
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,5,M,FRICK Daniel
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,6,F,LEPINE Manon
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,7,M,BASCHUNG Maurice
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,8,F,WISS Valerie
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,9,M,GROSJEAN Gilles
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,10,F,ASDRUBAL Melanie
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,11,M,FREYMANN Frederic
+90,Larivière,LARIVIERE ENSEMBLE POUR DEMAIN,12,F,HUJEUX Solene
+90,Lebetain,Lebetain demain,1,M,DUPREZ Jean-Jacques
+90,Lebetain,Lebetain demain,2,F,GIGON Florence
+90,Lebetain,Lebetain demain,3,M,NIEDERHOFFER Guy Alain
+90,Lebetain,Lebetain demain,4,F,PERROT Jocelyne
+90,Lebetain,Lebetain demain,5,M,MARQUIS Serge
+90,Lebetain,Lebetain demain,6,F,DE MARINI Sandine
+90,Lebetain,Lebetain demain,7,M,DEMOUGE Cyrille
+90,Lebetain,Lebetain demain,8,F,MAILLOT Graziella
+90,Lebetain,Lebetain demain,9,M,STOUFF Roland
+90,Lebetain,Lebetain demain,10,F,DUPLAIN Marie-Claude
+90,Lebetain,Lebetain demain,11,M,CLAUDE Pascal
+90,Lepuix,Agir ensemble pour Lepuix,1,M,MARSOT Jean-Bernard
+90,Lepuix,Agir ensemble pour Lepuix,2,F,FRESET Valérie
+90,Lepuix,Agir ensemble pour Lepuix,3,M,TRAVERS Gérard
+90,Lepuix,Agir ensemble pour Lepuix,4,F,CLAUDEL Pascale
+90,Lepuix,Agir ensemble pour Lepuix,5,M,COLIN Philippe
+90,Lepuix,Agir ensemble pour Lepuix,6,F,STOJANOV Christelle
+90,Lepuix,Agir ensemble pour Lepuix,7,M,CHEVALIER Yoan
+90,Lepuix,Agir ensemble pour Lepuix,8,F,TRABAC Adeline
+90,Lepuix,Agir ensemble pour Lepuix,9,M,PERROD Joël
+90,Lepuix,Agir ensemble pour Lepuix,10,F,ALTER Sephora
+90,Lepuix,Agir ensemble pour Lepuix,11,M,ROETHINGER Christian
+90,Lepuix,Agir ensemble pour Lepuix,12,F,LHOMME Manon
+90,Lepuix,Agir ensemble pour Lepuix,13,M,WIMMER Jean-Bernard
+90,Lepuix,Agir ensemble pour Lepuix,14,F,KELLER Angélique
+90,Lepuix,Agir ensemble pour Lepuix,15,M,FELSINGER Frédéric
+90,Lepuix,Agir ensemble pour Lepuix,16,F,NICOLAS Louisette
+90,Lepuix,Agir ensemble pour Lepuix,17,M,DEVIN Florian
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,1,M,PETITJEAN Fabrice
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,2,F,BOUQUENEUR Laetitia
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,3,M,PAYSAN Sébastien
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,4,F,CHARRON Nikita
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,5,M,SCHNEIDER François
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,6,F,MARIDOR Laurence
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,7,M,DANOIS Bernard
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,8,F,PATINGRE Myriam
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,9,M,THELRIN Yann
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,10,F,VALKRE Isabelle
+90,Lepuix-Neuf,Tous unis pour Lepuix-Neuf,11,M,MINGUET François
+90,Leval,Ensemble pour Leval,1,M,COLARD Pierre-Etienne
+90,Leval,Ensemble pour Leval,2,F,LESPES Fatma
+90,Leval,Ensemble pour Leval,3,M,JELLY Laurent
+90,Leval,Ensemble pour Leval,4,F,DANTUNG Mélanie
+90,Leval,Ensemble pour Leval,5,M,RAVEYRE Guillaume
+90,Leval,Ensemble pour Leval,6,F,BERTRAND Elodie
+90,Leval,Ensemble pour Leval,7,M,MULLER Guillaume
+90,Leval,Ensemble pour Leval,8,F,GROELL Stéphanie
+90,Leval,Ensemble pour Leval,9,M,SERY Jérôme
+90,Leval,Ensemble pour Leval,10,F,SCHINDLER Laurence
+90,Leval,Ensemble pour Leval,11,M,STAFFOLANI Jérôme
+90,Leval,Ensemble pour Leval,12,F,MULLER Odile
+90,Leval,Ensemble pour Leval,13,M,RENON Olivier
+90,Leval,S'engager pour Leval,1,M,PRIMET Boris
+90,Leval,S'engager pour Leval,2,F,DECOMBE Virginie
+90,Leval,S'engager pour Leval,3,M,ILTIS Cedric
+90,Leval,S'engager pour Leval,4,F,MADRU-PARCHEMINEY Dorothée
+90,Leval,S'engager pour Leval,5,M,GUENIN Hubert
+90,Leval,S'engager pour Leval,6,F,GAUMEZ Aurore
+90,Leval,S'engager pour Leval,7,M,KESSLER Mathieu
+90,Leval,S'engager pour Leval,8,F,PIGUET Amandine
+90,Leval,S'engager pour Leval,9,M,CEAUX Martial
+90,Leval,S'engager pour Leval,10,F,CHAIFFRE Emilie
+90,Leval,S'engager pour Leval,11,M,PIGUET Christian
+90,Leval,S'engager pour Leval,12,F,DECOMBE Carole
+90,Leval,S'engager pour Leval,13,M,PREVOT Michel
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",1,M,JÄGER Michael
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",2,F,THIERY Maryline
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",3,M,JAMET Jean-Claude
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",4,F,GANAYE Nathalie
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",5,M,CHALVERAT Cédric
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",6,F,GEBEL Dominique
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",7,M,BRESSON Gerard
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",8,F,BOEHLER Marie-Laure
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",9,M,PERRY Guillaume
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",10,F,REDOUTEY Valerie
+90,Menoncourt,"Menoncourt, unis ensemble pour notre village",11,M,EBERHARDT Nathan
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,1,M,GUYOD Stéphane
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,2,F,DUBOST Noémie
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,3,M,HENNY Christophe
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,4,F,BOHL Emmanuelle
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,5,M,TOCHON Rémi
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,6,F,MAGRIS Sandrine
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,7,M,FANJAS Hugo
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,8,F,RICHERT Jessica
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,9,M,PARISOT Claude
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,10,F,MINGARDO Marie
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,11,M,ROYER Alan
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,12,F,DIVOUX-BONVALOT Adeline
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,13,M,LACAZE Sébastien
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,14,F,WELKER Emilie
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,15,M,GODEAU Jean-Pierre
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,16,F,MULLER Danielle
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,17,M,CABETE Victor
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,18,F,TISSOT Flavie
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,19,M,WULLENS Jean-Marc
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,20,F,JACQUES Amandine
+90,Meroux-Moval,ENSEMBLE POURSUIVONS NOTRE DYNAMIQUE POUR MEROUX-MOVAL,21,M,PARISOT Nicolas
+90,Meroux-Moval,Tous Mervalois,1,M,MANTION Thierry
+90,Meroux-Moval,Tous Mervalois,2,F,GANET Lydie
+90,Meroux-Moval,Tous Mervalois,3,M,AUBRY Jérémy
+90,Meroux-Moval,Tous Mervalois,4,F,JEANNIN Isabelle
+90,Meroux-Moval,Tous Mervalois,5,M,SIMOES Manuel
+90,Meroux-Moval,Tous Mervalois,6,F,TRIBOUT Nathalie
+90,Meroux-Moval,Tous Mervalois,7,M,CLERC Philippe
+90,Meroux-Moval,Tous Mervalois,8,F,HOUILLON Simone
+90,Meroux-Moval,Tous Mervalois,9,M,VIEILLE Laurent
+90,Meroux-Moval,Tous Mervalois,10,F,LUDWIG Lucie
+90,Meroux-Moval,Tous Mervalois,11,M,DELAULLE Benjamin
+90,Meroux-Moval,Tous Mervalois,12,F,CERTIER Nathalie
+90,Meroux-Moval,Tous Mervalois,13,M,GROELY Gilbert
+90,Meroux-Moval,Tous Mervalois,14,F,ROSSI SCARPELLINI Amélie
+90,Meroux-Moval,Tous Mervalois,15,M,HENNINOT Denis
+90,Meroux-Moval,Tous Mervalois,16,F,KIRAZIAN Pascale
+90,Meroux-Moval,Tous Mervalois,17,M,BOSSI Norbert
+90,Meroux-Moval,Tous Mervalois,18,F,GANET Morgane
+90,Meroux-Moval,Tous Mervalois,19,M,LUDWIG Kévin
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",1,M,FLEURY Jean-Louis
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",2,F,BAPST Vanessa
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",3,M,CHAMAGNE Emmanuel
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",4,F,MAILLOT Marie-Pierre
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",5,M,CONTINI Serge
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",6,F,LACHAT Edith
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",7,M,POIVRE Jean-François
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",8,F,GAESSLER Amandine
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",9,M,VURPILLOT Denis
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",10,F,PLUMON Amandine
+90,Montbouton,"MONTBOUTON, NOTRE VILLAGE, NOTRE ENGAGEMENT",11,M,COINCON Gilles
+90,Montbouton,Unis pour agir,1,F,BOURQUENEZ Sylviane
+90,Montbouton,Unis pour agir,2,M,BOURQUENEZ Alain
+90,Montbouton,Unis pour agir,3,F,BODET Gaelle
+90,Montbouton,Unis pour agir,4,M,GERONE Denis
+90,Montbouton,Unis pour agir,5,F,GERONE Evelyne
+90,Montbouton,Unis pour agir,6,M,DUMONT Jean-Christophe
+90,Montbouton,Unis pour agir,7,F,BASILICO Julie
+90,Montbouton,Unis pour agir,8,M,DIETRE Yoann
+90,Montbouton,Unis pour agir,9,F,GERONE Elise
+90,Montreux-Château,"Agir, autrement",1,F,MESSAOUDI Hayatte
+90,Montreux-Château,"Agir, autrement",2,M,DRESCH Damien
+90,Montreux-Château,"Agir, autrement",3,F,DIZIAIN Sylvue
+90,Montreux-Château,"Agir, autrement",4,M,BERLY Lucien
+90,Montreux-Château,"Agir, autrement",5,F,CLIQUET Anne-Christine
+90,Montreux-Château,"Agir, autrement",6,M,MESSAOUDI Toufik
+90,Montreux-Château,"Agir, autrement",7,F,LEONI Vanessa
+90,Montreux-Château,"Agir, autrement",8,M,PIERRE Michaël
+90,Montreux-Château,"Agir, autrement",9,F,OBSTETAR Marie-Pauline
+90,Montreux-Château,"Agir, autrement",10,M,MOUGIN David
+90,Montreux-Château,"Agir, autrement",11,F,LAURENT Margarida
+90,Montreux-Château,"Agir, autrement",12,M,GROSJEAN Kyllian
+90,Montreux-Château,"Agir, autrement",13,F,MOUGIN Marie
+90,Montreux-Château,"Agir, autrement",14,M,LAMAALAM Abdelsam
+90,Montreux-Château,"Agir, autrement",15,F,HRENBOGEN Jennifer
+90,Montreux-Château,Montreux en commun,1,M,BRUN Michael
+90,Montreux-Château,Montreux en commun,2,F,LAURENCOT Jennifer
+90,Montreux-Château,Montreux en commun,3,M,BELUCHE Philippe
+90,Montreux-Château,Montreux en commun,4,F,UYGUN-TALON Aurelia
+90,Montreux-Château,Montreux en commun,5,M,GREGUOR Olivier
+90,Montreux-Château,Montreux en commun,6,F,DUBOIS Fanny
+90,Montreux-Château,Montreux en commun,7,M,BEAUFREZ Laurent
+90,Montreux-Château,Montreux en commun,8,F,ROUX Anne-Sophie
+90,Montreux-Château,Montreux en commun,9,M,LAMBOLEY Arnaud
+90,Montreux-Château,Montreux en commun,10,F,WAGNER Stephanie
+90,Montreux-Château,Montreux en commun,11,M,ROLANDO Jean-Jacques
+90,Montreux-Château,Montreux en commun,12,F,VACANT Stephanie
+90,Montreux-Château,Montreux en commun,13,M,RICHARDOT Gilbert
+90,Montreux-Château,Montreux en commun,14,F,FORNI Syndie
+90,Montreux-Château,Montreux en commun,15,M,SANCHIS Stephane
+90,Montreux-Château,Montreux en commun,16,F,SEIGEOT Pascale
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,1,F,MARIE Chantal
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,2,M,BIRRER Christian
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,3,F,LAVIE REGNAULT Virginie
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,4,M,CAMOZZI Bruno
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,5,F,NICOT Francine
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,6,M,FERRIOT Mickaël
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,7,F,SALGADO Manuella
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,8,M,SLIMANI Amin
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,9,F,TREIBER Stéphanie
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,10,M,DIETSCH Quentin
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,11,F,CLAISSE Michèle
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,12,M,STOJANOVIC Daniel
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,13,F,MOIRANDAT Elisabeth
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,14,M,BAGUR Frédéric
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,15,F,TIRLOT Françoise
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,16,M,MALHERBE Sébastien
+90,Morvillars,MORVILLARS : PLUS PROCHE DE VOUS,17,F,MORET Anaïs
+90,Méziré,Bien vivre ensemble,1,M,RODRIGUEZ Rafaël
+90,Méziré,Bien vivre ensemble,2,F,LO PRETI DUBREUIL Daniela
+90,Méziré,Bien vivre ensemble,3,M,TASSETTI Frédéric
+90,Méziré,Bien vivre ensemble,4,F,DE MARINI Marie-Clothilde
+90,Méziré,Bien vivre ensemble,5,M,SIMON CHOPARD Didier
+90,Méziré,Bien vivre ensemble,6,F,ROUSSEAU Aurélie
+90,Méziré,Bien vivre ensemble,7,M,REBICHON Vincent
+90,Méziré,Bien vivre ensemble,8,F,FRANCOIS Fabienne Jocelyne
+90,Méziré,Bien vivre ensemble,9,M,LORIOL Geoffrey
+90,Méziré,Bien vivre ensemble,10,F,DROZ-VINCENT Anne-Laure Martine
+90,Méziré,Bien vivre ensemble,11,M,GUERRA Carlos
+90,Méziré,Bien vivre ensemble,12,F,OLEI Coralie Laura
+90,Méziré,Bien vivre ensemble,13,M,BALLET Bruno
+90,Méziré,Bien vivre ensemble,14,F,KILICASLAN Gülsemin
+90,Méziré,Bien vivre ensemble,15,M,ROS Anthony
+90,Méziré,Bien vivre ensemble,16,F,MIDEY Karine Colette Henriette
+90,Méziré,Tous unis pour Méziré,1,M,URRUTIA Yoane
+90,Méziré,Tous unis pour Méziré,2,F,PESSINA Justine
+90,Méziré,Tous unis pour Méziré,3,M,ALLIMANN Jérôme
+90,Méziré,Tous unis pour Méziré,4,F,BERTRAND Anne-Laure
+90,Méziré,Tous unis pour Méziré,5,M,PAYSAN Jean-Marie
+90,Méziré,Tous unis pour Méziré,6,F,PERUZZO Magali
+90,Méziré,Tous unis pour Méziré,7,M,SIMON Dimitri
+90,Méziré,Tous unis pour Méziré,8,F,BAUD Aurélie
+90,Méziré,Tous unis pour Méziré,9,M,MEISTER Romain
+90,Méziré,Tous unis pour Méziré,10,F,TADIC Sanela
+90,Méziré,Tous unis pour Méziré,11,M,PAYSAN Benjamin
+90,Méziré,Tous unis pour Méziré,12,F,ROBERT Charlène
+90,Méziré,Tous unis pour Méziré,13,M,GALVIN Loïc
+90,Méziré,Tous unis pour Méziré,14,F,GALLAND Christine
+90,Méziré,Tous unis pour Méziré,15,M,ALLOUL Sophian
+90,Novillard,Pour bien vivre ensemble,1,M,BEKHEIRA Michel
+90,Novillard,Pour bien vivre ensemble,2,F,GABILLOUX Pascale
+90,Novillard,Pour bien vivre ensemble,3,M,ZYCH Pascal
+90,Novillard,Pour bien vivre ensemble,4,F,CASTAGNE Marie-Pierre
+90,Novillard,Pour bien vivre ensemble,5,M,GAUTHERAT Claude
+90,Novillard,Pour bien vivre ensemble,6,F,LAMBERT Agnès
+90,Novillard,Pour bien vivre ensemble,7,M,POYARD Olivier
+90,Novillard,Pour bien vivre ensemble,8,F,COUCHOT Priscille
+90,Novillard,Pour bien vivre ensemble,9,M,CARD Guillaume
+90,Novillard,Pour bien vivre ensemble,10,F,SCHOEPFER Valérie
+90,Novillard,Pour bien vivre ensemble,11,M,MATTHEY DE L'ENDROIT Antonin
+90,Offemont,Agir ensemble pour Offemont,1,M,BARBIER Cyril
+90,Offemont,Agir ensemble pour Offemont,2,F,BUCHWALTER Marina
+90,Offemont,Agir ensemble pour Offemont,3,M,DIDIER François
+90,Offemont,Agir ensemble pour Offemont,4,F,KANDEL Evelyne
+90,Offemont,Agir ensemble pour Offemont,5,M,LAPREVOTTE Gregory
+90,Offemont,Agir ensemble pour Offemont,6,F,RECH Adelaïde
+90,Offemont,Agir ensemble pour Offemont,7,M,TOUIL Zacharyae
+90,Offemont,Agir ensemble pour Offemont,8,F,PEKER Angelique
+90,Offemont,Agir ensemble pour Offemont,9,M,MURAROTTO Michel
+90,Offemont,Agir ensemble pour Offemont,10,F,YLMAZ Zinnet
+90,Offemont,Agir ensemble pour Offemont,11,M,CATRIN Sven
+90,Offemont,Agir ensemble pour Offemont,12,F,CAIRE-REMONNAY Bouchra
+90,Offemont,Agir ensemble pour Offemont,13,M,RETAILLEAU Dominique
+90,Offemont,Agir ensemble pour Offemont,14,F,BOUASKER LEFZA Soraya
+90,Offemont,Agir ensemble pour Offemont,15,M,GERARD Christian
+90,Offemont,Agir ensemble pour Offemont,16,F,FIEROBE Marion
+90,Offemont,Agir ensemble pour Offemont,17,M,BOULEDJOUIDJA Aoussin
+90,Offemont,Agir ensemble pour Offemont,18,F,BOUDJADJA Nasira
+90,Offemont,Agir ensemble pour Offemont,19,M,POILEVEY Corentin
+90,Offemont,Agir ensemble pour Offemont,20,F,RENAT Isabelle
+90,Offemont,Agir ensemble pour Offemont,21,M,ZALGUENE Abdeljalil
+90,Offemont,Agir ensemble pour Offemont,22,F,LEPOITTEVIN-TOINE Virginie
+90,Offemont,Agir ensemble pour Offemont,23,M,MAUVAIS Jean Francois
+90,Offemont,Agir ensemble pour Offemont,24,F,THIRIET Claudie
+90,Offemont,Agir ensemble pour Offemont,25,M,WALCH Arnaud
+90,Offemont,Agir ensemble pour Offemont,26,F,PERROD Annie
+90,Offemont,Agir ensemble pour Offemont,27,M,BLANCO Christian
+90,Offemont,Un vent de liberté pour Offemont,1,M,CARLES Pierre
+90,Offemont,Un vent de liberté pour Offemont,2,F,TRITTER Carole
+90,Offemont,Un vent de liberté pour Offemont,3,M,BROS Dominique
+90,Offemont,Un vent de liberté pour Offemont,4,F,MUESSER Nicole
+90,Offemont,Un vent de liberté pour Offemont,5,M,SERZIAN Jacques
+90,Offemont,Un vent de liberté pour Offemont,6,F,MUNIER Ophélia
+90,Offemont,Un vent de liberté pour Offemont,7,M,FRAISIER Thierry
+90,Offemont,Un vent de liberté pour Offemont,8,F,VIENOT Isabelle
+90,Offemont,Un vent de liberté pour Offemont,9,M,GIDA Jean-Philippe
+90,Offemont,Un vent de liberté pour Offemont,10,F,KADDOUR Zohra
+90,Offemont,Un vent de liberté pour Offemont,11,M,VETTER Lionel
+90,Offemont,Un vent de liberté pour Offemont,12,F,GOAVEC Patricia
+90,Offemont,Un vent de liberté pour Offemont,13,M,NETO Antonio
+90,Offemont,Un vent de liberté pour Offemont,14,F,PASTOR Nadine
+90,Offemont,Un vent de liberté pour Offemont,15,M,GODELAR Jean-Loup
+90,Offemont,Un vent de liberté pour Offemont,16,F,MILLECAM Anne
+90,Offemont,Un vent de liberté pour Offemont,17,M,MULLER Gilles
+90,Offemont,Un vent de liberté pour Offemont,18,F,ROUSSELET Michelle
+90,Offemont,Un vent de liberté pour Offemont,19,M,BATTAGLIA Fabian
+90,Offemont,Un vent de liberté pour Offemont,20,F,MARCHAL Stéphanie
+90,Offemont,Un vent de liberté pour Offemont,21,M,GUILLEGOZ Théo
+90,Offemont,Un vent de liberté pour Offemont,22,F,DONNARD Sophie
+90,Offemont,Un vent de liberté pour Offemont,23,M,DELIMOGES Sylvain
+90,Offemont,Un vent de liberté pour Offemont,24,F,DEFORGES Mireille
+90,Offemont,Un vent de liberté pour Offemont,25,M,CROLET Jean-Pierre
+90,Offemont,Un vent de liberté pour Offemont,26,F,FERRAIN-BOEHM Jocelyne
+90,Offemont,Un vent de liberté pour Offemont,27,M,TOUROT Ugo
+90,Offemont,Un vent de liberté pour Offemont,28,F,GREGET Luce
+90,Offemont,Un vent de liberté pour Offemont,29,M,ZUMBIHL Marc
+90,Petit-Croix,Bien vivre à Petit-Croix,1,F,SEGURA Isabelle
+90,Petit-Croix,Bien vivre à Petit-Croix,2,M,CHENUT Roger
+90,Petit-Croix,Bien vivre à Petit-Croix,3,F,EINHORN Nadine
+90,Petit-Croix,Bien vivre à Petit-Croix,4,M,MANUELLE Alain
+90,Petit-Croix,Bien vivre à Petit-Croix,5,F,ALZIEU Anne-Cécile
+90,Petit-Croix,Bien vivre à Petit-Croix,6,M,DUMAS Vincent
+90,Petit-Croix,Bien vivre à Petit-Croix,7,F,MASSIAS Christelle
+90,Petit-Croix,Bien vivre à Petit-Croix,8,M,GROSJEAN Adelin
+90,Petit-Croix,Bien vivre à Petit-Croix,9,F,SCACCHETTI Sophie
+90,Petit-Croix,Bien vivre à Petit-Croix,10,M,PRITZY Olivier
+90,Petit-Croix,Bien vivre à Petit-Croix,11,F,FREUND Estelle
+90,Petitefontaine,"""Petitefontaine : une vision commune""",1,M,AFFHOLDER Luc
+90,Petitefontaine,"""Petitefontaine : une vision commune""",2,F,DECRIND Nathalie
+90,Petitefontaine,"""Petitefontaine : une vision commune""",3,M,BUCHIN Régis
+90,Petitefontaine,"""Petitefontaine : une vision commune""",4,F,APPENZELLER Estelle
+90,Petitefontaine,"""Petitefontaine : une vision commune""",5,M,IZERN Raphaël
+90,Petitefontaine,"""Petitefontaine : une vision commune""",6,F,BECK Vicki
+90,Petitefontaine,"""Petitefontaine : une vision commune""",7,M,HASSENFORDER Pascal
+90,Petitefontaine,"""Petitefontaine : une vision commune""",8,F,APPENZELLER Loraline
+90,Petitefontaine,"""Petitefontaine : une vision commune""",9,M,MELIERES Daniel
+90,Petitefontaine,"""Petitefontaine : une vision commune""",10,F,BERNA Aurelie
+90,Petitefontaine,"""Petitefontaine : une vision commune""",11,M,MELLIAND Maurice
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,1,F,O'KEEFFE Colette
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,2,M,DUBOIS Olivier
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,3,F,CHOPARD Makara
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,4,M,CHAIGNOT Emmanuel
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,5,F,KERN Nathalie
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,6,M,JENSEN Jordan
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,7,F,ZIBRET Magali
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,8,M,PERRIN Vincent
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,9,F,PETITGIRARD Nathanaëlle
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,10,M,RIGENBACH Serge
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,11,F,O'KEEFFE Lucie
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,12,M,FEUILLOY Adrien
+90,Petitefontaine,ENSEMBLE POUR NOTRE VILLAGE,13,F,HARZIC Emilie
+90,Petitmagny,AGIR POUR LE VILLAGE,1,M,BOURDEAUX Alain
+90,Petitmagny,AGIR POUR LE VILLAGE,2,F,CUNY Karine
+90,Petitmagny,AGIR POUR LE VILLAGE,3,M,HOTZ Eric
+90,Petitmagny,AGIR POUR LE VILLAGE,4,F,CHRISTEN Sabine
+90,Petitmagny,AGIR POUR LE VILLAGE,5,M,BATISSE Arnaud
+90,Petitmagny,AGIR POUR LE VILLAGE,6,F,PETITFILS Camille
+90,Petitmagny,AGIR POUR LE VILLAGE,7,M,DIDIER Gérard
+90,Petitmagny,AGIR POUR LE VILLAGE,8,F,ROBERT Christelle
+90,Petitmagny,AGIR POUR LE VILLAGE,9,M,MIGLIORINI Pascal
+90,Petitmagny,AGIR POUR LE VILLAGE,10,F,STRAUB Sandrine
+90,Petitmagny,AGIR POUR LE VILLAGE,11,M,EGO Virgile
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",1,F,BAINIER Christine
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",2,M,ROICOMTE Romuald
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",3,F,LENEZ Adeline
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",4,M,TOUPENCE Roger
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",5,F,AUBERT Farida
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",6,M,ERNY Eric
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",7,F,DE SANTO Isabelle
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",8,M,LE COSQUER Christian
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",9,F,HINFRAY Sandrine
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",10,M,DELORENZI Aymeric
+90,Phaffans,"PHAFFANS, TOUS ENSEMBLE !",11,F,GRALL Amandine
+90,Phaffans,Phaffans le réveil !,1,M,FRANCOIS Hubert
+90,Phaffans,Phaffans le réveil !,2,F,CASADEI Isabelle
+90,Phaffans,Phaffans le réveil !,3,M,CESCA Bruno
+90,Phaffans,Phaffans le réveil !,4,F,FAIVET Michèle
+90,Phaffans,Phaffans le réveil !,5,M,NICOLAS Damien
+90,Phaffans,Phaffans le réveil !,6,F,TALON Mireille
+90,Phaffans,Phaffans le réveil !,7,M,HOUOT Denis
+90,Phaffans,Phaffans le réveil !,8,F,TRAN Bich Ngan
+90,Phaffans,Phaffans le réveil !,9,M,VEJUX Jean-Luc
+90,Phaffans,Phaffans le réveil !,10,F,ROSSE Fabienne
+90,Phaffans,Phaffans le réveil !,11,M,GIRARDIN Frédéric
+90,Phaffans,Phaffans le réveil !,12,F,RENTZ Karine
+90,Phaffans,Phaffans le réveil !,13,M,PENIN Jean
+90,Pérouse,PEROUSE ENSEMBLE,1,F,FUMEY Sylvie
+90,Pérouse,PEROUSE ENSEMBLE,2,M,CNUDDE Jean-Pierre
+90,Pérouse,PEROUSE ENSEMBLE,3,F,JUHASZ Elisabeth
+90,Pérouse,PEROUSE ENSEMBLE,4,M,CHARMY François
+90,Pérouse,PEROUSE ENSEMBLE,5,F,BORDOT-COLLARD Anne-Marie
+90,Pérouse,PEROUSE ENSEMBLE,6,M,VOEGELE Denis
+90,Pérouse,PEROUSE ENSEMBLE,7,F,TKASCZ-ZURAKOWSKI Perrine
+90,Pérouse,PEROUSE ENSEMBLE,8,M,SENTENAS Michel
+90,Pérouse,PEROUSE ENSEMBLE,9,F,CORBERY Audrey
+90,Pérouse,PEROUSE ENSEMBLE,10,M,MUNIER Bruno
+90,Pérouse,PEROUSE ENSEMBLE,11,F,ZEKKAN Nadia
+90,Pérouse,PEROUSE ENSEMBLE,12,M,BARBIER Laurent
+90,Pérouse,PEROUSE ENSEMBLE,13,F,BONNEFOY Odile
+90,Pérouse,PEROUSE ENSEMBLE,14,M,JEANPETIT Eric
+90,Pérouse,PEROUSE ENSEMBLE,15,F,MARIE Audrey
+90,Pérouse,PEROUSE ENSEMBLE,16,M,BONNET Dimitri
+90,Pérouse,PEROUSE ENSEMBLE,17,F,TREIBER Isabelle
+90,Recouvrance,Recouvrance notre village,1,F,MENNY Sylvie
+90,Recouvrance,Recouvrance notre village,2,M,BILLEY Jean-Philippe
+90,Recouvrance,Recouvrance notre village,3,F,BASTO Elsa
+90,Recouvrance,Recouvrance notre village,4,M,CREANTOR Philippe
+90,Recouvrance,Recouvrance notre village,5,F,ISARTE Sandrine
+90,Recouvrance,Recouvrance notre village,6,M,GARESSUS Michaël
+90,Recouvrance,Recouvrance notre village,7,F,MILLET Claire
+90,Recouvrance,Recouvrance notre village,8,M,JEMEI Samir
+90,Recouvrance,Recouvrance notre village,9,F,RICHARD Sophie
+90,Recouvrance,Recouvrance notre village,10,M,VIESTE Nicolas
+90,Recouvrance,Recouvrance notre village,11,F,COSIC Laëtitia
+90,Reppe,"Héritage, compétences et projets",1,M,MOREAU Guillaume
+90,Reppe,"Héritage, compétences et projets",2,F,VIENOT Priscille
+90,Reppe,"Héritage, compétences et projets",3,M,MARQUIS Phillippe
+90,Reppe,"Héritage, compétences et projets",4,F,SOBON Harmonie
+90,Reppe,"Héritage, compétences et projets",5,M,SCHMITT Jonathan
+90,Reppe,"Héritage, compétences et projets",6,F,HIBLOT Bernadette
+90,Reppe,"Héritage, compétences et projets",7,M,MONTAVON David
+90,Reppe,"Héritage, compétences et projets",8,F,BELON BRIANT Marie-Noelle
+90,Reppe,"Héritage, compétences et projets",9,M,KUNZINGER Thierry
+90,Reppe,"Héritage, compétences et projets",10,F,AUGER Frédérique
+90,Reppe,"Héritage, compétences et projets",11,M,HUTH Fabien
+90,Reppe,"Héritage, compétences et projets",12,F,CLAVET Marjorie
+90,Reppe,"Héritage, compétences et projets",13,M,RIGARD Stéphane
+90,Reppe,"Reppe, ensemble pour demain",1,M,CORDY Chirstophe
+90,Reppe,"Reppe, ensemble pour demain",2,F,TACQUARD Stéphanie
+90,Reppe,"Reppe, ensemble pour demain",3,M,KARRER Bernard
+90,Reppe,"Reppe, ensemble pour demain",4,F,MAILFAIT Elodie
+90,Reppe,"Reppe, ensemble pour demain",5,M,MATHIAS Joel
+90,Reppe,"Reppe, ensemble pour demain",6,F,STEPNIAK Martine
+90,Reppe,"Reppe, ensemble pour demain",7,M,WEIBEL Jean
+90,Reppe,"Reppe, ensemble pour demain",8,F,MOUTHE Nadine
+90,Reppe,"Reppe, ensemble pour demain",9,M,MOUHOT David
+90,Reppe,"Reppe, ensemble pour demain",10,F,STEMMELIN Marie-Noelle
+90,Reppe,"Reppe, ensemble pour demain",11,M,KELBERT Tom
+90,Riervescemont,Les Rosemontois,1,M,CANAL Fabien
+90,Riervescemont,Les Rosemontois,2,F,HASSENBOEHLER Carole
+90,Riervescemont,Les Rosemontois,3,M,ZUPRANSKI Stanislas
+90,Riervescemont,Les Rosemontois,4,F,SZABO Valérie
+90,Riervescemont,Les Rosemontois,5,M,HAISMANN Vincent
+90,Riervescemont,Les Rosemontois,6,F,PIOT Sabine
+90,Riervescemont,Les Rosemontois,7,M,PILLER Patrick
+90,Riervescemont,Les Rosemontois,8,F,PELTIER Marthe
+90,Riervescemont,Les Rosemontois,9,M,PETER Loïc
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,1,M,HUGARD Jean-Marie
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,2,F,LARÈRE Marjorie
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,3,M,MARTINEZ Jean
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,4,F,RENAUDIN Isabelle
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,5,M,ROZE Eric
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,6,F,LEPRETRE Alexandra
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,7,M,REVAUX André
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,8,F,HESS Sarah
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,9,M,GEORGES Christophe
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,10,F,LANGUI MULLER Nastassia
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,11,M,MORGAT Erwin
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,12,F,LACREUSE Laurine
+90,Romagny-sous-Rougemont,Ensemble dans l'action pour notre village,13,M,MAHMUTOVIC Irfane
+90,Roppe,Roppe avec Vous,1,M,MAURICE Jean-Guillaume
+90,Roppe,Roppe avec Vous,2,F,GONÇALVES Sylvie
+90,Roppe,Roppe avec Vous,3,M,FRELIN Matthieu
+90,Roppe,Roppe avec Vous,4,F,PRION Colette
+90,Roppe,Roppe avec Vous,5,M,PERREZ Simon
+90,Roppe,Roppe avec Vous,6,F,HANNON Danielle
+90,Roppe,Roppe avec Vous,7,M,IWASINTA Jean-Philippe
+90,Roppe,Roppe avec Vous,8,F,UNTERSEE MINELLI Marylin
+90,Roppe,Roppe avec Vous,9,M,BILLEREY Gilles
+90,Roppe,Roppe avec Vous,10,F,GROSLAMBERT Delphine
+90,Roppe,Roppe avec Vous,11,M,SIFFERT Francis
+90,Roppe,Roppe avec Vous,12,F,LEPAGE Séverine
+90,Roppe,Roppe avec Vous,13,M,GIRARD Nicolas
+90,Roppe,Roppe avec Vous,14,F,BOSSU Maëva
+90,Roppe,Roppe avec Vous,15,M,GRANDHAYE Alexis
+90,Roppe,Roppe avec Vous,16,F,BISCHOFF Ophélie
+90,Roppe,Roppe avec Vous,17,M,KARAM Fadi
+90,Rougegoutte,A l'écoute de Rougegoutte,1,M,KARLÉ Jean
+90,Rougegoutte,A l'écoute de Rougegoutte,2,F,BLEICHER Mélanie
+90,Rougegoutte,A l'écoute de Rougegoutte,3,M,MONCHABLON Florent
+90,Rougegoutte,A l'écoute de Rougegoutte,4,F,BILGER Clarisse
+90,Rougegoutte,A l'écoute de Rougegoutte,5,M,CHARNOT Nicolas
+90,Rougegoutte,A l'écoute de Rougegoutte,6,F,GROSCLAUDE Sarah
+90,Rougegoutte,A l'écoute de Rougegoutte,7,M,COURBOT Francis
+90,Rougegoutte,A l'écoute de Rougegoutte,8,F,BAUMGARTNER Elisa
+90,Rougegoutte,A l'écoute de Rougegoutte,9,M,TROUILLAT Dominique
+90,Rougegoutte,A l'écoute de Rougegoutte,10,F,KIEFFER Emilie
+90,Rougegoutte,A l'écoute de Rougegoutte,11,M,RONDON Mickaël Daniel
+90,Rougegoutte,A l'écoute de Rougegoutte,12,F,VENCK MILLET Gabrielle
+90,Rougegoutte,A l'écoute de Rougegoutte,13,M,MONNEY Olivier
+90,Rougegoutte,A l'écoute de Rougegoutte,14,F,FIMBEL Florence
+90,Rougegoutte,A l'écoute de Rougegoutte,15,M,PERROS Jean-Claude
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",1,M,PERREZ Patrick
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",2,F,HECK Isabelle
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",3,M,MULLER Jean-Luc
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",4,F,PERREZ Angelique
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",5,M,HECK Jean-Pierre
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",6,F,CANAL Dominique
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",7,M,VERDIERE Romuald
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",8,F,DONY Helene
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",9,M,HENNEMANN Fabien
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",10,F,BENEY Celine
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",11,M,BEAUTOUR Laurent
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",12,F,MILLET Nathalie
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",13,M,POZZERA Antoine
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",14,F,VIALLE Sonia
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",15,M,TRABAC Mickaël
+90,Rougegoutte,"ROUGEGOUTTE, POUR UNE ERE NOUVELLE",16,F,LEHMANN Cindy
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",1,M,VALLVERDU Didier
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",2,F,BEDOS Sophie
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",3,M,DUCROZ Eric
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",4,F,NALCACI Hatice
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",5,M,VOILAND Nicolas
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",6,F,DECROIX Nadine
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",7,M,MIESCH Patrick
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",8,F,VACHEZ Marion
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",9,M,CUENAT Fabrice
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",10,F,RAMOS Sylvie
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",11,M,HAMICHE William
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",12,F,PLAISANCE Johanna
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",13,M,WNEKOWICZ Arnaud
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",14,F,MAUFFRAY Lise
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",15,M,GRAS Julien
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",16,F,GERHARD Madeline
+90,Rougemont-le-Château,"Rougemont-le-Château, notre village,notre avenir",17,M,DANTUNG Geoffrey
+90,Réchésy,Liste d'intérêt communal,1,M,KLEIBER André
+90,Réchésy,Liste d'intérêt communal,2,F,BARTHELEMY Colette
+90,Réchésy,Liste d'intérêt communal,3,M,BARAFFE Laurent
+90,Réchésy,Liste d'intérêt communal,4,F,BRUNGARD Danielle
+90,Réchésy,Liste d'intérêt communal,5,M,CHOFFEL Loïck
+90,Réchésy,Liste d'intérêt communal,6,F,CRAMATTE Florence
+90,Réchésy,Liste d'intérêt communal,7,M,CRAMATTE Yoann
+90,Réchésy,Liste d'intérêt communal,8,F,D'ANTONIO-STALDER Patricia
+90,Réchésy,Liste d'intérêt communal,9,M,FLEURY Alain
+90,Réchésy,Liste d'intérêt communal,10,F,HENRY Elisabeth
+90,Réchésy,Liste d'intérêt communal,11,M,HECKER Sylvain
+90,Réchésy,Liste d'intérêt communal,12,F,TAMAGNE Pascale
+90,Réchésy,Liste d'intérêt communal,13,M,KOEHLY Simon
+90,Réchésy,Liste d'intérêt communal,14,F,WININGER Christiane
+90,Réchésy,Liste d'intérêt communal,15,M,ROSSI Rémi
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,1,M,PETERLINI Nicolas
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,2,F,ROSSAT Laurence
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,3,M,COMMENT Pierre Alain
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,4,F,WITTIG Francine
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,5,M,ROSSO Serge
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,6,F,SENE Claire
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,7,M,MERCIER Vincent
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,8,F,FOCK Laurie
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,9,M,CREVOISERAT Eric
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,10,F,SEGANTINI Béatrice
+90,Saint-Dizier-l'Evêque,Ensemble pour Saint-Dizier-l'Evêque,11,M,MOINAT Hubert
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,1,M,ANDERHUEBER Jean-Luc
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,2,F,ORIAT Valérie
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,3,M,EGLOFF Philippe
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,4,F,EISENECKER Joannelle
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,5,M,MARCHAL Alain
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,6,F,BONTEMS Laurianne
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,7,M,PETIT Frédéric
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,8,F,FITSCH Sylvie
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,9,M,BEIX Arnault
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,10,F,ROBERT-LEYVAL Claire
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,11,M,GORBENA Jean-Baptiste
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,12,F,NOLE Mélinda
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,13,M,DESMIDT Georges
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,14,F,VIDALE Christine
+90,Saint-Germain-le-Châtelet,Ensemble pour Saint-Germain-le-Châtelet,15,M,MUDARRA Manuel
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,1,M,CHALLANT Philippe
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,2,F,ROUSSEAU Cécile
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,3,M,JACQUEL Eric
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,4,F,EME Julienne
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,5,M,CHANSON Thierry
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,6,F,COUET Brigitte
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,7,M,COUTURIER Alexis
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,8,F,VOILAND Sophie Jeanne
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,9,M,VOILAND Marc
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,10,F,MARS Joëlle
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,11,M,CARLIN Philippe
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,12,F,CLEMENT Veronique
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,13,M,ESTIENNE Esteban
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,14,F,MAADI Bouchra
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,15,M,GROSJEAN Jean-Pierre Claude Andre
+90,Sermamagny,ENSEMBLE POUR SERMAMAGNY,16,F,ZORNITTA Laura
+90,Sermamagny,NOTRE VILLAGE !,1,F,FOLLOT-ZANON Sandrine
+90,Sermamagny,NOTRE VILLAGE !,2,M,GEBEL Joseph
+90,Sermamagny,NOTRE VILLAGE !,3,F,BARANGER Agnès
+90,Sermamagny,NOTRE VILLAGE !,4,M,FRANZON Gilles
+90,Sermamagny,NOTRE VILLAGE !,5,F,LE GOUHIR Anne-Marie
+90,Sermamagny,NOTRE VILLAGE !,6,M,ZANON Rino
+90,Sermamagny,NOTRE VILLAGE !,7,F,GALMICHE Maëva
+90,Sermamagny,NOTRE VILLAGE !,8,M,MEYER Hubert
+90,Sermamagny,NOTRE VILLAGE !,9,F,ANNEROSE Myriam
+90,Sermamagny,NOTRE VILLAGE !,10,M,PORCELLI Charles Patrick
+90,Sermamagny,NOTRE VILLAGE !,11,F,EUVRAY Corinne
+90,Sermamagny,NOTRE VILLAGE !,12,M,DEGOUT Mathéo
+90,Sermamagny,NOTRE VILLAGE !,13,F,ROY Roberta
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",1,F,MORALLET Maryline
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",2,M,DUFFET Cyril
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",3,F,BOUVET Chantal
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",4,M,RAMEY Eric
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",5,F,GORNEAU Emmanuelle
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",6,M,TOURNIER Bernard
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",7,F,MAZZOLENI Françoise
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",8,M,ENEE David
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",9,F,FRACHEBOIS Cindy
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",10,M,GARCIA René
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",11,F,FRECHIN Léa
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",12,M,JOURNET Alexandre
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",13,F,KROEMER Francoise
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",14,M,LEROY Anthony
+90,Sevenans,"Sévenans, Construire l'Avenir Ensemble",15,F,SUBASI Meryem
+90,Suarce,Ensemble pour Suarce,1,M,SCHIGAND Cyprien
+90,Suarce,Ensemble pour Suarce,2,F,MICHELAT Isabelle
+90,Suarce,Ensemble pour Suarce,3,M,MARQUAT David
+90,Suarce,Ensemble pour Suarce,4,F,NIEDERGANG Esther
+90,Suarce,Ensemble pour Suarce,5,M,THEVENOT Léon
+90,Suarce,Ensemble pour Suarce,6,F,CHAVANON Anne
+90,Suarce,Ensemble pour Suarce,7,M,MARQUAT Valentin
+90,Suarce,Ensemble pour Suarce,8,F,VOELIN Catherine
+90,Suarce,Ensemble pour Suarce,9,M,HENIGUE Christian
+90,Suarce,Ensemble pour Suarce,10,F,BOURGEOIS Nathalie
+90,Suarce,Ensemble pour Suarce,11,M,HANTZ Matthieu
+90,Thiancourt,Liste d'entente communale,1,M,DAMOTTE Roland
+90,Thiancourt,Liste d'entente communale,2,F,CAMARASA Elisabeth
+90,Thiancourt,Liste d'entente communale,3,M,BATAILLE Arnaud
+90,Thiancourt,Liste d'entente communale,4,F,BELEY Josiane
+90,Thiancourt,Liste d'entente communale,5,M,CARPENT Serge
+90,Thiancourt,Liste d'entente communale,6,F,ENDERLEN Stéphanie
+90,Thiancourt,Liste d'entente communale,7,M,CARVALHO José
+90,Thiancourt,Liste d'entente communale,8,F,KLOPFENSTEIN Agnès
+90,Thiancourt,Liste d'entente communale,9,M,CHATELAIN Philippe
+90,Thiancourt,Liste d'entente communale,10,F,BÉZILLE Virginie
+90,Thiancourt,Liste d'entente communale,11,M,GUENIAT Thierry
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,1,M,BARLOGIS Pierre
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,2,F,CANTIN Renate
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,3,M,CLAVEQUIN Jean-Pierre
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,4,F,STEVENOT Viviane
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,5,M,MOYON Jean-Louis
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,6,F,LASSOURCE Jessica
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,7,M,LACROIX Philippe
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,8,F,COURTOT Marie-Josèphe
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,9,M,DOUCEY Xavier
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,10,F,BOITET Martine
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,11,M,LEDY Benjamin
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,12,F,VIVIER Evelyne
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,13,M,CHIPAUX Franck
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,14,F,STEPNIAK Mélanie
+90,Trévenans,AGISSONS TOUS ENSEMBLE POUR TREVENANS,15,M,MONNIN Sébastien
+90,Urcerey,Le Trait d'Union,1,M,TSCHIRRET Vincent
+90,Urcerey,Le Trait d'Union,2,F,SCHWARTZ Clara
+90,Urcerey,Le Trait d'Union,3,M,PEREIRA Agostinho
+90,Urcerey,Le Trait d'Union,4,F,KLINGELSCHMITT Brigitte
+90,Urcerey,Le Trait d'Union,5,M,TRAPPLER Nicolas
+90,Urcerey,Le Trait d'Union,6,F,SCHWARTZ Sylvie
+90,Urcerey,Le Trait d'Union,7,M,DA SILVA Luis
+90,Urcerey,Le Trait d'Union,8,F,DE POLI Livia
+90,Urcerey,Le Trait d'Union,9,M,KOHLER Xavier
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",1,M,GAUMEZ Pascal
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",2,F,CUNIN Nicole
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",3,M,ROBERTI Jean-Pierre
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",4,F,GAUMEZ Christine
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",5,M,BERARD Gilles
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",6,F,FAYOLLE Jennifer
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",7,M,ROSSEZ Maxime
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",8,F,BARLOGIS Marie
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",9,M,DODANE Dogan
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",10,F,COURDIER Pascale
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",11,M,FOURNY Matthieu
+90,Urcerey,"URCEREY, l'avenir se construit ensemble !",12,F,LAMBOLEY Marion
+90,Valdoie,Ensemble pour Valdoie 2026,1,F,CEFIS Marie-France
+90,Valdoie,Ensemble pour Valdoie 2026,2,M,FUNCK Jean-Marc
+90,Valdoie,Ensemble pour Valdoie 2026,3,F,FONTAINE Delphine
+90,Valdoie,Ensemble pour Valdoie 2026,4,M,BOSSARD Philippe
+90,Valdoie,Ensemble pour Valdoie 2026,5,F,ALQUIER Carole
+90,Valdoie,Ensemble pour Valdoie 2026,6,M,BARD-DOMBROWSKY Richard
+90,Valdoie,Ensemble pour Valdoie 2026,7,F,CUCHETET Magali
+90,Valdoie,Ensemble pour Valdoie 2026,8,M,PERNEY Jean-Baptiste
+90,Valdoie,Ensemble pour Valdoie 2026,9,F,PLOYER Valérie
+90,Valdoie,Ensemble pour Valdoie 2026,10,M,DREYER Patrick
+90,Valdoie,Ensemble pour Valdoie 2026,11,F,FOISSEY Céline
+90,Valdoie,Ensemble pour Valdoie 2026,12,M,RIBREAU Christian
+90,Valdoie,Ensemble pour Valdoie 2026,13,F,KEBAILI Lilla
+90,Valdoie,Ensemble pour Valdoie 2026,14,M,MAITREPIERRE Philippe
+90,Valdoie,Ensemble pour Valdoie 2026,15,F,EHRET-JARDON Helene
+90,Valdoie,Ensemble pour Valdoie 2026,16,M,TRIPONEL Benjamin
+90,Valdoie,Ensemble pour Valdoie 2026,17,F,RINGER Marilyne
+90,Valdoie,Ensemble pour Valdoie 2026,18,M,FREUND Cédric
+90,Valdoie,Ensemble pour Valdoie 2026,19,F,MOREL Lilane
+90,Valdoie,Ensemble pour Valdoie 2026,20,M,LIPPI Emmanuel
+90,Valdoie,Ensemble pour Valdoie 2026,21,F,ZEMP Jocelyne
+90,Valdoie,Ensemble pour Valdoie 2026,22,M,BRUN Damien
+90,Valdoie,Ensemble pour Valdoie 2026,23,F,DECLE Marie-Antoinette
+90,Valdoie,Ensemble pour Valdoie 2026,24,M,LEGER Jacques
+90,Valdoie,Ensemble pour Valdoie 2026,25,F,MACHAVOINE Sophie
+90,Valdoie,Ensemble pour Valdoie 2026,26,M,LE HELLOCCO Alain
+90,Valdoie,Ensemble pour Valdoie 2026,27,F,REMY Isabelle
+90,Valdoie,Ensemble pour Valdoie 2026,28,M,PESSAROSSI Ludovic
+90,Valdoie,Ensemble pour Valdoie 2026,29,F,LARCHER Josette
+90,Valdoie,Valdoie pour vous,1,M,ZUMKELLER Michel
+90,Valdoie,Valdoie pour vous,2,F,FERON HANSART Stéphanie
+90,Valdoie,Valdoie pour vous,3,M,JARDOT Nicolas
+90,Valdoie,Valdoie pour vous,4,F,BAUMANN Carole
+90,Valdoie,Valdoie pour vous,5,M,PALMITESSA Giovanni
+90,Valdoie,Valdoie pour vous,6,F,TISSERAND Béatrice
+90,Valdoie,Valdoie pour vous,7,M,VARETTE Frédéric
+90,Valdoie,Valdoie pour vous,8,F,MICHELI Evelyne
+90,Valdoie,Valdoie pour vous,9,M,ALTER Loic
+90,Valdoie,Valdoie pour vous,10,F,MARTIN Marie-Claude
+90,Valdoie,Valdoie pour vous,11,M,LEVREY Arthur
+90,Valdoie,Valdoie pour vous,12,F,REHABI-LHOMME Aurore
+90,Valdoie,Valdoie pour vous,13,M,THIEBAUT Philippe
+90,Valdoie,Valdoie pour vous,14,F,BILQUEZ Laetitia
+90,Valdoie,Valdoie pour vous,15,M,MERCHET Arthur
+90,Valdoie,Valdoie pour vous,16,F,CHANDELLO Marine
+90,Valdoie,Valdoie pour vous,17,M,EL KINANI Ahmed
+90,Valdoie,Valdoie pour vous,18,F,ZIEGLER Estelle
+90,Valdoie,Valdoie pour vous,19,M,TISSIER Norbert
+90,Valdoie,Valdoie pour vous,20,F,EL OMARI Fettouma
+90,Valdoie,Valdoie pour vous,21,M,STRICKLER Gilbert
+90,Valdoie,Valdoie pour vous,22,F,MARTIN Annick
+90,Valdoie,Valdoie pour vous,23,M,MECHEOUD Fayçal
+90,Valdoie,Valdoie pour vous,24,F,TISSERAND Christiane
+90,Valdoie,Valdoie pour vous,25,M,SENDRA Philippe
+90,Valdoie,Valdoie pour vous,26,F,BLATTNER Sylviane
+90,Valdoie,Valdoie pour vous,27,M,CHAPELLON Gaetan
+90,Valdoie,Valdoie pour vous,28,F,MICHELI Floriane
+90,Valdoie,Valdoie pour vous,29,M,BEURET Francis
+90,Valdoie,Valdoie un nouveau souffle solidaire,1,M,MALALA Lionel
+90,Valdoie,Valdoie un nouveau souffle solidaire,2,F,PIEMONTESE Christine
+90,Valdoie,Valdoie un nouveau souffle solidaire,3,M,GONZALEZ Manuel
+90,Valdoie,Valdoie un nouveau souffle solidaire,4,F,RIEGEL Jaqueline
+90,Valdoie,Valdoie un nouveau souffle solidaire,5,M,GODARD Adrien
+90,Valdoie,Valdoie un nouveau souffle solidaire,6,F,GARNIER Sylvie
+90,Valdoie,Valdoie un nouveau souffle solidaire,7,M,PRUD'HOMME Dominique
+90,Valdoie,Valdoie un nouveau souffle solidaire,8,F,PATOIS Rolande
+90,Valdoie,Valdoie un nouveau souffle solidaire,9,M,SESMAT Alexis
+90,Valdoie,Valdoie un nouveau souffle solidaire,10,F,FAYE-GASPARI Monique
+90,Valdoie,Valdoie un nouveau souffle solidaire,11,M,DRO Pierre
+90,Valdoie,Valdoie un nouveau souffle solidaire,12,F,FERNANDEZ Eve
+90,Valdoie,Valdoie un nouveau souffle solidaire,13,M,VIGNOLO Jean-Louis
+90,Valdoie,Valdoie un nouveau souffle solidaire,14,F,MAIGRET Salomé
+90,Valdoie,Valdoie un nouveau souffle solidaire,15,M,RODIER Yve
+90,Valdoie,Valdoie un nouveau souffle solidaire,16,F,SORDELET Françoise
+90,Valdoie,Valdoie un nouveau souffle solidaire,17,M,DOMON Olivier
+90,Valdoie,Valdoie un nouveau souffle solidaire,18,F,MOSTEFA Megane
+90,Valdoie,Valdoie un nouveau souffle solidaire,19,M,MOUDIR Samy
+90,Valdoie,Valdoie un nouveau souffle solidaire,20,F,JANNIERE Sylvie
+90,Valdoie,Valdoie un nouveau souffle solidaire,21,M,REMY André
+90,Valdoie,Valdoie un nouveau souffle solidaire,22,F,TOZZI Rose-Marie
+90,Valdoie,Valdoie un nouveau souffle solidaire,23,M,BIRGEL Christian
+90,Valdoie,Valdoie un nouveau souffle solidaire,24,F,MADARAC Laure
+90,Valdoie,Valdoie un nouveau souffle solidaire,25,M,TASCI Mehmet
+90,Valdoie,Valdoie un nouveau souffle solidaire,26,F,NIDEGGER Marie-Pierre
+90,Valdoie,Valdoie un nouveau souffle solidaire,27,M,LABBOZ Damien
+90,Valdoie,Valdoie un nouveau souffle solidaire,28,F,COUTURIER Renée
+90,Valdoie,Valdoie un nouveau souffle solidaire,29,M,ARMBRUSTER Frederique
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",1,M,MANÇANET Alexandre
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",2,F,ETIENNEY Emma
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",3,M,LOPEZ Pedro
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",4,F,HARTMANN Fabienne
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",5,M,BITSCH Didier
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",6,F,BITSCH Lydie
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",7,M,JULIANO Claudio
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",8,F,SEBBANE Adeline
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",9,M,KOENIG Jean-François
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",10,F,BRINGEL Anne Carole
+90,Vauthiermont,"CONTINUONS POUR VAUTHIERMONT : Agir aujourd'hui, Construire demain",11,M,MATHIAS Mike
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",1,M,LUCZAK Francis
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",2,F,DEVIN Sylvia
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",3,M,DEMANDRE Pierre-Louis
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",4,F,MANGIN Martine
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",5,M,DEVIN Christophe
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",6,F,FRELIN Angélique
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",7,M,HEIDET Antoine
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",8,F,JANDL Silvia
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",9,M,LUTYNSKI-PONS Louka
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",10,F,FORTUNE Mylène
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",11,M,WALTER Florentin
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",12,F,POINÇOT Eliane
+90,Vauthiermont,"Vauthiermont notre passion, votre horizon",13,M,DUCOUP Remy
+90,Vellescot,BIEN VIVRE A VELLESCOT,1,M,BEY Nicolas
+90,Vellescot,BIEN VIVRE A VELLESCOT,2,F,PFHURTER Florence
+90,Vellescot,BIEN VIVRE A VELLESCOT,3,M,BECHIR Noël
+90,Vellescot,BIEN VIVRE A VELLESCOT,4,F,GAMBARDELLO Virginie
+90,Vellescot,BIEN VIVRE A VELLESCOT,5,M,VERAIN Cyril
+90,Vellescot,BIEN VIVRE A VELLESCOT,6,F,MATHIEU Magali
+90,Vellescot,BIEN VIVRE A VELLESCOT,7,M,PFHURTER Hervé
+90,Vellescot,BIEN VIVRE A VELLESCOT,8,F,CHOQUEZ Sylvie
+90,Vellescot,BIEN VIVRE A VELLESCOT,9,M,BAUMGARTNER David
+90,Vellescot,BIEN VIVRE A VELLESCOT,10,F,LECUYER Magali
+90,Vellescot,BIEN VIVRE A VELLESCOT,11,M,CASTEX Noël
+90,Vescemont,Continuons ensemble pour Vescemont,1,M,CANAL Christian
+90,Vescemont,Continuons ensemble pour Vescemont,2,F,PERROS Ghislaine
+90,Vescemont,Continuons ensemble pour Vescemont,3,M,PARTY Claude
+90,Vescemont,Continuons ensemble pour Vescemont,4,F,MOUTIER Nelly
+90,Vescemont,Continuons ensemble pour Vescemont,5,M,MATHIEU Christophe
+90,Vescemont,Continuons ensemble pour Vescemont,6,F,RENAUDOT Sandrine
+90,Vescemont,Continuons ensemble pour Vescemont,7,M,BAZIN Philippe
+90,Vescemont,Continuons ensemble pour Vescemont,8,F,RENOUX Sophie
+90,Vescemont,Continuons ensemble pour Vescemont,9,M,GAUTHIER Christophe
+90,Vescemont,Continuons ensemble pour Vescemont,10,F,ZALOZNIK Véronique
+90,Vescemont,Continuons ensemble pour Vescemont,11,M,PHILIPPE Sébastien
+90,Vescemont,Continuons ensemble pour Vescemont,12,F,BAINIER Christelle
+90,Vescemont,Continuons ensemble pour Vescemont,13,M,REYNAUD Jean-Luc
+90,Vescemont,Continuons ensemble pour Vescemont,14,F,PY Cécilia
+90,Vescemont,Continuons ensemble pour Vescemont,15,M,PERCHE Fabien
+90,Villars-le-Sec,Villars et Vous,1,M,TALON Jean-Michel
+90,Villars-le-Sec,Villars et Vous,2,F,BORY Marie-Blanche
+90,Villars-le-Sec,Villars et Vous,3,M,CAUPIN Cyril
+90,Villars-le-Sec,Villars et Vous,4,F,BOURQUARDEZ Christine
+90,Villars-le-Sec,Villars et Vous,5,M,PIQUEREZ Cyril
+90,Villars-le-Sec,Villars et Vous,6,F,BRUCHON Christelle
+90,Villars-le-Sec,Villars et Vous,7,M,SARRET Thomas
+90,Villars-le-Sec,Villars et Vous,8,F,DARDINIER Marie
+90,Villars-le-Sec,Villars et Vous,9,M,TALON Mathieu
+90,Villars-le-Sec,Villars et Vous,10,F,KALLIN Valerie
+90,Villars-le-Sec,Villars et Vous,11,M,VALLET Xavier
+90,Vétrigne,Agir ensemble pour Vétrigne,1,M,DIFFALAH Alban
+90,Vétrigne,Agir ensemble pour Vétrigne,2,F,SANTONAX Marie-Line
+90,Vétrigne,Agir ensemble pour Vétrigne,3,M,FRANZON Fabrice
+90,Vétrigne,Agir ensemble pour Vétrigne,4,F,WAQUET Veronique
+90,Vétrigne,Agir ensemble pour Vétrigne,5,M,GUILLANG Serge
+90,Vétrigne,Agir ensemble pour Vétrigne,6,F,LIBLIN Agnes
+90,Vétrigne,Agir ensemble pour Vétrigne,7,M,JACQUOT Gabriel
+90,Vétrigne,Agir ensemble pour Vétrigne,8,F,ANDLAUER Carine
+90,Vétrigne,Agir ensemble pour Vétrigne,9,M,ZANUSSO Andrea
+90,Vétrigne,Agir ensemble pour Vétrigne,10,F,GLEIZES Marine Laetitia
+90,Vétrigne,Agir ensemble pour Vétrigne,11,M,DEUZE Fréderic
+90,Vétrigne,Agir ensemble pour Vétrigne,12,F,JACQUEMIN Monique
+90,Vétrigne,Agir ensemble pour Vétrigne,13,M,BRUN Thierry
+90,Vétrigne,Agir ensemble pour Vétrigne,14,F,LEBRUN Muriel Juliette Lucie
+90,Vétrigne,Agir ensemble pour Vétrigne,15,M,MAITRE Vincent
+90,Vétrigne,Agir ensemble pour Vétrigne,16,F,GUICHARD Maria
+90,Vétrigne,Agir ensemble pour Vétrigne,17,M,KUNZINGER Victor
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,1,M,SALOMON Alain
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,2,F,FROSSARD Johanna
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,3,M,DAGUET Thierry
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,4,F,GRANDGUILLAUME Stéphanie
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,5,M,SANDERRE Jean-Jacques
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,6,F,MATHIEU Emilie
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,7,M,PAULIN Jean-Christophe
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,8,F,DUPONT Léna
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,9,M,WEICK Alain
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,10,F,SOLGATI Francine
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,11,M,ORCEL Olivier
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,12,F,MERVILLE Florine
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,13,M,BOUSBIH Mounir
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,14,F,LOUIS Chantal
+90,Vétrigne,Façonnons ensemble l'avenir de Vétrigne,15,M,HUNCKLER Pascal
+90,Vézelois,Continuons ensemble,1,M,JACQUEMIN Roland
+90,Vézelois,Continuons ensemble,2,F,ADAM Laurence
+90,Vézelois,Continuons ensemble,3,M,VARNEROT Eric
+90,Vézelois,Continuons ensemble,4,F,DARDAINE Agnès
+90,Vézelois,Continuons ensemble,5,M,DEMOULIN Robert
+90,Vézelois,Continuons ensemble,6,F,DEVANTOY Aude
+90,Vézelois,Continuons ensemble,7,M,JUSRET Jean
+90,Vézelois,Continuons ensemble,8,F,TORTEROTOT Marie-Claude
+90,Vézelois,Continuons ensemble,9,M,VINEZ Christian
+90,Vézelois,Continuons ensemble,10,F,MOUHOT Carine
+90,Vézelois,Continuons ensemble,11,M,CORDIER Léandre
+90,Vézelois,Continuons ensemble,12,F,GROSVERNIER Aline
+90,Vézelois,Continuons ensemble,13,M,JEANPERRIN Hervé
+90,Vézelois,Continuons ensemble,14,F,REMY Catherine
+90,Vézelois,Continuons ensemble,15,M,BADIQUE Patrick
+90,Vézelois,Continuons ensemble,16,F,CAILLE Laurence
+90,Vézelois,Continuons ensemble,17,M,MEHENNI Frédéric
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",1,M,PHILIPPE Benjamin
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",2,F,GIRARD Charline
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",3,M,VUVAN Yanis
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",4,F,ENGLES Isabelle
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",5,M,LAÏLY Guy
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",6,F,BRINGART Coralie
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",7,M,OVAL Jocelyn
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",8,F,BOUCARD Nadine
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",9,M,AGUSHI Besart
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",10,F,MASNADA Carine
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",11,M,THIEBAUD Sebastien
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",12,F,LIEGEON Corinne
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",13,M,BAURAND Christophe
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",14,F,LOHNER Elina
+90,Vézelois,"Vézelois engagé, avec vous et pour vous",15,M,WEISS Etienne

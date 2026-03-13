@@ -52,12 +52,12 @@
         <h2 class="hero-subtitle">de listes électorales</h2>
       </header>
 
-      <section class="form-section">
-
+            <section class="form-section">
+ 
         <p class="description">
-          Entrez le nombre de votes reçus par les différentes listes et l'algorithme retournera une fusion proportionnelle et équitable des listes.
+          Entrez le nombre de votes reçus par les différentes listes et l'algorithme retournera une fusion proportionnelle et équitable.
         </p>
-
+ 
         <!-- Mode de fusion -->
         <div class="mode-selector" id="mode-selector">
           <label class="mode-option active" id="mode-prop-label">
@@ -77,38 +77,38 @@
             </div>
           </label>
         </div>
-
+ 
         <p class="parity-hint hidden" id="parity-hint">Indiquez le genre des têtes de liste à l'aide des boutons H et F.</p>
-
+ 
         <!-- Boutons ville -->
         <div class="city-action-row">
         <button class="city-search-btn" id="city-search-btn">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-          Chercher une ville
+          <span id="city-search-btn-label">Chercher une ville</span>
         </button>
           <button class="reset-btn hidden" id="reset-btn" title="Réinitialiser le formulaire">
             <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polyline points="1 4 1 10 7 10"/><path d="M3.51 15a9 9 0 1 0 .49-4.5"/></svg>
             Réinitialiser
           </button>
         </div>
-
+ 
+        <!-- Zone d'erreur -->
+        <div class="error-box" id="error-box" aria-live="polite"></div>
+ 
+        <div class="lists-wrapper" id="lists-wrapper"></div>
+ 
+        <button class="add-btn" id="add-btn" aria-label="Ajouter une liste">
+          <span class="add-btn-icon">+</span>
+        </button>
+ 
         <!-- Sélecteur tête de liste forcée -->
         <div class="forced-head-row" id="forced-head-row">
           <span class="forced-head-label">Tête de liste&nbsp;:</span>
           <div class="forced-head-btns" id="forced-head-btns">
-            <!-- Bouton D (défaut) + boutons listes générés par JS -->
+            <!-- Bouton Auto (défaut) + boutons listes générés par JS -->
           </div>
         </div>
-
-        <!-- Zone d'erreur -->
-        <div class="error-box" id="error-box" aria-live="polite"></div>
-
-        <div class="lists-wrapper" id="lists-wrapper"></div>
-
-        <button class="add-btn" id="add-btn" aria-label="Ajouter une liste">
-          <span class="add-btn-icon">+</span>
-        </button>
-
+ 
         <div class="method-toggle-row">
           <span class="method-toggle-label">Méthode :</span>
           <div class="method-toggle" id="method-toggle">
@@ -116,7 +116,7 @@
             <button class="method-btn active" data-method="dhondt">D'Hondt</button>
           </div>
         </div>
-
+ 
         <div class="validate-row">
           <div class="seats-input-group">
             <label class="seats-label" for="seats-input">Taille de la liste</label>
@@ -124,7 +124,7 @@
           </div>
           <button class="validate-btn" id="validate-btn">Valider</button>
         </div>
-
+ 
       </section>
 
     </main>

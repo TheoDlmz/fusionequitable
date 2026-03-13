@@ -719,11 +719,10 @@ function openPartiDropdown(btnEl, seatIndex) {
       e.preventDefault();
       rankingState[seatIndex] = listIndex;
       closeAllDropdowns();
-      // Mise à jour chirurgicale : seulement cet item
-      updateSingleRankingItem(seatIndex);
-      // Recalcul des violations et de la dispro (pas de re-render liste)
-      refreshViolationBadges();
-      renderDisproportionality();
+      // Vider _candidateAssigned car les noms sont désalignés après changement de parti
+      if (useCandidates) window._candidateAssigned = null;
+      // Reconstruire toute la liste pour recalculer les noms
+      updateRankingListInPlace();
     });
     dropdown.appendChild(opt);
   });
@@ -791,6 +790,12 @@ function refreshViolationBadges() {
  */
 function updateRankingListInPlace() {
   onDragEnd();
+
+  // Après un drag, _candidateAssigned ne correspond plus aux nouveaux indices.
+  // On le vide pour forcer getCandidatName() comme fallback.
+  if (useCandidates) {
+    window._candidateAssigned = null;
+  }
 
   const container = resultsContent.querySelector('.ranking-list');
   if (!container) { rerenderRankingList(); return; }
@@ -871,10 +876,11 @@ function buildRankingItem(seatIndex, listIndex, violations, usedPerList) {
 
   // Chercher le vrai nom dans _candidateAssigned (mode proportionnel) ou getCandidatName (mode parité)
   let candidatNom = null;
-  if (useCandidates && candidatsData) {
+  if (useCandidates) {
+    // _candidateAssigned peut être chargé depuis le state partagé, même sans candidatsData
     if (window._candidateAssigned && window._candidateAssigned[seatIndex]) {
       candidatNom = window._candidateAssigned[seatIndex].nom;
-    } else {
+    } else if (candidatsData) {
       candidatNom = getCandidatName(listIndex, memberIndexForThisList);
     }
   }
@@ -950,6 +956,26 @@ function rerenderRankingList() {
 }
 
 /* =========================================
+   LOADING CANDIDATS
+   ========================================= */
+
+function showCandidatsLoading() {
+  resultsPlaceholder.classList.add('hidden');
+  resultsContent.innerHTML = '';
+  resultsContent.classList.add('visible');
+  const loader = document.createElement('div');
+  loader.id = 'candidats-loader';
+  loader.className = 'candidats-loader';
+  loader.innerHTML = '<div class="candidats-loader-spinner"></div><div class="candidats-loader-text">Chargement des candidats…</div>';
+  resultsContent.appendChild(loader);
+}
+
+function hideCandidatsLoading() {
+  const loader = document.getElementById('candidats-loader');
+  if (loader) loader.remove();
+}
+
+/* =========================================
    RENDER RESULTS COMPLET (appelé par Valider)
    ========================================= */
 
@@ -959,11 +985,25 @@ function renderResults(ranking) {
 
   const header = document.createElement('div');
   header.className = 'results-header';
+  const titleRow = document.createElement('div');
+  titleRow.className = 'results-title-row';
   const title = Object.assign(document.createElement('div'), { className: 'results-title' });
-  title.textContent = 'Classement fusionné';
+  title.textContent = 'Liste fusionnée';
+  const exportBtns = document.createElement('div');
+  exportBtns.className = 'results-export-btns';
+  const exportCsvBtn = document.createElement('button');
+  exportCsvBtn.className = 'export-btn';
+  exportCsvBtn.innerHTML = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg> CSV';
+  exportCsvBtn.addEventListener('click', () => exportRanking('csv'));
+  const exportXlsBtn = document.createElement('button');
+  exportXlsBtn.className = 'export-btn';
+  exportXlsBtn.innerHTML = '<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg> Excel';
+  exportXlsBtn.addEventListener('click', () => exportRanking('excel'));
+  exportBtns.append(exportCsvBtn, exportXlsBtn);
+  titleRow.append(title, exportBtns);
   const subtitle = Object.assign(document.createElement('div'), { className: 'results-subtitle' });
   subtitle.textContent = `${totalSeats} sièges — répartition ${parityMode ? 'proportionnelle & paritaire' : 'proportionnelle'}`;
-  header.append(title, subtitle);
+  header.append(titleRow, subtitle);
   resultsContent.appendChild(header);
 
   const summary = document.createElement('div');
@@ -984,6 +1024,7 @@ function renderResults(ranking) {
 
   resultsPlaceholder.classList.add('hidden');
   resultsContent.classList.add('visible');
+  document.getElementById('share-btn').classList.add('active');
   rerenderRankingList();
 }
 
@@ -1136,7 +1177,8 @@ function renderForcedHeadBtns() {
   // Bouton "D" — défaut
   const defaultBtn = document.createElement('button');
   defaultBtn.className = 'forced-head-btn forced-head-btn--default' + (forcedHeadIndex === null ? ' active' : '');
-  defaultBtn.textContent = 'D';
+  defaultBtn.textContent = 'Auto';
+  defaultBtn.style.width = '40px';
   defaultBtn.dataset.tooltip = 'Par défaut';
   defaultBtn.addEventListener('click', () => {
     forcedHeadIndex = null;
@@ -1241,17 +1283,105 @@ function init() {
     totalSeats = v;
   });
 
-  validateBtn.addEventListener('click', () => {
+  validateBtn.addEventListener('click', async () => {
     if (!validate()) return;
     // Snapshot : les données du formulaire deviennent les données committées
     committedLists      = deepCopy(draftLists);
-    committedForcedHead = forcedHeadIndex; // persiste jusqu'au prochain clic sur D
+    committedForcedHead = forcedHeadIndex;
+    // Attendre que candidatsData soit chargé si nécessaire
+    if (cityLocked && useCandidates) {
+      const depts = [...new Set(committedLists.filter(l => l._dept).map(l => l._dept))];
+      if (depts.length && depts.some(d => !_loadedDepts.has(d))) {
+        await loadCandidatsCSV(depts);
+      }
+    }
     const ranking = parityMode ? computeRankingParity() : computeRanking();
     if (ranking) renderResults(ranking);
   });
 }
 
 init();
+
+
+/* =========================================
+   EXPORT CSV / EXCEL
+   ========================================= */
+
+function buildExportRows() {
+  const hasNames   = useCandidates && (candidatsData || window._candidateAssigned);
+  const hasGenders = parityMode || hasNames;
+  const usedPerList = committedLists.map(() => 0);
+
+  const rows = [['Rang', 'Liste' + (hasNames ? ', Nom' : '') + (hasGenders ? ', Genre' : '')]];
+  const header = ['Rang', 'Liste'];
+  if (hasNames)   header.push('Nom');
+  if (hasGenders) header.push('Genre');
+  const data = [header];
+
+  rankingState.forEach((listIndex, seatIndex) => {
+    const list = committedLists[listIndex];
+    const memberIndex = usedPerList[listIndex];
+    const row = [seatIndex + 1, list.name];
+
+    if (hasNames) {
+      let nom = null;
+      if (window._candidateAssigned && window._candidateAssigned[seatIndex]) {
+        nom = window._candidateAssigned[seatIndex].nom;
+      } else if (candidatsData) {
+        nom = getCandidatName(listIndex, memberIndex);
+      }
+      row.push(nom || '');
+    }
+
+    if (hasGenders) {
+      let genre = null;
+      if (window._candidateAssigned && window._candidateAssigned[seatIndex]) {
+        // genre stocké dans candidateAssigned ? sinon on dérive
+        const cand = window._candidateAssigned[seatIndex];
+        genre = cand.genre || null;
+      }
+      if (!genre && candidatsData) {
+        genre = getCandidatGenre(listIndex, memberIndex);
+      }
+      if (!genre && parityMode) {
+        genre = genderInList(listIndex, memberIndex);
+      }
+      row.push(genre || '');
+    }
+
+    data.push(row);
+    usedPerList[listIndex]++;
+  });
+  return data;
+}
+
+function exportRanking(format) {
+  const data = buildExportRows();
+  if (format === 'csv') {
+    const csv = data.map(row => row.map(cell => {
+      const s = String(cell);
+      return s.includes(',') || s.includes('"') ? '"' + s.replace(/"/g,'""') + '"' : s;
+    }).join(',')).join('\n');
+    const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8;' });
+    const url  = URL.createObjectURL(blob);
+    const a    = Object.assign(document.createElement('a'), { href: url, download: 'liste_fusionnee.csv' });
+    a.click(); URL.revokeObjectURL(url);
+  } else {
+    // Excel via SheetJS (si disponible) sinon fallback CSV
+    if (typeof XLSX !== 'undefined') {
+      const ws = XLSX.utils.aoa_to_sheet(data);
+      const wb = XLSX.utils.book_new();
+      XLSX.utils.book_append_sheet(wb, ws, 'Liste fusionnée');
+      XLSX.writeFile(wb, 'liste_fusionnee.xlsx');
+    } else {
+      // Charger SheetJS dynamiquement
+      const s = document.createElement('script');
+      s.src = 'https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js';
+      s.onload = () => exportRanking('excel');
+      document.head.appendChild(s);
+    }
+  }
+}
 
 /* =========================================
    PARTAGE — save / load / URL
@@ -1271,6 +1401,9 @@ function buildShareState() {
     parityMode,
     totalSeats,
     forcedHeadIndex: committedForcedHead,
+    useCandidates,
+    cityLocked,
+    candidateAssigned: window._candidateAssigned || null,
   };
 }
 
@@ -1297,12 +1430,30 @@ function restoreState(state) {
   parityHint.classList.toggle('hidden', !parityMode);
   seatsInput.value = totalSeats;
 
+  // Restaurer useCandidates, cityLocked et les noms de candidats
+  useCandidates = state.useCandidates || false;
+  cityLocked    = state.cityLocked    || false;
+  window._candidateAssigned = state.candidateAssigned || null;
+
   renderForm();
   updateAddBtn();
 
-  // Restaurer le classement si on en a un
+  // Si cityLocked, restaurer l'UI de verrouillage
+  if (cityLocked) applyLockUI();
+
+  // Restaurer le classement
   if (rankingState.length > 0 && committedLists.length > 0) {
-    renderResults(rankingState);
+    if (cityLocked && useCandidates) {
+      // Afficher un écran de chargement, attendre le CSV, puis render
+      showCandidatsLoading();
+      const depts = [...new Set(committedLists.filter(l => l._dept).map(l => l._dept))];
+      loadCandidatsCSV(depts).then(() => {
+        hideCandidatsLoading();
+        renderResults(rankingState);
+      });
+    } else {
+      renderResults(rankingState);
+    }
   }
 }
 
@@ -1378,7 +1529,7 @@ function openShareModal() {
       currentShareUrl = BASE_URL + id;
       shareLinkDisplay.textContent = currentShareUrl;
       // Mettre à jour l'URL du navigateur
-      history.pushState({ id }, '', '/' + id);
+      history.pushState({ id }, '', id);
     })
     .catch(err => {
       shareLinkDisplay.textContent = 'Erreur : ' + err.message;
@@ -1497,6 +1648,7 @@ function getNuanceColor(code) {
 
 let csvData = null;       // listes.csv
 let candidatsData = null; // candidats.csv
+const _loadedDepts = new Set(); // départements déjà chargés
 
 async function loadCSV() {
   if (csvData !== null) return csvData;
@@ -1513,19 +1665,30 @@ async function loadCSV() {
   }
 }
 
-async function loadCandidatsCSV() {
-  if (candidatsData !== null) return candidatsData;
-  try {
-    const resp = await fetch('candidats.csv');
-    if (!resp.ok) throw new Error('HTTP ' + resp.status);
-    const text = await resp.text();
-    candidatsData = parseCandidatsCSV(text);
-    return candidatsData;
-  } catch (e) {
-    console.error('Erreur chargement candidats CSV:', e);
-    candidatsData = {};
-    return {};
-  }
+async function loadCandidatsCSV(depts) {
+  // depts = tableau de codes département à charger (ex: ['75', '92'])
+  // Si non fourni, ne charge rien (on ne sait pas quoi charger)
+  if (!depts || !depts.length) return candidatsData || {};
+  if (candidatsData === null) candidatsData = {};
+
+  const toLoad = depts.filter(d => !_loadedDepts.has(d));
+  if (!toLoad.length) return candidatsData;
+
+  await Promise.all(toLoad.map(async dept => {
+    try {
+      const resp = await fetch('candidats/candidats_' + dept + '.csv');
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      const text = await resp.text();
+      const partial = parseCandidatsCSV(text);
+      Object.assign(candidatsData, partial);
+      _loadedDepts.add(dept);
+    } catch (e) {
+      console.error('Erreur chargement candidats dept ' + dept + ':', e);
+      _loadedDepts.add(dept); // marquer comme tenté pour ne pas réessayer
+    }
+  }));
+
+  return candidatsData;
 }
 
 function parseCandidatsCSV(text) {
@@ -1651,6 +1814,8 @@ function applyLockUI() {
 
 function resetCity() {
   cityLocked = false;
+  const cityLabel = document.getElementById('city-search-btn-label');
+  if (cityLabel) cityLabel.textContent = 'Chercher une ville';
   useCandidates = false;
   candidatsData = null;
   window._candidateAssigned = null;
@@ -1670,6 +1835,7 @@ function resetCity() {
   rankingState = [];
   resultsContent.innerHTML = '';
   document.querySelector('.results-placeholder')?.classList.remove('hidden');
+  document.getElementById('share-btn').classList.remove('active');
 }
 
 function showCityStep1() {
@@ -1757,10 +1923,14 @@ function importSelectedLists() {
   renderForm();
   updateAddBtn();
   applyLockUI();
+  // Mettre le nom de la ville dans le bouton
+  const cityLabel = document.getElementById('city-search-btn-label');
+  if (cityLabel) cityLabel.textContent = toImport[0].ville + ' (' + toImport[0].codeDept + ')';
   closeCityModal();
 
-  // Charger candidats.csv en arrière-plan
-  loadCandidatsCSV();
+  // Charger les candidats du/des département(s) concerné(s)
+  const depts = [...new Set(toImport.map(r => r.codeDept))];
+  loadCandidatsCSV(depts);
 }
 
 // Recherche ville

@@ -118,11 +118,13 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
+  background: #f0f4f1;
+  border-left: 1px solid rgba(27,67,50,0.10);
 }
 
 .right-panel::-webkit-scrollbar { width: 4px; }
 .right-panel::-webkit-scrollbar-track { background: transparent; }
-.right-panel::-webkit-scrollbar-thumb { background: rgba(82, 183, 136, 0.25); border-radius: 2px; }
+.right-panel::-webkit-scrollbar-thumb { background: rgba(27, 67, 50, 0.20); border-radius: 2px; }
 
 /* Placeholder avant calcul */
 .results-placeholder {
@@ -132,7 +134,7 @@ body {
   align-items: center;
   justify-content: center;
   gap: 14px;
-  opacity: 0.35;
+  opacity: 0.45;
   text-align: center;
 }
 
@@ -142,7 +144,7 @@ body {
 
 .results-placeholder p {
   font-size: 0.9rem;
-  color: var(--green-pale);
+  color: #2d5a3d;
   font-weight: 300;
   max-width: 220px;
   line-height: 1.6;
@@ -174,7 +176,7 @@ body {
   font-family: 'Playfair Display', serif;
   font-size: 1.5rem;
   font-weight: 700;
-  color: var(--white);
+  color: #1B4332;
   margin-bottom: 4px;
 }
 
@@ -459,7 +461,7 @@ body {
 
 .list-row {
   display: grid;
-  grid-template-columns: 36px 1fr 1fr 36px;
+  grid-template-columns: 36px 2fr 1fr 36px;
   align-items: center;
   gap: 8px;
   background: rgba(255, 255, 255, 0.05);
@@ -673,7 +675,6 @@ body {
    ========================================= */
 
 @media (max-width: 768px) {
-
   body {
     overflow: auto;
   }
@@ -705,8 +706,6 @@ body {
   flex: 1;
     height: 200px;
   }
-
-  
 }
 
 /* =========================================
@@ -718,9 +717,10 @@ body {
   flex-direction: column;
   margin-bottom: 16px;
   background: rgba(255,255,255,0.03);
-  border: 1px solid rgba(82,183,136,0.18);
+  border: 1px solid rgba(27,67,50,0.18);
   border-radius: var(--radius-md);
   overflow: hidden;
+  box-shadow: 0 1px 4px rgba(27,67,50,0.07);
 }
 
 .dispro-bar {
@@ -1209,29 +1209,34 @@ input[type=number] {
    ========================================= */
 
 .share-btn {
-  position: absolute;
-  top: 0;
-  right: 0;
-  display: flex;
+  position: fixed;
+  top: 20px;
+  right: 24px;
+  z-index: 50;
+  display: none;
   align-items: center;
   gap: 7px;
   font-family: 'DM Sans', sans-serif;
-  font-size: 0.78rem;
-  font-weight: 500;
-  color: var(--green-light);
-  background: rgba(82,183,136,0.1);
-  border: 1px solid rgba(82,183,136,0.25);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #fff;
+  background: #2d7a4a;
+  border: none;
   border-radius: 999px;
-  padding: 6px 14px;
+  padding: 8px 18px;
   cursor: pointer;
-  transition: background var(--transition), border-color var(--transition), color var(--transition);
+  transition: background var(--transition), box-shadow var(--transition);
   white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(27,67,50,0.18);
+}
+
+.share-btn.active {
+  display: flex !important;
 }
 
 .share-btn:hover {
-  background: rgba(82,183,136,0.2);
-  border-color: rgba(82,183,136,0.5);
-  color: var(--white);
+  background: #1B4332;
+  box-shadow: 0 4px 14px rgba(27,67,50,0.28);
 }
 
 /* =========================================
@@ -1400,13 +1405,7 @@ input[type=number] {
   flex-shrink: 0;
 }
 
-/* Share btn est fixed, on neutralise l'ancien position:absolute hérité */
-.share-btn {
-  position: fixed;
-  top: 20px;
-  right: 24px;
-  z-index: 50;
-}
+/* Share btn position fixed dans le topbar */
 
 /* =========================================
    HERO LOGO
@@ -1426,6 +1425,9 @@ input[type=number] {
    ========================================= */
 
 .forced-head-row {
+  border-top: 1px solid rgba(82,183,136,0.15);
+  padding-top: 12px;
+  margin-top: 4px;
   display: flex;
   align-items: center;
   gap: 10px;
@@ -1638,7 +1640,7 @@ input[type=number] {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  max-width: 220px;
+  max-width: 440px;
 }
 
 .dispro-desc-text {
@@ -2109,7 +2111,7 @@ input[type=number] {
 
 /* Checkbox "utiliser les noms des candidats" */
 .city-use-candidates {
-  padding: 10px 0 4px;
+  padding: 12px 0;
   border-top: 1px solid rgba(82,183,136,0.12);
   margin-top: 12px;
   flex-shrink: 0;
@@ -2186,6 +2188,7 @@ input[type=number] {
 
 .city-input-wrapper {
   position: relative;
+  margin-top: 4px;
 }
 
 .city-input-wrapper .city-input {
@@ -2195,6 +2198,7 @@ input[type=number] {
 .city-input-wrapper .city-results {
   border-top: none;
   border-radius: 0 0 10px 10px;
+  margin-bottom: 16px;
 }
 
 /* Indice de proportionnalité */
@@ -2222,7 +2226,7 @@ input[type=number] {
   column-gap: 24px;
   row-gap: 14px;
   padding: 20px 0 8px;
-  border-top: 1px solid rgba(82,183,136,0.12);
+  border-top: 1px solid rgba(27,67,50,0.12);
   margin-top: auto;
   align-items: start;
 }
@@ -2233,7 +2237,7 @@ input[type=number] {
   gap: 7px;
   font-family: 'DM Sans', sans-serif;
   font-size: 0.78rem;
-  color: var(--text-muted);
+  color: #2d5a3d;
   background: none;
   border: none;
   cursor: pointer;
@@ -2242,7 +2246,7 @@ input[type=number] {
   transition: color var(--transition);
   width: fit-content;
 }
-.info-link:hover { color: var(--green-light); }
+.info-link:hover { color: #1B4332; }
 
 .info-support {
   display: flex;
@@ -2253,7 +2257,7 @@ input[type=number] {
 .info-support-label {
   font-family: 'DM Sans', sans-serif;
   font-size: 0.72rem;
-  color: var(--text-muted);
+  color: #4a7a5a;
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
@@ -2268,8 +2272,8 @@ input[type=number] {
 .info-logo {
   height: 28px;
   width: auto;
-  opacity: 0.7;
-  filter: brightness(0) invert(1);
+  opacity: 0.65;
+  filter: brightness(0);
   transition: opacity var(--transition);
 }
 .info-logo:hover { opacity: 1; }
@@ -2281,18 +2285,18 @@ input[type=number] {
   flex-wrap: wrap;
   font-family: 'DM Sans', sans-serif;
   font-size: 0.72rem;
-  color: var(--text-muted);
+  color: #4a7a5a;
   padding-top: 8px;
-  border-top: 1px solid rgba(82,183,136,0.08);
+  border-top: 1px solid rgba(27,67,50,0.08);
 }
 
 .info-dev-name {
-  color: var(--white);
+  color: #1B4332;
   text-decoration: none;
   font-weight: 500;
   transition: color var(--transition);
 }
-.info-dev-name:hover { color: var(--green-light); }
+.info-dev-name:hover { color: #2d7a4a; }
 
 .info-dev-links {
   display: flex;
@@ -2301,12 +2305,12 @@ input[type=number] {
 }
 
 .info-icon-link {
-  color: var(--text-muted);
+  color: #4a7a5a;
   transition: color var(--transition);
   display: flex;
   align-items: center;
 }
-.info-icon-link:hover { color: var(--white); }
+.info-icon-link:hover { color: #1B4332; }
 
 /* =========================================
    MODAL INFO PROJET
@@ -2404,31 +2408,31 @@ input[type=number] {
 
 .info-team-name {
   font-weight: 600;
-  color: var(--white);
+  color: #1B4332;
 }
 .info-team-name a, a.info-team-name {
-  color: var(--white);
+  color: #1B4332;
   text-decoration: none;
   font-weight: 600;
 }
-.info-team-name a:hover, a.info-team-name:hover { color: var(--green-light); }
+.info-team-name a:hover, a.info-team-name:hover { color: #2d7a4a; }
 .info-team-affil {
-  color: var(--text-muted);
+  color: #4a7a5a;
 }
 .info-team-link {
-  color: var(--green-light);
+  color: #2d7a4a;
   text-decoration: none;
   font-size: 0.75rem;
   transition: color var(--transition);
 }
-.info-team-link:hover { color: var(--white); }
+.info-team-link:hover { color: #1B4332; }
 .info-team-name .info-team-link,
 .info-team-name.info-team-link {
-  color: var(--white);
+  color: #1B4332;
   font-size: inherit;
 }
 .info-team-name .info-team-link:hover,
-.info-team-name.info-team-link:hover { color: var(--green-light); }
+.info-team-name.info-team-link:hover { color: #2d7a4a; }
 
 .info-contact-link {
   color: var(--green-light);
@@ -2460,6 +2464,116 @@ input[type=number] {
   grid-row: 2;
 }
 
+/* =========================================
+   LOADER CANDIDATS
+   ========================================= */
+
+.candidats-loader {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 18px;
+  padding: 40px;
+}
+
+.candidats-loader-spinner {
+  width: 36px;
+  height: 36px;
+  border: 3px solid rgba(255,255,255,0.15);
+  border-top-color: var(--green-light, #52B788);
+  border-radius: 50%;
+  animation: loader-spin 0.75s linear infinite;
+}
+
+@keyframes loader-spin {
+  to { transform: rotate(360deg); }
+}
+
+.candidats-loader-text {
+  font-size: 0.9rem;
+  color: var(--green-pale, #d8f3dc);
+  font-weight: 300;
+  opacity: 0.7;
+  letter-spacing: 0.02em;
+}
+
+/* =========================================
+   EXPORT BUTTONS
+   ========================================= */
+
+.results-title-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 4px;
+}
+
+.results-export-btns {
+  display: flex;
+  gap: 6px;
+  flex-shrink: 0;
+}
+
+.export-btn {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 5px 11px;
+  border-radius: var(--radius-sm);
+  border: 1px solid rgba(27,67,50,0.20);
+  background: rgba(27,67,50,0.06);
+  color: #1B4332;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background var(--transition), border-color var(--transition);
+}
+
+.export-btn:hover {
+  background: rgba(27,67,50,0.12);
+  border-color: rgba(27,67,50,0.35);
+}
+
+/* =========================================
+   RIGHT PANEL — fond clair, textes sombres
+   ========================================= */
+
+/* summary chips sur fond clair */
+.results-content.visible .summary-chip {
+  background: #fff;
+  border: 1px solid rgba(27,67,50,0.18);
+  color: #2d5a3d;
+  box-shadow: 0 1px 3px rgba(27,67,50,0.06);
+}
+
+/* dispro sur fond clair */
+.dispro-row {
+  background: #fff;
+  border: 1px solid rgba(27,67,50,0.18);
+  box-shadow: 0 1px 4px rgba(27,67,50,0.07);
+}
+
+.dispro-label { color: #2d5a3d; }
+.dispro-value { color: #1B4332; }
+.dispro-desc-text { color: #3a6b4a; }
+.dispro-desc-name { color: #1B4332; }
+.dispro-toggle-link { color: #2d7a4a; }
+.dispro-toggle-link:hover { color: #1B4332; }
+
+/* parity status sur fond clair */
+.parity-status { border-color: rgba(27,67,50,0.15); }
+.parity-status-label { color: #4a7a5a; }
+.parity-status-value { color: #1B4332; }
+
+/* candidats loader sur fond clair */
+.candidats-loader-text { color: #2d5a3d; opacity: 0.7; }
+.candidats-loader-spinner {
+  border-color: rgba(27,67,50,0.15);
+  border-top-color: #2d7a4a;
+}
 
 @media (max-width: 768px) {
   .info-footer {

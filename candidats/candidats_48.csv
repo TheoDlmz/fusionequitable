@@ -1,0 +1,2530 @@
+code_departement,ville,libelle_liste,rang,genre,nom_prenom
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,1,M,THÉROND Michel
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,2,F,BARRET Aline
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,3,M,BOUCHARD André
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,4,F,FENAILLE Sylvie
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,5,M,MEYNIER Alain
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,6,F,SAINT-LEGER Dominique
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,7,M,ALIBERT Guillaume
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,8,F,TARDIEU Séverine
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,9,M,AMARGER René
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,10,F,VACHER Virginie
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,11,M,TUFFERY Sébastien
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,12,F,SOULIER Manon
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,13,M,VALETTE Joël
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,14,F,TRAUCHESSEC Mathilde
+48,Albaret-Sainte-Marie,AGIR ENSEMBLE,15,M,BONNET Romain
+48,Allenc,ENSEMBLE POUR ALLENC,1,M,CAPAROS Antoine
+48,Allenc,ENSEMBLE POUR ALLENC,2,F,PEYTAVIN Martine
+48,Allenc,ENSEMBLE POUR ALLENC,3,M,RANC Christophe
+48,Allenc,ENSEMBLE POUR ALLENC,4,F,NOUET Amandine
+48,Allenc,ENSEMBLE POUR ALLENC,5,M,CHEVALIER Sylvain
+48,Allenc,ENSEMBLE POUR ALLENC,6,F,PAULET Camille
+48,Allenc,ENSEMBLE POUR ALLENC,7,M,MILOT Serge
+48,Allenc,ENSEMBLE POUR ALLENC,8,F,CLEMENT Aurélie
+48,Allenc,ENSEMBLE POUR ALLENC,9,M,ALMERAS Loïc
+48,Allenc,ENSEMBLE POUR ALLENC,10,F,LACAS Nicole
+48,Allenc,ENSEMBLE POUR ALLENC,11,M,CHARBONNEL Kélian
+48,Altier,L'EVEIL D'ALTIER,1,F,ANDRE EPOUSE VEDRIN Valérie
+48,Altier,L'EVEIL D'ALTIER,2,M,MOULIN Frédéric
+48,Altier,L'EVEIL D'ALTIER,3,F,COMBES Christelle
+48,Altier,L'EVEIL D'ALTIER,4,M,PAULET Jérome
+48,Altier,L'EVEIL D'ALTIER,5,F,FOLCHER Mathilde
+48,Altier,L'EVEIL D'ALTIER,6,M,PORTANIER Christian
+48,Altier,L'EVEIL D'ALTIER,7,F,KABORE Kadia
+48,Altier,L'EVEIL D'ALTIER,8,M,VEYRUNES Joël
+48,Altier,L'EVEIL D'ALTIER,9,F,VOLPILIÈRES Marine
+48,Altier,L'EVEIL D'ALTIER,10,M,RUAT Jonathan
+48,Altier,L'EVEIL D'ALTIER,11,F,GOURDOUZE Angélique
+48,Altier,L'EVEIL D'ALTIER,12,M,ROUDIL Mickaël
+48,Altier,L'EVEIL D'ALTIER,13,F,DEDET Béatrice
+48,Antrenas,Ensemble faisons vivre notre commune,1,M,COULOMB Jean-Marc
+48,Antrenas,Ensemble faisons vivre notre commune,2,F,PRIEUR Chantal
+48,Antrenas,Ensemble faisons vivre notre commune,3,M,SEGUIN Frédéric
+48,Antrenas,Ensemble faisons vivre notre commune,4,F,VIGNE FANGUIN Sandy
+48,Antrenas,Ensemble faisons vivre notre commune,5,M,CHABANON Olivier
+48,Antrenas,Ensemble faisons vivre notre commune,6,F,HILLAT Céline
+48,Antrenas,Ensemble faisons vivre notre commune,7,M,PAUC Arnaud
+48,Antrenas,Ensemble faisons vivre notre commune,8,F,RAZON Céline
+48,Antrenas,Ensemble faisons vivre notre commune,9,M,DELCROS Pierre-Jean
+48,Antrenas,Ensemble faisons vivre notre commune,10,F,VALETTE Céline
+48,Antrenas,Ensemble faisons vivre notre commune,11,M,ROUVIERE Luc
+48,Arzenc-d'Apcher,Ensemble pour Arzenc d'Apcher,1,F,SOULIER Martine
+48,Arzenc-d'Apcher,Ensemble pour Arzenc d'Apcher,2,M,TARDIEU Jean Marie
+48,Arzenc-d'Apcher,Ensemble pour Arzenc d'Apcher,3,F,PARAN Nicole
+48,Arzenc-d'Apcher,Ensemble pour Arzenc d'Apcher,4,M,PECOUL Bruno
+48,Arzenc-d'Apcher,Ensemble pour Arzenc d'Apcher,5,F,PORTAL Marie-Thérèse
+48,Arzenc-d'Apcher,Ensemble pour Arzenc d'Apcher,6,M,CHASSANG Arnaud
+48,Arzenc-d'Apcher,Ensemble pour Arzenc d'Apcher,7,F,SUAU Marie-Claude
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,1,M,GIBERT Francis
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,2,F,JOURDAN Geneviève
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,3,M,RICHARD Laurent
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,4,F,CRESPIN Audrey
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,5,M,MALLET Vincent
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,6,F,PANAMENO FERNANDEZ Marcella
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,7,M,TOURRENC Eric
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,8,F,ROCHER Élodie
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,9,M,FORESTIER Bernard
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,10,F,BORTOLOZZI Laetitia
+48,Arzenc-de-Randon,Ensemble pour l'Avenir d'Arzenc de Randon,11,M,BRESSON Martial
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,1,F,ZAMUTH Marie-Pierre
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,2,M,SYLVAIN Joseph
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,3,F,SIGNORET-MASCLAUX Christelle
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,4,M,VILLEDIEU Jérôme
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,5,F,HUGON Elsa
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,6,M,GAILLARD Jean-Pierre
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,7,F,ROCHARD Marie
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,8,M,PLANCHON Laurent
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,9,F,LARSONNEUR Sylvie
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,10,M,MARCON Anthony
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,11,F,PORTANIER Mireille
+48,Auroux,Ensemble pour Auroux pour une Nouvelle Dynamique,12,M,GIRODON Julien
+48,Auroux,MOBILISES POUR AUROUX,1,F,PIJEAU Anne-Marie
+48,Auroux,MOBILISES POUR AUROUX,2,M,DELMAS Pascal
+48,Auroux,MOBILISES POUR AUROUX,3,F,GILARDIN Hélène
+48,Auroux,MOBILISES POUR AUROUX,4,M,MOURGUES Emmanuel
+48,Auroux,MOBILISES POUR AUROUX,5,F,RUIZ Régine
+48,Auroux,MOBILISES POUR AUROUX,6,M,PAULET Benoît
+48,Auroux,MOBILISES POUR AUROUX,7,F,GAILLARD Hélène
+48,Auroux,MOBILISES POUR AUROUX,8,M,GILARDIN Bernard
+48,Auroux,MOBILISES POUR AUROUX,9,F,SARIVIERE Nicole
+48,Auroux,MOBILISES POUR AUROUX,10,M,RICHARTE Guy
+48,Auroux,MOBILISES POUR AUROUX,11,F,VARINOT Corinne
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",1,F,REBOIS-CHEMIN Valérie
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",2,M,VALARIER Benoît
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",3,F,PASI Stéphanie
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",4,M,SOUCHON Xavier
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",5,F,GELY Fabienne
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",6,M,CATALANO Hervé
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",7,F,JOURDAIN Sandy
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",8,M,COLOMB Fabien
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",9,F,BONICEL Aline
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",10,M,CAYROCHE Christophe
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",11,F,BRUEL-MARTIN Sandrine
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",12,M,LAURENÇOT Noé
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",13,F,CASTELLANI-PLAN Marie-Hélène
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",14,M,LEVESQUE Thierry
+48,Badaroux,"Badaroux, l'avenir s'écrit ensemble.",15,F,CLAVEL Séverine
+48,Balsièges,Balsièges au coeur,1,M,RESSOUCHE Lionel
+48,Balsièges,Balsièges au coeur,2,F,DELMAS Dominique
+48,Balsièges,Balsièges au coeur,3,M,PERRIER Yannick
+48,Balsièges,Balsièges au coeur,4,F,LIÉVENS Sylvie
+48,Balsièges,Balsièges au coeur,5,M,BOULET Philippe
+48,Balsièges,Balsièges au coeur,6,F,BENOIT Émilie
+48,Balsièges,Balsièges au coeur,7,M,NÈGRE Vincent
+48,Balsièges,Balsièges au coeur,8,F,CATALANO Sandy
+48,Balsièges,Balsièges au coeur,9,M,TRAUCHESSEC David
+48,Balsièges,Balsièges au coeur,10,F,GELLY Clémence
+48,Balsièges,Balsièges au coeur,11,M,COURTÈS Josselin
+48,Balsièges,Balsièges au coeur,12,F,BRINGER Emeline
+48,Balsièges,Balsièges au coeur,13,M,SABATIER Vincent
+48,Balsièges,Balsièges au coeur,14,F,SALTEL Élodie
+48,Balsièges,Balsièges au coeur,15,M,MICHAUD Thierry
+48,Banassac-Canilhac,Agir Ensemble pour Demain,1,F,POUGET SAGNET Valerie
+48,Banassac-Canilhac,Agir Ensemble pour Demain,2,M,FAGES Yannick
+48,Banassac-Canilhac,Agir Ensemble pour Demain,3,F,PAGES SAMSON Mathilde
+48,Banassac-Canilhac,Agir Ensemble pour Demain,4,M,CIPRIANI Patrick
+48,Banassac-Canilhac,Agir Ensemble pour Demain,5,F,BLANCO DELTOUR Silvia
+48,Banassac-Canilhac,Agir Ensemble pour Demain,6,M,RUAULT Emmanuel
+48,Banassac-Canilhac,Agir Ensemble pour Demain,7,F,JONARD Maeva
+48,Banassac-Canilhac,Agir Ensemble pour Demain,8,M,DELTOUR Michel
+48,Banassac-Canilhac,Agir Ensemble pour Demain,9,F,LAFON Emilie
+48,Banassac-Canilhac,Agir Ensemble pour Demain,10,M,POUCHOU Stéphane
+48,Banassac-Canilhac,Agir Ensemble pour Demain,11,F,TREMOLET Sophie
+48,Banassac-Canilhac,Agir Ensemble pour Demain,12,M,TIROLLE Noël
+48,Banassac-Canilhac,Agir Ensemble pour Demain,13,F,BONICEL Pascale
+48,Banassac-Canilhac,Agir Ensemble pour Demain,14,M,YGRIÉ Baptiste
+48,Banassac-Canilhac,Agir Ensemble pour Demain,15,F,ALBOUY NÉE MARGIRIER Lydie
+48,Banassac-Canilhac,Agir Ensemble pour Demain,16,M,GAZAGNE Thierry
+48,Banassac-Canilhac,Agir Ensemble pour Demain,17,F,ALDEBERT Lydia
+48,Banassac-Canilhac,Agir Ensemble pour Demain,18,M,VIGUIER Pierre-Etienne
+48,Banassac-Canilhac,Agir Ensemble pour Demain,19,F,BAGARRE Catherine
+48,Banassac-Canilhac,Agir Ensemble pour Demain,20,M,BERTY Benoît
+48,Banassac-Canilhac,Agir Ensemble pour Demain,21,F,FABIEN Sylvie
+48,Barjac,Vivre ensemble à Barjac,1,M,SOULIÉ David
+48,Barjac,Vivre ensemble à Barjac,2,F,LEROUXEL Sophie
+48,Barjac,Vivre ensemble à Barjac,3,M,COMTE Dimitri
+48,Barjac,Vivre ensemble à Barjac,4,F,JOUBERT Koraline
+48,Barjac,Vivre ensemble à Barjac,5,M,BOURON Éric
+48,Barjac,Vivre ensemble à Barjac,6,F,ALLAVENA Anne
+48,Barjac,Vivre ensemble à Barjac,7,M,LHUILLIER Corentin
+48,Barjac,Vivre ensemble à Barjac,8,F,GAILLARD Justine
+48,Barjac,Vivre ensemble à Barjac,9,M,BOULET Christophe
+48,Barjac,Vivre ensemble à Barjac,10,F,MERCIER Julie
+48,Barjac,Vivre ensemble à Barjac,11,M,OZIOL Sébastien
+48,Barjac,Vivre ensemble à Barjac,12,F,SAINT-LÉGER Sophie
+48,Barjac,Vivre ensemble à Barjac,13,M,AMBLARD Dorian
+48,Barjac,Vivre ensemble à Barjac,14,F,SALVAT Julie
+48,Barjac,Vivre ensemble à Barjac,15,M,BONNAFOUS Philippe
+48,Barjac,Vivre ensemble à Barjac,16,F,TEISSANDIER Sandrine
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,1,M,ROUVEYROL François
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,2,F,ROUMEJON Anny
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,3,M,DEMOLIN Robert
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,4,F,VIDHAMALI Caroline
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,5,M,LESIOURD Dominique
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,6,F,DE MAÏO Nicole
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,7,M,COUDERC Raphaël
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,8,F,ROLAND Marjolaine
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,9,M,VION Etienne
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,10,F,CROSE Jeanne
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,11,M,SANCHEZ Jésus
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,12,F,BENOIT Isabelle
+48,Barre-des-Cévennes,BARRE DES CEVENNES. VOLONTE D'AVENIR,13,M,CAPELIER Nicolas
+48,Barre-des-Cévennes,Bien vivre à Barre,1,M,ADAM Eric
+48,Barre-des-Cévennes,Bien vivre à Barre,2,F,DE MAIO Danielle
+48,Barre-des-Cévennes,Bien vivre à Barre,3,M,FONTAINE Jacques
+48,Barre-des-Cévennes,Bien vivre à Barre,4,F,TRIC Aude
+48,Barre-des-Cévennes,Bien vivre à Barre,5,M,ALDROVANDI Charles
+48,Barre-des-Cévennes,Bien vivre à Barre,6,F,TARDIEU-GUIGUES Elisabeth
+48,Barre-des-Cévennes,Bien vivre à Barre,7,M,POGARIELOFF Denis
+48,Barre-des-Cévennes,Bien vivre à Barre,8,F,ANRES Véronique
+48,Barre-des-Cévennes,Bien vivre à Barre,9,M,MONET Rémy
+48,Barre-des-Cévennes,Bien vivre à Barre,10,F,ESTOR SAINT-PIERRE Chantal
+48,Barre-des-Cévennes,Bien vivre à Barre,11,M,ROY Patrick
+48,Bassurels,TOUTES ET TOUS UNIS POUR LA COMMUNE DE BASSURELS,1,F,GAILLAC Josette
+48,Bassurels,TOUTES ET TOUS UNIS POUR LA COMMUNE DE BASSURELS,2,M,BARBUSSE Alain
+48,Bassurels,TOUTES ET TOUS UNIS POUR LA COMMUNE DE BASSURELS,3,F,GEMINARD Marie-Françoise
+48,Bassurels,TOUTES ET TOUS UNIS POUR LA COMMUNE DE BASSURELS,4,M,BAUDOIN Guy
+48,Bassurels,TOUTES ET TOUS UNIS POUR LA COMMUNE DE BASSURELS,5,F,FOISY Sabine
+48,Bassurels,TOUTES ET TOUS UNIS POUR LA COMMUNE DE BASSURELS,6,M,CAVALIER Jean-Paul
+48,Bassurels,TOUTES ET TOUS UNIS POUR LA COMMUNE DE BASSURELS,7,F,PHILIP-CHAREYRE Sandrine
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,1,M,SOLIGNAC Claude
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,2,F,VIGNAL Florence
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,3,M,FABRE Yannick
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,4,F,DUMAS Anne-Marie
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,5,M,BROUSSARD Sebastien
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,6,F,AUJOULAT Marie-Christine
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,7,M,FRAISSE Patrick
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,8,F,AMESLANT Martine
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,9,M,BONHOMME Axel
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,10,F,PIGNOL Claire
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,11,M,GIBERT Quentin
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,12,F,TROUSSELIER Lucile
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,13,M,BRAUD Jean-Pierre
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,14,F,GRENIER Christine
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,15,M,FEDERE Norbert
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,16,F,RIEU Nadège
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,17,M,LOUBIER Nicolas
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,18,F,SAINT MARTIN Pascale
+48,Bel-Air-Val-d'Ance,Bel-Air-Val-d'Ance - L'Avenir ensemble !,19,M,PIGNOL Christophe
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,1,F,GARDES SAINT PAUL Mireille
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,2,M,ANDRÉ Philippe
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,3,F,BRET Muriel
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,4,M,LASSEYTE Philippe
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,5,F,THEROND Marie-Renée
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,6,M,ENGELVIN Olivier
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,7,F,LAVERSANNE Anaïs
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,8,M,BOUSSEROLES Guy
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,9,F,MOURNET Marie-Andrée
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,10,M,NAUTON Jacques
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,11,F,TEIXEIRA Marie
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,12,M,CHALIER Vincent
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,13,F,CHERKIT Anne-Marie
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,14,M,LAROCHE Damien
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,15,F,TROXLER Isabelle
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,16,M,DUZERT Vincent
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,17,F,CHAUSSE Valérie
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,18,M,BONHOMME Samuel
+48,Bel-Air-Val-d'Ance,Traditions et avenir à Bel-Air-Val-d'Ance,19,F,MATHIEU Marie-André
+48,Blavignac,Ensemble pour Blavignac,1,F,FABRE Colette
+48,Blavignac,Ensemble pour Blavignac,2,M,CHADELAT Yves
+48,Blavignac,Ensemble pour Blavignac,3,F,SOULPIN Lucette
+48,Blavignac,Ensemble pour Blavignac,4,M,BENOIT Adrien
+48,Blavignac,Ensemble pour Blavignac,5,F,POTTEVIN Florence
+48,Blavignac,Ensemble pour Blavignac,6,M,VIGIER Mathieu
+48,Blavignac,Ensemble pour Blavignac,7,F,LONGEON Maryse
+48,Blavignac,Ensemble pour Blavignac,8,M,CIHANEK Marc
+48,Blavignac,Ensemble pour Blavignac,9,F,BONNEFOY Christiane
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,1,M,BOUNIOL Lionel
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,2,F,CASTAN Michèle
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,3,M,CHAZALMARTIN Serge
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,4,F,ROCHETEAU Marie
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,5,M,FOLCHER Olivier
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,6,F,LOUBIER Monique
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,7,M,MALON Vincent
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,8,F,PLAGNES Valérie
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,9,M,MENRAS Gérald
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,10,F,ROUSSET Magali
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,11,M,CANTAGREL Jérémy
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,12,F,MOREAU Magali
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,13,M,LEROUVILLOIS Nicolas
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,14,F,PETIT Sylvie
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,15,M,PRADEILLES Pascal
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,16,F,CRUEYZE Jocelyne
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,17,M,GERVAIS Franck
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,18,F,DUMORTIER Nancy
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,19,M,CLAVEL Marc
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,20,F,PODEVIGNE Laure
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,21,M,MOURET Bernard
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,22,F,ALA Marion
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,23,M,FAUDON Stéphane
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,24,F,AMARGER Muriel
+48,Bourgs sur Colagne,ça bouge à Bourgs sur Colagne,25,M,PRIEUR Michel
+48,Brenoux,Brenoux 2026,1,M,TAURISSON Olivier
+48,Brenoux,Brenoux 2026,2,F,CHASTEL-GRICOURT Elodie
+48,Brenoux,Brenoux 2026,3,M,BADAROUX Michel
+48,Brenoux,Brenoux 2026,4,F,MILHAU Anne-Marie
+48,Brenoux,Brenoux 2026,5,M,CADÉAC Laurent
+48,Brenoux,Brenoux 2026,6,F,POINFOUX Sara
+48,Brenoux,Brenoux 2026,7,M,DEBIEN Pierre
+48,Brenoux,Brenoux 2026,8,F,REYNAL Perrine
+48,Brenoux,Brenoux 2026,9,M,MOLINES Damien
+48,Brion,AGIR ENSEMBLE,1,M,LONGEAC Daniel
+48,Brion,AGIR ENSEMBLE,2,F,PRUNIÈRE Blandine
+48,Brion,AGIR ENSEMBLE,3,M,PIGNOL Damien
+48,Brion,AGIR ENSEMBLE,4,F,OSTY Amandine
+48,Brion,AGIR ENSEMBLE,5,M,FOSSE Christian
+48,Brion,AGIR ENSEMBLE,6,F,POUTHIER Chantal
+48,Brion,AGIR ENSEMBLE,7,M,LAPORTE Julien
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,1,M,BLANCHET Philippe
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,2,F,SAUVION Corinne
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,3,M,LAGARDE Anthony
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,4,F,CHAPELLE Marie-Thérèse
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,5,M,PARATIAS Francis
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,6,F,PRADEILLES Roselyne
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,7,M,BOUËT Mathieu
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,8,F,VITROLLES Laura
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,9,M,BONICEL Lucas
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,10,F,DE MARTINO Danika
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,11,M,MEUNIER Mickaël
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,12,F,PARROT Sylvie
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,13,M,REGAZZONI Jean-Baptiste
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,14,F,SERRIÈRE Géraldine
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,15,M,PETIT Jacques
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,16,F,MAGAUD Cécile
+48,Bédouès-Cocurès,BATISSONS UNE COMMUNE HUMAINE,17,M,KANIA Olivier
+48,Bédouès-Cocurès,UN NOUVEL ELAN,1,F,MIANE-HUC Karine
+48,Bédouès-Cocurès,UN NOUVEL ELAN,2,M,LITCHE Robert
+48,Bédouès-Cocurès,UN NOUVEL ELAN,3,F,ROBERT Elsa
+48,Bédouès-Cocurès,UN NOUVEL ELAN,4,M,LAPIERRE Waren
+48,Bédouès-Cocurès,UN NOUVEL ELAN,5,F,BOYER Danièle
+48,Bédouès-Cocurès,UN NOUVEL ELAN,6,M,GREGOIRE Bernard
+48,Bédouès-Cocurès,UN NOUVEL ELAN,7,F,TEYSSIER Magali
+48,Bédouès-Cocurès,UN NOUVEL ELAN,8,M,REFFERT Grégory
+48,Bédouès-Cocurès,UN NOUVEL ELAN,9,F,NOIN Alexandra
+48,Bédouès-Cocurès,UN NOUVEL ELAN,10,M,DA SILVA COSTA Joêl
+48,Bédouès-Cocurès,UN NOUVEL ELAN,11,F,RUARUI Pascale
+48,Bédouès-Cocurès,UN NOUVEL ELAN,12,M,RIOULT Eric
+48,Bédouès-Cocurès,UN NOUVEL ELAN,13,F,VIEILLEDENT Coralie
+48,Bédouès-Cocurès,UN NOUVEL ELAN,14,M,CHERRIER David
+48,Bédouès-Cocurès,UN NOUVEL ELAN,15,F,HUC Françoise
+48,Cans et Cévennes,L'AVENIR COMMUNAL,1,M,PASCUAL Matthieu
+48,Cans et Cévennes,L'AVENIR COMMUNAL,2,F,BOUTHREUIL Nausicaa
+48,Cans et Cévennes,L'AVENIR COMMUNAL,3,M,PRADEILLES Christophe
+48,Cans et Cévennes,L'AVENIR COMMUNAL,4,F,CHAPTAL Martine
+48,Cans et Cévennes,L'AVENIR COMMUNAL,5,M,DUMAS Rémy
+48,Cans et Cévennes,L'AVENIR COMMUNAL,6,F,ROCHER Christel
+48,Cans et Cévennes,L'AVENIR COMMUNAL,7,M,COUDERC Pierre
+48,Cans et Cévennes,L'AVENIR COMMUNAL,8,F,CHAPTAL Florence
+48,Cans et Cévennes,L'AVENIR COMMUNAL,9,M,CLEMENT Bastien
+48,Cans et Cévennes,L'AVENIR COMMUNAL,10,F,MASSENET Nathalie
+48,Cans et Cévennes,L'AVENIR COMMUNAL,11,M,CHAPELLE Damien
+48,Cans et Cévennes,L'AVENIR COMMUNAL,12,F,TINEL Amélie
+48,Cans et Cévennes,L'AVENIR COMMUNAL,13,M,LEFEBVRE Michaël
+48,Cans et Cévennes,L'AVENIR COMMUNAL,14,F,DELPUECH Martine
+48,Cans et Cévennes,L'AVENIR COMMUNAL,15,M,BABE Pierre
+48,Cassagnas,CASSAGNAS AU COEUR,1,F,MALLET Edith
+48,Cassagnas,CASSAGNAS AU COEUR,2,M,WILKIN Jean
+48,Cassagnas,CASSAGNAS AU COEUR,3,F,BARNONCEL Suzanne
+48,Cassagnas,CASSAGNAS AU COEUR,4,M,PLANTIER Cédric
+48,Cassagnas,CASSAGNAS AU COEUR,5,F,BOYER Véronique
+48,Cassagnas,CASSAGNAS AU COEUR,6,M,COUDERC Laurent
+48,Cassagnas,CASSAGNAS AU COEUR,7,F,LACOMBE Françoise
+48,Cassagnas,CASSAGNAS AU COEUR,8,M,DANIELLI Bernard
+48,Cassagnas,CASSAGNAS AU COEUR,9,F,LE BOULCH-ZARSKYJ Françoise
+48,Cassagnas,CASSAGNAS AU COEUR,10,M,PRADEN Michel
+48,Cassagnas,CASSAGNAS AU COEUR,11,F,TINEL Sylvie
+48,Chadenet,POUR CHADENET,1,M,ARBOUSSET Antonin
+48,Chadenet,POUR CHADENET,2,F,GUEDES Véronique
+48,Chadenet,POUR CHADENET,3,M,SALANSON André
+48,Chadenet,POUR CHADENET,4,F,DIET Isabelle
+48,Chadenet,POUR CHADENET,5,M,BROS Augustin
+48,Chadenet,POUR CHADENET,6,F,MORIN Céline
+48,Chadenet,POUR CHADENET,7,M,TEYSSIER Olivier
+48,Chadenet,POUR CHADENET,8,F,BERBON Yolande
+48,Chadenet,POUR CHADENET,9,M,SALANSON Cyril
+48,Chanac,"Chanac, un village qui nous rassemble",1,M,LAFOURCADE Noël
+48,Chanac,"Chanac, un village qui nous rassemble",2,F,BOUTIN Catherine
+48,Chanac,"Chanac, un village qui nous rassemble",3,M,JACQUES Jérôme
+48,Chanac,"Chanac, un village qui nous rassemble",4,F,BOYER Cecile
+48,Chanac,"Chanac, un village qui nous rassemble",5,M,MARNAT Benjamin
+48,Chanac,"Chanac, un village qui nous rassemble",6,F,CORDESSE Claire
+48,Chanac,"Chanac, un village qui nous rassemble",7,M,PAGES Manuel
+48,Chanac,"Chanac, un village qui nous rassemble",8,F,BOUT Christelle
+48,Chanac,"Chanac, un village qui nous rassemble",9,M,LACAN Vincent
+48,Chanac,"Chanac, un village qui nous rassemble",10,F,RODIER Colette
+48,Chanac,"Chanac, un village qui nous rassemble",11,M,BUFFIERE Laurent
+48,Chanac,"Chanac, un village qui nous rassemble",12,F,GACHE Marie-Laurence
+48,Chanac,"Chanac, un village qui nous rassemble",13,M,BARBUT Quentin
+48,Chanac,"Chanac, un village qui nous rassemble",14,F,MICHEL Sandrine
+48,Chanac,"Chanac, un village qui nous rassemble",15,M,MARTINEZ Manuel
+48,Chastanier,Vivre à Chastanier,1,M,NÉGRON Bernard
+48,Chastanier,Vivre à Chastanier,2,F,ROCHEBLAVE Catherine
+48,Chastanier,Vivre à Chastanier,3,M,PIEJOUGEAC Joël
+48,Chastanier,Vivre à Chastanier,4,F,FÉMINIER Françoise
+48,Chastanier,Vivre à Chastanier,5,M,GONY Alain
+48,Chastanier,Vivre à Chastanier,6,F,MAILHAN Eveline
+48,Chastanier,Vivre à Chastanier,7,M,TRÉMOLIÈRE Guillaume
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",1,M,ROL Sébastien
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",2,F,TEISSEDRE Murielle
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",3,M,DELOR Francis
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",4,F,BLANC Françoise
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",5,M,ALIBERT Lucien
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",6,F,MEJEAN-RUIZ Anaïs
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",7,M,LAURENS Sébastien
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",8,F,DELHOUSTAL Flora
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",9,M,BRUNEL Cédric
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",10,F,ROUSSET Christelle
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",11,M,BERAL Alain
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",12,F,AMALRIC Anaïs
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",13,M,MASSA Sébastien
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",14,F,DUGARD Marine
+48,Chastel-Nouvel,"Chastel-Nouvel, terre d'histoire et d'avenir",15,M,PASQUIER Brice
+48,Chauchailles,Ensemble pour Chauchailles,1,M,FLORANT Frédéric
+48,Chauchailles,Ensemble pour Chauchailles,2,F,CHARREYRON Marie
+48,Chauchailles,Ensemble pour Chauchailles,3,M,DALLE Patrick
+48,Chauchailles,Ensemble pour Chauchailles,4,F,VEYRIÈRE Sylvie
+48,Chauchailles,Ensemble pour Chauchailles,5,M,VIALA Didier
+48,Chauchailles,Ensemble pour Chauchailles,6,F,FLORANT Delphine
+48,Chauchailles,Ensemble pour Chauchailles,7,M,FARGES Christian
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,1,M,ROMIEU Serge
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,2,F,PIEJOUJAC Michèle
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,3,M,GRAVIL Guy
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,4,F,BONHOMME Isabelle
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,5,M,NOUET Nicolas
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,6,F,LAURAIRE Sylvia
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,7,M,DENISET Marc
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,8,F,FORESTIER Myriam
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,9,M,JOUVE Yannick
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,10,F,GLEIZON Jessica
+48,Chaudeyrac,Agir pour l'Avenir de Chaudeyrac,11,M,PRADIER Julien
+48,Chaulhac,Ensemble pour Chaulhac,1,M,ROUSSET Gérard
+48,Chaulhac,Ensemble pour Chaulhac,2,F,ARCHER Christine
+48,Chaulhac,Ensemble pour Chaulhac,3,M,ARCHER Laurent
+48,Chaulhac,Ensemble pour Chaulhac,4,F,ROUSSET Paulette
+48,Chaulhac,Ensemble pour Chaulhac,5,M,ODOUL Jean Claude
+48,Chaulhac,Ensemble pour Chaulhac,6,F,NORMAND Aurélie
+48,Chaulhac,Ensemble pour Chaulhac,7,M,COMBES Thierry
+48,Cheylard-l'Evêque,Ensemble Pour Le Cheylard l'Evêque,1,M,PIN Philippe
+48,Cheylard-l'Evêque,Ensemble Pour Le Cheylard l'Evêque,2,F,MARTEL Isabelle
+48,Cheylard-l'Evêque,Ensemble Pour Le Cheylard l'Evêque,3,M,BAUCHET Bruno
+48,Cheylard-l'Evêque,Ensemble Pour Le Cheylard l'Evêque,4,F,SCHNELLER Marine
+48,Cheylard-l'Evêque,Ensemble Pour Le Cheylard l'Evêque,5,M,AZAS Dominique
+48,Cheylard-l'Evêque,Ensemble Pour Le Cheylard l'Evêque,6,F,PETIOT Mélanie
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",1,M,ROLLAND Claude
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",2,F,MALAVIEILLE Joëlle
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",3,M,ROUX Éric
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",4,F,NOUET Marine
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",5,M,CARNAC Alexis
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",6,F,POIRIER Vanessa
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",7,M,MENGUY Eric
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",8,F,ROUVEYROL Véronique
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",9,M,SAPET Hervé
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",10,F,DEREUME Véronique
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",11,M,BESSIERE Pierre
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",12,F,VIGNE Dominique
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",13,M,BARLET Mathieu
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",14,F,LABEAUME MARTIN Marine
+48,Châteauneuf-de-Randon,"""PROJETS D'AVENIR""",15,M,BONNEFILLE Patrick
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,1,M,DURAND Bruno
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,2,F,JACCARD Annita
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,3,M,GOUPIL Alain
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,4,F,GUERIN Marie
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,5,M,MERLINO Jean-Claude
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,6,F,VIGNE Chantal
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,7,M,GUERIN Vincent
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,8,F,PREVOT Caroline
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,9,M,FABRE Bertrand
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,10,F,PROTO Michelle
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,11,M,SENINCK Alfred
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,12,F,TIXIDRE Violaine
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,13,M,ROLLAND Noel
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,14,F,RICHARD Manon
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,15,M,FERNANDEZ Sylvan
+48,Châteauneuf-de-Randon,UNIS POUR CHATEAUNEUF DE RANDON,16,F,GRASSET Jeanine
+48,Cubières,AGIR POUR CUBIERES,1,M,LAURENT Christian
+48,Cubières,AGIR POUR CUBIERES,2,F,REBOUL LERT Martine
+48,Cubières,AGIR POUR CUBIERES,3,M,BARGETON Pierre
+48,Cubières,AGIR POUR CUBIERES,4,F,RIBIERE Valérie
+48,Cubières,AGIR POUR CUBIERES,5,M,N'DIAYE Julien
+48,Cubières,AGIR POUR CUBIERES,6,F,OSVALD Laura
+48,Cubières,AGIR POUR CUBIERES,7,M,FOLCHER Joël
+48,Cubières,AGIR POUR CUBIERES,8,F,MASSADOR Léa
+48,Cubières,AGIR POUR CUBIERES,9,M,BRAJON Ludovic
+48,Cubières,AGIR POUR CUBIERES,10,F,BENOIT Michèle
+48,Cubières,AGIR POUR CUBIERES,11,M,DENISSELLE Jean-Pierre
+48,Cubiérettes,Vivre à Cubiérettes,1,M,BENOIT Christian
+48,Cubiérettes,Vivre à Cubiérettes,2,F,LETIENT Valérie
+48,Cubiérettes,Vivre à Cubiérettes,3,M,BRESSON Didier
+48,Cubiérettes,Vivre à Cubiérettes,4,F,CHAMPEAU Joëlle
+48,Cubiérettes,Vivre à Cubiérettes,5,M,GILLES Christian
+48,Cubiérettes,Vivre à Cubiérettes,6,F,BENOIT Catherine Isabelle
+48,Cubiérettes,Vivre à Cubiérettes,7,M,ROMAN Antonio
+48,Cultures,Pour Cultures,1,M,SALENDRES Jean-Sébastien
+48,Cultures,Pour Cultures,2,F,DUBIEN Emmanuelle
+48,Cultures,Pour Cultures,3,M,BERGONHE Emile
+48,Cultures,Pour Cultures,4,F,YZERN Odile
+48,Cultures,Pour Cultures,5,M,RUIZ Marc
+48,Cultures,Pour Cultures,6,F,MOTILLON Emilie
+48,Cultures,Pour Cultures,7,M,GUGLIELMI Gill
+48,Cultures,Pour Cultures,8,F,SAVANIER Emilie
+48,Cultures,Pour Cultures,9,M,CLAVEL Fabien
+48,Cultures,Pour Cultures,10,F,LE BEURIER Marie
+48,Cultures,Pour Cultures,11,M,HUGUES Clément
+48,Cultures,Pour Cultures,12,F,TEBANI Séverine
+48,Cultures,Pour Cultures,13,M,ROUSSET Emmanuel
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,1,F,BEAUFILS GAILLARD Cindy
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,2,M,QUINTIN David
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,3,F,DELCROS Claire
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,4,M,ROBERT Benoît
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,5,F,BREMONT Martine
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,6,M,PALMIER Yannick
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,7,F,BEN HAMIDA Nadia
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,8,M,BREMONT Philippe
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,9,F,CHABERT AMORIM Audrey
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,10,M,DUMONT Jean-Frédéric
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,11,F,GALIBERT Cynthia
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,12,M,VIALE Gilbert
+48,Esclanèdes,Pour l'Avenir d'Esclanèdes,13,F,LASSERRE Gaëlle
+48,Esclanèdes,Unis pour Esclanèdes,1,M,VIDAL Fabrice
+48,Esclanèdes,Unis pour Esclanèdes,2,F,DE ALBUQUERQUE Elodie
+48,Esclanèdes,Unis pour Esclanèdes,3,M,VIEILLEDENT Luc
+48,Esclanèdes,Unis pour Esclanèdes,4,F,ETTON Catherine
+48,Esclanèdes,Unis pour Esclanèdes,5,M,LUSSON Jean-Jacques
+48,Esclanèdes,Unis pour Esclanèdes,6,F,BOUDON Édith
+48,Esclanèdes,Unis pour Esclanèdes,7,M,NOUET Lionel
+48,Esclanèdes,Unis pour Esclanèdes,8,F,VALARIER Valérie
+48,Esclanèdes,Unis pour Esclanèdes,9,M,FAUCOMPRÉ Stéphane
+48,Esclanèdes,Unis pour Esclanèdes,10,F,BONICEL Pascale
+48,Esclanèdes,Unis pour Esclanèdes,11,M,LAULAIGNE Stéphane
+48,Florac Trois Rivières,Ensemble pour le bien commun,1,M,MARTIN Guillaume
+48,Florac Trois Rivières,Ensemble pour le bien commun,2,F,MARTIN-PASCAL Claudie
+48,Florac Trois Rivières,Ensemble pour le bien commun,3,M,KONIECZNY François
+48,Florac Trois Rivières,Ensemble pour le bien commun,4,F,ROSSETTI Gisèle
+48,Florac Trois Rivières,Ensemble pour le bien commun,5,M,CAPELIER Philippe
+48,Florac Trois Rivières,Ensemble pour le bien commun,6,F,REMILLIEUX Claire
+48,Florac Trois Rivières,Ensemble pour le bien commun,7,M,MEAN Thibaut
+48,Florac Trois Rivières,Ensemble pour le bien commun,8,F,HUGUET Sylvette
+48,Florac Trois Rivières,Ensemble pour le bien commun,9,M,RAMEAU Christian
+48,Florac Trois Rivières,Ensemble pour le bien commun,10,F,ALBERT Marie
+48,Florac Trois Rivières,Ensemble pour le bien commun,11,M,PIC Didier
+48,Florac Trois Rivières,Ensemble pour le bien commun,12,F,PETIT Emmy
+48,Florac Trois Rivières,Ensemble pour le bien commun,13,M,LEGRAND Robin
+48,Florac Trois Rivières,Ensemble pour le bien commun,14,F,SMETS Mallorie
+48,Florac Trois Rivières,Ensemble pour le bien commun,15,M,SHOARA Kioumars
+48,Florac Trois Rivières,Ensemble pour le bien commun,16,F,THIAUCOURT Cécile
+48,Florac Trois Rivières,Ensemble pour le bien commun,17,M,NAPOLI Baptiste
+48,Florac Trois Rivières,Ensemble pour le bien commun,18,F,JOUANAUD Mireille
+48,Florac Trois Rivières,Ensemble pour le bien commun,19,M,ANDRE Christian
+48,Florac Trois Rivières,Ensemble pour le bien commun,20,F,CLEMENT Agnès
+48,Florac Trois Rivières,Ensemble pour le bien commun,21,M,BOUNAN Thibaud
+48,Florac Trois Rivières,Ensemble pour le bien commun,22,F,COSTECALDE Nelly
+48,Florac Trois Rivières,Ensemble pour le bien commun,23,M,PERIGNON Axel
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,1,M,DURAND Bernard
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,2,F,ROBERT Emmanuelle
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,3,M,GRASSET Serge
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,4,F,MATHIEU Audrey
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,5,M,ARMAND Damien
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,6,F,FAGES Marie-Noëlle
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,7,M,DESCOTTE Eric
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,8,F,DURAND Catherine
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,9,M,PLAN Gilles
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,10,F,GALLAS Sarah
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,11,M,PELAT Eric
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,12,F,AVENAS Anaïs
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,13,M,MEYER Patrice
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,14,F,COUDERC Valérie
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,15,M,DELON Marc
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,16,F,FERNANDES ABRANTES Daniela Marisa
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,17,M,GARD Dominique
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,18,F,MAURIN Lucie
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,19,M,FREDJ Noureddine
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,20,F,BENONI Valérie
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,21,M,SANGUINEDE Gil
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,22,F,GAZAGNE Magali
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,23,M,LAGOA Carlos Michel
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,24,F,PANTEL Tiffany
+48,Florac Trois Rivières,UNIS POUR FLORAC TROIS RIVIERES,25,M,PASCAL Loïc
+48,Fontans,Liste unie pour l'intérêt local,1,M,VANEL Jean Paul
+48,Fontans,Liste unie pour l'intérêt local,2,F,LECROCQ Anne-Marie
+48,Fontans,Liste unie pour l'intérêt local,3,M,GRAS Sébastien
+48,Fontans,Liste unie pour l'intérêt local,4,F,CHALIER Lucie
+48,Fontans,Liste unie pour l'intérêt local,5,M,AYRALD Francis
+48,Fontans,Liste unie pour l'intérêt local,6,F,CONDON Virginie
+48,Fontans,Liste unie pour l'intérêt local,7,M,CRUEIZE Guillaume
+48,Fontans,Liste unie pour l'intérêt local,8,F,QUEUDOT Nadine
+48,Fontans,Liste unie pour l'intérêt local,9,M,PIC Pascal
+48,Fontans,Liste unie pour l'intérêt local,10,F,SOLIGNAC Sonia
+48,Fontans,Liste unie pour l'intérêt local,11,M,PIGNOL Bruno
+48,Fournels,Fournels Ensemble,1,F,DOUMERGUE-RÉAU Sabine
+48,Fournels,Fournels Ensemble,2,M,ROUZAIRE Michel
+48,Fournels,Fournels Ensemble,3,F,LORTAL Gwenaelle
+48,Fournels,Fournels Ensemble,4,M,DALLE Michel
+48,Fournels,Fournels Ensemble,5,F,JULIEN Fabienne
+48,Fournels,Fournels Ensemble,6,M,BOUQUET Denis
+48,Fournels,Fournels Ensemble,7,F,PECOUL Nelly
+48,Fournels,Fournels Ensemble,8,M,HENNERON Samuel
+48,Fournels,Fournels Ensemble,9,F,CHALVET Eliane
+48,Fournels,Fournels Ensemble,10,M,BOUSSUGE Franck
+48,Fournels,Fournels Ensemble,11,F,CORRIGER Julia
+48,Fournels,Unis pour l'Intérêt Communal,1,F,BOUARD Agnès
+48,Fournels,Unis pour l'Intérêt Communal,2,M,POULALION Jérôme
+48,Fournels,Unis pour l'Intérêt Communal,3,F,BONAL Béatrice
+48,Fournels,Unis pour l'Intérêt Communal,4,M,PÉLÉGRY David
+48,Fournels,Unis pour l'Intérêt Communal,5,F,CHARDAIRE Janine
+48,Fournels,Unis pour l'Intérêt Communal,6,M,GRAS Jean-Louis
+48,Fournels,Unis pour l'Intérêt Communal,7,F,MERCHADIER Mylène
+48,Fournels,Unis pour l'Intérêt Communal,8,M,DEBORD Nicolas
+48,Fournels,Unis pour l'Intérêt Communal,9,F,ORLHAC Chantal
+48,Fournels,Unis pour l'Intérêt Communal,10,M,CHAMPAGNE Laurent
+48,Fournels,Unis pour l'Intérêt Communal,11,F,BONNEFOY Régine
+48,Fraissinet-de-Fourques,FRAISSINET DE FOURQUES,1,M,REBOUL Daniel
+48,Fraissinet-de-Fourques,FRAISSINET DE FOURQUES,2,F,CLEMENT Marie
+48,Fraissinet-de-Fourques,FRAISSINET DE FOURQUES,3,M,BOUSQUET Bruno
+48,Fraissinet-de-Fourques,FRAISSINET DE FOURQUES,4,F,MAURIN Elodie
+48,Fraissinet-de-Fourques,FRAISSINET DE FOURQUES,5,M,GREGOIRE François
+48,Fraissinet-de-Fourques,FRAISSINET DE FOURQUES,6,F,SCARPATI Bernadette
+48,Fraissinet-de-Fourques,FRAISSINET DE FOURQUES,7,M,POURCHER Flavien
+48,Fraissinet-de-Fourques,TOUS ENSEMBLE POUR LA COMMUNE,1,F,VIREBAYRE Éva
+48,Fraissinet-de-Fourques,TOUS ENSEMBLE POUR LA COMMUNE,2,M,AGRINIER Hervé
+48,Fraissinet-de-Fourques,TOUS ENSEMBLE POUR LA COMMUNE,3,F,CABRERIZO Laurence
+48,Fraissinet-de-Fourques,TOUS ENSEMBLE POUR LA COMMUNE,4,M,VIREBAYRE Benoit
+48,Fraissinet-de-Fourques,TOUS ENSEMBLE POUR LA COMMUNE,5,F,CLEMENT Anne-Laure
+48,Fraissinet-de-Fourques,TOUS ENSEMBLE POUR LA COMMUNE,6,M,SOLER Lorris
+48,Fraissinet-de-Fourques,TOUS ENSEMBLE POUR LA COMMUNE,7,F,HILAIRE Martine
+48,Gabriac,Bien Vivre à Gabriac,1,M,ANDRÉ Philippe
+48,Gabriac,Bien Vivre à Gabriac,2,F,JULIEN Jeanine
+48,Gabriac,Bien Vivre à Gabriac,3,M,ANDRÉ Patrick
+48,Gabriac,Bien Vivre à Gabriac,4,F,BORECEK Sonia
+48,Gabriac,Bien Vivre à Gabriac,5,M,DUMAS Christian
+48,Gabriac,Bien Vivre à Gabriac,6,F,MALTAVERNE Nathalie
+48,Gabriac,Bien Vivre à Gabriac,7,M,GAUTHIER Eric
+48,Gabriac,Bien Vivre à Gabriac,8,F,SCHOSS Nia
+48,Gabriac,Bien Vivre à Gabriac,9,M,PUECH Robert
+48,Gabrias,Continuons Ensemble pour Gabrias,1,M,ROUSSET Bernard
+48,Gabrias,Continuons Ensemble pour Gabrias,2,F,PIOT Céline
+48,Gabrias,Continuons Ensemble pour Gabrias,3,M,GERBAL Anselme
+48,Gabrias,Continuons Ensemble pour Gabrias,4,F,CRUEYZE Céline
+48,Gabrias,Continuons Ensemble pour Gabrias,5,M,GALIERE Cyril
+48,Gabrias,Continuons Ensemble pour Gabrias,6,F,BRUEL Elisabeth
+48,Gabrias,Continuons Ensemble pour Gabrias,7,M,MAZEL Christian
+48,Gabrias,Continuons Ensemble pour Gabrias,8,F,DELANNOY-GETTLIFFE Christine
+48,Gabrias,Continuons Ensemble pour Gabrias,9,M,CHALIER Christophe
+48,Gabrias,Continuons Ensemble pour Gabrias,10,F,OUVIER Brigitte
+48,Gabrias,Continuons Ensemble pour Gabrias,11,M,ROUSSET Christian
+48,Gabrias,"Gabrias, Ecoute et Transparence",1,F,TUFFERY Marie-Pierre
+48,Gabrias,"Gabrias, Ecoute et Transparence",2,M,KOLUS Nicolas
+48,Gabrias,"Gabrias, Ecoute et Transparence",3,F,DECHAMBOUX Laetitia
+48,Gabrias,"Gabrias, Ecoute et Transparence",4,M,ALEA Jean-Roch
+48,Gabrias,"Gabrias, Ecoute et Transparence",5,F,SALAVILLE Marie-Louise
+48,Gabrias,"Gabrias, Ecoute et Transparence",6,M,GELY Bernard
+48,Gabrias,"Gabrias, Ecoute et Transparence",7,F,ROUSSET Régine
+48,Gabrias,"Gabrias, Ecoute et Transparence",8,M,TUFFERY Adrien
+48,Gabrias,"Gabrias, Ecoute et Transparence",9,F,SERRES Maëlys
+48,Gabrias,"Gabrias, Ecoute et Transparence",10,M,BLANC Amaury
+48,Gabrias,"Gabrias, Ecoute et Transparence",11,F,VERBAUWE Laure
+48,Gatuzières,GATUZIERES 4,1,M,COMMANDRE Michel
+48,Gatuzières,GATUZIERES 4,2,F,GILLET-BRUN Patricia
+48,Gatuzières,GATUZIERES 4,3,M,BRUN Nicolas
+48,Gatuzières,GATUZIERES 4,4,F,VERNET Linda
+48,Gatuzières,GATUZIERES 4,5,M,ARNAL Damien
+48,Gatuzières,GATUZIERES 4,6,F,BOYER-ESTEVE Carole
+48,Gatuzières,GATUZIERES 4,7,M,MOREL Florent
+48,Gorges du Tarn Causses,UNIS POUR AGIR,1,F,MALAVAL Jaclyn
+48,Gorges du Tarn Causses,UNIS POUR AGIR,2,M,MICHEL Jean-Luc
+48,Gorges du Tarn Causses,UNIS POUR AGIR,3,F,MIAZGOWSKI Anny
+48,Gorges du Tarn Causses,UNIS POUR AGIR,4,M,CHMIEL Alain
+48,Gorges du Tarn Causses,UNIS POUR AGIR,5,F,VESCHAMBRE Cécile
+48,Gorges du Tarn Causses,UNIS POUR AGIR,6,M,DEFASSIAU Philippe
+48,Gorges du Tarn Causses,UNIS POUR AGIR,7,F,SUARD Élisa
+48,Gorges du Tarn Causses,UNIS POUR AGIR,8,M,MALHOMME Christian
+48,Gorges du Tarn Causses,UNIS POUR AGIR,9,F,POURQUIER Cristina
+48,Gorges du Tarn Causses,UNIS POUR AGIR,10,M,BOIRAL André
+48,Gorges du Tarn Causses,UNIS POUR AGIR,11,F,CANNESSON Sabine
+48,Gorges du Tarn Causses,UNIS POUR AGIR,12,M,PAGÈS Pierre
+48,Gorges du Tarn Causses,UNIS POUR AGIR,13,F,NOGARET Fany
+48,Gorges du Tarn Causses,UNIS POUR AGIR,14,M,CHOMAT Anthony
+48,Gorges du Tarn Causses,UNIS POUR AGIR,15,F,GASSIN Line
+48,Gorges du Tarn Causses,UNIS POUR AGIR,16,M,SANCHEZ Benoit
+48,Gorges du Tarn Causses,UNIS POUR AGIR,17,F,THERON Émeline
+48,Gorges du Tarn Causses,UNIS POUR AGIR,18,M,VERNHET Didier
+48,Gorges du Tarn Causses,UNIS POUR AGIR,19,F,SABOURIN Marie
+48,Gorges du Tarn Causses,UNIS POUR AGIR,20,M,BOULET Kévin
+48,Grandrieu,"GRANDRIEU, un nouvel élan",1,M,LOUBIER David
+48,Grandrieu,"GRANDRIEU, un nouvel élan",2,F,DAUDET Geneviève
+48,Grandrieu,"GRANDRIEU, un nouvel élan",3,M,MARTINEZ José
+48,Grandrieu,"GRANDRIEU, un nouvel élan",4,F,MARTIN Laetitia
+48,Grandrieu,"GRANDRIEU, un nouvel élan",5,M,THEROND André
+48,Grandrieu,"GRANDRIEU, un nouvel élan",6,F,CROS Tiffany
+48,Grandrieu,"GRANDRIEU, un nouvel élan",7,M,BRUNEL Alexandre
+48,Grandrieu,"GRANDRIEU, un nouvel élan",8,F,PEREZ Julie
+48,Grandrieu,"GRANDRIEU, un nouvel élan",9,M,RICHARD Vincent
+48,Grandrieu,"GRANDRIEU, un nouvel élan",10,F,IDEZAK Sandrine
+48,Grandrieu,"GRANDRIEU, un nouvel élan",11,M,CATHALAN Jérémy
+48,Grandrieu,"GRANDRIEU, un nouvel élan",12,F,DE PELLEGRIN Eveline
+48,Grandrieu,"GRANDRIEU, un nouvel élan",13,M,AJASSE Damien
+48,Grandrieu,Grandrieu Avenir Commun,1,M,SYLVAIN Pierre-Emile
+48,Grandrieu,Grandrieu Avenir Commun,2,F,PONTIER Krystelle
+48,Grandrieu,Grandrieu Avenir Commun,3,M,MARTIN Guillaume
+48,Grandrieu,Grandrieu Avenir Commun,4,F,SAVOIE Magalie
+48,Grandrieu,Grandrieu Avenir Commun,5,M,RICOU Christophe
+48,Grandrieu,Grandrieu Avenir Commun,6,F,MALLET Justine
+48,Grandrieu,Grandrieu Avenir Commun,7,M,QUISSAC Robert
+48,Grandrieu,Grandrieu Avenir Commun,8,F,CAYROCHE Amélie
+48,Grandrieu,Grandrieu Avenir Commun,9,M,THERON Killian
+48,Grandrieu,Grandrieu Avenir Commun,10,F,BELIN Camille
+48,Grandrieu,Grandrieu Avenir Commun,11,M,MERLE Olivier
+48,Grandrieu,Grandrieu Avenir Commun,12,F,DELMAS Clarisse
+48,Grandrieu,Grandrieu Avenir Commun,13,M,DUGAS Eric
+48,Grandrieu,Grandrieu Avenir Commun,14,F,VALENTIN Sylvie
+48,Grandrieu,Grandrieu Avenir Commun,15,M,DELORME Joël
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,1,M,LELARD Philippe
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,2,F,GHIO Agnes
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,3,M,MERLEN Alexandre
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,4,F,ROUME Elodie
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,5,M,SABADEL Fabrice
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,6,F,DAUDET Magali
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,7,M,AGUEDA Yves
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,8,F,GROUSSET Roxane
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,9,M,CHANIAL Gilles
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,10,F,AUBERT Sabrina
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,11,M,BOUCHET Laurent
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,12,F,SOLIGNAC Morgane
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,13,M,DOLE Sebastien
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,14,F,BESSIÈRE Maryline
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,15,M,LHOTELAIN Mickaël
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,16,F,BONNARDOT Laurence
+48,Grandrieu,Grandrieu Ensemble Pour un Avenir qui Nous Ressemble,17,M,BASTET Frédéric
+48,Grandvals,Agir Pour Grandvals Ensemble,1,M,PRAT Laurent
+48,Grandvals,Agir Pour Grandvals Ensemble,2,F,SOLESMES Jeannine
+48,Grandvals,Agir Pour Grandvals Ensemble,3,M,GINSAC Pascal
+48,Grandvals,Agir Pour Grandvals Ensemble,4,F,NAVECH Laura
+48,Grandvals,Agir Pour Grandvals Ensemble,5,M,NAVECH André
+48,Grandvals,Agir Pour Grandvals Ensemble,6,F,BIOULAC Roseline
+48,Grandvals,Agir Pour Grandvals Ensemble,7,M,MOISSET Gilbert
+48,Grandvals,GRANDVALS DEMAIN,1,F,DELMAS Chantal
+48,Grandvals,GRANDVALS DEMAIN,2,M,MOURET Jean-François
+48,Grandvals,GRANDVALS DEMAIN,3,F,BOUQUET Céline
+48,Grandvals,GRANDVALS DEMAIN,4,M,GERARD Philippe
+48,Grandvals,GRANDVALS DEMAIN,5,F,PRUNIERE Magali
+48,Grandvals,GRANDVALS DEMAIN,6,M,LACROIX Patrick
+48,Grandvals,GRANDVALS DEMAIN,7,F,BERTHOLOM Muriel
+48,Grandvals,GRANDVALS DEMAIN,8,M,FILLOLS Francis
+48,Grèzes,VIVRE A GREZES,1,M,CRESPIN Cédric
+48,Grèzes,VIVRE A GREZES,2,F,ACTIS Delphine
+48,Grèzes,VIVRE A GREZES,3,M,LAFONT Patrick
+48,Grèzes,VIVRE A GREZES,4,F,GRANET Clara
+48,Grèzes,VIVRE A GREZES,5,M,GILLES Didier
+48,Grèzes,VIVRE A GREZES,6,F,DECOCKER Clarisse Suzanne
+48,Grèzes,VIVRE A GREZES,7,M,PENAS Jean-Marc
+48,Grèzes,VIVRE A GREZES,8,F,GLEYZES Sophie Manon Chloé
+48,Grèzes,VIVRE A GREZES,9,M,DEFEVER Jean-Marc
+48,Grèzes,VIVRE A GREZES,10,F,OSTY Magali Louise
+48,Grèzes,VIVRE A GREZES,11,M,BORGES Jorge
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,1,M,PRATLONG Vincent
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,2,F,LAMARE Jacqueline
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,3,M,COMMANDRÉ Bruno
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,4,F,DEROZIER Christelle
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,5,M,VERGELY Gilles
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,6,F,RUAS Réjane
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,7,M,DUPRÉ Eric
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,8,F,GALTIER Bénédicte
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,9,M,JAFFARD Mickaël
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,10,F,FLAYOL Anaïs
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,11,M,SAUMADE Clément
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,12,F,COUDERC Sandrine
+48,Hures-la-Parade,ENSEMBLE HURES LA PARADE,13,M,DONNADIEU Martin
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,1,M,VIEILLEDENT Jérôme
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,2,F,SERRE Line
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,3,M,MOLINES Sylvain
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,4,F,JASSIN Caroline
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,5,M,BROUILLET Michel
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,6,F,BEAUMEL Odile
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,7,M,BLAZY Jean-Pierre
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,8,F,CELLIER Céline
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,9,M,BONNET Alexis
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,10,F,LECUISINIER Arlette
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,11,M,DEMARES Jean-Luc
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,12,F,JAFFARD Sandrine
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,13,M,PAULET Alexis
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,14,F,FAYET Séverine
+48,Ispagnac,Avec vous  pour Ispagnac et ses hameaux,15,M,DA SILVA Carlos
+48,Julianges,Agir Ensemble pour Julianges,1,M,ARCHER Thierry
+48,Julianges,Agir Ensemble pour Julianges,2,F,COUTAREL Marie-France
+48,Julianges,Agir Ensemble pour Julianges,3,M,BORIAT Cédric
+48,Julianges,Agir Ensemble pour Julianges,4,F,PLATEAUX France
+48,Julianges,Agir Ensemble pour Julianges,5,M,CALMELS Jacques
+48,Julianges,Agir Ensemble pour Julianges,6,F,RUAT Angélique
+48,Julianges,Agir Ensemble pour Julianges,7,M,SOULIER Frédéric Jean-Daniel
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,1,M,TEISSIER Michel
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,2,F,BERNARD Marie Hélène
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,3,M,JEAN Claude
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,4,F,BLEINC Maire-Christine
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,5,M,RECORDIER Alain
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,6,F,DELENNE Virginie
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,7,M,FABRE Patrick
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,8,F,PEYROUSE Coline
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,9,M,NAUD Jean-Pierre
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,10,F,SIRE Magalie
+48,La Bastide-Puylaurent,LA BASTIDE PASSIONNEMENT,11,M,POUS Vincent
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",1,M,MALZAC Claude
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",2,F,VALENTIN Christine
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",3,M,FABRE Jean
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",4,F,ROCHEREAU-POUGET Bernadette
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",5,M,BLANC Sébastien
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",6,F,ANIEL Evelyne
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",7,M,ITIER Thomas
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",8,F,URAS Virginie
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",9,M,REVERSAT Christian
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",10,F,DUBOIS Isabelle
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",11,M,BOUDON Jean-Pierre
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",12,F,PARRA Anaïs
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",13,M,DURAND Patrick
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",14,F,FAGES Anne-Marie
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",15,M,DAVAINE Damien
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",16,F,MIRMAND Emma
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",17,M,SIGRIST Matthieu
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",18,F,DELOUS Lucie
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",19,M,ROCHE Benjamin
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",20,F,ROCHE Pauline
+48,La Canourgue,"""L'AVENIR EN COMMUN, AGIR POUR TOUS""",21,M,ANCTIL Laurent
+48,La Fage-Montivernoux,Dialogue et union pour les Fagearels,1,F,GABRILLARGUES Christiane
+48,La Fage-Montivernoux,Dialogue et union pour les Fagearels,2,M,RODIER Christophe
+48,La Fage-Montivernoux,Dialogue et union pour les Fagearels,3,F,FERRIER Sylviane
+48,La Fage-Montivernoux,Dialogue et union pour les Fagearels,4,M,VAMMALE Thierry
+48,La Fage-Montivernoux,Dialogue et union pour les Fagearels,5,F,MAZEL Laure
+48,La Fage-Montivernoux,Dialogue et union pour les Fagearels,6,M,BESTION Franck
+48,La Fage-Montivernoux,Dialogue et union pour les Fagearels,7,F,GRAS Isabelle
+48,La Fage-Montivernoux,Dialogue et union pour les Fagearels,8,M,CHABANON Léo
+48,La Fage-Montivernoux,Dialogue et union pour les Fagearels,9,F,CIAMPOUSSIN Chantal
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,1,M,BEAUFILS Bernard
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,2,F,BRASSAC Laurence
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,3,M,NICOLAS Clovis
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,4,F,DUMAZEL Sonia
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,5,M,BRUN Marc
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,6,F,ORIOL Cécile
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,7,M,BARRÈS Hervé
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,8,F,GUBERT Aurore
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,9,M,CHABOT Francis
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,10,F,BOUDON Irène
+48,La Fage-Montivernoux,ENSEMBLE POUR LA COMMUNE,11,M,COMBETTE Michel
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,1,M,SARTRE Francis
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,2,F,DAUNIS Josette
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,3,M,FERNANDEZ José
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,4,F,DAUNIS Gréitèle
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,5,M,FOURNIER Frédéric
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,6,F,PLACE Annie
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,7,M,POULALION Eric
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,8,F,BOYER Patricia
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,9,M,POULALION Marc
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,10,F,TEISSEDRE Aurore
+48,La Fage-Saint-Julien,Défense des Intérêts Communaux,11,M,VALETTE Frédéric
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,1,M,MICHELOU Daniel
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,2,F,NADAL Angélique
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,3,M,BRUN Christophe
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,4,F,SIMON Muriel
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,5,M,FLOUROU Francis
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,6,F,LAROCHETTE Aurélie
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,7,M,GUILLOT Sébastien
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,8,F,FAVIER Marie-Pierre
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,9,M,FAGES Roland
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,10,F,LAURET Marie-Claire
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,11,M,FAGES Gilles
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,12,F,RICHARD Renée
+48,La Malène,AGIR ENSEMBLE POUR NOTRE COMMUNE,13,M,LAROCHETTE Stéphane
+48,La Panouse,Union pour la Panouse,1,M,TUFFERY Julien
+48,La Panouse,Union pour la Panouse,2,F,MALMAZET Monique
+48,La Panouse,Union pour la Panouse,3,M,GARREL Nicolas
+48,La Panouse,Union pour la Panouse,4,F,GOUTTE Gaëlle
+48,La Panouse,Union pour la Panouse,5,M,RIMBAUD Maxime
+48,La Panouse,Union pour la Panouse,6,F,BATIGNE Chrystelle
+48,La Panouse,Union pour la Panouse,7,M,CATHALAN Yves
+48,La Tieule,La Tieule ensemble,1,F,CUERQ Soizic
+48,La Tieule,La Tieule ensemble,2,M,CASTAN Emmanuel
+48,La Tieule,La Tieule ensemble,3,F,BOUQUET Chantal
+48,La Tieule,La Tieule ensemble,4,M,MIDON Olivier
+48,La Tieule,La Tieule ensemble,5,F,DELTOUR Nathalie
+48,La Tieule,La Tieule ensemble,6,M,PERE Marc
+48,La Tieule,La Tieule ensemble,7,F,SOZZI Marion
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,1,F,GACHON Floriane
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,2,M,RAYNALDY Alain
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,3,F,HELIAS Céline
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,4,M,BRINGER Patrice
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,5,F,PANOUILLOT Nadège
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,6,M,COURANT Benoit
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,7,F,SUDRE Christelle
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,8,M,JACQUES Sébastien
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,9,F,TICHIT Marilys
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,10,M,RAYNAL Sébastien
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,11,F,DA CRUZ Amélie
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,12,M,GODÉRIAUX-LEDRU Luc
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,13,F,FOURNIER Céline
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,14,M,COMPEYRON Alain
+48,Lachamp-Ribennes,Ensembles pour Lachamp-Ribennes,15,F,JAFFUEL Julie
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",1,M,TICHIT Florian
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",2,F,ROUSSON Coralie
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",3,M,RESSOUCHE Olivier
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",4,F,ANDRE Justine
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",5,M,CHAUVET Jean-Claude
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",6,F,JANISSON Morgane
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",7,M,MATOUG GAUCHER Hugo
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",8,F,BONNEFOUS Elina
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",9,M,ASTRUC Pierre
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",10,F,BOBET Jessica
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",11,M,BOURRET Nicolas
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",12,F,BONNET Marylise
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",13,M,AMARGER Florent
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",14,F,JOBARD Eliane
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",15,M,BOURRAQUI  DIT LAGUERRE Bertrand
+48,Lachamp-Ribennes,"Equité, ruralité et modernité",16,F,BOURRAQUI DIT LAGUERRE Aurore
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",1,M,SOULIER Alain
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",2,F,NURIT Bernadette
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",3,M,VALY Christian
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",4,F,JALBERT Laure
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",5,M,CHABANOL Mickaël
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",6,F,MATHIEU Evelyne
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",7,M,JALBERT Robert
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",8,F,NEMETH Tatiana
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",9,M,LAZIER Pierre
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",10,F,TALON Evelyne
+48,Lajo,"Pour LAJO ""Ensemble dans l'action""",11,M,TEISSANDIER Clément
+48,Langogne,LANGOGNE AVEC VOUS,1,M,COLLANGE Jean-François
+48,Langogne,LANGOGNE AVEC VOUS,2,F,TRIOULIER Johanne
+48,Langogne,LANGOGNE AVEC VOUS,3,M,BOYER Quentin
+48,Langogne,LANGOGNE AVEC VOUS,4,F,BLAES Guylène
+48,Langogne,LANGOGNE AVEC VOUS,5,M,BOURRET Jean-Marc
+48,Langogne,LANGOGNE AVEC VOUS,6,F,VARVAT Bénédicte
+48,Langogne,LANGOGNE AVEC VOUS,7,M,OZIOL Marc
+48,Langogne,LANGOGNE AVEC VOUS,8,F,SERRE Catherine
+48,Langogne,LANGOGNE AVEC VOUS,9,M,ALLE Olivier
+48,Langogne,LANGOGNE AVEC VOUS,10,F,PEYRET Delphine
+48,Langogne,LANGOGNE AVEC VOUS,11,M,PROUHEZE Henry
+48,Langogne,LANGOGNE AVEC VOUS,12,F,ROUX Magali
+48,Langogne,LANGOGNE AVEC VOUS,13,M,VIALA Gérard
+48,Langogne,LANGOGNE AVEC VOUS,14,F,DELSET Margot
+48,Langogne,LANGOGNE AVEC VOUS,15,M,LE BOUCHER Xavier
+48,Langogne,LANGOGNE AVEC VOUS,16,F,BARRET Michelle
+48,Langogne,LANGOGNE AVEC VOUS,17,M,DEL VAL Frédéric
+48,Langogne,LANGOGNE AVEC VOUS,18,F,BOYER Nadine
+48,Langogne,LANGOGNE AVEC VOUS,19,M,DURUFLÉ Wandrille
+48,Langogne,LANGOGNE AVEC VOUS,20,F,KREMPP Nahlia
+48,Langogne,LANGOGNE AVEC VOUS,21,M,DUTRULLE Richard
+48,Langogne,LANGOGNE AVEC VOUS,22,F,MALAVAL Danielle
+48,Langogne,LANGOGNE AVEC VOUS,23,M,TAULEMESSE Cédric
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",1,M,BRUGERON Christian
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",2,F,BRINGER Laetitia
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",3,M,CAUSSE Jean-Louis
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",4,F,DEMARCHI Hélène
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",5,M,DONNADIEU Adrien
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",6,F,GERBAL Mélanie
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",7,M,DUVERT Frédéric
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",8,F,JULIAN Nancy
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",9,M,GERBAL Fabrice
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",10,F,PAULHAN Juliette
+48,Lanuéjols,"Lanuéjols, une équipe pour demain",11,M,LEDENT Josyan
+48,Laubert,Gourgons-Laubert Ensemble,1,M,BLANC Fabien
+48,Laubert,Gourgons-Laubert Ensemble,2,F,PIC LUCY Marie-Hélène Juliette
+48,Laubert,Gourgons-Laubert Ensemble,3,M,TREMOULET Yoann
+48,Laubert,Gourgons-Laubert Ensemble,4,F,MARCON Laura Marie
+48,Laubert,Gourgons-Laubert Ensemble,5,M,HILD Bernard
+48,Laubert,Gourgons-Laubert Ensemble,6,F,BOUSAC Sabrina
+48,Laubert,Gourgons-Laubert Ensemble,7,M,ROUX Vincent
+48,Laubert,Gourgons-Laubert Ensemble,8,F,MALLET Candice Mélanie
+48,Laubert,Gourgons-Laubert Ensemble,9,M,PIC Philippe Paul
+48,Laubert,Gourgons-Laubert Ensemble,10,F,BORG Lucile
+48,Laubert,Gourgons-Laubert Ensemble,11,M,ESPINOUSE Lucas
+48,Laval-du-Tarn,VIVRE ENSEMBLE,1,M,BONICEL Bernard
+48,Laval-du-Tarn,VIVRE ENSEMBLE,2,F,DELASPRE Maryline
+48,Laval-du-Tarn,VIVRE ENSEMBLE,3,M,BONNAFOUX Hervé
+48,Laval-du-Tarn,VIVRE ENSEMBLE,4,F,BOILLOT Sandrine
+48,Laval-du-Tarn,VIVRE ENSEMBLE,5,M,CONTASTIN Sylvain
+48,Laval-du-Tarn,VIVRE ENSEMBLE,6,F,BLANC Sophie
+48,Laval-du-Tarn,VIVRE ENSEMBLE,7,M,DE NOGARET Hugues
+48,Laval-du-Tarn,VIVRE ENSEMBLE,8,F,MIRMAND DAUBRESSE Cecile
+48,Laval-du-Tarn,VIVRE ENSEMBLE,9,M,AUZUECH Bastien
+48,Laval-du-Tarn,VIVRE ENSEMBLE,10,F,FOUQUET Claudine
+48,Laval-du-Tarn,VIVRE ENSEMBLE,11,M,TICHET Thierry
+48,Laval-du-Tarn,VIVRE ENSEMBLE,12,F,PUCCETTI Corinne
+48,Laval-du-Tarn,VIVRE ENSEMBLE,13,M,CROUZET Guy
+48,Le Born,UNIS POUR LA COMMUNE,1,M,MEISSONNIER Claude
+48,Le Born,UNIS POUR LA COMMUNE,2,F,MALIGES Adeline
+48,Le Born,UNIS POUR LA COMMUNE,3,M,MARTIN Alain
+48,Le Born,UNIS POUR LA COMMUNE,4,F,MASSON Florence
+48,Le Born,UNIS POUR LA COMMUNE,5,M,DELOR Claude
+48,Le Born,UNIS POUR LA COMMUNE,6,F,DA COSTA Daniela
+48,Le Born,UNIS POUR LA COMMUNE,7,M,JOULIA Pierre
+48,Le Born,UNIS POUR LA COMMUNE,8,F,DELOR Louna
+48,Le Born,UNIS POUR LA COMMUNE,9,M,PEYTAVIN Jean-François
+48,Le Buisson,Ensemble Pour Le Buisson,1,M,REMISE Vincent
+48,Le Buisson,Ensemble Pour Le Buisson,2,F,BLANQUET Annelyse
+48,Le Buisson,Ensemble Pour Le Buisson,3,M,BATIFOL Nicolas
+48,Le Buisson,Ensemble Pour Le Buisson,4,F,CHAZALY Manon
+48,Le Buisson,Ensemble Pour Le Buisson,5,M,CHALDOREILLE Jean-Marie
+48,Le Buisson,Ensemble Pour Le Buisson,6,F,GELY Marine
+48,Le Buisson,Ensemble Pour Le Buisson,7,M,CHARDENOUX Damien
+48,Le Buisson,Ensemble Pour Le Buisson,8,F,PRENAT Anne
+48,Le Buisson,Ensemble Pour Le Buisson,9,M,LEBLOIS Nicolas
+48,Le Buisson,Ensemble Pour Le Buisson,10,F,REMISE Françoise
+48,Le Buisson,Ensemble Pour Le Buisson,11,M,NAEYE Pierre-Henri
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",1,M,MARTIN Cédric
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",2,F,GAUTHIER Laure
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",3,M,LACOMBE Jean-Michel
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",4,F,LAURENT Blandine
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",5,M,ROUX Christian
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",6,F,VALDEYRON Cindy
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",7,M,VAISSIERE Eric
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",8,F,ANGILELLA Pauline
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",9,M,MALOSSE David
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",10,F,PANTEL Edith
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",11,M,PLAN Arnaud
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",12,F,SAUREL Mireille
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",13,M,FOUQUART Christian
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",14,F,DELBECQUE Cathy
+48,Le Collet-de-Dèze,"""TOUS ACTEURS"" pour le COLLET DE DEZE",15,M,BEAUME Lysian
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,1,F,ROUQUET Colette
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,2,M,PRADAL Marc
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,3,F,BOUHIL Béatrice
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,4,M,BOULET Hervé
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,5,F,BRESSON Marie
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,6,M,MALIGE Damien
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,7,F,LAPORTE Sandrine
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,8,M,DEVAUD Thomas
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,9,F,BLANCON Karine
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,10,M,RAYMOND Damien
+48,Le Malzieu-Forain,BIEN VIVRE AU MALZIEU - FORAIN,11,F,CHASTAN Isabelle
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,1,M,BRUGERON Jean-Noël
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,2,F,BALEZ Christine
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,3,M,BOUARD Sébastien
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,4,F,DAVIN Sandra
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,5,M,BOYER Pierre
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,6,F,LARGUIER Marion
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,7,M,GUILLOUF Dominique
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,8,F,LAUMAILLER Christine
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,9,M,LECONTE Fabien
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,10,F,PORTAL Corinne
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,11,M,MAGNE Jean-François
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,12,F,SELIER Babeth
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,13,M,SANS René
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,14,F,TEISSANDIER Elisabeth
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,15,M,SIRET Alain
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,16,F,BOUSSUGE Véronique
+48,Le Malzieu-Ville,Pour Le Malzieu Une Passion Commune,17,M,FARINA Antoine
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",1,M,KAUFMANN Henri
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",2,F,BENDER Géraldine
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",3,M,AFFORTIT Quentin
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",4,F,TINEL Sylvie
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",5,M,VIELZEUF Arnaud
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",6,F,VANHOVE Hilde
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",7,M,MANIN Bruno
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",8,F,CARLY Nadine
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",9,M,PIGNARD Dylan
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",10,F,CRISTOVAO Lucinda
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",11,M,ASPERT Pierre
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",12,F,SAGIT Martine
+48,Le Pompidou,"VIVRE ICI,PRESERVER DEMAIN, AGIR ENSEMBLE",13,M,VALMALLE Renaud
+48,Le Rozier,LE ROZIER NATURELLEMENT,1,F,ESPINASSE Pierrette
+48,Le Rozier,LE ROZIER NATURELLEMENT,2,M,CURVELIER Arnaud
+48,Le Rozier,LE ROZIER NATURELLEMENT,3,F,SABATHIER Sandrine
+48,Le Rozier,LE ROZIER NATURELLEMENT,4,M,PASQUIER Marc
+48,Le Rozier,LE ROZIER NATURELLEMENT,5,F,DUMAS Céline
+48,Le Rozier,LE ROZIER NATURELLEMENT,6,M,BÉNARD Vincent
+48,Le Rozier,LE ROZIER NATURELLEMENT,7,F,VAN DE PUT Angélique
+48,Le Rozier,LE ROZIER NATURELLEMENT,8,M,DOUSSIERE Serge
+48,Le Rozier,LE ROZIER NATURELLEMENT,9,F,DUMAS Geneviève
+48,Le Rozier,LE ROZIER NATURELLEMENT,10,M,ABADIE Roland
+48,Le Rozier,LE ROZIER NATURELLEMENT,11,F,ORBAEN Elodie
+48,Le Rozier,LE ROZIER NATURELLEMENT,12,M,CURVELIER Adrien
+48,Le Rozier,LE ROZIER NATURELLEMENT,13,F,MACHU Margot
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,1,M,BOUDON Hervé
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,2,F,MOURGUES Marine
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,3,M,RUAT Marc
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,4,F,CHAMBON Evelyne
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,5,M,POULALION Mikaël
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,6,F,SOULIER Marie-Dominique
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,7,M,LIONNET Christian
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,8,F,KULA Marine
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,9,M,TEISSANDIER Ludovic
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,10,F,CECCONE Carole
+48,Les Bessons,ENSEMBLE POUR NOTRE COMMUNE,11,M,TIJDEMAN Joris
+48,Les Bondons,Tous ensemble pour la commune des Bondons,1,M,DURAND Francis
+48,Les Bondons,Tous ensemble pour la commune des Bondons,2,F,ALTIER Lucie
+48,Les Bondons,Tous ensemble pour la commune des Bondons,3,M,PALMIER Cédric
+48,Les Bondons,Tous ensemble pour la commune des Bondons,4,F,DUMAS Sylvie
+48,Les Bondons,Tous ensemble pour la commune des Bondons,5,M,SALLES Guillaume
+48,Les Bondons,Tous ensemble pour la commune des Bondons,6,F,PANTEL Julie
+48,Les Bondons,Tous ensemble pour la commune des Bondons,7,M,SUAU Sébastien
+48,Les Bondons,Tous ensemble pour la commune des Bondons,8,F,MOSSE Sophie
+48,Les Bondons,Tous ensemble pour la commune des Bondons,9,M,PUECH Maxime
+48,Les Bondons,Tous ensemble pour la commune des Bondons,10,F,VERDIER Karine
+48,Les Bondons,Tous ensemble pour la commune des Bondons,11,M,BONHOMME Michaël
+48,Les Hermaux,Continuons Ensemble,1,M,RODIER Yves
+48,Les Hermaux,Continuons Ensemble,2,F,DUBOIS Sylvie
+48,Les Hermaux,Continuons Ensemble,3,M,SEGUIN Pierre-Henri
+48,Les Hermaux,Continuons Ensemble,4,F,AUGER Justine
+48,Les Hermaux,Continuons Ensemble,5,M,VAYSSIER Julien
+48,Les Hermaux,Continuons Ensemble,6,F,ALLIOUX SERVAN Laurence
+48,Les Hermaux,Continuons Ensemble,7,M,GELY Vincent
+48,Les Hermaux,Continuons Ensemble,8,F,QUETIN Elise
+48,Les Hermaux,Continuons Ensemble,9,M,REVERSAT Joël
+48,Les Hermaux,Continuons Ensemble,10,F,COUDERC BLOVAC Marie-José
+48,Les Hermaux,Continuons Ensemble,11,M,SOLIGNAC Jérémy
+48,Les Hermaux,Les Hermaux Pour Tous,1,M,REVERSAT Guy
+48,Les Hermaux,Les Hermaux Pour Tous,2,F,BELOT PEREZ Josette
+48,Les Hermaux,Les Hermaux Pour Tous,3,M,RODIER Jean-Paul
+48,Les Hermaux,Les Hermaux Pour Tous,4,F,GARREL Angélique
+48,Les Hermaux,Les Hermaux Pour Tous,5,M,POUDEVIGNE Clément
+48,Les Hermaux,Les Hermaux Pour Tous,6,F,ASTRUC Josiane
+48,Les Hermaux,Les Hermaux Pour Tous,7,M,ANIBALLE Georges
+48,Les Hermaux,Les Hermaux Pour Tous,8,F,MILLEMANN Alice
+48,Les Hermaux,Les Hermaux Pour Tous,9,M,ASTRUC Emmanuel
+48,Les Hermaux,Les Hermaux Pour Tous,10,F,CAYZAC Monique
+48,Les Hermaux,Les Hermaux Pour Tous,11,M,COUDERC Jean-Louis
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,1,M,HEBRARD Philippe
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,2,F,ROUSSET Fabienne
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,3,M,GIBELIN Arnaud
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,4,F,TOLA Valérie
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,5,M,LAPORTE Damien
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,6,F,CETTE Caroline
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,7,M,PREJET Antoine
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,8,F,COUSSEMENT Madison
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,9,M,MAURIN Daniel
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,10,F,GALLIERE Nicole
+48,Les Laubies,Une Equipe Locale et d'Expérience pour les Laubies,11,M,BOUQUET Vincent
+48,Les Laubies,Unis Pour Les Laubies,1,M,YOYOTTE-LANDRY Joël
+48,Les Laubies,Unis Pour Les Laubies,2,F,MURET-TROUSSELIER Léa
+48,Les Laubies,Unis Pour Les Laubies,3,M,OMER Didier
+48,Les Laubies,Unis Pour Les Laubies,4,F,PEREZ Danielle
+48,Les Laubies,Unis Pour Les Laubies,5,M,CHARBONNEL Pierre
+48,Les Laubies,Unis Pour Les Laubies,6,F,SAINT-LEGER Régine
+48,Les Laubies,Unis Pour Les Laubies,7,M,VALETTE Jean-François
+48,Les Laubies,Unis Pour Les Laubies,8,F,TROUSSELIER Elsa
+48,Les Laubies,Unis Pour Les Laubies,9,M,ASTRUC Marc
+48,Les Laubies,Unis Pour Les Laubies,10,F,DOUTEAU Géraldine
+48,Les Laubies,Unis Pour Les Laubies,11,M,GRAVIL Roger
+48,Les Laubies,Unis Pour Les Laubies,12,F,LAFONTAINE Fanny
+48,Les Laubies,Unis Pour Les Laubies,13,M,LECLÈRE Bernard
+48,Les Monts-Verts,Agir pour les Monts-Verts,1,M,COHIN Daniel
+48,Les Monts-Verts,Agir pour les Monts-Verts,2,F,BAUMELLE Virginie
+48,Les Monts-Verts,Agir pour les Monts-Verts,3,M,MÉCHINE Franck
+48,Les Monts-Verts,Agir pour les Monts-Verts,4,F,CONSTANT Monique
+48,Les Monts-Verts,Agir pour les Monts-Verts,5,M,GILLES Romain
+48,Les Monts-Verts,Agir pour les Monts-Verts,6,F,BELLY Caroline
+48,Les Monts-Verts,Agir pour les Monts-Verts,7,M,FOURNIER Julien
+48,Les Monts-Verts,Agir pour les Monts-Verts,8,F,FOURNIER Florence
+48,Les Monts-Verts,Agir pour les Monts-Verts,9,M,GARREL Denis
+48,Les Monts-Verts,L'Avenir Des Monts Verts,1,F,PAGES CARTIGNY Jessica
+48,Les Monts-Verts,L'Avenir Des Monts Verts,2,M,BAUMELLE Didier
+48,Les Monts-Verts,L'Avenir Des Monts Verts,3,F,RAYMOND Marie-Françoise
+48,Les Monts-Verts,L'Avenir Des Monts Verts,4,M,PAGES Guy
+48,Les Monts-Verts,L'Avenir Des Monts Verts,5,F,PRADIN Sylviane
+48,Les Monts-Verts,L'Avenir Des Monts Verts,6,M,CHAULIAGUET Daniel
+48,Les Monts-Verts,L'Avenir Des Monts Verts,7,F,GREZE Laura
+48,Les Monts-Verts,L'Avenir Des Monts Verts,8,M,PAYARD Philippe
+48,Les Monts-Verts,L'Avenir Des Monts Verts,9,F,GRIMAL Sylvia
+48,Les Monts-Verts,L'Avenir Des Monts Verts,10,M,POULALION Bernard
+48,Les Monts-Verts,L'Avenir Des Monts Verts,11,F,ROUVIERE Stéphanie
+48,Les Salces,Ensemble Pour les Salces,1,M,VAYSSIER Jean-Louis
+48,Les Salces,Ensemble Pour les Salces,2,F,PRIETO Chloé
+48,Les Salces,Ensemble Pour les Salces,3,M,DAUBAN Charles
+48,Les Salces,Ensemble Pour les Salces,4,F,MANSILLON Gaëlle
+48,Les Salces,Ensemble Pour les Salces,5,M,GÉLY Alexandre
+48,Les Salces,Ensemble Pour les Salces,6,F,DELPUECH Christine
+48,Les Salces,Ensemble Pour les Salces,7,M,ROUX Yannick
+48,Les Salces,Ensemble Pour les Salces,8,F,VAYSSIER TRICOT Chloé
+48,Les Salces,Ensemble Pour les Salces,9,M,DAUBAN Guillaume
+48,Les Salelles,Ensemble pour Les Salelles,1,M,BOVE Alessandre
+48,Les Salelles,Ensemble pour Les Salelles,2,F,BADAROUX Suzanne
+48,Les Salelles,Ensemble pour Les Salelles,3,M,ALBOUY Damien
+48,Les Salelles,Ensemble pour Les Salelles,4,F,BOYER Christine
+48,Les Salelles,Ensemble pour Les Salelles,5,M,BADAROUX Vincent
+48,Les Salelles,Ensemble pour Les Salelles,6,F,BROCHIER Muriel
+48,Les Salelles,Ensemble pour Les Salelles,7,M,BONNEFILLE Pierre
+48,Les Salelles,Ensemble pour Les Salelles,8,F,CONTASTIN Claire
+48,Les Salelles,Ensemble pour Les Salelles,9,M,DUPUY Michel
+48,Les Salelles,Ensemble pour Les Salelles,10,F,MALZAC Lise
+48,Les Salelles,Ensemble pour Les Salelles,11,M,ROLAND Lucien
+48,Luc,Ensemble pour notre commune,1,M,BOSCUS Jean-Marie Joseph Marcel Gaston
+48,Luc,Ensemble pour notre commune,2,F,BORNOT NÉE GARO Elisabeth Renée
+48,Luc,Ensemble pour notre commune,3,M,MAZOYER Lucien
+48,Luc,Ensemble pour notre commune,4,F,RANC Geneviève Marie
+48,Luc,Ensemble pour notre commune,5,M,GAIDAN Cyril
+48,Luc,Ensemble pour notre commune,6,F,MAUREL Annie
+48,Luc,Ensemble pour notre commune,7,M,JALLAT Jérôme
+48,Luc,Ensemble pour notre commune,8,F,CHAZE Martine
+48,Luc,Ensemble pour notre commune,9,M,ROUVIERE Yannick
+48,Luc,Ensemble pour notre commune,10,F,PAGES Véronique
+48,Luc,Ensemble pour notre commune,11,M,BOUVIER Julien
+48,Marchastel,Marchastel 2026,1,M,MALHERBE Eric
+48,Marchastel,Marchastel 2026,2,F,CHAYLA Valérie
+48,Marchastel,Marchastel 2026,3,M,PERRET Nicolas
+48,Marchastel,Marchastel 2026,4,F,AUREL Magali
+48,Marchastel,Marchastel 2026,5,M,THIOT Jacques
+48,Marchastel,Marchastel 2026,6,F,CHAIDRON Lucile
+48,Marchastel,Marchastel 2026,7,M,VIGIER Urbain
+48,Marvejols,Marvejols Au Coeur,1,F,BREMOND Patricia
+48,Marvejols,Marvejols Au Coeur,2,M,PIC Jérémy
+48,Marvejols,Marvejols Au Coeur,3,F,ITIER Ghyslaine
+48,Marvejols,Marvejols Au Coeur,4,M,FELGEIROLLES Aymeric
+48,Marvejols,Marvejols Au Coeur,5,F,TROUCELIER Bernadette
+48,Marvejols,Marvejols Au Coeur,6,M,BELOT Jean-Paul
+48,Marvejols,Marvejols Au Coeur,7,F,LLABRÈS Chantal
+48,Marvejols,Marvejols Au Coeur,8,M,GALIZI Raphaël
+48,Marvejols,Marvejols Au Coeur,9,F,SALSON Delphine
+48,Marvejols,Marvejols Au Coeur,10,M,FALCON Albert
+48,Marvejols,Marvejols Au Coeur,11,F,CHAUDESAIGUES Amélie
+48,Marvejols,Marvejols Au Coeur,12,M,VALENTIN Patrick
+48,Marvejols,Marvejols Au Coeur,13,F,HOURS Marie-Angèle
+48,Marvejols,Marvejols Au Coeur,14,M,BERTUIT Philippe
+48,Marvejols,Marvejols Au Coeur,15,F,PROUST Véronique
+48,Marvejols,Marvejols Au Coeur,16,M,SEGURA Matthias
+48,Marvejols,Marvejols Au Coeur,17,F,FAGES Cécile
+48,Marvejols,Marvejols Au Coeur,18,M,AOULAGHA Karim
+48,Marvejols,Marvejols Au Coeur,19,F,BRUNET Murielle
+48,Marvejols,Marvejols Au Coeur,20,M,CASTANIER Duncan
+48,Marvejols,Marvejols Au Coeur,21,F,SELIN Elena
+48,Marvejols,Marvejols Au Coeur,22,M,COCHET Hervé
+48,Marvejols,Marvejols Au Coeur,23,F,BONNET Christine
+48,Marvejols,Marvejols Au Coeur,24,M,MOULIN Daniel
+48,Marvejols,Marvejols Au Coeur,25,F,CAZE Eugénie
+48,Marvejols,Marvejols Au Coeur,26,M,MARCO Frédéric
+48,Marvejols,Marvejols Au Coeur,27,F,CREISSELS Zoé
+48,Marvejols,Marvejols Au Coeur,28,M,BATIFOULIER Serge
+48,Marvejols,Marvejols Au Coeur,29,F,ROBBE Jucsie
+48,Marvejols,Une Vision Pour Demain,1,M,POUGNET Nicolas
+48,Marvejols,Une Vision Pour Demain,2,F,CASTAREDE Corine
+48,Marvejols,Une Vision Pour Demain,3,M,MILOT David
+48,Marvejols,Une Vision Pour Demain,4,F,GAUDIN DE LAGRANGE Monique
+48,Marvejols,Une Vision Pour Demain,5,M,DURAND Patrick
+48,Marvejols,Une Vision Pour Demain,6,F,LLAURADO-AGUILHON Sophie
+48,Marvejols,Une Vision Pour Demain,7,M,RICHIER Jean-Yves
+48,Marvejols,Une Vision Pour Demain,8,F,OLBINSKA Claire
+48,Marvejols,Une Vision Pour Demain,9,M,CRUEYZE Damien
+48,Marvejols,Une Vision Pour Demain,10,F,DURAND Meline
+48,Marvejols,Une Vision Pour Demain,11,M,TICHIT Dominique
+48,Marvejols,Une Vision Pour Demain,12,F,HUGONNET Valérie
+48,Marvejols,Une Vision Pour Demain,13,M,BOUQUET Julien
+48,Marvejols,Une Vision Pour Demain,14,F,GACHE Florence
+48,Marvejols,Une Vision Pour Demain,15,M,SIGNORET Laurent
+48,Marvejols,Une Vision Pour Demain,16,F,FERRIER Isabelle
+48,Marvejols,Une Vision Pour Demain,17,M,ORLIAC André
+48,Marvejols,Une Vision Pour Demain,18,F,CHARBONNEL Simone
+48,Marvejols,Une Vision Pour Demain,19,M,VIGIER Christian
+48,Marvejols,Une Vision Pour Demain,20,F,DOUET Océane
+48,Marvejols,Une Vision Pour Demain,21,M,ROUVIERE Alain
+48,Marvejols,Une Vision Pour Demain,22,F,BERTUIT Gisèle
+48,Marvejols,Une Vision Pour Demain,23,M,AKA Dominique
+48,Marvejols,Une Vision Pour Demain,24,F,BORDES Sylvaine
+48,Marvejols,Une Vision Pour Demain,25,M,REBEYROL Ralph
+48,Marvejols,Une Vision Pour Demain,26,F,LEBRUN Marie-Blanche
+48,Marvejols,Une Vision Pour Demain,27,M,BOULARD Roland
+48,Marvejols,Une Vision Pour Demain,28,F,BRUNO Violette
+48,Marvejols,Une Vision Pour Demain,29,M,BOUSQUET Michel
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,1,M,VERGELY Gilles
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,2,F,ROBERT Brigitte
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,3,M,SALLES Thierry
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,4,F,FAURÉ Sophie
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,5,M,GINISTY Joël
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,6,F,MOREAU Éva
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,7,M,RICHARD Jean-Louis
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,8,F,RICHARD Mathilde
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,9,M,ANDRE Guillaume
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,10,F,AGULHON Tatiana
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,11,M,COMPANG Ludovic
+48,Mas-Saint-Chély,Toujours MAS SAINT CHELY,12,F,MONTAGNY Charlotte
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",1,M,POURQUIER Jean-Paul
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",2,F,ANDREY Chantal
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",3,M,SALEIL Jean-Claude
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",4,F,MONZIOLS Malika
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",5,M,SEGUIN Denis
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",6,F,VORS Marie-Christine
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",7,M,CALMELS Jean
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",8,F,SEGUIN-JULLIÉ Annie
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",9,M,DELPUECH Bernard
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",10,F,ROUJON Julie
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",11,M,POUJOL Olivier
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",12,F,BOURREL Élodie
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",13,M,NURIT Jean-Noël
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",14,F,VALENTIN Maryse
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",15,M,RAMOND Jérémy
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",16,F,QUESNE Catherine
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",17,M,FAGES Claude
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",18,F,VOLTZENLOGEL Anne-Claire
+48,Massegros Causses Gorges,"UN BILAN, des PROJETS, une AMBITION",19,M,LABAUME Didier
+48,Mende,A GAUCHE TOUTES ET TOUS,1,M,PERIS Hermelen
+48,Mende,A GAUCHE TOUTES ET TOUS,2,F,FILLAUDEAU Christel
+48,Mende,A GAUCHE TOUTES ET TOUS,3,M,MALAVIEILLE Jacques
+48,Mende,A GAUCHE TOUTES ET TOUS,4,F,RUBIO Léna
+48,Mende,A GAUCHE TOUTES ET TOUS,5,M,OUAZZANI CHAHDI Abderrahman
+48,Mende,A GAUCHE TOUTES ET TOUS,6,F,TEYSSIER Charlotte
+48,Mende,A GAUCHE TOUTES ET TOUS,7,M,MAROLOT Eric
+48,Mende,A GAUCHE TOUTES ET TOUS,8,F,SOUDAN Claude
+48,Mende,A GAUCHE TOUTES ET TOUS,9,M,VITROLLES Christian
+48,Mende,A GAUCHE TOUTES ET TOUS,10,F,CARON Chenoa
+48,Mende,A GAUCHE TOUTES ET TOUS,11,M,BELUCH Jacques
+48,Mende,A GAUCHE TOUTES ET TOUS,12,F,TREUIL Monique
+48,Mende,A GAUCHE TOUTES ET TOUS,13,M,VARVARIAN Vatché
+48,Mende,A GAUCHE TOUTES ET TOUS,14,F,PICCINALI Myriam
+48,Mende,A GAUCHE TOUTES ET TOUS,15,M,FOURNIOUX Richard
+48,Mende,A GAUCHE TOUTES ET TOUS,16,F,GALAS Claire
+48,Mende,A GAUCHE TOUTES ET TOUS,17,M,SCELLIER Dominique
+48,Mende,A GAUCHE TOUTES ET TOUS,18,F,VIGOUROUX Manick
+48,Mende,A GAUCHE TOUTES ET TOUS,19,M,LECLERCQ Jean-Luc
+48,Mende,A GAUCHE TOUTES ET TOUS,20,F,LEPOITTEVIN Christine
+48,Mende,A GAUCHE TOUTES ET TOUS,21,M,FERNANDES Antonio
+48,Mende,A GAUCHE TOUTES ET TOUS,22,F,BAUMLÉ Sandrine
+48,Mende,A GAUCHE TOUTES ET TOUS,23,M,BECAMEL Guy
+48,Mende,A GAUCHE TOUTES ET TOUS,24,F,KINDA Sabine
+48,Mende,A GAUCHE TOUTES ET TOUS,25,M,MEYRUEIX Franck
+48,Mende,A GAUCHE TOUTES ET TOUS,26,F,VINOLO Elisabeth
+48,Mende,A GAUCHE TOUTES ET TOUS,27,M,MARTY Bertrand
+48,Mende,A GAUCHE TOUTES ET TOUS,28,F,LAZES Florence
+48,Mende,A GAUCHE TOUTES ET TOUS,29,M,ESCAFFRE Gaël
+48,Mende,A GAUCHE TOUTES ET TOUS,30,F,LAURENT Lauryane
+48,Mende,A GAUCHE TOUTES ET TOUS,31,M,JEAN--SCELLIER Matéo
+48,Mende,A GAUCHE TOUTES ET TOUS,32,F,BRUN Marie
+48,Mende,A GAUCHE TOUTES ET TOUS,33,M,PANTEL Bernard
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,1,M,SAINT-LÉGER Patrice
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,2,F,BRUNEL Ginette
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,3,M,SCHWANDER Marc
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,4,F,BLOND Catherine
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,5,M,BRESSON Jean-François
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,6,F,PAS Valérie
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,7,M,VIGNOBOUL Thierry
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,8,F,FORCHINI Laurine
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,9,M,DURAND Sébastien
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,10,F,MONTEIRO QUINTA Nadine
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,11,M,LACAS Christophe
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,12,F,SALOUL Aïcha
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,13,M,BERGOUNHON Stéphane
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,14,F,VINCENT Claudine
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,15,M,BOUREMEL Sofian
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,16,F,GERBAL Myriam
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,17,M,SAVAJOLS Christian
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,18,F,RICHER Lola
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,19,M,DELMAS Jérémie
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,20,F,SIOTTO Mariangela
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,21,M,TAVARES Fernando
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,22,F,GERBAL Aurélie
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,23,M,CHAPTAL Dominique
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,24,F,OUZELET Véronique
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,25,M,POCIELLO Éric
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,26,F,CASTANIER Marie-Cécile
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,27,M,BOULARD Alain
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,28,F,CARVALHO Laurence
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,29,M,DELEMARLE Yohann
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,30,F,CAMPO BELMONTE Hélène
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,31,M,HUGON Fabrice
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,32,F,BLANC Pamela
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,33,M,BARDIN Daniel
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,34,F,MONY Anaïs
+48,Mende,Choisissons Mende Pour un Nouveau Souffle,35,M,CRUEGHE Maurice
+48,Mende,ENSEMBLE POUR MENDE,1,F,MAURIN Stéphanie
+48,Mende,ENSEMBLE POUR MENDE,2,M,SUAU Laurent
+48,Mende,ENSEMBLE POUR MENDE,3,F,AMARGER-BRAJON Françoise
+48,Mende,ENSEMBLE POUR MENDE,4,M,ROBIN François
+48,Mende,ENSEMBLE POUR MENDE,5,F,MINET-TRENEULE Elisabeth
+48,Mende,ENSEMBLE POUR MENDE,6,M,BERENGUEL Jean-François
+48,Mende,ENSEMBLE POUR MENDE,7,F,ZAMPIELLO Betty
+48,Mende,ENSEMBLE POUR MENDE,8,M,ROUSSON Nicolas
+48,Mende,ENSEMBLE POUR MENDE,9,F,BOUQUET Marie
+48,Mende,ENSEMBLE POUR MENDE,10,M,ROCHE Valentin
+48,Mende,ENSEMBLE POUR MENDE,11,F,BONADIES Marie-Lou
+48,Mende,ENSEMBLE POUR MENDE,12,M,COMBES Alain
+48,Mende,ENSEMBLE POUR MENDE,13,F,PAOLI Marie
+48,Mende,ENSEMBLE POUR MENDE,14,M,JACQUES Thierry
+48,Mende,ENSEMBLE POUR MENDE,15,F,ARNAL Monique
+48,Mende,ENSEMBLE POUR MENDE,16,M,MEISSONNIER Vincent
+48,Mende,ENSEMBLE POUR MENDE,17,F,TRÉMOLIÈRES Valérie
+48,Mende,ENSEMBLE POUR MENDE,18,M,BOISSONNADE Alain
+48,Mende,ENSEMBLE POUR MENDE,19,F,LAURENT Leslie
+48,Mende,ENSEMBLE POUR MENDE,20,M,VELAY Anthony
+48,Mende,ENSEMBLE POUR MENDE,21,F,NUNES VAZ Sonia
+48,Mende,ENSEMBLE POUR MENDE,22,M,SILVANO Francisco
+48,Mende,ENSEMBLE POUR MENDE,23,F,RIBEIRO Stéphanie
+48,Mende,ENSEMBLE POUR MENDE,24,M,KARA Ersen
+48,Mende,ENSEMBLE POUR MENDE,25,F,RODIER Josette
+48,Mende,ENSEMBLE POUR MENDE,26,M,MENIKER Abdelhamid
+48,Mende,ENSEMBLE POUR MENDE,27,F,DUFOUR Florence
+48,Mende,ENSEMBLE POUR MENDE,28,M,MIRMAN Frédéric
+48,Mende,ENSEMBLE POUR MENDE,29,F,CHANEAC Marion
+48,Mende,ENSEMBLE POUR MENDE,30,M,VILLENEUVE Thomas
+48,Mende,ENSEMBLE POUR MENDE,31,F,CUVELIER Cécile
+48,Mende,ENSEMBLE POUR MENDE,32,M,DALLE Raoul
+48,Mende,ENSEMBLE POUR MENDE,33,F,PINTO Ana
+48,Mende,ENSEMBLE POUR MENDE,34,M,MARTIN Vincent
+48,Mende,ENSEMBLE POUR MENDE,35,F,PORTEFAIX Léa
+48,Mende,JUSTE MENDE,1,F,SOULIER Emmanuelle
+48,Mende,JUSTE MENDE,2,M,TORRES Philippe
+48,Mende,JUSTE MENDE,3,F,HIERLE Fabienne
+48,Mende,JUSTE MENDE,4,M,COUDEYRE Patrick
+48,Mende,JUSTE MENDE,5,F,GERBAIL-SAVAJOLS Virginie
+48,Mende,JUSTE MENDE,6,M,PORTAL Bruno
+48,Mende,JUSTE MENDE,7,F,BOULARD Audrey
+48,Mende,JUSTE MENDE,8,M,MALIGE Mathieu
+48,Mende,JUSTE MENDE,9,F,SALENDRES Sandra
+48,Mende,JUSTE MENDE,10,M,ILPIDE Jean
+48,Mende,JUSTE MENDE,11,F,RAOUX-BONNET Emmanuelle
+48,Mende,JUSTE MENDE,12,M,BARBIER Gérard
+48,Mende,JUSTE MENDE,13,F,PIN Henriette
+48,Mende,JUSTE MENDE,14,M,MORVAN Jean-Pierre
+48,Mende,JUSTE MENDE,15,F,BOUSQUET Marion
+48,Mende,JUSTE MENDE,16,M,PLATON Philippe
+48,Mende,JUSTE MENDE,17,F,BELAÏD Karine
+48,Mende,JUSTE MENDE,18,M,ECHASSERIEAU Jean-Claude
+48,Mende,JUSTE MENDE,19,F,FERET Coline
+48,Mende,JUSTE MENDE,20,M,DAUMAS-RAOUX Rodolphe
+48,Mende,JUSTE MENDE,21,F,CHAZAL Magali
+48,Mende,JUSTE MENDE,22,M,CARTEI Cédric
+48,Mende,JUSTE MENDE,23,F,DEPAULE Karen
+48,Mende,JUSTE MENDE,24,M,GURDJIAN-ARSLAMIAN Alain
+48,Mende,JUSTE MENDE,25,F,DELCAMP Valérie
+48,Mende,JUSTE MENDE,26,M,PITIOT Frédéric
+48,Mende,JUSTE MENDE,27,F,GRASSET Sandy
+48,Mende,JUSTE MENDE,28,M,HENRY Rodolphe
+48,Mende,JUSTE MENDE,29,F,BORDES Pascale
+48,Mende,JUSTE MENDE,30,M,DELMAS Jacques
+48,Mende,JUSTE MENDE,31,F,STOLL Maïlys
+48,Mende,JUSTE MENDE,32,M,CARVALHO Luis
+48,Mende,JUSTE MENDE,33,F,QUÉRÉ Hélène
+48,Mende,JUSTE MENDE,34,M,LOISELEUX Laurent
+48,Mende,JUSTE MENDE,35,F,CHAPELLE Christine
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",1,M,CAUSSE Christian
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",2,F,TRESALLET Celine
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",3,M,REPLAT Julien
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",4,F,GARRIVIER Marion
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",5,M,BALSAN Emmanuel
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",6,F,GAL Marie-Sophie
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",7,M,REIX Michel
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",8,F,ROBERT Agnès
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",9,M,FÉCÉ Frédéric
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",10,F,BOURGEAT Claudine
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",11,M,MAES Martial
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",12,F,REYNAUD Viviane
+48,Meyrueis,"Commune en commun, MEYRUEIS pour demain",13,M,CAUSSE Erick
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,1,F,SANCH JEANJEAN Christiane
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,2,M,BERTRAND Lionel
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,3,F,EVESQUE GAILLAC Aurélie
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,4,M,PORHET Patrick
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,5,F,ROBERT Stella
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,6,M,NÉGRON Dominique
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,7,F,BOYER Sonia
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,8,M,JEANJEAN René
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,9,F,MEDINGER BRUNEL Anne
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,10,M,RICHARD Thibaud
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,11,F,CHEVENNEMENT Patricia
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,12,M,GABORIT DE MONTJOU Jean-Baptiste
+48,Meyrueis,L'EXPERIENCE AU SERVICE D'UN NOUVEL ELAN,13,F,ROBERT Anne -Cécile
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",1,M,HERRARD David
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",2,F,LANGLOIS Pascale
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",3,M,GERMANAUD Alain
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",4,F,CUPILLARD Hélène
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",5,M,RIEU Bernard
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",6,F,MESSY Nelly
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",7,M,DOUSSIERE Michaël
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",8,F,LAPLACE Claire
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",9,M,ESTEVE Martin
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",10,F,LEMAIRE Christelle
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",11,M,LUCAS Gabriel
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",12,F,NGOLO Fidélia
+48,Meyrueis,"MEYRUEIS, UN PASSE RICHE, UN PROJET AMBITIEUX",13,M,ESTEVE Nicolas
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,1,M,FLAYOL Philippe
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,2,F,MACHET Nathalie
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,3,M,THIBON Michel
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,4,F,FRANCHET Sylvie
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,5,M,LANCELLE Philippe
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,6,F,CHOQUET Aurélie
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,7,M,FLAYOL Kévin
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,8,F,PASCAL Marie- José
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,9,M,CARLY Patrick
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,10,F,CLADEL-CAUSSE Louna
+48,Moissac-Vallée-Française,MOISSAC VALLEE FRANCAISE ENSEMBLE POUR DEMAIN,11,M,VUILLEMOT Thierry
+48,Molezon,CONTINUONS ENSEMBLE,1,M,FLAYOL David
+48,Molezon,CONTINUONS ENSEMBLE,2,F,SCHRAMM Sidonie
+48,Molezon,CONTINUONS ENSEMBLE,3,M,SALTET Stéphane
+48,Molezon,CONTINUONS ENSEMBLE,4,F,CHAMPETIER Marion
+48,Molezon,CONTINUONS ENSEMBLE,5,M,WRUBEL Steffen
+48,Molezon,VIVRE ENSEMBLE A MOLEZON,1,M,GODEUX Frédéric Laurent Misaac
+48,Molezon,VIVRE ENSEMBLE A MOLEZON,2,F,GIBERT Laure
+48,Molezon,VIVRE ENSEMBLE A MOLEZON,3,M,JONOT François-Xavier Louis
+48,Molezon,VIVRE ENSEMBLE A MOLEZON,4,F,SAINT-MARTIN Evelyne Mireille
+48,Molezon,VIVRE ENSEMBLE A MOLEZON,5,M,ARJAILLES Nicolas André François
+48,Molezon,VIVRE ENSEMBLE A MOLEZON,6,F,ETIENNE Janine
+48,Molezon,VIVRE ENSEMBLE A MOLEZON,7,M,BOURRET Yohan Pierre Guy
+48,Molezon,VIVRE ENSEMBLE A MOLEZON,8,F,CHASSON Hélène Marthe Sylvie
+48,Mont Lozère et Goulet,NOTRE COMMUNE,1,M,BEAURY Pascal
+48,Mont Lozère et Goulet,NOTRE COMMUNE,2,F,AMOUROUX Fabienne
+48,Mont Lozère et Goulet,NOTRE COMMUNE,3,M,PANTEL Michel
+48,Mont Lozère et Goulet,NOTRE COMMUNE,4,F,FOLCHER Béatrice
+48,Mont Lozère et Goulet,NOTRE COMMUNE,5,M,BOULAT Olivier
+48,Mont Lozère et Goulet,NOTRE COMMUNE,6,F,YVARS Christine
+48,Mont Lozère et Goulet,NOTRE COMMUNE,7,M,MARQUES Francis
+48,Mont Lozère et Goulet,NOTRE COMMUNE,8,F,MASSON Elsa
+48,Mont Lozère et Goulet,NOTRE COMMUNE,9,M,MOURET Nathan
+48,Mont Lozère et Goulet,NOTRE COMMUNE,10,F,MOREIRA Maria
+48,Mont Lozère et Goulet,NOTRE COMMUNE,11,M,GIBERT Jean-Noël
+48,Mont Lozère et Goulet,NOTRE COMMUNE,12,F,PAULET Michèle
+48,Mont Lozère et Goulet,NOTRE COMMUNE,13,M,PAULHIAC Julien
+48,Mont Lozère et Goulet,NOTRE COMMUNE,14,F,BOULHOL Brigitte
+48,Mont Lozère et Goulet,NOTRE COMMUNE,15,M,FERRIER Thierry
+48,Mont Lozère et Goulet,NOTRE COMMUNE,16,F,MEUDIC Solène
+48,Mont Lozère et Goulet,NOTRE COMMUNE,17,M,BOUVET Rémy
+48,Mont Lozère et Goulet,NOTRE COMMUNE,18,F,ZAPICO Audrey
+48,Mont Lozère et Goulet,NOTRE COMMUNE,19,M,GUIGON Robert
+48,Mont Lozère et Goulet,NOTRE COMMUNE,20,F,SOUMILLE Corinne
+48,Mont Lozère et Goulet,NOTRE COMMUNE,21,M,BUISSON Arnaud
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,1,M,BERGOUNHE Claude
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,2,F,TOIRON Nadine
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,3,M,MEDARD Didier
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,4,F,COULOMB Agnès
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,5,M,MARTIN Jordy
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,6,F,AMOUROUX Valérie
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,7,M,GONZALEZ Didier
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,8,F,HEBRARD Evelyne
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,9,M,BOISSIER Gabriel
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,10,F,DIET Laurence
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,11,M,DIET Frédéric
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,12,F,FERRIER Maryse
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,13,M,COUSTES-CHAPDANIEL Jean-Claude
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,14,F,ANTRAYGUE Guylaine
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,15,M,MARTIN Olivier
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,16,F,RIGNAULT Marylène
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,17,M,THOMAS Sylvain
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,18,F,CASTAN Hélène
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,19,M,AUGADE Pierre-Daniel
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,20,F,REVERSAT Carine
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,21,M,WILSON Craig
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,22,F,MOURET Lucette
+48,Mont Lozère et Goulet,NOUVEL AIR MONT LOZERE ET GOULET,23,M,MOURET Fabien
+48,Montbel,Pour Montbel,1,M,MEYNIEL Sylvain
+48,Montbel,Pour Montbel,2,F,BOYER Lucette
+48,Montbel,Pour Montbel,3,M,ALMERAS Florian
+48,Montbel,Pour Montbel,4,F,DELPUECH Laurence
+48,Montbel,Pour Montbel,5,M,CHAPTAL Arnaud
+48,Montbel,Pour Montbel,6,F,DUBUS Pauline
+48,Montbel,Pour Montbel,7,M,MOULIN William
+48,Montbel,Pour Montbel,8,F,NOUET Nathalie
+48,Montbel,Pour Montbel,9,M,MOULIN Yves
+48,Montbel,Pour Montbel,10,F,PLANCHENAULT Catherine
+48,Montbel,Pour Montbel,11,M,TOIRON Nicolas
+48,Montbel,Pour Montbel,12,F,ROCHE Nadège
+48,Montrodat,UNIS POUR MONTRODAT,1,M,BIZY Dominique
+48,Montrodat,UNIS POUR MONTRODAT,2,F,DOMEIZEL Monique
+48,Montrodat,UNIS POUR MONTRODAT,3,M,ANDRÉ Rémi
+48,Montrodat,UNIS POUR MONTRODAT,4,F,REYNAUD Bérangère
+48,Montrodat,UNIS POUR MONTRODAT,5,M,MOULIN Ludovic
+48,Montrodat,UNIS POUR MONTRODAT,6,F,MOURGUES Magali
+48,Montrodat,UNIS POUR MONTRODAT,7,M,KURIATA Sylvain
+48,Montrodat,UNIS POUR MONTRODAT,8,F,COQUEREAU Hélène
+48,Montrodat,UNIS POUR MONTRODAT,9,M,ANDRIEU Fabien
+48,Montrodat,UNIS POUR MONTRODAT,10,F,ANDRE Catherine
+48,Montrodat,UNIS POUR MONTRODAT,11,M,LAIGUEGLIA Jérôme
+48,Montrodat,UNIS POUR MONTRODAT,12,F,DELMAS Nathalie
+48,Montrodat,UNIS POUR MONTRODAT,13,M,DELHAL Florian
+48,Montrodat,UNIS POUR MONTRODAT,14,F,GOUZY Karine
+48,Montrodat,UNIS POUR MONTRODAT,15,M,NOGRÉ Loïc
+48,Montrodat,UNIS POUR MONTRODAT,16,F,PERGET Sylvie
+48,Montrodat,UNIS POUR MONTRODAT,17,M,SPAGNOLO Olivier
+48,Monts-de-Randon,Continuons Ensemble,1,M,SAINT-LEGER Francis
+48,Monts-de-Randon,Continuons Ensemble,2,F,LIZZANA Jacqueline
+48,Monts-de-Randon,Continuons Ensemble,3,M,ATGER Maxime
+48,Monts-de-Randon,Continuons Ensemble,4,F,GERBAL Gisèle
+48,Monts-de-Randon,Continuons Ensemble,5,M,MONTEIL Auxane
+48,Monts-de-Randon,Continuons Ensemble,6,F,CHAUDESAIGUES Rolande
+48,Monts-de-Randon,Continuons Ensemble,7,M,HANQUEZ Fabrice
+48,Monts-de-Randon,Continuons Ensemble,8,F,JOURDAN Lydie
+48,Monts-de-Randon,Continuons Ensemble,9,M,VELAY Yvan
+48,Monts-de-Randon,Continuons Ensemble,10,F,TREBUCHON Ludivine
+48,Monts-de-Randon,Continuons Ensemble,11,M,BRINGER Ludovic
+48,Monts-de-Randon,Continuons Ensemble,12,F,BILLARD Kristelle
+48,Monts-de-Randon,Continuons Ensemble,13,M,BEAUFILS Joseph
+48,Monts-de-Randon,Continuons Ensemble,14,F,FARGES Anne
+48,Monts-de-Randon,Continuons Ensemble,15,M,DUFOUR Romain
+48,Monts-de-Randon,Continuons Ensemble,16,F,DELON Virginie
+48,Monts-de-Randon,Continuons Ensemble,17,M,MEYSSONNIER Clément
+48,Monts-de-Randon,Continuons Ensemble,18,F,COULOMB Gaëlle
+48,Monts-de-Randon,Continuons Ensemble,19,M,BRUN Christophe
+48,Monts-de-Randon,Continuons Ensemble,20,F,VERIN Aurélie
+48,Monts-de-Randon,Continuons Ensemble,21,M,PARENT Jérémy
+48,Nasbinals,Ensemble pour Nasbinals,1,M,BASTIDE Bernard
+48,Nasbinals,Ensemble pour Nasbinals,2,F,CALMEL Marie Louise
+48,Nasbinals,Ensemble pour Nasbinals,3,M,BOUQUET Christophe
+48,Nasbinals,Ensemble pour Nasbinals,4,F,CAZEAUX Isabelle
+48,Nasbinals,Ensemble pour Nasbinals,5,M,BRIOUDES Patrick
+48,Nasbinals,Ensemble pour Nasbinals,6,F,CRUEYZE Angélique
+48,Nasbinals,Ensemble pour Nasbinals,7,M,BROUSSARD Jérôme
+48,Nasbinals,Ensemble pour Nasbinals,8,F,DE BOISSIEU Anne
+48,Nasbinals,Ensemble pour Nasbinals,9,M,GABRILLARGUES Bruno
+48,Nasbinals,Ensemble pour Nasbinals,10,F,ROSSIGNOL Virginie
+48,Nasbinals,Ensemble pour Nasbinals,11,M,MONTIALOUX Jean-François
+48,Nasbinals,Ensemble pour Nasbinals,12,F,SOUCHON Patricia
+48,Nasbinals,Ensemble pour Nasbinals,13,M,MOULIADE Laurent
+48,Nasbinals,Ensemble pour Nasbinals,14,F,STAHL Kathleen
+48,Nasbinals,Ensemble pour Nasbinals,15,M,PRAT Jean
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",1,M,BRUN Jean-Louis
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",2,F,LAROCHE Isabelle
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",3,M,GAILLARD Alain
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",4,F,ARNAUD PLAGNES Stéphanie
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",5,M,AJASSE Jean-François
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",6,F,LAIR Marie-Françoise
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",7,M,CHAMBON Kilian
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",8,F,PAULHAC Cécile
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",9,M,CHATEAUNEUF Patrice
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",10,F,SURREL Laurence
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",11,M,CHAUCHON Jean-François
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",12,F,MARTIN Séverine
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",13,M,CROS Philippe
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",14,F,POUGNET Patricia
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",15,M,CELLARIER Daniel
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",16,F,NEGRON Karine
+48,Naussac-Fontanes,"Naussac-Fontanes : Des projets, une continuité",17,M,LEPORI Gilles
+48,Noalhac,Ensemble Pour Les Intérêts de La Commune de Noalhac,1,M,POULALION Michel
+48,Noalhac,Ensemble Pour Les Intérêts de La Commune de Noalhac,2,F,CHARMAILLAC Odile
+48,Noalhac,Ensemble Pour Les Intérêts de La Commune de Noalhac,3,M,BEDOS Nicolas
+48,Noalhac,Ensemble Pour Les Intérêts de La Commune de Noalhac,4,F,FRAISSE Anne-Laure
+48,Noalhac,Ensemble Pour Les Intérêts de La Commune de Noalhac,5,M,BONNET Hervé
+48,Noalhac,Ensemble Pour Les Intérêts de La Commune de Noalhac,6,F,BEDOS Anne
+48,Noalhac,Ensemble Pour Les Intérêts de La Commune de Noalhac,7,M,SEGUY Bernard
+48,Noalhac,Pour Une Commune Qui Vous Rassemble,1,M,DELCROS Aymeric
+48,Noalhac,Pour Une Commune Qui Vous Rassemble,2,F,THOMAS Marie-France
+48,Noalhac,Pour Une Commune Qui Vous Rassemble,3,M,DOUSSOT Laurent
+48,Noalhac,Pour Une Commune Qui Vous Rassemble,4,F,BRUNET Amandine
+48,Noalhac,Pour Une Commune Qui Vous Rassemble,5,M,LARGET Nicolas
+48,Noalhac,Pour Une Commune Qui Vous Rassemble,6,F,MALLET Caroline
+48,Palhers,BIEN VIVRE PALHERS,1,M,COURSIMAULT Jean-François
+48,Palhers,BIEN VIVRE PALHERS,2,F,GIRARD BOUNIOL Elisabeth
+48,Palhers,BIEN VIVRE PALHERS,3,M,MONTY Daniel
+48,Palhers,BIEN VIVRE PALHERS,4,F,GLEIZE Amandine
+48,Palhers,BIEN VIVRE PALHERS,5,M,PERRET Jean-Bernard
+48,Palhers,BIEN VIVRE PALHERS,6,F,HERMET Viviane
+48,Palhers,BIEN VIVRE PALHERS,7,M,PONSONNAILLE Arnaud
+48,Palhers,BIEN VIVRE PALHERS,8,F,NEGRON Pascale
+48,Palhers,BIEN VIVRE PALHERS,9,M,ROUJON Eric
+48,Palhers,BIEN VIVRE PALHERS,10,F,PERRET Nathalie
+48,Palhers,BIEN VIVRE PALHERS,11,M,ROUSSET Jean-Claude
+48,Paulhac-en-Margeride,PAULHAC POUR TOUS,1,M,MARTIN Denis
+48,Paulhac-en-Margeride,PAULHAC POUR TOUS,2,F,LESTANG Angélique
+48,Paulhac-en-Margeride,PAULHAC POUR TOUS,3,M,BOULET Patrice
+48,Paulhac-en-Margeride,PAULHAC POUR TOUS,4,F,CUBIZOLLES Régine
+48,Paulhac-en-Margeride,PAULHAC POUR TOUS,5,M,MARTIN Valéry
+48,Paulhac-en-Margeride,PAULHAC POUR TOUS,6,F,CHATEAUNEUF Brigitte
+48,Paulhac-en-Margeride,PAULHAC POUR TOUS,7,M,LEBRAT Jérémie
+48,Paulhac-en-Margeride,PAULHAC POUR TOUS,8,F,CHASSEFEYRE Fabienne
+48,Paulhac-en-Margeride,PAULHAC POUR TOUS,9,M,DALLE Michel
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",1,F,CALANDRE Françoise
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",2,M,TOIRON Laurent
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",3,F,HENNERON Lucie
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",4,M,KWIETNIAK Benoît
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",5,F,CHAZARIN Sylvie
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",6,M,SIMON Jérôme
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",7,F,ERGAUD-CAU Cécile
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",8,M,MAURIN Michel
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",9,F,RAYMOND Michèle
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",10,M,BRUHIER Rémi
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",11,F,GELLIS Eliette
+48,Pelouse,"PELOUSE : NOS VILLAGES , NOTRE AVENIR",12,M,DELPUECH Florian
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,1,M,PIGNOL Emmanuel
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,2,F,PÉRIGAUD Céline
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,3,M,RABEYROLLES Jean-Claude
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,4,F,ABOUTOIHI Fabienne
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,5,M,SARTRE Raymond
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,6,F,FANGUIN Elsa
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,7,M,THERET Marc
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,8,F,ROCHER Mireille
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,9,M,BRUGERON Luc
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,10,F,COURNUT Béatrice
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,11,M,BRUNEL Patrick
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,12,F,SOLER Aurélie
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,13,M,BRECHET Maxence
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,14,F,PEPIN BALAGUER Ludivine
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,15,M,COMBETTE François
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,16,F,MARIE Olivia
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,17,M,PAGÈS Alexis
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,18,F,BAJOLET Alice
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,19,M,GIBELIN Alain
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,20,F,HERMABESSIERE Eliane
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,21,M,ESTEVENON Damien
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,22,F,MAZET Christiane
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,23,M,ASTRUC Alexis
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,24,F,POUGNET Gisèle
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,25,M,VAILLANT Arnaud
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,26,F,HERAUD Colette
+48,Peyre en Aubrac,Une Commune qui Nous Ressemble,27,M,GINESTIERE André
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,1,M,ASTRUC Alain
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,2,F,PROUHEZE Marie-France
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,3,M,GUIRAL Michel
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,4,F,MARTIN Pierrette
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,5,M,HERMET François
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,6,F,MALAVIEILLE Elise
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,7,M,HERMET Vincent
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,8,F,ASTIER Vanessa
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,9,M,GRAS Denis
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,10,F,RIEUTORT Sophie
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,11,M,PRIEUR Olivier
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,12,F,VELAY Géraldine
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,13,M,NUC Pascal
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,14,F,GIBELIN Nathalie
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,15,M,BONNET Vincent
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,16,F,BAGOUET Jacqueline
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,17,M,GROLIER Christian
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,18,F,LEFEBVRE Laetitia
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,19,M,BONICATTO Jean-Pierre
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,20,F,FOCK-CHOW-THO Cécile
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,21,M,CLAVEL Etienne
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,22,F,TICHIT Patricia
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,23,M,POULALION Guillaume
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,24,F,ESTEVENON Cyrielle
+48,Peyre en Aubrac,Unis pour Peyre en Aubrac,25,M,LAMAT Adrien
+48,Pied-de-Borne,Pied de Borne 2026,1,M,MASMEJEAN Christian
+48,Pied-de-Borne,Pied de Borne 2026,2,F,MENDRAS Elisabeth
+48,Pied-de-Borne,Pied de Borne 2026,3,M,CASTRO José
+48,Pied-de-Borne,Pied de Borne 2026,4,F,BOYNE Pamela
+48,Pied-de-Borne,Pied de Borne 2026,5,M,ZANOLI Ariste
+48,Pied-de-Borne,Pied de Borne 2026,6,F,GRANIER Fabienne
+48,Pied-de-Borne,Pied de Borne 2026,7,M,SOPPELSA Eric
+48,Pied-de-Borne,Pied de Borne 2026,8,F,MARTIN Annya
+48,Pied-de-Borne,Pied de Borne 2026,9,M,LAURENT Jean-François
+48,Pied-de-Borne,Pied de Borne 2026,10,F,SCHIRR-BONNANS Guillemette
+48,Pied-de-Borne,Pied de Borne 2026,11,M,DAVID Robert
+48,Pied-de-Borne,Pied de Borne 2026,12,F,PITON Françoise
+48,Pierrefiche,Ensemble Pour Pierrefiche,1,M,MATHIEU Didier
+48,Pierrefiche,Ensemble Pour Pierrefiche,2,F,DELMAS Claudine
+48,Pierrefiche,Ensemble Pour Pierrefiche,3,M,SAINT-LEGER Thierry
+48,Pierrefiche,Ensemble Pour Pierrefiche,4,F,SOUCHE Michèle
+48,Pierrefiche,Ensemble Pour Pierrefiche,5,M,VOLPILIERE Renaud
+48,Pierrefiche,Ensemble Pour Pierrefiche,6,F,MARTIN Joëlle
+48,Pierrefiche,Ensemble Pour Pierrefiche,7,M,VIALA Serge
+48,Pierrefiche,Ensemble Pour Pierrefiche,8,F,ANTON Laurence
+48,Pierrefiche,Ensemble Pour Pierrefiche,9,M,LE FLOCH Philippe
+48,Pierrefiche,Ensemble Pour Pierrefiche,10,F,THEROND Alexia
+48,Pierrefiche,Ensemble Pour Pierrefiche,11,M,CHAPTAL Nicolas
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",1,M,MAURIN Stéphan
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",2,F,BUISSON Michèle
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",3,M,FOLCHER François
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",4,F,FOLCHER Christelle
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",5,M,DJALMIT Cyril
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",6,F,PUCHERAL MOLINES Fabienne
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",7,M,CORNEVAUX Matthias
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",8,F,ARBOUSSET Clara
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",9,M,GALZIN Patrick
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",10,F,DELES Julie
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",11,M,MERCIER Bernard
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",12,F,RUNEL-GALZIN Perrine
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",13,M,PLAGNES Laurent
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",14,F,BOUM Joyce
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",15,M,PANTEL Yann
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",16,F,MAZOYER Pascale
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",17,M,BERTRAND Frédéric
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",18,F,VOURC'H Anne
+48,Pont de Montvert - Sud Mont Lozère,"Ensemble, continuons d'agir pour notre commune",19,M,HARVOIS Guillaume
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,1,M,DONDINI Serge
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,2,F,AUBURTIN Élisabeth
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,3,M,ROURE Philippe
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,4,F,MOULINOT Gaëlle
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,5,M,LAURENT Yves Élie
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,6,F,MERTZ Élodie
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,7,M,JAFFARD Alain
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,8,F,PANTEL Sophie
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,9,M,VELAY Jean-Paul
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,10,F,GRUAT Élodie
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,11,M,COMMANDRÉ Yves
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,12,F,JEAN Chantal
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,13,M,TROMBINI Achille
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,14,F,MERCEY Julie
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,15,M,PELATAN Philippe
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,16,F,HERREN Francine
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,17,M,ISNARD Jean-Marc
+48,Pont de Montvert - Sud Mont Lozère,S'ENGAGER ET AGIR AVEC VOUS,18,F,RIMEK Luce
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,1,F,MALAVAL Audrey
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,2,M,MICHEL Grégory
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,3,F,MARZIO Véronique
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,4,M,GOULABERT Pierre
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,5,F,ROUSSIN Valérie
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,6,M,ALLAYS Matthieu
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,7,F,LIÉVAL Véronique
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,8,M,MASMÉJEAN Tristan
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,9,F,MUNOZ Karine
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,10,M,LIÉVAL David
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,11,F,BLANC Anne-Marie
+48,Pourcharesses,Agir Ensemble Aujourd'hui pour Demain,12,M,BALLINI Benjamin
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,1,M,POUDEVIGNE Xavier
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,2,F,DALLE-SALLES Nicole
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,3,M,BELAT Yvan
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,4,F,BADUEL Catherine
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,5,M,RENOUF Zackary
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,6,F,PAWLAK Anne-Sophie
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,7,M,HOSTALIER Jean-Marie
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,8,F,DEMORTIER Feliane
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,9,M,VORS Francis
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,10,F,ROUME-BESSIÈRE Edith
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,11,M,COUVE Guillaume
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,12,F,GRIMAL Patricia
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,13,M,SALLES Gilbert
+48,Prinsuéjols-Malbouzon,ENSEMBLE POUR PRINSUEJOLS - MALBOUZON,14,F,HERMANTIER Isabelle
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,1,M,TARDIEU David
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,2,F,PORTE Élodie
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,3,M,DE LAS CASES François
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,4,F,DALLE Camille
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,5,M,POULHAON Laurent
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,6,F,OSTY Audrey
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,7,M,CHAMPAGNE Thierry
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,8,F,GORGS Lauriane
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,9,M,HERMET Vincent
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,10,F,BRUN Martine
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,11,M,PAGÈS Yves
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,12,F,PIGNOL Caroline
+48,Prinsuéjols-Malbouzon,Ensemble pour l'Avenir de Nos Villages,13,M,POUDEVIGNE Laurent
+48,Prunières,Pour Prunières,1,M,BERTIN Patrick
+48,Prunières,Pour Prunières,2,F,SOLIGNAC Laure
+48,Prunières,Pour Prunières,3,M,ODOUL Robin
+48,Prunières,Pour Prunières,4,F,CHARLES Anne
+48,Prunières,Pour Prunières,5,M,MALLET Eric
+48,Prunières,Pour Prunières,6,F,FERRARIS Chantal
+48,Prunières,Pour Prunières,7,M,ROUSSILHE Thomas
+48,Prunières,Pour Prunières,8,F,BRUNEL Aude
+48,Prunières,Pour Prunières,9,M,LABAUME Thomas
+48,Prunières,Pour Prunières,10,F,BRUNET Christine
+48,Prunières,Pour Prunières,11,M,METZGER Christian
+48,Prunières,Pour Prunières,12,F,BONNAL Françoise
+48,Prunières,Pour Prunières,13,M,SEVERAN Hervé
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",1,M,MAURIN Olivier
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",2,F,BOBONE Fabienne
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",3,M,RIEU Raphaël
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",4,F,MARCON CHAZALETTE Karine
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",5,M,DE CORNELISSEN Michel
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",6,F,MICHEL-MAURIN Audrey
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",7,M,MAURIN Rémi
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",8,F,PAULET Véronique
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",9,M,ESCRIBA Michel
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",10,F,AGARD Messaline
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",11,M,THEROND Patrick
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",12,F,BRUNEL Emilie
+48,Prévenchères,"AGIR, ENSEMBLE POUR PREVENCHERES",13,M,RANC Emmanuel
+48,Prévenchères,Réunis pour l'avenir,1,M,LOVATO François
+48,Prévenchères,Réunis pour l'avenir,2,F,DAUM Angélique
+48,Prévenchères,Réunis pour l'avenir,3,M,BOYER Jean-Claude
+48,Prévenchères,Réunis pour l'avenir,4,F,GAY-GIROUD Viviane
+48,Prévenchères,Réunis pour l'avenir,5,M,FERRANDES Jean-Marie
+48,Prévenchères,Réunis pour l'avenir,6,F,VIALLE Anne
+48,Prévenchères,Réunis pour l'avenir,7,M,PALPACUER Jean
+48,Prévenchères,Réunis pour l'avenir,8,F,FASY Maryline
+48,Prévenchères,Réunis pour l'avenir,9,M,CHIFFE Serge
+48,Prévenchères,Réunis pour l'avenir,10,F,DARAN Nicole
+48,Prévenchères,Réunis pour l'avenir,11,M,VEYRUNES Michel
+48,Prévenchères,Réunis pour l'avenir,12,F,BEAUMEL Florence
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,1,F,BREZET Eve
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,2,M,SALLES Maurice
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,3,F,PERRET Marie Christine
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,4,M,BROS Alain
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,5,F,DONÈS Solange
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,6,M,CHAZALY François
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,7,F,MAILLET Noëlle
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,8,M,PIGNOL Jérôme
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,9,F,TRIGOSSE Lise
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,10,M,PRAT Bernard
+48,Recoules-d'Aubrac,VIVRE DEMAIN A RECOULES D'AUBRAC,11,F,VERGER Céline
+48,Recoules-de-Fumas,ENSEMBLE POUR RECOULES-DE-FUMAS,1,M,SUDRE Christophe
+48,Recoules-de-Fumas,ENSEMBLE POUR RECOULES-DE-FUMAS,2,F,CHOQUET Perrine
+48,Recoules-de-Fumas,ENSEMBLE POUR RECOULES-DE-FUMAS,3,M,BOUSSUGE Daniel
+48,Recoules-de-Fumas,ENSEMBLE POUR RECOULES-DE-FUMAS,4,F,ROCHET Marianne
+48,Recoules-de-Fumas,ENSEMBLE POUR RECOULES-DE-FUMAS,5,M,BONNET Jacques
+48,Recoules-de-Fumas,ENSEMBLE POUR RECOULES-DE-FUMAS,6,F,BALEZ Christine
+48,Recoules-de-Fumas,ENSEMBLE POUR RECOULES-DE-FUMAS,7,M,OSTY Jean-François
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",1,M,PIGNIDE Thomas
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",2,F,BAUMELLE Hélène
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",3,M,BERTHUIT Jean
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",4,F,CHAYROUSE Véronique
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",5,M,DOUET Jérémy
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",6,F,CRESPIN Gisèle
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",7,M,PEZON Jean-Marc
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",8,F,BOUQUET Eufémia
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",9,M,SALSON Patrick
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",10,F,MEUVRET Agnès
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",11,M,GRANIER Alain
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",12,F,JEANNE-OBADIA Marie
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",13,M,FOURNIER Stéphan
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",14,F,CALMON Véronique
+48,Rimeize,"VIVRE,GRANDIR RIMEIZE",15,M,CASTAN Jérémy
+48,Rocles,S'UNIR POUR ROCLES,1,M,BRUSA Sylvain
+48,Rocles,S'UNIR POUR ROCLES,2,F,BREUIL Sylvie
+48,Rocles,S'UNIR POUR ROCLES,3,M,LYON Alain
+48,Rocles,S'UNIR POUR ROCLES,4,F,LAPOUGE Marie-Noëlle
+48,Rocles,S'UNIR POUR ROCLES,5,M,PALPACUER Loïc
+48,Rocles,S'UNIR POUR ROCLES,6,F,LHERMET Nathalie
+48,Rocles,S'UNIR POUR ROCLES,7,M,THEROND Bruno
+48,Rocles,S'UNIR POUR ROCLES,8,F,URBANCIC Caroline
+48,Rocles,S'UNIR POUR ROCLES,9,M,MOLINES Loïc
+48,Rocles,S'UNIR POUR ROCLES,10,F,IVARS Séverine
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",1,M,MEYNADIER Jonathan
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",2,F,GARIT Maryse
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",3,M,GHISLAIN Hugo
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",4,F,JULIEN Coralie
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",5,M,MEYNADIER Daniel
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",6,F,HAUK Emilie
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",7,M,BOUTELLIER Philippe
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",8,F,DELPOUVE Tracy
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",9,M,ARGENSON Alain
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",10,F,RAT Lynda
+48,Rousses,"LA FORCE D'UN VILLAGE, L'ENGAGEMENT D'UNE EQUIPE",11,M,FORT Noan
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,1,M,GIOVANNACCI Daniel
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,2,F,HERAIL Evodie
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,3,M,GRELLIER Claude
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,4,F,EBRARD Frédérique
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,5,M,AGRINIER Arnaud
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,6,F,MARTIN Suzy
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,7,M,FORT Daniel
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,8,F,GOLL-ORTIZ Coralie
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,9,M,EBRARD Philippe
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,10,F,GIOVANNACCI Émilie
+48,Rousses,NOTRE MOTIVATION ET NOS EXPERIENCES AU SERVICE DE ROUSSES,11,M,PIALOT Philippe
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,1,M,LAFONT Thierry
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,2,F,CONZE Nathalie
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,3,M,MAYRAND Jean-Claude
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,4,F,BOUQUET Nicole
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,5,M,ARCHER Pascal
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,6,F,ALCAIS Amélie
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,7,M,CHAMP Alain
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,8,F,GALTIER Michelle
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,9,M,BELLEDENT Thierry
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,10,F,THOMAS Martine
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,11,M,RIEU Sébastien
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,12,F,MERLEN Béatrice
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,13,M,CHASTEL Patrick
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,14,F,BOIRON Gisèle
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,15,M,MERELLI Didier
+48,Saint Bonnet-Laval,ENSEMBLE POUR L'AVENIR DE SAINT BONNET LAVAL,16,F,CHALEIL Laura
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",1,M,SOULIER Samuel
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",2,F,TREBUCHON Géraldine
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",3,M,DOLADILLE Damien
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",4,F,SOULIER Anne
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",5,M,CHAMPREDON Eric
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",6,F,PANTEL Emilie
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",7,M,PARENT Philippe
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",8,F,CHALIER-PASCAL Maryline
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",9,M,RODIER Sylvain
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",10,F,PAULHAC Corinne
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",11,M,BECHETOILLE Xavier
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",12,F,BOUDON Sophie
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",13,M,GRANIER Guylhem
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",14,F,VASSAL Aurore
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",15,M,CUMINAL Yannick
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",16,F,GODEL Faustine
+48,Saint-Alban-sur-Limagnole,"poursuivre, ensemble pour Saint-Alban",17,M,RUAT Baptiste
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,1,M,DE LESCURE Jean
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,2,F,COUSTES Geneviève
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,3,M,GIRARD David
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,4,F,CORTICELLI Nadine
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,5,M,VOLPILIERE Christophe
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,6,F,FRAISSE Laurence
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,7,M,PORTANIER Laurent
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,8,F,BALTZER Perrine
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,9,M,ROMMÉ Cyril
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,10,F,GARREL MALEPEYRE Julie
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,11,M,ROMIEU Joël
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,12,F,JAFFRY Manon
+48,Saint-André-Capcèze,Unis pour Saint-André Capcèze,13,M,CASTANIER Yves
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,1,M,ANDRE Serge
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,2,F,LEAUTHIER Micheline
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,3,M,DUFOURNET Éric
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,4,F,BANCEL Céline
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,5,M,VERDELHAN Marc
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,6,F,BOSOM Nathalie
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,7,M,MOLET Guillaume
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,8,F,GIACCOBI Véronique
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,9,M,FRANCOIS-ENIMIE Christian
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,10,F,BAÏ Florence
+48,Saint-André-de-Lancize,SAINT ANDRE DEMAIN,11,M,ANDRE Florian
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,1,M,SOBLECHERO Alain
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,2,F,CHAPTAL Sophie
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,3,M,MEJEAN Guy
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,4,F,LABEAUME Myriam
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,5,M,FONADE Franck
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,6,F,MIRMAN Céline
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,7,M,MASSADOR Sébastien
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,8,F,BELLEC Carole
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,9,M,SAVAJOL Adrien
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,10,F,TUFFERY Geneviève
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,11,M,ROPERS Désiré
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,12,F,GERBAL Sabine
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,13,M,BOMPARD Fabrice
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,14,F,DEPOISIER Carine
+48,Saint-Bauzile,Ensemble pour Saint-Bauzile,15,M,MASSON Rémi
+48,Saint-Bonnet-de-Chirac,Le Truc en Commun,1,M,SALLES Nicolas
+48,Saint-Bonnet-de-Chirac,Le Truc en Commun,2,F,HERRLÉ Marie
+48,Saint-Bonnet-de-Chirac,Le Truc en Commun,3,M,GODET Marie-Bernard
+48,Saint-Bonnet-de-Chirac,Le Truc en Commun,4,F,ROY Sophie
+48,Saint-Bonnet-de-Chirac,Le Truc en Commun,5,M,DELMAS Patrick
+48,Saint-Bonnet-de-Chirac,Le Truc en Commun,6,F,PALMIER Laura
+48,Saint-Bonnet-de-Chirac,Le Truc en Commun,7,M,BRETEL Jean-Michel
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,1,M,PLANCHE Nicolas
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,2,F,CELIK Adalet
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,3,M,PARAN Christian
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,4,F,TROCELLIER Isabelle
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,5,M,VALY Thomas
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,6,F,TEISSEDRE Céline
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,7,M,BILLON Florent
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,8,F,ALLANCHE Michelle
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,9,M,PÉDROL Luc
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,10,F,FEUILLET Françoise
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,11,M,ODOUL Alain
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,12,F,LARONZE Rose-Marie
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,13,M,ROBERT Lionel
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,14,F,LASTERNAS Hélène
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,15,M,THOMAS Eric
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,16,F,BETEILLE Magali
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,17,M,HOENNER Olivier
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,18,F,ALAUX Céline
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,19,M,VALY Eric
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,20,F,ODOUL Sandrine
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,21,M,DE BUE Alexandre
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,22,F,DENIS Léa
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,23,M,BERTUIT Hervé
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,24,F,ROCHE Laly
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,25,M,BIVER Mikaël
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,26,F,MEILHAC Gisèle
+48,Saint-Chély-d'Apcher,Avançons unis pour Saint-Chely,27,M,GALVIER Guy
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,1,F,HUGON Christine
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,2,M,MASSEBOEUF Cyril
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,3,F,SAINT-LEGER Maryse
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,4,M,CROZAT Serge
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,5,F,VAROQUIER Mélanie
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,6,M,PAGES Nicolas
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,7,F,CALPERT Laurie
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,8,M,BRIOUDE Jacques
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,9,F,AURIANT Sylvie
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,10,M,CONSTANT Michel
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,11,F,PAULET Sophie
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,12,M,GARCIA SAMMARTIN Florian
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,13,F,DA SILVA Maria
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,14,M,POUGNET Jean-David
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,15,F,DAUDET Michèle
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,16,M,FOURNIER Alexandre
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,17,F,CHAPUS Adèle
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,18,M,VIEILLESCAZES Julien
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,19,F,PORTEFAIX Claudine
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,20,M,TAILLADE Jean-Phillippe
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,21,F,DEBERGH Safia
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,22,M,JOUIN Romain
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,23,F,LACAS Johana
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,24,M,MAGAUD Sébastien
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,25,F,DELASPRE Amélie
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,26,M,BRUNEL Michel
+48,Saint-Chély-d'Apcher,Choisissez Hugon pour batir l'avenir de St Chély d'Apcher,27,F,VIALA Marie
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,1,M,GACHE Christophe
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,2,F,BOULLE Cécile
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,3,M,BUFFIERE Christophe
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,4,F,VIGIER SEYT Marine
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,5,M,BURDIN Jean
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,6,F,MEISSONNIER Delphine
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,7,M,BRUGERON Benoit
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,8,F,BASCLE Sophie
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,9,M,GRAS Joël
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,10,F,MALIGE Monique
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,11,M,REVERSAT Jean-Pierre
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,12,F,DUPONT Stéphanie
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,13,M,PALPACUER Nathaël
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,14,F,ATGER Nancy
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,15,M,KUZAN David
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,16,F,DUPEYRON Anne-Marie
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,17,M,ROUVIERE Nathan
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,18,F,PYAT Virginie
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,19,M,ALAUX Gérard
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,20,F,GASTAL Hélène
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,21,M,CHALMETON Jean
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,22,F,VELAY Patricia
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,23,M,JARRETY Didier
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,24,F,GILG Céline
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,25,M,TARDIEU Gérard
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,26,F,FANGOUSE Elisa
+48,Saint-Chély-d'Apcher,Pour l'Avenir de Saint-Chély,27,M,NURIT Robert
+48,Saint-Denis-en-Margeride,Tous Unis pour Saint-Denis-en-Margeride,1,M,CHARDON Vincent
+48,Saint-Denis-en-Margeride,Tous Unis pour Saint-Denis-en-Margeride,2,F,DOMERGUE Andrée
+48,Saint-Denis-en-Margeride,Tous Unis pour Saint-Denis-en-Margeride,3,M,CORNUT Serge
+48,Saint-Denis-en-Margeride,Tous Unis pour Saint-Denis-en-Margeride,4,F,HUCKERT Isabelle
+48,Saint-Denis-en-Margeride,Tous Unis pour Saint-Denis-en-Margeride,5,M,TREBUCHON Joseph
+48,Saint-Denis-en-Margeride,Tous Unis pour Saint-Denis-en-Margeride,6,F,TICHIT Nadine
+48,Saint-Denis-en-Margeride,Tous Unis pour Saint-Denis-en-Margeride,7,M,PASCAL Frédéric
+48,Saint-Denis-en-Margeride,Tous Unis pour Saint-Denis-en-Margeride,8,F,GOUDET Nicole
+48,Saint-Denis-en-Margeride,Tous Unis pour Saint-Denis-en-Margeride,9,M,PIERRON François
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,1,M,VALDEYRON Patrick
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,2,F,DUBOIS Hélène
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,3,M,ELZIERE Jean-Paul
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,4,F,URRUSTY Cécile
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,5,M,ROQUIER Alexandre
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,6,F,MEYNADIER Angélique
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,7,M,BRAME Michel
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,8,F,DUBROCARD Anne
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,9,M,MARTINO Armand
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,10,F,BELLIZZI Thérèse
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,11,M,CIOCCA Guillaume
+48,Saint-Etienne-Vallée-Française,RESTONS CONCRET POUR SAINT ETIENNE VALLEE FRANCAISE,12,F,SLOSSE Cindy
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,1,M,MALAVAL Benoit
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,2,F,BRAUD Stéphanie
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,3,M,BERTHOMIEU Noël
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,4,F,CHABERT Anne-Marie
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,5,M,DURAND Emmanuel
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,6,F,CHRISTOPHE Marie
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,7,M,FERRIER André
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,8,F,COULOMB Myriam
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,9,M,GALLIERE Alain
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,10,F,FAYET Élodie
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,11,M,MEYRUEIX Michaël
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,12,F,PRÉVOT Anaïs
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,13,M,PRADEILLES Jacques
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,14,F,VAN EENOOGHE Virgine
+48,Saint-Etienne-du-Valdonnez,Construisons ensemble pour l'avenir,15,M,VINCENT Yves
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,1,M,MAYRAND Guy
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,2,F,HUGONI Corinne
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,3,M,BRUNEL Clément
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,4,F,MAYRAND Marion
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,5,M,CAUVY Yann
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,6,F,BONNEFOY Cléa
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,7,M,VERNEREY Yann
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,8,F,GAILLARD Séverine
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,9,M,LIMAGNE Samuel
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,10,F,REYNAUD Morgane
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,11,M,AUJOULAT Jean-Philippe
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,12,F,REBULL Sylvie
+48,Saint-Flour-de-Mercoire,Ensemble pour Saint-Flour-de-Mercoire,13,M,HUGON Brieuc
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,1,M,RICHARD Jean-François
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,2,F,PREJET Dominique
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,3,M,BLANC Alexis
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,4,F,CARPENTIER Lidwine
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,5,M,SABADEL Patrick
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,6,F,RICHARD Evelyne
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,7,M,PREJET Jean-Marie
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,8,F,TREMOUILLERE Catie
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,9,M,CONSTANS Lionel
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,10,F,SABADEL Lauryane
+48,Saint-Flour-de-Mercoire,Un nouvel élan pour St Flour de Mercoire,11,M,TEISSIER Robert
+48,Saint-Frézal-d'Albuges,St FREZAL A VENIR,1,F,ROUX ROCHE Marie Thérèse
+48,Saint-Frézal-d'Albuges,St FREZAL A VENIR,2,M,GERBAL Cédric
+48,Saint-Frézal-d'Albuges,St FREZAL A VENIR,3,F,CHABALIER Delphine
+48,Saint-Frézal-d'Albuges,St FREZAL A VENIR,4,M,MONTY Dominique
+48,Saint-Frézal-d'Albuges,St FREZAL A VENIR,5,F,LAFARGE Blandine
+48,Saint-Gal,VIVRE A SAINT-GAL,1,M,GOAREGUER Jean-Luc
+48,Saint-Gal,VIVRE A SAINT-GAL,2,F,VALLY Chrystel
+48,Saint-Gal,VIVRE A SAINT-GAL,3,M,AMARGER René
+48,Saint-Gal,VIVRE A SAINT-GAL,4,F,BOUQUET Marie
+48,Saint-Gal,VIVRE A SAINT-GAL,5,M,BERTHET Alain
+48,Saint-Gal,VIVRE A SAINT-GAL,6,F,ESPAGNAC Lisa
+48,Saint-Gal,VIVRE A SAINT-GAL,7,M,CHABALIER Jean-Pierre
+48,Saint-Gal,VIVRE A SAINT-GAL,8,F,BEAUFILS Nadine
+48,Saint-Gal,VIVRE A SAINT-GAL,9,M,DIET Stéphane
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,1,M,RAYDON David
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,2,F,HUC Chantal
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,3,M,DES TOUCHES Gilles
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,4,F,O'NEILL Catherine
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,5,M,BERTHEZENE Thierry
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,6,F,ROUSSEL Sabine
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,7,M,BERGONHE Lionel
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,8,F,TABOGA Pristina
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,9,M,LE MAIRE Xavier
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,10,F,GEYNET Michèle
+48,Saint-Germain-de-Calberte,AGIR POUR SAINT GERMAIN AVEC VOUS,11,M,MULA Philippe
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,1,F,KLING Jacqueline
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,2,M,JURQUET Didier
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,3,F,JOUSSET Sandra
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,4,M,GROUSSET Joël
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,5,F,PRIEUR Emily
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,6,M,RECOULY Jacky
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,7,F,SARTRE Vanessa
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,8,M,GELY Germain
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,9,F,LAFONT Patricia
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,10,M,JULHAN Vincent
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,11,F,LACOMBE Stephanie
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,12,M,LAVIELLE Sylvain
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,13,F,DELVOYE Elodie
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,14,M,CORNU Michel
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,15,F,CASTAN Annie
+48,Saint-Germain-du-Teil,Etre Bien à Saint Germain,16,M,VIGIER Christian
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,1,M,GIRAL Philippe
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,2,F,VILLEBRUN Lise
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,3,M,CARREZ Jean-Claude
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,4,F,MALHERBE Suzanne
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,5,M,HUGON Roland
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,6,F,MOLINIER Dominique
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,7,M,GILLET Alexandre
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,8,F,LEHNEBACH Chloé
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,9,M,SEVCIK Régis
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,10,F,GROS Bernadette Marie
+48,Saint-Hilaire-de-Lavit,Démocratie Participative,11,M,DAUDE Florent
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",1,M,TOIRON Jean-Claude
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",2,F,MAS Viviane
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",3,M,FEMINIER Bruno
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",4,F,CHAZALMARTIN Agnès
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",5,M,ESCANDE Pierre
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",6,F,RANC Marie-Laurence
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",7,M,MORIN Jean-Marc
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",8,F,SAINT LEGER Hélène
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",9,M,SEMOFF Roland
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",10,F,BRUNEL Fabienne
+48,Saint-Jean-la-Fouillouse,"Saint-Jean-la-Fouillouse : une Commune Vivante, un Avenir Construit",11,M,TRAZIC Vincent
+48,Saint-Jean-la-Fouillouse,Saint-Jean-la-Fouillouse Ensemble et Durable,1,M,MATHIEU Pierre
+48,Saint-Jean-la-Fouillouse,Saint-Jean-la-Fouillouse Ensemble et Durable,2,F,JAFFUEL Delphine
+48,Saint-Jean-la-Fouillouse,Saint-Jean-la-Fouillouse Ensemble et Durable,3,M,MARCON Jean-Paul
+48,Saint-Jean-la-Fouillouse,Saint-Jean-la-Fouillouse Ensemble et Durable,4,F,TARDIEU Mathilde
+48,Saint-Jean-la-Fouillouse,Saint-Jean-la-Fouillouse Ensemble et Durable,5,M,RANC Lilian
+48,Saint-Jean-la-Fouillouse,Saint-Jean-la-Fouillouse Ensemble et Durable,6,F,REVERSAT Agathe
+48,Saint-Jean-la-Fouillouse,Saint-Jean-la-Fouillouse Ensemble et Durable,7,M,GAYTE Dominique
+48,Saint-Jean-la-Fouillouse,Saint-Jean-la-Fouillouse Ensemble et Durable,8,F,BRAILLON Chrystelle
+48,Saint-Jean-la-Fouillouse,Saint-Jean-la-Fouillouse Ensemble et Durable,9,M,SELLIER Gérard
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,1,M,VINCENT Antoine
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,2,F,GALAND Dominique
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,3,M,BLOIS Jean-Yves
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,4,F,CELLIER Françoise
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,5,M,GAZAIX Mathieu
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,6,F,DANSET Aude
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,7,M,LEYRIS Jean
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,8,F,SEGUIN Cécile
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,9,M,MASBERNARD Jean-Claude
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,10,F,LARGUIER Karine
+48,Saint-Julien-des-Points,UN SOUFFLE NOUVEAU POUR  SAINT JULIEN DES POINTS,11,M,BRUNO Elie
+48,Saint-Juéry,Ensemble pour Saint-Juéry,1,M,GRIMOUD Patrice
+48,Saint-Juéry,Ensemble pour Saint-Juéry,2,F,JOURDAIN Dominique
+48,Saint-Juéry,Ensemble pour Saint-Juéry,3,M,CHAYLA Alexandre
+48,Saint-Juéry,Ensemble pour Saint-Juéry,4,F,FOURNIER Nadia
+48,Saint-Juéry,Ensemble pour Saint-Juéry,5,M,CHAYLA André
+48,Saint-Juéry,Ensemble pour Saint-Juéry,6,F,XAIXO Jacqueline
+48,Saint-Juéry,Ensemble pour Saint-Juéry,7,M,VICH Maurice
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,1,M,REY Pierre
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,2,F,LAURENS Marlène
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,3,M,GRANIER François
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,4,F,PERRAUD Marie-Alexandre
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,5,M,REMIZE Thierry
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,6,F,BRUN Emma
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,7,M,CHAMPAGNE Adrien
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,8,F,SEGUIN Hélène
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,9,M,MOURGUES Vincent
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,10,F,DANIEL Chrystel
+48,Saint-Laurent-de-Muret,Avec Vous pour Saint-Laurent,11,M,CHABANON Fabien
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",1,M,VAUTIER Vincent
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",2,F,GOUAN Aurély
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",3,M,CRUEYZE André
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",4,F,LEMAIRE Stéphanie
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",5,M,SOLIGNAC Patrick
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",6,F,LACAS Séverine
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",7,M,RICHARD Mickaël
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",8,F,CRUEYZE Marlène
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",9,M,BESSIERE Alain
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",10,F,CHANSON Isabelle
+48,Saint-Laurent-de-Muret,"Saint Laurent, volonté COMMUNE !",11,M,NOGARET André
+48,Saint-Laurent-de-Veyrès,On continue pour Saint Laurent,1,M,BRUN Alain
+48,Saint-Laurent-de-Veyrès,On continue pour Saint Laurent,2,F,BASTIDE Marie-Line
+48,Saint-Laurent-de-Veyrès,On continue pour Saint Laurent,3,M,BRUN Patrick
+48,Saint-Laurent-de-Veyrès,On continue pour Saint Laurent,4,F,BARRES Françoise
+48,Saint-Laurent-de-Veyrès,On continue pour Saint Laurent,5,M,BARRES Yoan
+48,Saint-Laurent-de-Veyrès,On continue pour Saint Laurent,6,F,HOSTALIER Marguerite
+48,Saint-Laurent-de-Veyrès,On continue pour Saint Laurent,7,M,CHIROUZE Jean-Louis
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,1,M,ITIER Jean-Paul
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,2,F,ROUSSET Régine
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,3,M,FERRIER Joël
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,4,F,MARCADÉ Nadia
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,5,M,GUBERT Patrick
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,6,F,DUVOT Béatrice
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,7,M,ROUSSET Bernard
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,8,F,PRADAL Éliane
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,9,M,FERRIER Jean-Luc
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,10,F,GINESTIERE Florence
+48,Saint-Léger-de-Peyre,Unissons-Nous Pour Notre Commune,11,M,ALVAREZ Laurent
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,1,M,JAFFUEL Ludovic
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,2,F,PERRIER Valérie
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,3,M,VACHER Jean-Paul
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,4,F,VALADIER Isabelle
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,5,M,MEYRIAL-LAGRANGE Thierry
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,6,F,VALADIER Evelyne
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,7,M,VIDAL Marc
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,8,F,AYRALD Monique
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,9,M,BOULET Dominique
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,10,F,MEYRIAL-LAGRANGE Nathalie
+48,Saint-Léger-du-Malzieu,Agir pour Saint-Léger-du-Malzieu,11,M,BENET Jean-Pierre
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,1,M,COLSON Pierre
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,2,F,GARD Nicole
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,3,M,ATGER Guy
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,4,F,GRAINE Amandine
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,5,M,BARNOYER David
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,6,F,PANTEL Caroline
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,7,M,GARD Patrick
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,8,F,QUESNAY Sophie
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,9,M,NICOLET Luc
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,10,F,RIBAUTE Agnès
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,11,M,PERCEVAULT Fabrice
+48,Saint-Martin-de-Boubaux,LISTE D'UNION POUR LA COMMUNE,12,F,LADRECH Mauve
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,1,M,PLAGNES Pierre
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,2,F,SORIANO Denise
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,3,M,HUGON Jacky
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,4,F,VALENCE Marie Améthyste
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,5,M,DEFRANCE Christian
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,6,F,AGRINIER Amandine
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,7,M,GUIN Jean-Louis
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,8,F,RAUZIER Corinne
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,9,M,ROUSSON Quentin
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,10,F,PASCUTTO Tamara
+48,Saint-Martin-de-Lansuscle,VIVRE ENSEMBLE A SAINT MARTIN DE LANSUSCLE,11,M,BOUTROUE Syvain
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",1,M,BONNET Pierre
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",2,F,BALDRAN Martine
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",3,M,VERDELHAN Christophe
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",4,F,MANIEZ Blandine
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",5,M,ANDRÉ Thierry
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",6,F,KESTELOOT Hélène
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",7,M,LAFARGE Philippe
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",8,F,VIGNE Dolorès
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",9,M,CAUDROIT Pierrick
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",10,F,ISSARTE Aurélie
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",11,M,RIEUMAL Sébastien
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",12,F,BOUQUET Aurélie
+48,Saint-Michel-de-Dèze,"ENSEMBLE, ENGAGES pour SAINT MICHEL",13,M,BRES Joffrey
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,1,M,PASCON Christian
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,2,F,AMBERT Sonia
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,3,M,MOULIN David
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,4,F,CHALIER Isabelle
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,5,M,RAMADIER Jean-Marie
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,6,F,IZING Chloé
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,7,M,COUVE Pascal
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,8,F,LOMBARD Chloé
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,9,M,CHARRIER Robert
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,10,F,AVANTURIER Marie-Josette
+48,Saint-Paul-le-Froid,Défense des intérêts communaux,11,M,BLANC Bernard
+48,Saint-Paul-le-Froid,Le Renouveau,1,M,COSTE Nicolas
+48,Saint-Paul-le-Froid,Le Renouveau,2,F,BONNEFOY Léa
+48,Saint-Paul-le-Froid,Le Renouveau,3,M,SIRVAIN Vincent
+48,Saint-Paul-le-Froid,Le Renouveau,4,F,JALBERT Nicole
+48,Saint-Paul-le-Froid,Le Renouveau,5,M,CARDONA Patrick Gérard
+48,Saint-Paul-le-Froid,Le Renouveau,6,F,MAURAS Jansca Muriel
+48,Saint-Paul-le-Froid,Le Renouveau,7,M,BRUNEL Raphaël
+48,Saint-Paul-le-Froid,Le Renouveau,8,F,BARNIER Marie-Claude
+48,Saint-Paul-le-Froid,Le Renouveau,9,M,RANC Jean-Pierre
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,1,M,CAYREL Jean Claude
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,2,F,FIRMIN Nicole
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,3,M,PIGNOL Jean-Philippe
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,4,F,JAVOUREZ Annick
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,5,M,COMBETTES Olivier
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,6,F,WOLFF Sophie
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,7,M,DELPUECH Vincent
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,8,F,VERLAGUET Dorine
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,9,M,SOLAS-BEAUMONT Michel
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,10,F,POUGET Lydie
+48,Saint-Pierre-de-Nogaret,AGIR ENSEMBLE,11,M,KIRCHER Jean-Pierre
+48,Saint-Pierre-des-Tripiers,CAUSSE ET VALLEES SOLIDAIRES,1,M,ADELY Emmanuel
+48,Saint-Pierre-des-Tripiers,CAUSSE ET VALLEES SOLIDAIRES,2,F,BOURASSEAU Anne-Sophie
+48,Saint-Pierre-des-Tripiers,CAUSSE ET VALLEES SOLIDAIRES,3,M,ARAGON Eric
+48,Saint-Pierre-des-Tripiers,CAUSSE ET VALLEES SOLIDAIRES,4,F,BORRUT Christine
+48,Saint-Pierre-des-Tripiers,CAUSSE ET VALLEES SOLIDAIRES,5,M,DARCHY Samuel
+48,Saint-Pierre-des-Tripiers,CAUSSE ET VALLEES SOLIDAIRES,6,F,DESCAVES Sandrine
+48,Saint-Pierre-des-Tripiers,CAUSSE ET VALLEES SOLIDAIRES,7,M,VERNHET Jean-Philippe
+48,Saint-Pierre-des-Tripiers,CAUSSE ET VALLEES SOLIDAIRES,8,F,MARIE Catherine
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,1,M,ROUQUET Joel
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,2,F,MEISSONNIER Céline
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,3,M,NEMETH Michel
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,4,F,GREZE Marianne
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,5,M,FOSSE Emmanuel
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,6,F,FARGES Laëtitia
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,7,M,ASTRUC Jean Paul
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,8,F,PAGES Martine
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,9,M,SOULIER Gabriel
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,10,F,PARATIAS Sandrine
+48,Saint-Pierre-le-Vieux,Ensemble pour Saint-Pierre-le-Vieux,11,M,BARRANDON Cyril
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,1,M,LAUZE Gilles
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,2,F,DESCHAMPS Roselyne
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,3,M,RAYMOND Dominique
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,4,F,DE CARVALHO Scherley
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,5,M,MALLET Didier
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,6,F,GRIERE Béatrice
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,7,M,LOUCHE Jean-Christophe
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,8,F,GEILLE Marlène
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,9,M,PLUMEJEAU Josselin
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,10,F,RAMPON Julie
+48,Saint-Privat-de-Vallongue,ENSEMBLE POUR SAINT PRIVAT DE VALLONGUE,11,M,MATHIS Pascal
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,1,M,MARCHELIDON Pascal
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,2,F,ROVIRA Karine
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,3,M,MAGNE Didier
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,4,F,BERTET Annie
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,5,M,AMIEL Eric
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,6,F,AUBURTIN Estelle
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,7,M,NAVARRO Fabrice
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,8,F,MOLINES Séverine
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,9,M,DEVAL Philippe
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,10,F,BONNEAU Nathalie
+48,Saint-Privat-de-Vallongue,ST PRIVAT POUR TOUS,11,M,GIBERT Patrick
+48,Saint-Privat-du-Fau,Ensemble pour la commune de St Privat du Fau,1,M,ROZIÈRE Gilles
+48,Saint-Privat-du-Fau,Ensemble pour la commune de St Privat du Fau,2,F,CHEVALIER Christine
+48,Saint-Privat-du-Fau,Ensemble pour la commune de St Privat du Fau,3,M,HEMONET Laurent
+48,Saint-Privat-du-Fau,Ensemble pour la commune de St Privat du Fau,4,F,LAURENT Anne Marie
+48,Saint-Privat-du-Fau,Ensemble pour la commune de St Privat du Fau,5,M,HUGON Serge
+48,Saint-Privat-du-Fau,Ensemble pour la commune de St Privat du Fau,6,F,ROCHER Catherine
+48,Saint-Privat-du-Fau,Ensemble pour la commune de St Privat du Fau,7,M,JOMBART Thibaut
+48,Saint-Privat-du-Fau,Ensemble pour la commune de St Privat du Fau,8,F,ROZIERE Marie Claude
+48,Saint-Privat-du-Fau,Ensemble pour la commune de St Privat du Fau,9,M,TICHIT Eric
+48,Saint-Saturnin,DEFENSE DES INTERETS COMMUNAUX,1,M,CONFORT René
+48,Saint-Saturnin,DEFENSE DES INTERETS COMMUNAUX,2,F,ARNAL Elisabeth
+48,Saint-Saturnin,DEFENSE DES INTERETS COMMUNAUX,3,M,CASTAN Grégory
+48,Saint-Saturnin,DEFENSE DES INTERETS COMMUNAUX,4,F,RAYNAL Danielle
+48,Saint-Saturnin,DEFENSE DES INTERETS COMMUNAUX,5,M,VALAT Jean-Louis
+48,Saint-Saturnin,DEFENSE DES INTERETS COMMUNAUX,6,F,GAVALDA Chantal
+48,Saint-Saturnin,DEFENSE DES INTERETS COMMUNAUX,7,M,CABIRON Julien
+48,Saint-Saturnin,DEFENSE DES INTERETS COMMUNAUX,8,F,CABIRON Corinne
+48,Saint-Saturnin,DEFENSE DES INTERETS COMMUNAUX,9,M,CABIRON Gérard
+48,Saint-Sauveur-de-Ginestoux,Ensemble pour Saint Sauveur de Ginestoux,1,M,BACHELARD Franck
+48,Saint-Sauveur-de-Ginestoux,Ensemble pour Saint Sauveur de Ginestoux,2,F,BARDON CALIGO Martine
+48,Saint-Sauveur-de-Ginestoux,Ensemble pour Saint Sauveur de Ginestoux,3,M,SAINT LEGER Nicolas
+48,Saint-Sauveur-de-Ginestoux,Ensemble pour Saint Sauveur de Ginestoux,4,F,LAMBERT Laetitia
+48,Saint-Sauveur-de-Ginestoux,Ensemble pour Saint Sauveur de Ginestoux,5,M,VIGNE Vivien
+48,Saint-Sauveur-de-Ginestoux,Ensemble pour Saint Sauveur de Ginestoux,6,F,BOURGINE Séverine
+48,Saint-Sauveur-de-Ginestoux,Ensemble pour Saint Sauveur de Ginestoux,7,M,RICHARD Fabien
+48,Sainte-Croix-Vallée-Française,AUDACE,1,M,HANNART Jean
+48,Sainte-Croix-Vallée-Française,AUDACE,2,F,DROUET Marianne
+48,Sainte-Croix-Vallée-Française,AUDACE,3,M,DELORY Vincent
+48,Sainte-Croix-Vallée-Française,AUDACE,4,F,DUPERRIL Emmanuelle
+48,Sainte-Croix-Vallée-Française,AUDACE,5,M,JUST Robin
+48,Sainte-Croix-Vallée-Française,AUDACE,6,F,ESPAGNAC Marie-Laure
+48,Sainte-Croix-Vallée-Française,AUDACE,7,M,PRATLONG Serge
+48,Sainte-Croix-Vallée-Française,AUDACE,8,F,DUDEK Sophie
+48,Sainte-Croix-Vallée-Française,AUDACE,9,M,BRUC Francis
+48,Sainte-Croix-Vallée-Française,NOUVELLE DYNAMIQUE !,1,M,OBRIST Aïdane
+48,Sainte-Croix-Vallée-Française,NOUVELLE DYNAMIQUE !,2,F,ROUX - TOUZAC Clémentine
+48,Sainte-Croix-Vallée-Française,NOUVELLE DYNAMIQUE !,3,M,DAMPERAT Antonin
+48,Sainte-Croix-Vallée-Française,NOUVELLE DYNAMIQUE !,4,F,LAURENT Violette
+48,Sainte-Croix-Vallée-Française,NOUVELLE DYNAMIQUE !,5,M,VIDAL Vincent
+48,Sainte-Croix-Vallée-Française,NOUVELLE DYNAMIQUE !,6,F,MANOA Luen
+48,Sainte-Croix-Vallée-Française,NOUVELLE DYNAMIQUE !,7,M,CHARDIN Raphaêl
+48,Sainte-Croix-Vallée-Française,NOUVELLE DYNAMIQUE !,8,F,BAULÈS Catherine
+48,Sainte-Croix-Vallée-Française,NOUVELLE DYNAMIQUE !,9,M,LABAUME Yorick
+48,Sainte-Croix-Vallée-Française,NOUVELLE DYNAMIQUE !,10,F,NICOLAS ROGER France
+48,Sainte-Eulalie,Tous Unis Pour Sainte-Eulalie,1,M,MEYRAND Christian
+48,Sainte-Eulalie,Tous Unis Pour Sainte-Eulalie,2,F,MASSAT Huguette
+48,Sainte-Eulalie,Tous Unis Pour Sainte-Eulalie,3,M,MEYRAND Frédéric
+48,Sainte-Eulalie,Tous Unis Pour Sainte-Eulalie,4,F,ROBERT Anaïs
+48,Sainte-Eulalie,Tous Unis Pour Sainte-Eulalie,5,M,PAUTRAT Gérard
+48,Sainte-Eulalie,Tous Unis Pour Sainte-Eulalie,6,F,ROBERT Nathalie
+48,Sainte-Eulalie,Tous Unis Pour Sainte-Eulalie,7,M,TICHET Jean-Paul
+48,Sainte-Hélène,Continuons Ensemble,1,M,BONICEL Gérard
+48,Sainte-Hélène,Continuons Ensemble,2,F,GROSSO Natacha
+48,Sainte-Hélène,Continuons Ensemble,3,M,MEJEAN Claude
+48,Sainte-Hélène,Continuons Ensemble,4,F,BOUSQUET Céline
+48,Sainte-Hélène,Continuons Ensemble,5,M,BRAJON Gaston
+48,Sainte-Hélène,Continuons Ensemble,6,F,MEJEAN Françoise
+48,Sainte-Hélène,Continuons Ensemble,7,M,BUISSON Stéphan
+48,Serverette,SERVERETTE A VENIR,1,F,CORNUT Séverine
+48,Serverette,SERVERETTE A VENIR,2,M,BASTIDE Francis
+48,Serverette,SERVERETTE A VENIR,3,F,BAFFIE Aurélie
+48,Serverette,SERVERETTE A VENIR,4,M,CHAUVET Daniel
+48,Serverette,SERVERETTE A VENIR,5,F,BERNARD Marie-Line
+48,Serverette,SERVERETTE A VENIR,6,M,PEYRATOUT Pierre
+48,Serverette,SERVERETTE A VENIR,7,F,FLOURY Anna
+48,Serverette,SERVERETTE A VENIR,8,M,ROUVIERE Jean
+48,Serverette,SERVERETTE A VENIR,9,F,GELY Nadine
+48,Serverette,SERVERETTE A VENIR,10,M,VERNHET Jean-Christophe
+48,Serverette,SERVERETTE A VENIR,11,F,MARTEL Odile
+48,Termes,Ensemble pour Termes,1,M,CHARLEMAGNE Paul
+48,Termes,Ensemble pour Termes,2,F,SABY Odile
+48,Termes,Ensemble pour Termes,3,M,JULHES Christophe
+48,Termes,Ensemble pour Termes,4,F,HIDALGO Lucie
+48,Termes,Ensemble pour Termes,5,M,SCHMIDT Julien
+48,Termes,Ensemble pour Termes,6,F,CHASTANG Béatrice
+48,Termes,Ensemble pour Termes,7,M,MACARY Philippe
+48,Termes,Ensemble pour Termes,8,F,LACOMBE Christine
+48,Termes,Ensemble pour Termes,9,M,ESCANDE Philippe
+48,Termes,TERMES AU COEUR,1,F,JAILLET Laurence
+48,Termes,TERMES AU COEUR,2,M,VIALA André
+48,Termes,TERMES AU COEUR,3,F,CHASSAING Emilie
+48,Termes,TERMES AU COEUR,4,M,VALETTE Denis
+48,Termes,TERMES AU COEUR,5,F,LHERNAULT Christelle
+48,Termes,TERMES AU COEUR,6,M,MAJOREL Cedric
+48,Termes,TERMES AU COEUR,7,F,GRANIER Lydie
+48,Termes,TERMES AU COEUR,8,M,DAUNIS Jérôme
+48,Termes,TERMES AU COEUR,9,F,AUGOUY Dominique
+48,Termes,TERMES AU COEUR,10,M,DAUNIS Claude
+48,Termes,TERMES AU COEUR,11,F,BUFFIER Nadine
+48,Trélans,Trélans Demain,1,M,CABIROU Christian
+48,Trélans,Trélans Demain,2,F,BOUSCARY Elodie
+48,Trélans,Trélans Demain,3,M,COUPIN Nicolas
+48,Trélans,Trélans Demain,4,F,ICHANSON Patricia
+48,Trélans,Trélans Demain,5,M,RODIER Matthieu
+48,Trélans,Trélans Demain,6,F,VERLAGUET Carole
+48,Trélans,Trélans Demain,7,M,VERLAGUET Antoine
+48,Vebron,LA COLLECTIVE DE VEBRON,1,F,JOTTRAND Lulu
+48,Vebron,LA COLLECTIVE DE VEBRON,2,M,BOURGIER Jean-Yves
+48,Vebron,LA COLLECTIVE DE VEBRON,3,F,MARRON Nina
+48,Vebron,LA COLLECTIVE DE VEBRON,4,M,LAMORINIERE Gaëtan
+48,Vebron,LA COLLECTIVE DE VEBRON,5,F,DELRIEU Charlotte
+48,Vebron,LA COLLECTIVE DE VEBRON,6,M,ALONSO Damien
+48,Vebron,LA COLLECTIVE DE VEBRON,7,F,HEMARD VINCENT Chantal
+48,Vebron,LA COLLECTIVE DE VEBRON,8,M,LAPERROUSAZ Laurent
+48,Vebron,LA COLLECTIVE DE VEBRON,9,F,FRAISSE Juliette
+48,Vebron,LA COLLECTIVE DE VEBRON,10,M,CIR Guillaume
+48,Vebron,LA COLLECTIVE DE VEBRON,11,F,BARTHELEMY Aline
+48,Vebron,LA COLLECTIVE DE VEBRON,12,M,VEYRON Paul
+48,Vebron,LA COLLECTIVE DE VEBRON,13,F,LEROSIER Elisabeth
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",1,M,ARGILIER Alain
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",2,F,DOUTRES Christine
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",3,M,AURES Jean-Marc
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",4,F,ROUSSET Elsy
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",5,M,MAURIN Loïc
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",6,F,TEISSIER Nicole
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",7,M,PETITJEAN Daniel
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",8,F,QUET Mélody
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",9,M,MORATI Pierre
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",10,F,GIBERT Dominique
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",11,M,STAGLIANO Bruno
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",12,F,TARDRES Françoise
+48,Vebron,"Pour Vébron,ses villages et ses hameaux, avec bon sens, coeur et passion, AGISSONS !!",13,M,DUCASSE Laurent
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",1,M,DAUTRY Pierre-Emmanuel
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",2,F,THISSE Émilie
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",3,M,PELLECUER Hervé
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",4,F,SAÏZ Muriel
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",5,M,MATHIEU Daniel
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",6,F,MATHIEU Céline
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",7,M,VERDIER César
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",8,F,COUDERT Pierrette
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",9,M,XIMENES Cyril
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",10,F,GEFFROY Blandine
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",11,M,THISSE Julien
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",12,F,GEOFFROY Isabelle
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",13,M,DEVOISE Romain
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",14,F,NUNGE Véronique
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",15,M,ALISE Bastien
+48,Ventalon en Cévennes,"VENTALON : PRESERVER, CONSTRUIRE",16,F,COMBERNOUS Catherine
+48,Vialas,ENGAGE-E-S POUR VIALAS,1,F,CHAÏT Fadila
+48,Vialas,ENGAGE-E-S POUR VIALAS,2,M,BARBERIO Daniel
+48,Vialas,ENGAGE-E-S POUR VIALAS,3,F,DAUDE Sèverine
+48,Vialas,ENGAGE-E-S POUR VIALAS,4,M,BROUTTET Valentin
+48,Vialas,ENGAGE-E-S POUR VIALAS,5,F,HOLSTEIN Véronique
+48,Vialas,ENGAGE-E-S POUR VIALAS,6,M,CARRERE Vincent
+48,Vialas,ENGAGE-E-S POUR VIALAS,7,F,LACOMBE Aurore
+48,Vialas,ENGAGE-E-S POUR VIALAS,8,M,DAGRON Bruno
+48,Vialas,ENGAGE-E-S POUR VIALAS,9,F,RABIAU Bernadette
+48,Vialas,ENGAGE-E-S POUR VIALAS,10,M,QUINSAC François
+48,Vialas,ENGAGE-E-S POUR VIALAS,11,F,VALLADIER Agnès
+48,Vialas,ENGAGE-E-S POUR VIALAS,12,M,TEDESCO Louis
+48,Vialas,ENGAGE-E-S POUR VIALAS,13,F,PAGES Karine
+48,Villefort,ENSEMBLE POUR REUSSIR,1,M,BIÉ Bruno
+48,Villefort,ENSEMBLE POUR REUSSIR,2,F,JEAN-LOUIS Nathalie
+48,Villefort,ENSEMBLE POUR REUSSIR,3,M,VIELZEUF Frédéric
+48,Villefort,ENSEMBLE POUR REUSSIR,4,F,CAILLON Céline
+48,Villefort,ENSEMBLE POUR REUSSIR,5,M,DOLADILLE Denis
+48,Villefort,ENSEMBLE POUR REUSSIR,6,F,FRAISSE Cécile
+48,Villefort,ENSEMBLE POUR REUSSIR,7,M,MAURIN Eric
+48,Villefort,ENSEMBLE POUR REUSSIR,8,F,RANNOU Malory
+48,Villefort,ENSEMBLE POUR REUSSIR,9,M,BROQUERIE Francis
+48,Villefort,ENSEMBLE POUR REUSSIR,10,F,GARCIA Josefa
+48,Villefort,ENSEMBLE POUR REUSSIR,11,M,BADOU Hervé
+48,Villefort,ENSEMBLE POUR REUSSIR,12,F,ATGER Valérie
+48,Villefort,ENSEMBLE POUR REUSSIR,13,M,SOLEILHAC Éric
+48,Villefort,ENSEMBLE POUR REUSSIR,14,F,ALLAYS Claire
+48,Villefort,ENSEMBLE POUR REUSSIR,15,M,LIOURE André
+48,Villefort,ENSEMBLE POUR REUSSIR,16,F,MALAVIEILLE Véronique
+48,Villefort,ENSEMBLE POUR REUSSIR,17,M,MOREL Jean-Philippe
+48,Villefort,Elan cevenol Villefort,1,M,FRAISSE Jean-Marie
+48,Villefort,Elan cevenol Villefort,2,F,HOUCHARD Vanylle
+48,Villefort,Elan cevenol Villefort,3,M,BORANGA Bruno
+48,Villefort,Elan cevenol Villefort,4,F,JEAN Odile
+48,Villefort,Elan cevenol Villefort,5,M,CHAMBOREDON Antoine
+48,Villefort,Elan cevenol Villefort,6,F,FOLCHER Morgane
+48,Villefort,Elan cevenol Villefort,7,M,GARREAU Roger
+48,Villefort,Elan cevenol Villefort,8,F,LAFOSSE Cécile
+48,Villefort,Elan cevenol Villefort,9,M,MADERA François
+48,Villefort,Elan cevenol Villefort,10,F,GUILLOT Patricia
+48,Villefort,Elan cevenol Villefort,11,M,DURVIE Thomas
+48,Villefort,Elan cevenol Villefort,12,F,ARMAND GEBELIN Ingrid
+48,Villefort,Elan cevenol Villefort,13,M,MONTANIER William
+48,Villefort,Elan cevenol Villefort,14,F,VIDAL Laure
+48,Villefort,Elan cevenol Villefort,15,M,DEROCLES Anthony

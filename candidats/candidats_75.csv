@@ -1,0 +1,1470 @@
+code_departement,ville,libelle_liste,rang,genre,nom_prenom
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,1,F,DATI Rachida
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,2,M,MAILLARD Sylvain
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,3,F,GATEL Maud
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,4,M,SCHAHL Eric
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,5,F,EVREN Agnès
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,6,M,BOULARD Geoffroy
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,7,F,BÜRKLI Delphine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,8,M,HADDAD Benjamin
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,9,F,GARNIER Nelly
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,10,M,LECOQ Jean-Pierre
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,11,F,MONTANDON Valérie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,12,M,GOUJON Philippe
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,13,F,DUMAS Catherine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,14,M,ALPHAND David
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,15,F,DAUVERGNE Emmanuelle
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,16,M,BATY Pierre
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,17,F,CARRERE-GEE Marie-Claire
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,18,M,CANAL Grégory
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,19,F,LECOUTURIER Béatrice
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,20,M,REDLER Jérémy
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,21,F,DE RAGUENEL Inès
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,22,M,DIDIER François-Marie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,23,F,BIRABEN Anne
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,24,M,OLIVIER Jean-Baptiste
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,25,F,LECUYER Catherine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,26,M,VERON Aurélien
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,27,F,DE COMPREIGNAC Séverine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,28,M,STERKERS Jérôme
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,29,F,SERINO Valentine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,30,M,LISCIA Pierre
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,31,F,DE VOS Barbara
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,32,M,GUERRIER Thierry
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,33,F,KUSTER Brigitte
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,34,M,CASANOVA Pierre
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,35,F,CREUZE Eléonore
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,36,M,BEAUQUIER Antoine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,37,F,BRAHIMI Samia
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,38,M,ASTIE Karl
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,39,F,TYSSANDIER Anne-Claire
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,40,M,PASQUIER Jules
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,41,F,BALDINI Véronique
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,42,M,PECHENARD Frederic
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,43,F,BETTINELLI Guendalina
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,44,M,HELARD Eric
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,45,F,MISSOFFE Joséphine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,46,M,GOVCIYAN Alexis
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,47,F,NICOL Alexandra
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,48,M,GOZI Sandro
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,49,F,OLLIE Martine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,50,M,BERNARD René-François
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,51,F,PIRILLO Aurélie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,52,M,BARBET-MASSIN Vincent
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,53,F,DEPREZ Caroline
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,54,M,NEMECEK Carel
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,55,F,ATLAN-TAPIERO Corinne
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,56,M,BERTHAULT Jean-Didier
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,57,F,BOUGERET Alix
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,58,M,GUAZZINI Max
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,59,F,RUISSEAU Isabelle
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,60,M,EL-KHATMI Amine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,61,F,GREE Bérengère
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,62,M,MARGAIN Franck
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,63,F,NAHMIAS Valérie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,64,M,TAPHOUREAU Jean-Marie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,65,F,HAMELLE Hélène
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,66,M,MARTIN Jean-Christophe
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,67,F,SAILLIET Laurence
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,68,M,LUCE Jean-Philippe
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,69,F,BERTHOMIER Iris
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,70,M,LORIAU Jérôme
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,71,F,BADAT-KARAM Samia
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,72,M,DIAZ ROMERO Rodrigo
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,73,F,RIPOLL Marie-Laure
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,74,M,HOURIEZ Jean-Baptiste
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,75,F,LAMBERT Chantal
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,76,M,MAJNONI D'INTIGNANO Geoffroy
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,77,F,LEDDET Ingrid
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,78,M,VOISARD Guillaume
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,79,F,GAUDE Josiane
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,80,M,BOHBOT Jack-Yves
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,81,F,BESSIS Aline
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,82,M,LALOUX Marc
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,83,F,MICHEL Angélique
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,84,M,VISMARA Romain
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,85,F,NADJI Soureya
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,86,M,RIBBE Claude
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,87,F,GUILLEMAIN Adeline
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,88,M,HOYMANS Amaury
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,89,F,MULLER Blandine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,90,M,PENG Chang-Hua
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,91,F,ANSEL Maxence
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,92,M,POISSON Christophe
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,93,F,HAMMOND Sabine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,94,M,MARGOLIN François
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,95,F,FREY Marie-Victoria
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,96,M,GUEVEL Ronan
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,97,F,FERRON-GAUTIE Anna
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,98,M,SHOUKRY Habib
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,99,F,LEVY Valérie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,100,M,MARIAUD Charles
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,101,F,JACQUEMONT Hélène
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,102,M,BRUNETTI Florent
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,103,F,DEHRY Sarah
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,104,M,HAMI Ouahmed
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,105,F,PERRIN Marie-Claude
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,106,M,CURIEL Jean-Jacques
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,107,F,GADJENDRA Aurélie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,108,M,ROUET Julien
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,109,F,MOUYSSET Aurore
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,110,M,GETTON Frédéric
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,111,F,CLERGEAU Alice
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,112,M,EHLERS Eric
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,113,F,GIUDICELLI Anne
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,114,M,GUNDERMANN Louis
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,115,F,OUSDIDENE Katia
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,116,M,VIGIER Raphaël
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,117,F,NKANA Gilberte-Emmanuelle
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,118,M,RACAPE Laurent
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,119,F,PEDANOU Nastasia
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,120,M,TARATTE Fabrice
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,121,F,AVENET Clotilde
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,122,M,LEBLANC Sylvain
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,123,F,ROCHER Charlotte
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,124,M,LUINAUD Mathieu
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,125,F,GATTEGNO Oznur
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,126,M,HENRIET Sébastien
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,127,F,DAO Sylvie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,128,M,BLANC Térence
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,129,F,GELEBART CAITUCOLI Lucile
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,130,M,BEAUVAIS Hugo
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,131,F,GIOVANNUCCI Valérie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,132,M,BERNIER-CREPIN Marc
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,133,F,TAGGAE Mounya
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,134,M,DE LIVONNIERE Scévole
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,135,F,DE SOOS Marguerite
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,136,M,GACHE Jean-Michel
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,137,F,CHARDAVOINE Marie-Lourdie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,138,M,DARTEIL Franck
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,139,F,VOIZOT Sandrine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,140,M,GAILIS Jean-Marc
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,141,F,ESSAFI Sofia
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,142,M,SIGWALT Antoine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,143,F,MARCIN Françoise
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,144,M,JOUANNIC Jean-Marie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,145,F,MARTINEZ Jade
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,146,M,JUMEL Antoine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,147,F,SALMOCHI Catherine-Christine
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,148,M,HALL Adrien
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,149,F,PELOSSE Claire-Amélie
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,150,M,BROUCHIQUAN Bruno
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,151,F,RENAUD Victoria
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,152,M,BEAUMONT Aymeric
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,153,F,OUCHENIR Noura
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,154,M,LEVY Alexandre
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,155,F,GUERY Elisabeth
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,156,M,VIAL Franck
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,157,F,JOURDAN Marie-Caroline
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,158,M,D'ORNANO Pierre
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,159,F,LEBOYER Olivia
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,160,M,AULAGNIER Adrien
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,161,F,THIRIEZ-ARJANGI Azadeh
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,162,M,GACHET Gérard
+75,Paris,CHANGER PARIS AVEC RACHIDA DATI,163,F,ROGER Marie-Josée
+75,Paris,LE NOUVEAU PARIS POPULAIRE,1,F,CHIKIROU Sophia
+75,Paris,LE NOUVEAU PARIS POPULAIRE,2,M,MEUNIER Émile
+75,Paris,LE NOUVEAU PARIS POPULAIRE,3,F,VERZELETTI Céline
+75,Paris,LE NOUVEAU PARIS POPULAIRE,4,M,TIMSIT Roland
+75,Paris,LE NOUVEAU PARIS POPULAIRE,5,F,CHAOUCHE Sonia
+75,Paris,LE NOUVEAU PARIS POPULAIRE,6,M,ARENAS Rodrigo
+75,Paris,LE NOUVEAU PARIS POPULAIRE,7,F,DE LA ROCHEFOUCAULD Sophie
+75,Paris,LE NOUVEAU PARIS POPULAIRE,8,M,PRUDHOMME Christophe
+75,Paris,LE NOUVEAU PARIS POPULAIRE,9,F,NOURI Sabrina
+75,Paris,LE NOUVEAU PARIS POPULAIRE,10,M,MARZOUGUI Anis
+75,Paris,LE NOUVEAU PARIS POPULAIRE,11,F,MECARY Caroline
+75,Paris,LE NOUVEAU PARIS POPULAIRE,12,M,GLEIZES Jérôme
+75,Paris,LE NOUVEAU PARIS POPULAIRE,13,F,BEAUVALET Marion
+75,Paris,LE NOUVEAU PARIS POPULAIRE,14,M,PARISOT Bastien
+75,Paris,LE NOUVEAU PARIS POPULAIRE,15,F,MARENA Fanta
+75,Paris,LE NOUVEAU PARIS POPULAIRE,16,M,SADOUN Mohamed
+75,Paris,LE NOUVEAU PARIS POPULAIRE,17,F,MAYER Romane
+75,Paris,LE NOUVEAU PARIS POPULAIRE,18,M,MASLARD Oscar
+75,Paris,LE NOUVEAU PARIS POPULAIRE,19,F,LAVILLE Nathalie
+75,Paris,LE NOUVEAU PARIS POPULAIRE,20,M,AUBERT BRIELLE Mathis
+75,Paris,LE NOUVEAU PARIS POPULAIRE,21,F,PARMANTIER Claire
+75,Paris,LE NOUVEAU PARIS POPULAIRE,22,M,SBRIGLIO Benjamin
+75,Paris,LE NOUVEAU PARIS POPULAIRE,23,F,LEGRAIN Sarah
+75,Paris,LE NOUVEAU PARIS POPULAIRE,24,M,BOUZOL-BROITMAN Boris
+75,Paris,LE NOUVEAU PARIS POPULAIRE,25,F,KHALLOUK Manal
+75,Paris,LE NOUVEAU PARIS POPULAIRE,26,M,HETZEL Ludovic
+75,Paris,LE NOUVEAU PARIS POPULAIRE,27,F,ALBERT Mazarine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,28,M,PANIZZI Cédric
+75,Paris,LE NOUVEAU PARIS POPULAIRE,29,F,DELANNÉE Elsa
+75,Paris,LE NOUVEAU PARIS POPULAIRE,30,M,COULIBALY Wagui
+75,Paris,LE NOUVEAU PARIS POPULAIRE,31,F,FAUTRA Embla
+75,Paris,LE NOUVEAU PARIS POPULAIRE,32,M,MEDJANI Amrane
+75,Paris,LE NOUVEAU PARIS POPULAIRE,33,F,BOURET Coline
+75,Paris,LE NOUVEAU PARIS POPULAIRE,34,M,EVANS Clément
+75,Paris,LE NOUVEAU PARIS POPULAIRE,35,F,FAUGERON Corine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,36,M,ARCIS Raphaël
+75,Paris,LE NOUVEAU PARIS POPULAIRE,37,F,HERITIER Louise
+75,Paris,LE NOUVEAU PARIS POPULAIRE,38,M,GACCIO Bruno
+75,Paris,LE NOUVEAU PARIS POPULAIRE,39,F,LUQUET Manon
+75,Paris,LE NOUVEAU PARIS POPULAIRE,40,M,ÖNGÜN Emre
+75,Paris,LE NOUVEAU PARIS POPULAIRE,41,F,THOMAS Perrine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,42,M,POIGNET Guillaume
+75,Paris,LE NOUVEAU PARIS POPULAIRE,43,F,MILAGRES Fanny
+75,Paris,LE NOUVEAU PARIS POPULAIRE,44,M,MAC DOUGALL Clarence
+75,Paris,LE NOUVEAU PARIS POPULAIRE,45,F,JULLIEN Una
+75,Paris,LE NOUVEAU PARIS POPULAIRE,46,M,GUILLON Arthur
+75,Paris,LE NOUVEAU PARIS POPULAIRE,47,F,SISSOKO Oumou
+75,Paris,LE NOUVEAU PARIS POPULAIRE,48,M,SIRIEIX Eloi
+75,Paris,LE NOUVEAU PARIS POPULAIRE,49,F,PÉBAY Zoé
+75,Paris,LE NOUVEAU PARIS POPULAIRE,50,M,ISSAHNANE Djamal
+75,Paris,LE NOUVEAU PARIS POPULAIRE,51,F,PITORRE Léa
+75,Paris,LE NOUVEAU PARIS POPULAIRE,52,M,QNOUCH Raphaël
+75,Paris,LE NOUVEAU PARIS POPULAIRE,53,F,BECHOUEL Sirine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,54,M,LOUBET Loup
+75,Paris,LE NOUVEAU PARIS POPULAIRE,55,F,SINUVONG Aude
+75,Paris,LE NOUVEAU PARIS POPULAIRE,56,M,YOUSSOUF Toihir
+75,Paris,LE NOUVEAU PARIS POPULAIRE,57,F,MEUNIER Maïa
+75,Paris,LE NOUVEAU PARIS POPULAIRE,58,M,EL HAJJAM Sami
+75,Paris,LE NOUVEAU PARIS POPULAIRE,59,F,DIASSIGUI Aissatou
+75,Paris,LE NOUVEAU PARIS POPULAIRE,60,M,BITAT Merwan
+75,Paris,LE NOUVEAU PARIS POPULAIRE,61,F,FAURÉ Luce
+75,Paris,LE NOUVEAU PARIS POPULAIRE,62,M,AH-SON Lukas
+75,Paris,LE NOUVEAU PARIS POPULAIRE,63,F,VIVERGE Marylène
+75,Paris,LE NOUVEAU PARIS POPULAIRE,64,M,PINTO Anthony
+75,Paris,LE NOUVEAU PARIS POPULAIRE,65,F,BENABDELMOUMENE Saliha
+75,Paris,LE NOUVEAU PARIS POPULAIRE,66,M,ABOU EID Rami
+75,Paris,LE NOUVEAU PARIS POPULAIRE,67,F,VAUCELLE Héloïse
+75,Paris,LE NOUVEAU PARIS POPULAIRE,68,M,LECOFFRE Etienne
+75,Paris,LE NOUVEAU PARIS POPULAIRE,69,F,KHAMIS Taous
+75,Paris,LE NOUVEAU PARIS POPULAIRE,70,M,JACQUEMAIN Foucault
+75,Paris,LE NOUVEAU PARIS POPULAIRE,71,F,DIABLEY Christine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,72,M,ASTIER Cyprien
+75,Paris,LE NOUVEAU PARIS POPULAIRE,73,F,KAMIONKA Julie
+75,Paris,LE NOUVEAU PARIS POPULAIRE,74,M,JELASSI Omar
+75,Paris,LE NOUVEAU PARIS POPULAIRE,75,F,DUNIS Nadine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,76,M,BLIN Carl
+75,Paris,LE NOUVEAU PARIS POPULAIRE,77,F,MANE Khady
+75,Paris,LE NOUVEAU PARIS POPULAIRE,78,M,BOUNÉ Aliou
+75,Paris,LE NOUVEAU PARIS POPULAIRE,79,F,ZUCCON Marina
+75,Paris,LE NOUVEAU PARIS POPULAIRE,80,M,LÉVY Mathieu
+75,Paris,LE NOUVEAU PARIS POPULAIRE,81,F,DAGUERRE Rita
+75,Paris,LE NOUVEAU PARIS POPULAIRE,82,M,OUESLATI Maxime
+75,Paris,LE NOUVEAU PARIS POPULAIRE,83,F,TANDY Margaux
+75,Paris,LE NOUVEAU PARIS POPULAIRE,84,M,DE JOUVANCOURT Christophe
+75,Paris,LE NOUVEAU PARIS POPULAIRE,85,F,GARCIA Catherine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,86,M,MERLINI Raphaël
+75,Paris,LE NOUVEAU PARIS POPULAIRE,87,F,KHALAF Nayla
+75,Paris,LE NOUVEAU PARIS POPULAIRE,88,M,NAUTHONNIER Romain
+75,Paris,LE NOUVEAU PARIS POPULAIRE,89,F,MADI TABIBOU Rikinaze
+75,Paris,LE NOUVEAU PARIS POPULAIRE,90,M,TREVISAN Julien
+75,Paris,LE NOUVEAU PARIS POPULAIRE,91,F,DELHOMMEAU Camille
+75,Paris,LE NOUVEAU PARIS POPULAIRE,92,M,GAVROIS Benjamin
+75,Paris,LE NOUVEAU PARIS POPULAIRE,93,F,NOURY Camille
+75,Paris,LE NOUVEAU PARIS POPULAIRE,94,M,BEWA Léo
+75,Paris,LE NOUVEAU PARIS POPULAIRE,95,F,BAILLY Anne
+75,Paris,LE NOUVEAU PARIS POPULAIRE,96,M,BRIAND Nicolas
+75,Paris,LE NOUVEAU PARIS POPULAIRE,97,F,ZAULI Barbara
+75,Paris,LE NOUVEAU PARIS POPULAIRE,98,M,PORTOLA Diego
+75,Paris,LE NOUVEAU PARIS POPULAIRE,99,F,COCHAIN Catherine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,100,M,MONGKHOY Michel
+75,Paris,LE NOUVEAU PARIS POPULAIRE,101,F,RAMBAUD Constance
+75,Paris,LE NOUVEAU PARIS POPULAIRE,102,M,TASSE TAGNE Myrian
+75,Paris,LE NOUVEAU PARIS POPULAIRE,103,F,EKOLLO NKOTH BISSECK Jacqueline
+75,Paris,LE NOUVEAU PARIS POPULAIRE,104,M,RATEAU Mathieu
+75,Paris,LE NOUVEAU PARIS POPULAIRE,105,F,CHAACHOUA Amanda
+75,Paris,LE NOUVEAU PARIS POPULAIRE,106,M,GUERNI Théo
+75,Paris,LE NOUVEAU PARIS POPULAIRE,107,F,GUÉVILLE Estelle
+75,Paris,LE NOUVEAU PARIS POPULAIRE,108,M,EVENOT Pierre
+75,Paris,LE NOUVEAU PARIS POPULAIRE,109,F,ARGIMON Angèle
+75,Paris,LE NOUVEAU PARIS POPULAIRE,110,M,CHABIRA Boualem
+75,Paris,LE NOUVEAU PARIS POPULAIRE,111,F,STEFFAN Fiona
+75,Paris,LE NOUVEAU PARIS POPULAIRE,112,M,RODET Stéphane
+75,Paris,LE NOUVEAU PARIS POPULAIRE,113,F,BOUYSSE Marie
+75,Paris,LE NOUVEAU PARIS POPULAIRE,114,M,KASAMALLY Ali
+75,Paris,LE NOUVEAU PARIS POPULAIRE,115,F,MANZIO Silvia
+75,Paris,LE NOUVEAU PARIS POPULAIRE,116,M,LANHER Antoine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,117,F,KAMGUEU Jennifer
+75,Paris,LE NOUVEAU PARIS POPULAIRE,118,M,QUÉRÉ Thibault
+75,Paris,LE NOUVEAU PARIS POPULAIRE,119,F,MENAD Farah
+75,Paris,LE NOUVEAU PARIS POPULAIRE,120,M,YOSSI Mamadou
+75,Paris,LE NOUVEAU PARIS POPULAIRE,121,F,BRÖHL Sabine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,122,M,HUMBERT-BASSET Grégoire
+75,Paris,LE NOUVEAU PARIS POPULAIRE,123,F,GARGADENNEC Emeline
+75,Paris,LE NOUVEAU PARIS POPULAIRE,124,M,CORVI Gianni
+75,Paris,LE NOUVEAU PARIS POPULAIRE,125,F,DELALONDRE Clarisse
+75,Paris,LE NOUVEAU PARIS POPULAIRE,126,M,DURIS Louis
+75,Paris,LE NOUVEAU PARIS POPULAIRE,127,F,SCHMITT Christine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,128,M,GIRAUD Jean
+75,Paris,LE NOUVEAU PARIS POPULAIRE,129,F,MEYNAUD Hélène Yvonne
+75,Paris,LE NOUVEAU PARIS POPULAIRE,130,M,PUMO Elton
+75,Paris,LE NOUVEAU PARIS POPULAIRE,131,F,FLOCH Marie Laurence
+75,Paris,LE NOUVEAU PARIS POPULAIRE,132,M,VACHTER Eol
+75,Paris,LE NOUVEAU PARIS POPULAIRE,133,F,ROCHE Angelina
+75,Paris,LE NOUVEAU PARIS POPULAIRE,134,M,TALLEUX Jean-Baptiste
+75,Paris,LE NOUVEAU PARIS POPULAIRE,135,F,BARTHE Anaïs
+75,Paris,LE NOUVEAU PARIS POPULAIRE,136,M,LAHJOUJI Issam
+75,Paris,LE NOUVEAU PARIS POPULAIRE,137,F,MALLEE Melissandre
+75,Paris,LE NOUVEAU PARIS POPULAIRE,138,M,SEBBAN Serge
+75,Paris,LE NOUVEAU PARIS POPULAIRE,139,F,LAMESI Agnès
+75,Paris,LE NOUVEAU PARIS POPULAIRE,140,M,ROTA Hugo
+75,Paris,LE NOUVEAU PARIS POPULAIRE,141,F,DUCASTAING Gaëlle
+75,Paris,LE NOUVEAU PARIS POPULAIRE,142,M,BOUTTE  DU JONCHAY Foucauld
+75,Paris,LE NOUVEAU PARIS POPULAIRE,143,F,VOTIER Virginie
+75,Paris,LE NOUVEAU PARIS POPULAIRE,144,M,MEZRIGUI Montassar
+75,Paris,LE NOUVEAU PARIS POPULAIRE,145,F,HADI Aichetou
+75,Paris,LE NOUVEAU PARIS POPULAIRE,146,M,ZAKI Yanis
+75,Paris,LE NOUVEAU PARIS POPULAIRE,147,F,SAMUEL Malaïka
+75,Paris,LE NOUVEAU PARIS POPULAIRE,148,M,CZTERNASTY Nicolas
+75,Paris,LE NOUVEAU PARIS POPULAIRE,149,F,DUVAL Sophie
+75,Paris,LE NOUVEAU PARIS POPULAIRE,150,M,DEBROISE Colin
+75,Paris,LE NOUVEAU PARIS POPULAIRE,151,F,MORETTI Marie-France
+75,Paris,LE NOUVEAU PARIS POPULAIRE,152,M,MARCARINI Mathieu
+75,Paris,LE NOUVEAU PARIS POPULAIRE,153,F,LE Caroline
+75,Paris,LE NOUVEAU PARIS POPULAIRE,154,M,ZERROUK Messaoud
+75,Paris,LE NOUVEAU PARIS POPULAIRE,155,F,KERNER Hélène
+75,Paris,LE NOUVEAU PARIS POPULAIRE,156,M,BOUGUEROUCHE Djaffar
+75,Paris,LE NOUVEAU PARIS POPULAIRE,157,F,NAYMAN Laurence
+75,Paris,LE NOUVEAU PARIS POPULAIRE,158,M,KOLLI Sofiane
+75,Paris,LE NOUVEAU PARIS POPULAIRE,159,F,GILLOT Pascale
+75,Paris,LE NOUVEAU PARIS POPULAIRE,160,M,LACOSTE Thibault
+75,Paris,LE NOUVEAU PARIS POPULAIRE,161,F,BILLARD Martine
+75,Paris,LE NOUVEAU PARIS POPULAIRE,162,M,KOUVÉLAKIS Stathis
+75,Paris,LE NOUVEAU PARIS POPULAIRE,163,F,CHAIBI Leila
+75,Paris,LE NOUVEAU PARIS POPULAIRE,164,M,SCHIAPPA Jean-Marc
+75,Paris,LE NOUVEAU PARIS POPULAIRE,165,F,AUBRY Manon
+75,Paris,Les coupes budgétaires à Paris ça suffit !,1,M,PIEROT-GUIMBAUD Mahel
+75,Paris,Les coupes budgétaires à Paris ça suffit !,2,F,ADOUE Camille
+75,Paris,Les coupes budgétaires à Paris ça suffit !,3,M,BONHOMME Loïc
+75,Paris,Les coupes budgétaires à Paris ça suffit !,4,F,SURMONT Pauline
+75,Paris,Les coupes budgétaires à Paris ça suffit !,5,M,CAUDAL Loeiz
+75,Paris,Les coupes budgétaires à Paris ça suffit !,6,F,DUPOUY Christel
+75,Paris,Les coupes budgétaires à Paris ça suffit !,7,M,MOILIM ABDOU Djamal
+75,Paris,Les coupes budgétaires à Paris ça suffit !,8,F,DROILLARD-LEPETIT Soraya
+75,Paris,Les coupes budgétaires à Paris ça suffit !,9,M,HOURDRY Philippe
+75,Paris,Les coupes budgétaires à Paris ça suffit !,10,F,PACHTER Sophie
+75,Paris,Les coupes budgétaires à Paris ça suffit !,11,M,VAUTIER Vincent
+75,Paris,Les coupes budgétaires à Paris ça suffit !,12,F,HADDADI Saloua
+75,Paris,Les coupes budgétaires à Paris ça suffit !,13,M,RENÉ GABRIEL Yan
+75,Paris,Les coupes budgétaires à Paris ça suffit !,14,F,DIAWARA Célestine
+75,Paris,Les coupes budgétaires à Paris ça suffit !,15,M,HETZEL Charles
+75,Paris,Les coupes budgétaires à Paris ça suffit !,16,F,MISTOUFLET Odile
+75,Paris,Les coupes budgétaires à Paris ça suffit !,17,M,GETAS Honoré
+75,Paris,Les coupes budgétaires à Paris ça suffit !,18,F,ACHILLE Micheline
+75,Paris,Les coupes budgétaires à Paris ça suffit !,19,M,MARTHE Nicolas
+75,Paris,Les coupes budgétaires à Paris ça suffit !,20,F,DUEZ Elisabeth
+75,Paris,Les coupes budgétaires à Paris ça suffit !,21,M,DAYMARD Jean-Pierre
+75,Paris,Les coupes budgétaires à Paris ça suffit !,22,F,FRANTZ Evelyne
+75,Paris,Les coupes budgétaires à Paris ça suffit !,23,M,MALISA Franck
+75,Paris,Les coupes budgétaires à Paris ça suffit !,24,F,SURMONT Sylvie
+75,Paris,Les coupes budgétaires à Paris ça suffit !,25,M,GRÉGOIRE Sébastien
+75,Paris,Les coupes budgétaires à Paris ça suffit !,26,F,KESSELMAN Donna
+75,Paris,Les coupes budgétaires à Paris ça suffit !,27,M,PRADAL Louis-Gabriel
+75,Paris,Les coupes budgétaires à Paris ça suffit !,28,F,MAZARI Malika
+75,Paris,Les coupes budgétaires à Paris ça suffit !,29,M,RODRIGUES Fabien
+75,Paris,Les coupes budgétaires à Paris ça suffit !,30,F,KIKITA Martine
+75,Paris,Les coupes budgétaires à Paris ça suffit !,31,M,RAMAËL Luc
+75,Paris,Les coupes budgétaires à Paris ça suffit !,32,F,TANGUY Hélène
+75,Paris,Les coupes budgétaires à Paris ça suffit !,33,M,DUPUY Charles
+75,Paris,Les coupes budgétaires à Paris ça suffit !,34,F,BEN BELAID Taous
+75,Paris,Les coupes budgétaires à Paris ça suffit !,35,M,FRANTZ Adrien
+75,Paris,Les coupes budgétaires à Paris ça suffit !,36,F,LE BIHAN Soazig
+75,Paris,Les coupes budgétaires à Paris ça suffit !,37,M,HERENGT Simon
+75,Paris,Les coupes budgétaires à Paris ça suffit !,38,F,PHÉDOL Camille
+75,Paris,Les coupes budgétaires à Paris ça suffit !,39,M,MEKRAMI Yanis
+75,Paris,Les coupes budgétaires à Paris ça suffit !,40,F,NAZEMI-TESSIER Catherine
+75,Paris,Les coupes budgétaires à Paris ça suffit !,41,M,DURAK Jean-Claude
+75,Paris,Les coupes budgétaires à Paris ça suffit !,42,F,SCHIDLOWER Sarah
+75,Paris,Les coupes budgétaires à Paris ça suffit !,43,M,SOULIER Dominique
+75,Paris,Les coupes budgétaires à Paris ça suffit !,44,F,BERÇOT Françoise
+75,Paris,Les coupes budgétaires à Paris ça suffit !,45,M,MANSOURI Mohamed
+75,Paris,Les coupes budgétaires à Paris ça suffit !,46,F,CHAUMUZEAU Mathilde
+75,Paris,Les coupes budgétaires à Paris ça suffit !,47,M,BENATIA Miloud
+75,Paris,Les coupes budgétaires à Paris ça suffit !,48,F,SAVONNEAU Prescilla
+75,Paris,Les coupes budgétaires à Paris ça suffit !,49,M,GELAS Eric
+75,Paris,Les coupes budgétaires à Paris ça suffit !,50,F,BIDELOGNE Johanna
+75,Paris,Les coupes budgétaires à Paris ça suffit !,51,M,VELAÏDOMESTRY Nicolas
+75,Paris,Les coupes budgétaires à Paris ça suffit !,52,F,SZYMANSKA Ewa
+75,Paris,Les coupes budgétaires à Paris ça suffit !,53,M,HACHON Lit-Chao
+75,Paris,Les coupes budgétaires à Paris ça suffit !,54,F,BONARD Karine
+75,Paris,Les coupes budgétaires à Paris ça suffit !,55,M,ROUSSEL Bertrand
+75,Paris,Les coupes budgétaires à Paris ça suffit !,56,F,CLAVEAU Lola
+75,Paris,Les coupes budgétaires à Paris ça suffit !,57,M,BLACHE Gérard
+75,Paris,Les coupes budgétaires à Paris ça suffit !,58,F,PAIN Ghislaine
+75,Paris,Les coupes budgétaires à Paris ça suffit !,59,M,MARDON Eric
+75,Paris,Les coupes budgétaires à Paris ça suffit !,60,F,GRIFFON Janice
+75,Paris,Les coupes budgétaires à Paris ça suffit !,61,M,BEZAULT Eric
+75,Paris,Les coupes budgétaires à Paris ça suffit !,62,F,CHAMBONNET Laura
+75,Paris,Les coupes budgétaires à Paris ça suffit !,63,M,GIBERT Didier
+75,Paris,Les coupes budgétaires à Paris ça suffit !,64,F,RUBINSTEIN-CARRERA Hélène
+75,Paris,Les coupes budgétaires à Paris ça suffit !,65,M,YUNG Mickaël
+75,Paris,Les coupes budgétaires à Paris ça suffit !,66,F,GIRARD Catherine
+75,Paris,Les coupes budgétaires à Paris ça suffit !,67,M,GENET Florian
+75,Paris,Les coupes budgétaires à Paris ça suffit !,68,F,RODRIGUES Solène
+75,Paris,Les coupes budgétaires à Paris ça suffit !,69,M,DJERAFI Djamil
+75,Paris,Les coupes budgétaires à Paris ça suffit !,70,F,COTTÉ Noëlle
+75,Paris,Les coupes budgétaires à Paris ça suffit !,71,M,JEUDY Gilles
+75,Paris,Les coupes budgétaires à Paris ça suffit !,72,F,ALASSIMONE Annie
+75,Paris,Les coupes budgétaires à Paris ça suffit !,73,M,BOUCHÉ Pierre
+75,Paris,Les coupes budgétaires à Paris ça suffit !,74,F,FLEURIDAS Claudine
+75,Paris,Les coupes budgétaires à Paris ça suffit !,75,M,SANCHEZ Adrien
+75,Paris,Les coupes budgétaires à Paris ça suffit !,76,F,KLAJA Doriane
+75,Paris,Les coupes budgétaires à Paris ça suffit !,77,M,DENIME Jérôme
+75,Paris,Les coupes budgétaires à Paris ça suffit !,78,F,PERRIN Zoé
+75,Paris,Les coupes budgétaires à Paris ça suffit !,79,M,BUHOT Pascal
+75,Paris,Les coupes budgétaires à Paris ça suffit !,80,F,HETZEL Cristina
+75,Paris,Les coupes budgétaires à Paris ça suffit !,81,M,GARDENT Olivier
+75,Paris,Les coupes budgétaires à Paris ça suffit !,82,F,PALMONT Coralie
+75,Paris,Les coupes budgétaires à Paris ça suffit !,83,M,LE BEC Michel
+75,Paris,Les coupes budgétaires à Paris ça suffit !,84,F,MECHENTEL Lamia
+75,Paris,Les coupes budgétaires à Paris ça suffit !,85,M,PETIT Jean-Pierre
+75,Paris,Les coupes budgétaires à Paris ça suffit !,86,F,ROSIER Catherine
+75,Paris,Les coupes budgétaires à Paris ça suffit !,87,M,KALANDA MBUYI Cain
+75,Paris,Les coupes budgétaires à Paris ça suffit !,88,F,LINDOR Monique
+75,Paris,Les coupes budgétaires à Paris ça suffit !,89,M,VIGNAL Laurent
+75,Paris,Les coupes budgétaires à Paris ça suffit !,90,F,CHAINTRON Julie
+75,Paris,Les coupes budgétaires à Paris ça suffit !,91,M,FOUQUE Martin
+75,Paris,Les coupes budgétaires à Paris ça suffit !,92,F,RUEL Sophie
+75,Paris,Les coupes budgétaires à Paris ça suffit !,93,M,MOINOUFAMA Thony
+75,Paris,Les coupes budgétaires à Paris ça suffit !,94,F,HAMILA Najlae
+75,Paris,Les coupes budgétaires à Paris ça suffit !,95,M,RODRIGUES Guillaume
+75,Paris,Les coupes budgétaires à Paris ça suffit !,96,F,ROMELLE Mélanie
+75,Paris,Les coupes budgétaires à Paris ça suffit !,97,M,ONOMO Yves
+75,Paris,Les coupes budgétaires à Paris ça suffit !,98,F,DIAWARA Maïmouna
+75,Paris,Les coupes budgétaires à Paris ça suffit !,99,M,LACOUDRE Fabien
+75,Paris,Les coupes budgétaires à Paris ça suffit !,100,F,VAAST Corinne
+75,Paris,Les coupes budgétaires à Paris ça suffit !,101,M,STOBNICER Maurice
+75,Paris,Les coupes budgétaires à Paris ça suffit !,102,F,REDON Claudine
+75,Paris,Les coupes budgétaires à Paris ça suffit !,103,M,GNIEZDIOUKOFF Eric
+75,Paris,Les coupes budgétaires à Paris ça suffit !,104,F,MBODJI Aïssatou
+75,Paris,Les coupes budgétaires à Paris ça suffit !,105,M,GAILHARD Thomas
+75,Paris,Les coupes budgétaires à Paris ça suffit !,106,F,LEPAGE Florence
+75,Paris,Les coupes budgétaires à Paris ça suffit !,107,M,NOCANDY Jordan
+75,Paris,Les coupes budgétaires à Paris ça suffit !,108,F,BCHIBCHI Naïma
+75,Paris,Les coupes budgétaires à Paris ça suffit !,109,M,BOULANGER Jean-Pierre
+75,Paris,Les coupes budgétaires à Paris ça suffit !,110,F,JOURDAIN Emilie
+75,Paris,Les coupes budgétaires à Paris ça suffit !,111,M,VALCHERA Patrick
+75,Paris,Les coupes budgétaires à Paris ça suffit !,112,F,ZOUHAIRI Kamilia
+75,Paris,Les coupes budgétaires à Paris ça suffit !,113,M,RAMPIN François
+75,Paris,Les coupes budgétaires à Paris ça suffit !,114,F,LAFOND Laurence
+75,Paris,Les coupes budgétaires à Paris ça suffit !,115,M,PELLEGRINI Alexis
+75,Paris,Les coupes budgétaires à Paris ça suffit !,116,F,BARAY Élise-Anne
+75,Paris,Les coupes budgétaires à Paris ça suffit !,117,M,CASTAINGTS Jean-Claude
+75,Paris,Les coupes budgétaires à Paris ça suffit !,118,F,BLACHER Clara
+75,Paris,Les coupes budgétaires à Paris ça suffit !,119,M,MARWANE Rachid
+75,Paris,Les coupes budgétaires à Paris ça suffit !,120,F,BERCA Nadine
+75,Paris,Les coupes budgétaires à Paris ça suffit !,121,M,DE VILLEPIN Geoffroy
+75,Paris,Les coupes budgétaires à Paris ça suffit !,122,F,CAYROL Marie-Anne
+75,Paris,Les coupes budgétaires à Paris ça suffit !,123,M,GIBERT Florian
+75,Paris,Les coupes budgétaires à Paris ça suffit !,124,F,GIES Denise
+75,Paris,Les coupes budgétaires à Paris ça suffit !,125,M,BARBE François
+75,Paris,Les coupes budgétaires à Paris ça suffit !,126,F,FOUBERT Chantal
+75,Paris,Les coupes budgétaires à Paris ça suffit !,127,M,PETIT Geoffrey
+75,Paris,Les coupes budgétaires à Paris ça suffit !,128,F,MARTIN Eryne
+75,Paris,Les coupes budgétaires à Paris ça suffit !,129,M,RENAUDIE Michel
+75,Paris,Les coupes budgétaires à Paris ça suffit !,130,F,CHARLEMAINE Christiane
+75,Paris,Les coupes budgétaires à Paris ça suffit !,131,M,BUKOWSKI Frédéric
+75,Paris,Les coupes budgétaires à Paris ça suffit !,132,F,CLAUDE Justinienne
+75,Paris,Les coupes budgétaires à Paris ça suffit !,133,M,TRAORÉ Sanou
+75,Paris,Les coupes budgétaires à Paris ça suffit !,134,F,DEGAS Corinne
+75,Paris,Les coupes budgétaires à Paris ça suffit !,135,M,BILLON Benoît
+75,Paris,Les coupes budgétaires à Paris ça suffit !,136,F,CHEMSI Fatima
+75,Paris,Les coupes budgétaires à Paris ça suffit !,137,M,RODRIGUES Cyrille
+75,Paris,Les coupes budgétaires à Paris ça suffit !,138,F,PETIT-SEBBANE Aurélie
+75,Paris,Les coupes budgétaires à Paris ça suffit !,139,M,BRUNI Jean-Marc
+75,Paris,Les coupes budgétaires à Paris ça suffit !,140,F,RETUERTO Huguette
+75,Paris,Les coupes budgétaires à Paris ça suffit !,141,M,DECHEZELLES Guy
+75,Paris,Les coupes budgétaires à Paris ça suffit !,142,F,ABENSOUR GIBERT Mireille
+75,Paris,Les coupes budgétaires à Paris ça suffit !,143,M,GARDENT Mikaël
+75,Paris,Les coupes budgétaires à Paris ça suffit !,144,F,MARSAUD Christiane
+75,Paris,Les coupes budgétaires à Paris ça suffit !,145,M,LEFRANC David
+75,Paris,Les coupes budgétaires à Paris ça suffit !,146,F,PEREZ Raffaëlle
+75,Paris,Les coupes budgétaires à Paris ça suffit !,147,M,PLISSON Jean-Pierre
+75,Paris,Les coupes budgétaires à Paris ça suffit !,148,F,CESCHI Mara
+75,Paris,Les coupes budgétaires à Paris ça suffit !,149,M,BEAU Gérard
+75,Paris,Les coupes budgétaires à Paris ça suffit !,150,F,LOMBARDO Marie-Pierre
+75,Paris,Les coupes budgétaires à Paris ça suffit !,151,M,ALLIOT Jean-Pierre
+75,Paris,Les coupes budgétaires à Paris ça suffit !,152,F,VIANO Lucie
+75,Paris,Les coupes budgétaires à Paris ça suffit !,153,M,SADY Richard
+75,Paris,Les coupes budgétaires à Paris ça suffit !,154,F,BOULANGER Marilisa
+75,Paris,Les coupes budgétaires à Paris ça suffit !,155,M,COULON Frédéric
+75,Paris,Les coupes budgétaires à Paris ça suffit !,156,F,STERN Hélène
+75,Paris,Les coupes budgétaires à Paris ça suffit !,157,M,FAÏDI Amar
+75,Paris,Les coupes budgétaires à Paris ça suffit !,158,F,GARDENT Sarah
+75,Paris,Les coupes budgétaires à Paris ça suffit !,159,M,MOLÉNAT Jean-Pierre
+75,Paris,Les coupes budgétaires à Paris ça suffit !,160,F,YAO N'Guessan
+75,Paris,Les coupes budgétaires à Paris ça suffit !,161,M,LOUISON Geoffrey
+75,Paris,Les coupes budgétaires à Paris ça suffit !,162,F,HENNEBOIS Jacqueline
+75,Paris,Les coupes budgétaires à Paris ça suffit !,163,M,GHIVALLA Assam
+75,Paris,Lutte ouvrière - le camp des travailleurs,1,F,SAULNIER Marielle
+75,Paris,Lutte ouvrière - le camp des travailleurs,2,M,AKSAS Abdellah
+75,Paris,Lutte ouvrière - le camp des travailleurs,3,F,ROETHLISBERGER Corinne
+75,Paris,Lutte ouvrière - le camp des travailleurs,4,M,CHALLAL Eric
+75,Paris,Lutte ouvrière - le camp des travailleurs,5,F,ROBIN Sophie
+75,Paris,Lutte ouvrière - le camp des travailleurs,6,M,EL-MARBATI Nordine
+75,Paris,Lutte ouvrière - le camp des travailleurs,7,F,JOLIVEAU Charline
+75,Paris,Lutte ouvrière - le camp des travailleurs,8,M,CHRISTOPH Frédéric
+75,Paris,Lutte ouvrière - le camp des travailleurs,9,F,LEWI Olivia
+75,Paris,Lutte ouvrière - le camp des travailleurs,10,M,VINCIGUERRA Laurent
+75,Paris,Lutte ouvrière - le camp des travailleurs,11,F,NAUDET Sylvie
+75,Paris,Lutte ouvrière - le camp des travailleurs,12,M,MILLOT Georges
+75,Paris,Lutte ouvrière - le camp des travailleurs,13,F,MARTY Annick
+75,Paris,Lutte ouvrière - le camp des travailleurs,14,M,BEHIN Rémy
+75,Paris,Lutte ouvrière - le camp des travailleurs,15,F,BAILLE Olivia
+75,Paris,Lutte ouvrière - le camp des travailleurs,16,M,MARSAULT Philippe
+75,Paris,Lutte ouvrière - le camp des travailleurs,17,F,BUGEY Sylviane
+75,Paris,Lutte ouvrière - le camp des travailleurs,18,M,LE GOFF Stéphane
+75,Paris,Lutte ouvrière - le camp des travailleurs,19,F,GUIDOT Catherine
+75,Paris,Lutte ouvrière - le camp des travailleurs,20,M,SARRAZIN Arnaud
+75,Paris,Lutte ouvrière - le camp des travailleurs,21,F,PROVIDENCE Marie
+75,Paris,Lutte ouvrière - le camp des travailleurs,22,M,AUNOBLE Eric
+75,Paris,Lutte ouvrière - le camp des travailleurs,23,F,PINOCHET Nadine
+75,Paris,Lutte ouvrière - le camp des travailleurs,24,M,BAJDA Philippe
+75,Paris,Lutte ouvrière - le camp des travailleurs,25,F,BERNON Anne
+75,Paris,Lutte ouvrière - le camp des travailleurs,26,M,MOREAU Didier
+75,Paris,Lutte ouvrière - le camp des travailleurs,27,F,MEUNIER Marie-Anne
+75,Paris,Lutte ouvrière - le camp des travailleurs,28,M,LEVENARD Pierre
+75,Paris,Lutte ouvrière - le camp des travailleurs,29,F,SCHEHL Valentine
+75,Paris,Lutte ouvrière - le camp des travailleurs,30,M,THEBAULT Emmanuel
+75,Paris,Lutte ouvrière - le camp des travailleurs,31,F,LAFONT Christine
+75,Paris,Lutte ouvrière - le camp des travailleurs,32,M,ALIBAY Nazaire
+75,Paris,Lutte ouvrière - le camp des travailleurs,33,F,UNG Hieng Srieu
+75,Paris,Lutte ouvrière - le camp des travailleurs,34,M,OUISTI Yahya
+75,Paris,Lutte ouvrière - le camp des travailleurs,35,F,DELORME Aliette
+75,Paris,Lutte ouvrière - le camp des travailleurs,36,M,BOËTHAS François
+75,Paris,Lutte ouvrière - le camp des travailleurs,37,F,CARRÉ Sabrina
+75,Paris,Lutte ouvrière - le camp des travailleurs,38,M,FAUVERTE Bernard
+75,Paris,Lutte ouvrière - le camp des travailleurs,39,F,MIDY Charlotte
+75,Paris,Lutte ouvrière - le camp des travailleurs,40,M,MARANGET Nicolas
+75,Paris,Lutte ouvrière - le camp des travailleurs,41,F,PIAZZINI Natasha
+75,Paris,Lutte ouvrière - le camp des travailleurs,42,M,MAUDUIT Laurent
+75,Paris,Lutte ouvrière - le camp des travailleurs,43,F,VANNOD Murielle
+75,Paris,Lutte ouvrière - le camp des travailleurs,44,M,LEBON Vincent
+75,Paris,Lutte ouvrière - le camp des travailleurs,45,F,FLORAND Valérie
+75,Paris,Lutte ouvrière - le camp des travailleurs,46,M,LANGLOIS Gérard
+75,Paris,Lutte ouvrière - le camp des travailleurs,47,F,DE RICHAUD Catherine
+75,Paris,Lutte ouvrière - le camp des travailleurs,48,M,CATALA Franck
+75,Paris,Lutte ouvrière - le camp des travailleurs,49,F,GASSIOT Françoise
+75,Paris,Lutte ouvrière - le camp des travailleurs,50,M,BURTAIRE Laurent
+75,Paris,Lutte ouvrière - le camp des travailleurs,51,F,MARIE-MOUTOU Marie-Josée
+75,Paris,Lutte ouvrière - le camp des travailleurs,52,M,REILHAC Emmanuel
+75,Paris,Lutte ouvrière - le camp des travailleurs,53,F,LAFONT Jeanne
+75,Paris,Lutte ouvrière - le camp des travailleurs,54,M,BOUZNADA Bouziane
+75,Paris,Lutte ouvrière - le camp des travailleurs,55,F,LEQUEU Annie
+75,Paris,Lutte ouvrière - le camp des travailleurs,56,M,SALVI Jean-Christophe
+75,Paris,Lutte ouvrière - le camp des travailleurs,57,F,POULLE Thaïs
+75,Paris,Lutte ouvrière - le camp des travailleurs,58,M,BOUCARD Laurent
+75,Paris,Lutte ouvrière - le camp des travailleurs,59,F,KONTE Haby
+75,Paris,Lutte ouvrière - le camp des travailleurs,60,M,TYMEN Maurice
+75,Paris,Lutte ouvrière - le camp des travailleurs,61,F,ALBARENGA Marisa
+75,Paris,Lutte ouvrière - le camp des travailleurs,62,M,CAMPINI-SINEL Jean-Jacques
+75,Paris,Lutte ouvrière - le camp des travailleurs,63,F,PARIZOT Solange
+75,Paris,Lutte ouvrière - le camp des travailleurs,64,M,FORTUNAT Constantin
+75,Paris,Lutte ouvrière - le camp des travailleurs,65,F,GERLACH Loreline
+75,Paris,Lutte ouvrière - le camp des travailleurs,66,M,KARABILIKIAN Théo
+75,Paris,Lutte ouvrière - le camp des travailleurs,67,F,BRON Valérie
+75,Paris,Lutte ouvrière - le camp des travailleurs,68,M,CHICHEPORTICHE Samuel
+75,Paris,Lutte ouvrière - le camp des travailleurs,69,F,GABBAI Véronique
+75,Paris,Lutte ouvrière - le camp des travailleurs,70,M,DOUROUX Loïc
+75,Paris,Lutte ouvrière - le camp des travailleurs,71,F,NOEL Marianne
+75,Paris,Lutte ouvrière - le camp des travailleurs,72,M,PEZON Vincent
+75,Paris,Lutte ouvrière - le camp des travailleurs,73,F,BERNAL-CLÉMENT Éléonore
+75,Paris,Lutte ouvrière - le camp des travailleurs,74,M,CHAUMONT Alexandre
+75,Paris,Lutte ouvrière - le camp des travailleurs,75,F,GOUELLE Géraldine
+75,Paris,Lutte ouvrière - le camp des travailleurs,76,M,RUMEAU Frédéric
+75,Paris,Lutte ouvrière - le camp des travailleurs,77,F,ALLAIN Liliane
+75,Paris,Lutte ouvrière - le camp des travailleurs,78,M,CAP Jérôme
+75,Paris,Lutte ouvrière - le camp des travailleurs,79,F,CHAMPETIER Agnès
+75,Paris,Lutte ouvrière - le camp des travailleurs,80,M,CHERAGA Abdelhamid
+75,Paris,Lutte ouvrière - le camp des travailleurs,81,F,DI BIANCA Vera
+75,Paris,Lutte ouvrière - le camp des travailleurs,82,M,FOASSO Cyrille
+75,Paris,Lutte ouvrière - le camp des travailleurs,83,F,CROS Céline
+75,Paris,Lutte ouvrière - le camp des travailleurs,84,M,LATELTIN Stéphane
+75,Paris,Lutte ouvrière - le camp des travailleurs,85,F,NICOLE Nadine
+75,Paris,Lutte ouvrière - le camp des travailleurs,86,M,RENOIR Jean-Paul
+75,Paris,Lutte ouvrière - le camp des travailleurs,87,F,BRUNET Véronique
+75,Paris,Lutte ouvrière - le camp des travailleurs,88,M,BORISSEVITCH Dorian
+75,Paris,Lutte ouvrière - le camp des travailleurs,89,F,BORDES Barbara
+75,Paris,Lutte ouvrière - le camp des travailleurs,90,M,CASTERA Pascal
+75,Paris,Lutte ouvrière - le camp des travailleurs,91,F,LAVILLONNIERE Chantale
+75,Paris,Lutte ouvrière - le camp des travailleurs,92,M,KILANI Lotfi
+75,Paris,Lutte ouvrière - le camp des travailleurs,93,F,DEWEZ Julia
+75,Paris,Lutte ouvrière - le camp des travailleurs,94,M,MOUSSY Pascal
+75,Paris,Lutte ouvrière - le camp des travailleurs,95,F,COUPLET Charlotte
+75,Paris,Lutte ouvrière - le camp des travailleurs,96,M,CHRISTIAN André
+75,Paris,Lutte ouvrière - le camp des travailleurs,97,F,DENIZOT Camille
+75,Paris,Lutte ouvrière - le camp des travailleurs,98,M,CHAPRON Dominique
+75,Paris,Lutte ouvrière - le camp des travailleurs,99,F,GUILLEMOT Cécile
+75,Paris,Lutte ouvrière - le camp des travailleurs,100,M,PAPUCHON Adrien
+75,Paris,Lutte ouvrière - le camp des travailleurs,101,F,CHAIZE Miren
+75,Paris,Lutte ouvrière - le camp des travailleurs,102,M,GUYOMARD Jean-Louis
+75,Paris,Lutte ouvrière - le camp des travailleurs,103,F,NEUVILLE Claire
+75,Paris,Lutte ouvrière - le camp des travailleurs,104,M,BONNY Jean-François
+75,Paris,Lutte ouvrière - le camp des travailleurs,105,F,LOUIS Justine
+75,Paris,Lutte ouvrière - le camp des travailleurs,106,M,TAC Ludovic
+75,Paris,Lutte ouvrière - le camp des travailleurs,107,F,GOMEZ Sophie
+75,Paris,Lutte ouvrière - le camp des travailleurs,108,M,HAMMACHE Amirouche
+75,Paris,Lutte ouvrière - le camp des travailleurs,109,F,PRIOUL Sylvie
+75,Paris,Lutte ouvrière - le camp des travailleurs,110,M,SONNIER Johad
+75,Paris,Lutte ouvrière - le camp des travailleurs,111,F,NDOMBE DIAVISI Bridget
+75,Paris,Lutte ouvrière - le camp des travailleurs,112,M,MALZIEUX Georges
+75,Paris,Lutte ouvrière - le camp des travailleurs,113,F,COMAS Montserrat
+75,Paris,Lutte ouvrière - le camp des travailleurs,114,M,LOTHON Philippe
+75,Paris,Lutte ouvrière - le camp des travailleurs,115,F,BENONY Valérie
+75,Paris,Lutte ouvrière - le camp des travailleurs,116,M,HOUDART Olivier
+75,Paris,Lutte ouvrière - le camp des travailleurs,117,F,MAZZOCCHI Silvia
+75,Paris,Lutte ouvrière - le camp des travailleurs,118,M,JÉRÉMIE Léo
+75,Paris,Lutte ouvrière - le camp des travailleurs,119,F,RAMPARANY Sophie
+75,Paris,Lutte ouvrière - le camp des travailleurs,120,M,MINARDI Gaëtan
+75,Paris,Lutte ouvrière - le camp des travailleurs,121,F,DELPONT Paulette
+75,Paris,Lutte ouvrière - le camp des travailleurs,122,M,VAUDRAN Christophe
+75,Paris,Lutte ouvrière - le camp des travailleurs,123,F,AJZENBERG Véronique
+75,Paris,Lutte ouvrière - le camp des travailleurs,124,M,CHAZE Pierre
+75,Paris,Lutte ouvrière - le camp des travailleurs,125,F,LAGARDE Anne
+75,Paris,Lutte ouvrière - le camp des travailleurs,126,M,FUENTES Bernard
+75,Paris,Lutte ouvrière - le camp des travailleurs,127,F,OXANDABOURE Patricia
+75,Paris,Lutte ouvrière - le camp des travailleurs,128,M,PIERA Michaël
+75,Paris,Lutte ouvrière - le camp des travailleurs,129,F,MANIER Monique
+75,Paris,Lutte ouvrière - le camp des travailleurs,130,M,LECESNE Jean-Pierre
+75,Paris,Lutte ouvrière - le camp des travailleurs,131,F,BRAULT Valentine
+75,Paris,Lutte ouvrière - le camp des travailleurs,132,M,GOLDBERG Stephen
+75,Paris,Lutte ouvrière - le camp des travailleurs,133,F,FERHATI Zohra
+75,Paris,Lutte ouvrière - le camp des travailleurs,134,M,GOISMIER Sylvian
+75,Paris,Lutte ouvrière - le camp des travailleurs,135,F,BORSARI Marie-Josée
+75,Paris,Lutte ouvrière - le camp des travailleurs,136,M,MICALETTI Mario
+75,Paris,Lutte ouvrière - le camp des travailleurs,137,F,DOUBLET Marie-Adelaïde
+75,Paris,Lutte ouvrière - le camp des travailleurs,138,M,MUNOZ Enrique
+75,Paris,Lutte ouvrière - le camp des travailleurs,139,F,CHAUVEAU Monique
+75,Paris,Lutte ouvrière - le camp des travailleurs,140,M,RAUCHE Julien
+75,Paris,Lutte ouvrière - le camp des travailleurs,141,F,LACROIX Marie-Madeleine
+75,Paris,Lutte ouvrière - le camp des travailleurs,142,M,RIUZ Roland
+75,Paris,Lutte ouvrière - le camp des travailleurs,143,F,POUJADE Bénédicte
+75,Paris,Lutte ouvrière - le camp des travailleurs,144,M,CAPRON Adrien
+75,Paris,Lutte ouvrière - le camp des travailleurs,145,F,DIENG Odette
+75,Paris,Lutte ouvrière - le camp des travailleurs,146,M,STEHLIN Thomas
+75,Paris,Lutte ouvrière - le camp des travailleurs,147,F,VEAU Josiane
+75,Paris,Lutte ouvrière - le camp des travailleurs,148,M,PALACIO Paul
+75,Paris,Lutte ouvrière - le camp des travailleurs,149,F,CASTRIA Simona
+75,Paris,Lutte ouvrière - le camp des travailleurs,150,M,FRATICELLI Edgardo
+75,Paris,Lutte ouvrière - le camp des travailleurs,151,F,MERLE Christine
+75,Paris,Lutte ouvrière - le camp des travailleurs,152,M,CATHELINE Alan
+75,Paris,Lutte ouvrière - le camp des travailleurs,153,F,SOUCHON Annie
+75,Paris,Lutte ouvrière - le camp des travailleurs,154,M,AJZENBERG Jean-Louis
+75,Paris,Lutte ouvrière - le camp des travailleurs,155,F,AKSAS Ayacha
+75,Paris,Lutte ouvrière - le camp des travailleurs,156,M,MONNIAUX Alain
+75,Paris,Lutte ouvrière - le camp des travailleurs,157,F,SCAGLIA Kareen
+75,Paris,Lutte ouvrière - le camp des travailleurs,158,M,BOUR Vincent
+75,Paris,Lutte ouvrière - le camp des travailleurs,159,F,RAKOTONAVAHY Lantonirina
+75,Paris,Lutte ouvrière - le camp des travailleurs,160,M,GAILLARD Jean-Louis
+75,Paris,Lutte ouvrière - le camp des travailleurs,161,F,PODGORNY Marina
+75,Paris,Lutte ouvrière - le camp des travailleurs,162,M,RODINSON Michel
+75,Paris,Lutte ouvrière - le camp des travailleurs,163,F,CAUQUIL Chantal
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",1,F,CHAUVEL Blandine
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",2,M,GUIGNARD Benjamin
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",3,F,BOURIAT Océane
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",4,M,AMZALLAG Maurice
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",5,F,FAYOL Alison
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",6,M,DOMFRONT Bruno
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",7,F,TAOUBAS Amira
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",8,M,AVERSENQ Mathis
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",9,F,BOUKILI Madjouline
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",10,M,DRAME Abdou
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",11,F,BREUGNOT Irina
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",12,M,FERRERI Marcello
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",13,F,MOSBAH Safa
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",14,M,DELAHAYE Max
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",15,F,VILLENAVE Hortense
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",16,M,DUCASSE Louis
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",17,F,BROSSAT Florence
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",18,M,BEN AYCH Salomon
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",19,F,AMANZOU Hajar
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",20,M,MONNIER Pascal
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",21,F,SALIM Dounia
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",22,M,MASSON Hadrien
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",23,F,MELEY Danya
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",24,M,POISSONNIER Philippe
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",25,F,SIERRA Esperenza
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",26,M,BEGUET Thomas
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",27,F,BOUHEDJA Maryse
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",28,M,GOLHEN Aurélien
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",29,F,VAGER Victoire
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",30,M,COHEN-GRANVAL Mathieu
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",31,F,ANGLADE HIBOU Elsa
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",32,M,AVERSENQ Robert
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",33,F,SALAÜN Danielle
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",34,M,BAYLAC Valentin
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",35,F,MARLY Jade
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",36,M,CATTIN Tanguy
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",37,F,CHATEAU Geneviève
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",38,M,CHOLLET Sylvain
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",39,F,DUCHENNE Caroline
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",40,M,DURY Alexandre
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",41,F,DUVIVIER Sarah
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",42,M,BERNARD Théo
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",43,F,GUERNION Marie-Gabrielle
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",44,M,HARMAND Samuel
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",45,F,JACQUEMARD Anaïs
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",46,M,HUGUET Louis
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",47,F,NICOLAS Laurence
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",48,M,JABBARI Elias
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",49,F,KERDRAON Albane
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",50,M,KERRIEN Olivier
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",51,F,KULIG Léna
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",52,M,ROUSSET Camille
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",53,F,LE BOUDER Jeanne
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",54,M,LE LOUËT Etienne
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",55,F,MABIRE Gabrielle
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",56,M,PINEDA Aleix
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",57,F,MAITRE Anaïs
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",58,M,MARTIN Jérémie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",59,F,MARTIN Julia
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",60,M,LEGER Vincent
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",61,F,CHOLLET-WEIBLEN Aurélie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",62,M,LAGADEC Hervé
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",63,F,MOREAU Céline
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",64,M,MORENCE Karl
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",65,F,DAGEVILLE Emma
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",66,M,BÉGUIN Marie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",67,F,PINEDA Arianna
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",68,M,ANDRE-FEBRERO Paul
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",69,F,RUCK Marie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",70,M,MABIRE Jean
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",71,F,VALVERDE-RIVERA Emilie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",72,M,MILESCHI Joachim
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",73,F,SAQUET Mathilde
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",74,M,STAVONHAGEN Louis
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",75,F,BULTEL Fanny
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",76,M,TALBOT Arthur
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",77,F,VADEPIED Joséphine
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",78,M,MEULEMANS Stanislas
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",79,F,VERVISCH Marie-Odile
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",80,M,MILESCHI Christophe
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",81,F,WEIBLEN Susanne
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",82,M,ASENS DELORME Léo
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",83,F,ATCHADE Marie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",84,M,CHAOUAD Hugo
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",85,F,BARRIER Céline
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",86,M,FUCHS Victor
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",87,F,BLAISE Garance
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",88,M,BERNARD Guillaume
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",89,F,BROCHON Chloé
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",90,M,DIBONGUE Noam
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",91,F,CAPON Marie-Laure
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",92,M,NGUYEN Valentin
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",93,F,DJAADI Constance
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",94,M,MBENGUE Matar
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",95,F,DUFOUR Laura
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",96,M,PANANCEAU Thomas
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",97,F,ESNAULT Armande
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",98,M,FRISON François
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",99,F,BOUHERET Adèle
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",100,M,GANDON Benoît
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",101,F,GEFFRAY Moïra
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",102,M,OUCHAN Yanis
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",103,F,GERIN--HENRY Suzanne
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",104,M,GOLHEN Raphael
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",105,F,SAUTEREY Laura
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",106,M,GUIOT RAULIN Léonard
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",107,F,FAULON Elisa
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",108,M,HEUDE Eliott
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",109,F,HEURTEBISE NODE Node
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",110,M,HUAULT Arthur
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",111,F,LAMBERT Simone
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",112,M,LE BIHAN Evan
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",113,F,LELORRAIN Caroline
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",114,M,MAHIEU Paul
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",115,F,SAGUI- LUCIANI Lila
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",116,M,MEDINA Noam
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",117,F,MINEC Jay
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",118,M,MONTFORT Jérémie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",119,F,MOREL Johanna
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",120,M,WAGMAN Richard
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",121,F,NICOLLE Lotis
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",122,M,RONDEPIERRE Raphaël
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",123,F,POTTIER Chloé
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",124,M,ROTA Auguste
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",125,F,STEFANATOS Angela
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",126,M,VIGNY Gabriel
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",127,F,VYERS Sybille
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",128,M,ZAOUTI Sacha
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",129,F,ZENNAF Helena
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",130,M,BALLOCCHI Ugo
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",131,F,BAMBAGGI Jeanne
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",132,M,BONNET Hugues
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",133,F,CAGNARD Lucie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",134,M,CAMICAS Felix
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",135,F,OUDIOU Anne
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",136,M,CHEVALIER Sébastien
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",137,F,LEBAS Emilie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",138,M,DELAUNE Éric
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",139,F,ROGER Léonie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",140,M,DROUX Roman
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",141,F,BESNARD Claudette
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",142,M,DURON François
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",143,F,FILIPPI Joelle
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",144,M,ENGEL Théo
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",145,F,FILIPPI Sarah
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",146,M,PAYEN Louis
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",147,F,GAILLARD Elia
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",148,M,GAVOIS Vincent
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",149,F,GERNIGON Nina
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",150,M,GUETTA Raffaele
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",151,F,LAURENT Anna
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",152,M,FILIPPI Bernard
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",153,F,MAKEDONSKI Katia
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",154,M,REBOURS Emile
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",155,F,MIKOLAJCZAK Marie
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",156,M,SCHIBLER Quentin
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",157,F,TABOURIN Mila
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",158,M,THOMAS Solal
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",159,F,ZYLBERBERG Pauline
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",160,M,BAYLAC Augustin
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",161,F,GASARIAN Irène Véra
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",162,M,DULOUTRE Mathieu
+75,Paris,"NPA Révolutionnaires - PARIS, ouvrière et révolutionnaire",163,F,ARMAN-PIACERE Nelly
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,1,M,BOURNAZEL Pierre-Yves
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,2,F,HOFFMAN Emmanuelle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,3,M,BEAUNE Clément
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,4,F,BERTHOUT Florence
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,5,M,COURTOIS Daniel-Georges
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,6,F,SCHIAPPA Marlène
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,7,M,NEZZAR Rayan
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,8,F,BOILLOT Julie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,9,M,LESIEUR Antoine
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,10,F,IBLED Catherine
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,11,M,KANTÉ Abdoulaye
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,12,F,PARDO Rachel-Flore
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,13,M,GOLDBLAT Simon
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,14,F,CHASSANIOL Clara
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,15,M,GASSAMA Mohamad
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,16,F,GERMONT Alexia
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,17,M,PERNIN Benoît
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,18,F,MALEK-AHMADI Pegah
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,19,M,DULERMO Sébastien
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,20,F,BERETE Fanta
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,21,M,MOUSSON Olivier
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,22,F,MICHAUD Catherine
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,23,M,DJIANE Benjamin
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,24,F,ABBA Bérangère
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,25,M,KUNSTLINGER Hugo
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,26,F,FIGUÉROA Martine
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,27,M,OUZILOU David
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,28,F,GAVINI Christine
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,29,M,BRUGÈRE Mathias
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,30,F,HIM Sofia
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,31,M,DE VIDAS Félix
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,32,F,BUCAILLE Véronique
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,33,M,BELAÏD Samir
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,34,F,PICAUT Corinne
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,35,M,MALLO Benjamin
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,36,F,SALAT-BAROUX Esther
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,37,M,ISARE Benjamin
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,38,F,SEGOND Sophie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,39,M,RICHARD Gaspard
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,40,F,AMALRIC Catherine
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,41,M,PONSOYE Olivier
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,42,F,GOATER Delphine
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,43,M,DELMAS Paul
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,44,F,MATHURIN Héloïse
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,45,M,GOUCHA Fares
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,46,F,KERBOUA Farida
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,47,M,HELLION Bertrand
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,48,F,RIVOAL Stéphanie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,49,M,DE LASSÉE Anthony
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,50,F,DRIRA Chayma
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,51,M,SMADJA David
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,52,F,MURAT Aurore
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,53,M,BASCLE Eric
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,54,F,MAMAN Noémie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,55,M,BASCHET Jean-Sébastien
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,56,F,ABA Lynda
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,57,M,AUPLAT Bruno
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,58,F,LÊ Estelle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,59,M,LENTZ Grégory
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,60,F,PICHON Anne-Claire
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,61,M,DEPARDIEU Maxime
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,62,F,DUBOUCHERON Barbara
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,63,M,ALLAIRE Léo
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,64,F,SILLAM Clémentine
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,65,M,EJCHENRAND Tim
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,66,F,BLOCH Gypsie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,67,M,HARTOG Thomas
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,68,F,ROITMAN Virginie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,69,M,LABADENS Xavier
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,70,F,JAVARY Sophie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,71,M,JAHIDI Lounis
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,72,F,HAUTVAL Hélène
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,73,M,SEINGIER Matthieu
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,74,F,DURAND Vanessa
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,75,M,MICHEL Grigori
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,76,F,COULON Gwënaelle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,77,M,SAULNIER D'ANCHALD Olivier
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,78,F,FATON Mireille
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,79,M,BOUISSOU THOMAS Victor
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,80,F,ROTA Ophélie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,81,M,LOMONTE Christophe
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,82,F,LANDMAN VU Jade
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,83,M,IGRANAISSI Benjamin
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,84,F,GABADOU Corinne
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,85,M,MEURIN Jacques
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,86,F,ORSO GIACONE Giulia
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,87,M,BRUN Jimmy-Jonathan
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,88,F,DE GARIDEL Audrey
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,89,M,VICK Julien
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,90,F,LE BERRE-SANDRIN Sarah
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,91,M,METZKER Sacha
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,92,F,RIVIERE Isabelle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,93,M,PIVETEAU Théophile
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,94,F,LARTIGUE Emmanuelle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,95,M,LIONEL-MARIE Arthur
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,96,F,NÉGRIER Isabelle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,97,M,CLAMAGIRAND Sylvain
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,98,F,HINDERER Sarah
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,99,M,MALLET Alexandre
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,100,F,REUX-BROWN Isabelle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,101,M,OLSON Patrick
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,102,F,GALLOO PARCOT Marie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,103,M,ROULAND Jean-Pierre
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,104,F,OBERT-SAUVAGNAC Bianca
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,105,M,TEMSAMANI Farid
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,106,F,BERDAH Lisa
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,107,M,PESTEL Eric
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,108,F,BRIAT-MEURGER Victoria
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,109,M,TINAUGUS William
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,110,F,PAULANGE-VIVIER Tatiana
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,111,M,CHAMPRIGAUD Stéphane
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,112,F,PICOT Nathalie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,113,M,DEBAIN Yannick
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,114,F,RUFFIÉ Clarisse
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,115,M,BÉNARD Luca
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,116,F,MOTTA Isabelle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,117,M,BÉNARD Mathieu
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,118,F,GELBMANN-ZIV Béatrice
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,119,M,GOURVEST Arthur
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,120,F,KOPOKA Margaret
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,121,M,BESLON DEROUET Melchior
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,122,F,COCKENPOT Nathalie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,123,M,DONN Paul
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,124,F,NGUYEN VAN Gaëlle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,125,M,RACOUËT Yanis
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,126,F,MELERO Adélaïde
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,127,M,GUIRASSY Madiba Ousmane
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,128,F,BLUMENFELD Sibylle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,129,M,ETZOL Pascal
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,130,F,STARMAN Hannah
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,131,M,GODDAT Emmanuel
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,132,F,BRASSART Aude
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,133,M,MARQUES Modeste
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,134,F,DERMENONVILLE Laurence
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,135,M,VISSIERE Pierre
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,136,F,BONNECHÈRE Nathalie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,137,M,GUÉMY Michel
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,138,F,DAVID Sophie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,139,M,MISAN Corentin
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,140,F,ISEL Catherine Anne
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,141,M,BERTHOU Alexandre
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,142,F,ROBIN-TEINTURIER Emmanuelle
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,143,M,BARDE Antoine
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,144,F,POURAGEAUD Diane
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,145,M,SEMAH Didier
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,146,F,GIMET Pascale
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,147,M,BEAUFRETON Julien
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,148,F,THÉVENIN Laure
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,149,M,MAYOUF Kheir
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,150,F,CARRIOU-SCHREIBER Geneviève
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,151,M,LEMOINE Gaétan
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,152,F,DUMAS Estelle Océane
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,153,M,DUCHÉ Sébastien
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,154,F,DIDOUCHE Maya
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,155,M,SERGENT Jean-Roch
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,156,F,DE SOUZA Sharmila
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,157,M,BIARD Jean-Paul
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,158,F,ZILBERG Arlette
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,159,M,RAIMBAULT Charles
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,160,F,GAXIEU Julie
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,161,M,MACHTOU-CHALABI Alexandre
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,162,F,FRUT GAUTIER Audrey
+75,Paris,PARIS APAISÉ AVEC PIERRE-YVES BOURNAZEL,163,M,GUILLEMOT Jean-Basptiste
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,1,M,GRÉGOIRE Emmanuel
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,2,F,EL AARAJE Lamia
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,3,M,BELLIARD David
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,4,F,BOUX Anne-Claire
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,5,M,BROSSAT Ian
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,6,F,ROSSET Marine
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,7,M,PLIEZ Eric
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,8,F,KONÉ Fatoumata
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,9,M,COUMET Jérôme
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,10,F,CASTETS Lucie
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,11,M,ALIBERT Antoine
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,12,F,PRIMET Raphaëlle
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,13,M,DAGNAUD François
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,14,F,FOURDRINIER Théa
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,15,M,LEJOINDRE Eric
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,16,F,NIAKATÉ Aminata
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,17,M,LERT Dan
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,18,F,CORDEBARD Alexandra
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,19,M,TIBERTI Adrien
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,20,F,ROCCA Isabelle
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,21,M,VAUGLIN François
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,22,F,KOUASSI Johanne
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,23,M,CROSNIER Maxime
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,24,F,JEMNI Halima
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,25,M,DURAND Guillaume
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,26,F,PATRICE Laurence
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,27,M,WEIL Ariel
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,28,F,TONOLLI Mélody
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,29,M,SIMONDON Paul
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,30,F,RAFOWICZ Emma
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,31,M,SOREL Laurent
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,32,F,PULVAR Audrey
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,33,M,ZIADY Karim
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,34,F,TIMSIT Alice
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,35,M,SAUVAGE Maxime
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,36,F,TORANIAN Anouch
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,37,M,BENASSAYA Pierre
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,38,F,BERTRAND Agnès
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,39,M,DES GAYETS Maxime
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,40,F,BOURI Amina
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,41,M,BENMOUFFOK Saïd
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,42,F,ROLLAND Carine
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,43,M,AQUA Jean-Noël
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,44,F,HERVIEU Céline
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,45,M,BOUIGUE Richard
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,46,F,PETIT Carine
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,47,M,CHEVANDIER Thomas
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,48,F,BIKOULOULOU Annah
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,49,M,ROUVEAU Nicolas
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,50,F,HAVET Manon
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,51,M,GUILLOU Antoine
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,52,F,WALLER Marion
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,53,M,MENNUCCI Alexandre
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,54,F,SABATIER Juliette
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,55,M,SAKET BOUDERBALA Bechir
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,56,F,GOMES Barbara
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,57,M,SITBON Florian
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,58,F,MARCHAND Marie-Pierre
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,59,M,YAFFA Mams
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,60,F,EKON Carine
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,61,M,BAUDRIER Jacques
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,62,F,JARDIN Alexandra
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,63,M,RAIFAUD Sylvain
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,64,F,AKRAMI-CASTANON Azadeh
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,65,M,HAVET Kévin
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,66,F,KISSI Rania
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,67,M,LEHOUX Arnaud
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,68,F,MERZI Yasmina
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,69,M,GUÉNANEN Valentin
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,70,F,NAGET Camille
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,71,M,DUPONT Antoine
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,72,F,BOUADMA Lila
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,73,M,LAVAL Gaston
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,74,F,ALIX Marion-Emi
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,75,M,DELMESTRE Mathieu
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,76,F,SIRY-HOUARI Gabrielle
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,77,M,BONNET OULALDJ Nicolas
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,78,F,MADINIER Ophélie
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,79,M,AHOUDIAN Adji
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,80,F,KIELEMOËS Dominique
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,81,M,DURAND-RAUCHER Nour
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,82,F,YAVCHITZ Elisa
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,83,M,RABADAN Pierre
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,84,F,BIDARD Hélène
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,85,M,ROUFFIO Tom
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,86,F,VIZIOZ-BRAMI Camille
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,87,M,SAKHO Ladji
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,88,F,DUTREUIL Frédérique
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,89,M,LEBON Luc
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,90,F,COULIBALY Kadiatou
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,91,M,DUQUERROIR Simon
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,92,F,KARAOUN GOUEZOU Rym
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,93,M,MASCHINO Sylvain
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,94,F,GARRIGOS Geneviève
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,95,M,TRAN Daniel
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,96,F,OUVRET Jeanne
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,97,M,LOMBARD Pierre
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,98,F,BARBAGLI Karine
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,99,M,MERGEY Charles
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,100,F,VIPARD Laëtitia
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,101,M,FREROT Irénée
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,102,F,AUSTIN Gwenaëlle
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,103,M,BOURGEAT-LAMI Yvain
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,104,F,JUIF Sylvia
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,105,M,HOCQUARD Frédéric
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,106,F,LACOMBE Morgane
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,107,M,EPARA EPARA Epency
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,108,F,SLAMA Eléonore
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,109,M,BADINA-SERPETTE Frédéric
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,110,F,JOUBERT Pauline
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,111,M,GALANI Christian
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,112,F,ESTINGOY-HARDY Sandra
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,113,M,BASSIOUNI Aïmane
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,114,F,ATALLAH Marie
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,115,M,COURBAN Alexandre
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,116,F,MATHIS-AIDE Anne-Claire
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,117,M,BENHAIM Frédéric
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,118,F,RÉGIS Colette
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,119,M,GOULIN Vincent
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,120,F,BRUHAT Elise
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,121,M,MEYER Jérôme
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,122,F,ROUILLON Anne-Flore
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,123,M,PILARTZ Andréas
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,124,F,KARAM-LEDER Nina
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,125,M,ARNAUD Pierre-Yvain
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,126,F,WIRDEN Shirley
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,127,M,BUSSY Martin
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,128,F,GUILLERME Elodie
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,129,M,MIERMONT Laurent
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,130,F,AKKARI Maya
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,131,M,COSTAGLIOLA Jonas
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,132,F,BREGMAN Dorine
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,133,M,CHARLET Jordan
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,134,F,FOFANA Mariam
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,135,M,ANTONELLI Didier
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,136,F,RENAULT-TESSIER Evelyne
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,137,M,GALLAND Clément
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,138,F,GERARDIN Sigrid
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,139,M,DAVIAUD Jean-Philippe
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,140,F,HILGROS Chloé
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,141,M,VERBAVATZ Vincent
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,142,F,BARBIER Aurore
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,143,M,SALARIS Zoé
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,144,F,GIRARD Ahlem
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,145,M,RODRIGUES Anthony
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,146,F,TAÏEB Fadila
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,147,M,ELOY Marc
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,148,F,ROY Isabelle
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,149,M,GONZALEZ Mario
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,150,F,CAPITAINE Gaëlle
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,151,M,ANDIC David
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,152,F,BARASZ Johanna
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,153,M,TALLIEU Tom
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,154,F,DEMBAK-DIJOUX Stéphanie
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,155,M,MUNOZ Olivier
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,156,F,RIOU Alexane
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,157,M,GALARNEAU Thomas
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,158,F,BUCCHINI Laetitia
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,159,M,EVEZARD Fabien
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,160,F,MONTARELLO RODRIGUES Eva
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,161,M,JAMET-FOURNIER Boris
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,162,F,SIMONNET Danielle
+75,Paris,Paris est à vous! avec Emmanuel Grégoire L'union de la gauche et des écologistes,163,M,BONNIER Raphaël
+75,Paris,RETROUVONS PARIS,1,M,MARIANI Thierry
+75,Paris,RETROUVONS PARIS,2,F,DUPUIS LAGARDE Céline
+75,Paris,RETROUVONS PARIS,3,M,HUBERT Patrice
+75,Paris,RETROUVONS PARIS,4,F,PERROT Philippine
+75,Paris,RETROUVONS PARIS,5,M,PIQUET Louis
+75,Paris,RETROUVONS PARIS,6,F,MARKOVIC Sonja
+75,Paris,RETROUVONS PARIS,7,M,PANY Jean-Jacques
+75,Paris,RETROUVONS PARIS,8,F,ROUQUIER Anne
+75,Paris,RETROUVONS PARIS,9,M,BONNET Sébastien
+75,Paris,RETROUVONS PARIS,10,F,CORDIER Elia
+75,Paris,RETROUVONS PARIS,11,M,BOUTON POZZO DI BORGO Amaury
+75,Paris,RETROUVONS PARIS,12,F,JAKUBOWICZ Julia
+75,Paris,RETROUVONS PARIS,13,M,FUZELIER BOURGADEL Raphael
+75,Paris,RETROUVONS PARIS,14,F,LAMBERT Claire
+75,Paris,RETROUVONS PARIS,15,M,VERBEKEN Jonathan
+75,Paris,RETROUVONS PARIS,16,F,PRAULT Anne-Sophie
+75,Paris,RETROUVONS PARIS,17,M,COLIN Joshua
+75,Paris,RETROUVONS PARIS,18,F,CAYLET Sabine
+75,Paris,RETROUVONS PARIS,19,M,EXPERTON Thibaut
+75,Paris,RETROUVONS PARIS,20,F,MANGANO Milvia
+75,Paris,RETROUVONS PARIS,21,M,LAMBERT Valentin
+75,Paris,RETROUVONS PARIS,22,F,JAFFRAY Isabelle
+75,Paris,RETROUVONS PARIS,23,M,ABITBOL Julien
+75,Paris,RETROUVONS PARIS,24,F,BERTAUD Thérèse
+75,Paris,RETROUVONS PARIS,25,M,GUILLIN Jean-Philippe
+75,Paris,RETROUVONS PARIS,26,F,NURISSO Pierrette
+75,Paris,RETROUVONS PARIS,27,M,DAZIEU David
+75,Paris,RETROUVONS PARIS,28,F,TIREFORT Line
+75,Paris,RETROUVONS PARIS,29,M,MOUSSEAUX Franck
+75,Paris,RETROUVONS PARIS,30,F,DE NICOLAY Claire
+75,Paris,RETROUVONS PARIS,31,M,FLEUROT Vincent
+75,Paris,RETROUVONS PARIS,32,F,MAUPOIS Anita
+75,Paris,RETROUVONS PARIS,33,M,D'ARVISENET Philippe
+75,Paris,RETROUVONS PARIS,34,F,FONTAINE Patricia
+75,Paris,RETROUVONS PARIS,35,M,SAMAIN François
+75,Paris,RETROUVONS PARIS,36,F,MÉNÉ-BENALI Kaïna
+75,Paris,RETROUVONS PARIS,37,M,JABARD Alexandre
+75,Paris,RETROUVONS PARIS,38,F,LENGLET Valérie
+75,Paris,RETROUVONS PARIS,39,M,DUCREUX Jacques
+75,Paris,RETROUVONS PARIS,40,F,CHOQUET Danielle
+75,Paris,RETROUVONS PARIS,41,M,BELMONDO Jean-François
+75,Paris,RETROUVONS PARIS,42,F,BADOUAL Violette
+75,Paris,RETROUVONS PARIS,43,M,DURRIEU DE MADRON Rémy
+75,Paris,RETROUVONS PARIS,44,F,CASSASSOLES Fanny
+75,Paris,RETROUVONS PARIS,45,M,LEMAIRE Romain
+75,Paris,RETROUVONS PARIS,46,F,MERZOUG Horyana
+75,Paris,RETROUVONS PARIS,47,M,HAMET Aubert
+75,Paris,RETROUVONS PARIS,48,F,GUESNIER Micheline
+75,Paris,RETROUVONS PARIS,49,M,KADUR Alexandre
+75,Paris,RETROUVONS PARIS,50,F,ESQUIER Alexandra
+75,Paris,RETROUVONS PARIS,51,M,PERRIER Arthur
+75,Paris,RETROUVONS PARIS,52,F,STANOJEVIC Marija
+75,Paris,RETROUVONS PARIS,53,M,RAMON Jean-Jacques
+75,Paris,RETROUVONS PARIS,54,F,GOROCH Sharon
+75,Paris,RETROUVONS PARIS,55,M,MARCHAND Enrick
+75,Paris,RETROUVONS PARIS,56,F,PERNOT Anne
+75,Paris,RETROUVONS PARIS,57,M,SANCHEZ Yves
+75,Paris,RETROUVONS PARIS,58,F,DE MARLIAVE Philippine
+75,Paris,RETROUVONS PARIS,59,M,PEDRETTI Vincent
+75,Paris,RETROUVONS PARIS,60,F,LHARDY Véronique
+75,Paris,RETROUVONS PARIS,61,M,TROTIN Paul
+75,Paris,RETROUVONS PARIS,62,F,KIEFFER Margaux
+75,Paris,RETROUVONS PARIS,63,M,DÉMOGÉ Michel
+75,Paris,RETROUVONS PARIS,64,F,DU CAMPE DE ROSAMEL Sabine
+75,Paris,RETROUVONS PARIS,65,M,BERCIER Didier
+75,Paris,RETROUVONS PARIS,66,F,BARBET Virginie
+75,Paris,RETROUVONS PARIS,67,M,DOUÉRIN Yves
+75,Paris,RETROUVONS PARIS,68,F,HOUSSE Eliane
+75,Paris,RETROUVONS PARIS,69,M,PUGLISI Matteo
+75,Paris,RETROUVONS PARIS,70,F,SMAILI Yasmina
+75,Paris,RETROUVONS PARIS,71,M,LOBJOIS Cyrille
+75,Paris,RETROUVONS PARIS,72,F,SAULE Alice
+75,Paris,RETROUVONS PARIS,73,M,DIMITRIJEVIC Zivadin
+75,Paris,RETROUVONS PARIS,74,F,JOLY Laure
+75,Paris,RETROUVONS PARIS,75,M,CATAN Vincent
+75,Paris,RETROUVONS PARIS,76,F,DUVIGNAU Marie
+75,Paris,RETROUVONS PARIS,77,M,BENUSILHO Maurice
+75,Paris,RETROUVONS PARIS,78,F,DESPINIC Nada
+75,Paris,RETROUVONS PARIS,79,M,DAUJAT Georges
+75,Paris,RETROUVONS PARIS,80,F,GALLFY Maria
+75,Paris,RETROUVONS PARIS,81,M,PERRUCHOT Thierry
+75,Paris,RETROUVONS PARIS,82,F,GUINET Elisabeth
+75,Paris,RETROUVONS PARIS,83,M,BRANKOVIC Radisa
+75,Paris,RETROUVONS PARIS,84,F,MENEROUX Frédérique
+75,Paris,RETROUVONS PARIS,85,M,LOTFY MAHMOUD Adly
+75,Paris,RETROUVONS PARIS,86,F,CHOLET Marie-Madeleine
+75,Paris,RETROUVONS PARIS,87,M,RÉSENDE Pascal
+75,Paris,RETROUVONS PARIS,88,F,DAILLY Christiane
+75,Paris,RETROUVONS PARIS,89,M,PUIFFE DE MAGONDEAU Alain
+75,Paris,RETROUVONS PARIS,90,F,LAGARDE Anna
+75,Paris,RETROUVONS PARIS,91,M,DELSART Christian
+75,Paris,RETROUVONS PARIS,92,F,AMIOT Dominique
+75,Paris,RETROUVONS PARIS,93,M,ATTIA David
+75,Paris,RETROUVONS PARIS,94,F,DIMITRIJEVIC Svetlana
+75,Paris,RETROUVONS PARIS,95,M,BERTRAND François
+75,Paris,RETROUVONS PARIS,96,F,ADDA Souad
+75,Paris,RETROUVONS PARIS,97,M,DRIQUEZ Fabien
+75,Paris,RETROUVONS PARIS,98,F,FERRÉ Estelle
+75,Paris,RETROUVONS PARIS,99,M,ZIVKOVIC Stefan
+75,Paris,RETROUVONS PARIS,100,F,PLESSY Marie Noëlle
+75,Paris,RETROUVONS PARIS,101,M,GANTELET Constantin
+75,Paris,RETROUVONS PARIS,102,F,LAPLACE Élise
+75,Paris,RETROUVONS PARIS,103,M,CHOPPIN HAUDRY DE JANVRY Tristan
+75,Paris,RETROUVONS PARIS,104,F,ILBERT Alexandra
+75,Paris,RETROUVONS PARIS,105,M,JUNTAS Pierre
+75,Paris,RETROUVONS PARIS,106,F,FERRÉ Jessica
+75,Paris,RETROUVONS PARIS,107,M,MARINI Fabien
+75,Paris,RETROUVONS PARIS,108,F,LOPEZ Marie-Ange
+75,Paris,RETROUVONS PARIS,109,M,THABET Abdelkader
+75,Paris,RETROUVONS PARIS,110,F,BERESNIKOFF Cécile
+75,Paris,RETROUVONS PARIS,111,M,LAHALLE Luc
+75,Paris,RETROUVONS PARIS,112,F,ILBERT Zaklina
+75,Paris,RETROUVONS PARIS,113,M,DANDRAU Jean
+75,Paris,RETROUVONS PARIS,114,F,GUIL Sophie
+75,Paris,RETROUVONS PARIS,115,M,CHEYSSIERE Sylvain
+75,Paris,RETROUVONS PARIS,116,F,BENICHOU Emmanuelle
+75,Paris,RETROUVONS PARIS,117,M,LEFEBVRE Bertrand
+75,Paris,RETROUVONS PARIS,118,F,PAULUS Jeanne
+75,Paris,RETROUVONS PARIS,119,M,GUÉRILLOT Mathys
+75,Paris,RETROUVONS PARIS,120,F,KRSTIC Aleksandra
+75,Paris,RETROUVONS PARIS,121,M,SUPPLISSON Philippe
+75,Paris,RETROUVONS PARIS,122,F,GROSZ Gisèle
+75,Paris,RETROUVONS PARIS,123,M,ROCHE Thierry
+75,Paris,RETROUVONS PARIS,124,F,GAILLARD Isabelle
+75,Paris,RETROUVONS PARIS,125,M,DELOMMEL Mathis
+75,Paris,RETROUVONS PARIS,126,F,PAVLOVIC Vesna
+75,Paris,RETROUVONS PARIS,127,M,JORDI Arnaud
+75,Paris,RETROUVONS PARIS,128,F,BLOT Céline
+75,Paris,RETROUVONS PARIS,129,M,ANDREU Athanase
+75,Paris,RETROUVONS PARIS,130,F,LEVY Juliette
+75,Paris,RETROUVONS PARIS,131,M,LEBENTAL Philippe
+75,Paris,RETROUVONS PARIS,132,F,WEISS Rhonda
+75,Paris,RETROUVONS PARIS,133,M,DUCROS Rémi
+75,Paris,RETROUVONS PARIS,134,F,STOYANOVA Krassimira
+75,Paris,RETROUVONS PARIS,135,M,VAN DEN HOUTEN Paul
+75,Paris,RETROUVONS PARIS,136,F,AUDEBERT Cécile
+75,Paris,RETROUVONS PARIS,137,M,DZONIC Bratislav
+75,Paris,RETROUVONS PARIS,138,F,ILBERT Yelena
+75,Paris,RETROUVONS PARIS,139,M,COFFRE Philippe
+75,Paris,RETROUVONS PARIS,140,F,LEVACHER Marie
+75,Paris,RETROUVONS PARIS,141,M,ROQUIN Charles
+75,Paris,RETROUVONS PARIS,142,F,MILENKOVIC Suzana
+75,Paris,RETROUVONS PARIS,143,M,DARTOIS Patrick
+75,Paris,RETROUVONS PARIS,144,F,DARDÉ Valérie
+75,Paris,RETROUVONS PARIS,145,M,CLAVERIE Bernard
+75,Paris,RETROUVONS PARIS,146,F,MICONNET Iris
+75,Paris,RETROUVONS PARIS,147,M,GUENARD Matthieu
+75,Paris,RETROUVONS PARIS,148,F,REDOLFI Thérèse
+75,Paris,RETROUVONS PARIS,149,M,ROY Anthony
+75,Paris,RETROUVONS PARIS,150,F,BEKE Dominique
+75,Paris,RETROUVONS PARIS,151,M,LAIB Anthony
+75,Paris,RETROUVONS PARIS,152,F,LE DENTEC Rachel
+75,Paris,RETROUVONS PARIS,153,M,PÉAN Paul
+75,Paris,RETROUVONS PARIS,154,F,PETIT Hortense
+75,Paris,RETROUVONS PARIS,155,M,LEZAN Guillaume
+75,Paris,RETROUVONS PARIS,156,F,DELAVEAU Julie
+75,Paris,RETROUVONS PARIS,157,M,PARADOL François
+75,Paris,RETROUVONS PARIS,158,F,SAWAYA Sara
+75,Paris,RETROUVONS PARIS,159,M,SION Lucien
+75,Paris,RETROUVONS PARIS,160,F,DUMONTET Mayté
+75,Paris,RETROUVONS PARIS,161,M,CHAPUT Matthieu
+75,Paris,RETROUVONS PARIS,162,F,SCHOUKROUN Corine
+75,Paris,RETROUVONS PARIS,163,M,VARAUT Alexandre
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,1,F,KNAFO Sarah
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,2,M,NOIZAT Pierre
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,3,F,D'AUBERT Edith
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,4,M,LAFONT Samuel
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,5,F,OUVRY Diane
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,6,M,BOUYÉ Hilaire
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,7,F,CHIABERTO Marine
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,8,M,BOUSTANY René
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,9,F,ASSOULINE Aurélie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,10,M,CUIGNACHE D'APREVAL Philippe
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,11,F,COHEN Laure
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,12,M,PARIS Arthur
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,13,F,AÏT MANSOUR Sonia
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,14,M,HERMAN Olivier
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,15,F,LANGLOIS Mondane
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,16,M,AMELLAL Mourad
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,17,F,THELOT Emilie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,18,M,TRUNKENWALD Jannick
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,19,F,MAHÉ Dominique
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,20,M,COURTOIS Olivier
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,21,F,COURTOIS Patricia
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,22,M,CHRZANOWSKI Victor
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,23,F,COLLIN Marie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,24,M,LAPÔTRE Denis
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,25,F,BOTTOU Marion
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,26,M,PIERRE Rémy
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,27,F,HASSELMANN Manon
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,28,M,DALI Tarik
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,29,F,LAHOUASSA Anessa
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,30,M,SERFATI Franck
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,31,F,BRISARD Caroline
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,32,M,BERTHOLON Roger
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,33,F,KIKUCHI Yoneko
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,34,M,LE HER Yann
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,35,F,TOUBIANA Marie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,36,M,GUILLOT Christian
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,37,F,FISCHER Cécile
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,38,M,BARTOLI René-Paul
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,39,F,SIROIS Rebecca
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,40,M,BUCAILLE Antoine
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,41,F,DEROUARD Clotilde
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,42,M,BUSCAL Philippe
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,43,F,CHEVALIER Anne
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,44,M,LOGEREAU Pierre-François
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,45,F,TARANNE Anne-Marie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,46,M,PERETTI Scott
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,47,F,BERNOT Marie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,48,M,LÉVÊQUE Geoffrey
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,49,F,BOYER Bénédicte
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,50,M,O'CONNOR Simon
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,51,F,POLI Marie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,52,M,HABABOU Arnaud
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,53,F,DE LOUBENS Mireille
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,54,M,DELORT Charles
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,55,F,GRISON Nathalie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,56,M,CHOGNARD Natan
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,57,F,MANETTE Kelly
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,58,M,MARTIN-GAY Bruno
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,59,F,SAMOCHIN Sophie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,60,M,FAIVRE D'ARCIER Amaury
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,61,F,AZARI Elahe
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,62,M,LOUVEL Jerome
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,63,F,ABOU KHALIL Joana
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,64,M,HADDAD David
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,65,F,VALTON Anne Pascale
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,66,M,MALLET Antoine
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,67,F,CANDLOT Laure
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,68,M,LOIRE Hippolyte
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,69,F,DUBRULLE Anne
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,70,M,CATTAN Gerard
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,71,F,STAQUET Amélie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,72,M,DELAGRANGE Sylvain
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,73,F,BONFILL Chantal
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,74,M,LOPEZ Bruno
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,75,F,ROZENCWEIG Helcy
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,76,M,POULAIN Eric
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,77,F,LUCIANI Tiphaine
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,78,M,UNGER Lomig
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,79,F,CAMPOY Rosa
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,80,M,VALLÉE Pierre
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,81,F,PREEL Axelle
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,82,M,FASS Marc
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,83,F,CAILLAUD Lise
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,84,M,CORNE-DEMAJAUX Louis
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,85,F,KERDILES Lola
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,86,M,NEGROTTO Gabriel
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,87,F,WIDMER Joelle
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,88,M,GUERIN Amadis
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,89,F,ANDRÉ Clara
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,90,M,BLANCHE Antoine
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,91,F,DAWUDIAN Linda
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,92,M,PIOTIN Michel
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,93,F,TOSCANO Marie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,94,M,BOMBARDIER Marc
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,95,F,MARNAT Michelle
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,96,M,D'HALLUIN Benoit
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,97,F,PEYRAC Diane
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,98,M,PREVOST Aurélien
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,99,F,BESANÇON Francine Isabelle
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,100,M,RAVELLI Jean-Pierre
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,101,F,DE CASTILLA Tess
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,102,M,PARODI Pierre
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,103,F,HAZAN Martine Gabrielle Lucie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,104,M,BOUCHAN Jeremy
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,105,F,CHANOINE-MARTIEL Isabelle
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,106,M,GONTIER Eric
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,107,F,ATTIA Rosette
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,108,M,BAUDEY-VIGNAUD Pierre-Louis
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,109,F,TSALA Marlène
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,110,M,CHEVARIN Benjamin
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,111,F,OSVALD-PARIS Chantal
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,112,M,MONTANÉ Bernard
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,113,F,LEMOINE Marie Christine
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,114,M,BEUCHER Sébastien
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,115,F,LUGUEL Madeleine Jeanne Véronique
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,116,M,LEGRAVEREND Vianney
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,117,F,GALLOULA Nicole
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,118,M,ABERGEL Philippe
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,119,F,HERNANDEZ Alice
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,120,M,REY Bernard
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,121,F,BELLAÏCHE Sylvia
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,122,M,SOUSSAN Jonathan
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,123,F,HADDAD Celine
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,124,M,TCHENQUELA Thierry
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,125,F,BERDUGO Laurene
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,126,M,SCARATTI Benjamin
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,127,F,ASSOR-TAIEB Zahra Caroline
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,128,M,ADER Raphaël
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,129,F,DAHAN Myriam
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,130,M,DHAVERNAS Joseph
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,131,F,DUVILLIER Frédérica
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,132,M,LEVY Nathanel
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,133,F,MANINET Florence
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,134,M,BOSCHER Gonzague
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,135,F,ROUSSEY Elisabeth
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,136,M,THOMAS Roland
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,137,F,DEMANGEAT Bénédicte
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,138,M,DELFAU Frédéric
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,139,F,GREFFE Béatrice
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,140,M,SALA Emmanuel
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,141,F,MÉVELLEC Céline
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,142,M,BERTHAUT Alexandre
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,143,F,BELLAN Marie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,144,M,BOULLAND Philippe
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,145,F,MICHEL Jacqueline
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,146,M,COLLET Fabien
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,147,F,ZINS Elena
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,148,M,DORÈS Boris
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,149,F,KRAFTSCHENKO Eléonore
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,150,M,ROSTAIN Amaury
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,151,F,LEVIEUX Nadine
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,152,M,SEGAL Cedric
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,153,F,WOJTOWICZ Elsa
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,154,M,LIN Nicolas
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,155,F,ROCOPLAN Marie-Amélie
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,156,M,GARCIN Loup
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,157,F,MONTAGNON Florence
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,158,M,GINESTY Sixte
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,159,F,NGUYEN Victoria
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,160,M,BARON Alexis
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,161,F,CRESSENT Galina
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,162,M,BIZOT Hugues
+75,Paris,SARAH KNAFO POUR PARIS - UNE VILLE HEUREUSE,163,F,HIREL Louise
