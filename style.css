@@ -673,6 +673,7 @@ body {
    ========================================= */
 
 @media (max-width: 768px) {
+
   body {
     overflow: auto;
   }
@@ -704,6 +705,8 @@ body {
   flex: 1;
     height: 200px;
   }
+
+  
 }
 
 /* =========================================
@@ -2455,4 +2458,27 @@ input[type=number] {
 .info-footer-dev {
   grid-column: 1 / -1;
   grid-row: 2;
+}
+
+
+@media (max-width: 768px) {
+  .info-footer {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto;
+  }
+
+  .info-footer-links {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .info-footer-support {
+    grid-column: 1;
+    grid-row: 2;
+    align-items: flex-start;
+  }
+
+  .info-footer-dev {
+    grid-row: 3;
+  }
 }

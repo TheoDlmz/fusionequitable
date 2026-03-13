@@ -458,10 +458,6 @@
   <!-- HERO -->
   <div class="hero">
     <div class="hero-inner">
-      <div class="hero-tag">
-        <svg width="10" height="10" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="12"/></svg>
-        Article de recherche
-      </div>
       <h1 class="hero-title">Municipales : quand les fusions de listes ne sont pas équitables</h1>
       <div class="hero-meta">
         <span class="hero-authors">
@@ -498,24 +494,10 @@
           Les fusions aux municipales
         </h2>
 
-        <p>Le premier tour des élections municipales vient de se dérouler, marqué par de nombreux commentaires sur les alliances de partis, à gauche comme à droite. Pourtant, un enjeu majeur reste encore peu discuté&nbsp;: celui des fusions de listes. Entre les deux tours, les listes ont la possibilité de s'unir pour se présenter sous une bannière unique, avec un objectif clair : arriver en tête et remporter la majorité. Pour les listes ayant obtenu entre 5&nbsp;% et 10&nbsp;% des voix, la fusion est même l'unique moyen de se maintenir.</p>
+        <p>Le premier tour des élections municipales vient de se dérouler, marqué par de nombreux commentaires sur les alliances de partis, à gauche comme à droite. Pourtant, un enjeu majeur reste encore peu discuté : celui des fusions de listes. Entre les deux tours, les listes ont la possibilité de s'unir pour se présenter sous une bannière unique, avec un objectif clair : arriver en tête et remporter la majorité. Pour les listes ayant obtenu entre 5% et 10% des voix, la fusion est même l'unique moyen de se maintenir.</p>
 
-        <div class="stats-row">
-          <div class="stat-card">
-            <span class="stat-number">548</span>
-            <span class="stat-label">fusions en 2020</span>
-          </div>
-          <div class="stat-card">
-            <span class="stat-number">83&nbsp;%</span>
-            <span class="stat-label">entre deux listes</span>
-          </div>
-          <div class="stat-card">
-            <span class="stat-number">12&nbsp;%</span>
-            <span class="stat-label">parfaitement équitables</span>
-          </div>
-        </div>
 
-        <p>En 2020 par exemple, on a dénombré 548 fusions. Si la majorité de ces fusions se sont faites entre deux listes (83&nbsp;%), des alliances à trois (16&nbsp;%), voire quatre listes (1&nbsp;%) existent aussi. Ces fusions se font sur l'ensemble de l'échiquier politique, comme l'illustre la figure suivante.</p>
+        <p>En 2020 par exemple, on a dénombré 548 fusions (dans le contexte particulier du COVID-19, qui a fait que plusieurs mois séparaient les deux tours). Si la majorité de ces fusions se sont faites entre deux listes (83%), des alliances à trois (16%), voire quatre listes (1%) existent aussi. Ces fusions se font sur l'ensemble de l'échiquier politique, comme l'illustre la figure suivante.</p>
 
         <div class="figure-block">
           <div class="figure-img">
@@ -528,11 +510,9 @@
 
         <p>Lorsque plusieurs listes fusionnent, elles doivent décider en très peu de temps de l'ordre des candidats sur la nouvelle liste. Ce choix est fondamental : les candidats seront élus dans cet ordre précis, en fonction du nombre de sièges obtenus par la liste finale.</p>
 
-        <p>Dès lors, une question se pose&nbsp;: comment cet ordre est-il fixé&nbsp;? <em>A priori</em>, il résulte de négociations entre les différentes listes. Celles-ci peuvent aboutir aussi bien à une distribution équitable des sièges qu'à un partage inéquitable basé sur les rapports de force.</p>
+        <p>Dès lors, une question se pose : comment cet ordre est-il fixé ? <em>A priori</em>, il résulte de négociations entre les différentes listes. Celles-ci peuvent aboutir aussi bien à une distribution équitable des sièges qu'à un partage inéquitable basé sur les rapports de force. Par exemple, une "petite" liste peut monnayer son ralliement en permettant à une liste plus importante d'atteindre la majorité, et ainsi exiger plus que sa « part du gâteau ».</p>
 
-        <div class="highlight-box">
-          En pratique, la plupart des fusions ne se font pas de manière équitable&nbsp;: l'avantage va généralement à la liste ayant reçu le plus haut score au premier tour. Ce déséquilibre vient possiblement d'un manque d'outils pour mesurer l'équité d'une liste.
-        </div>
+        <p>En pratique, comme nous allons le voir dans cet article, nous avons constaté que la plupart des fusions ne se font pas de manière équitable : l'avantage va généralement à la liste ayant reçu le plus haut score au premier tour, qui obtient ainsi plus de sièges que sa part théorique. Ce déséquilibre vient possiblement d'un manque d'outils pour mesurer l'équité d'une liste, ou de l'absence de méthode accessible pour construire une répartition juste. C'est pourquoi nous proposons de tels outils dans cet article et sur le site <a href="https://fusionequitable.lamsade.fr">fusionequitable.lamsade.fr</a>.</p>
       </section>
 
       <!-- S2 -->
@@ -544,11 +524,11 @@
 
         <p>Avant tout, il convient de définir ce qu'est une distribution équitable des positions sur une liste fusionnée. Dans cet article, nous partons du principe qu'une distribution équitable s'appuie sur les scores du premier tour.</p>
 
-        <p>Imaginons deux listes, la liste A et la liste B, qui s'unissent pour former la liste AB. Au premier tour, la liste A a obtenu 15&nbsp;% des voix et la liste B 30&nbsp;%. Mathématiquement, la liste B pèse deux fois plus que la liste A. On s'attend donc logiquement à ce qu'elle obtienne deux fois plus de sièges dans la liste fusionnée.</p>
+        <p>Imaginons deux listes, la liste A et la liste B, qui s'unissent pour former la liste AB. Au premier tour, la liste A a obtenu 15% des voix et la liste B 30%. Mathématiquement, la liste B pèse deux fois plus que la liste A. On s'attend donc logiquement à ce qu'elle obtienne deux fois plus de sièges dans la liste fusionnée. Cependant, le nombre total de sièges ne fait pas tout : l'ordre compte autant que la quantité. Par exemple, si la liste B accapare les 50 premières places et laisse les 25 suivantes à la liste A, cette dernière est de fait exclue si la liste fusionnée n'obtient finalement que 40 élus.</p>
 
-        <p>Pour qu'une fusion soit réellement équitable, la règle du «&nbsp;deux pour un&nbsp;» (dans notre exemple) doit se vérifier quel que soit le nombre de sièges obtenus par la liste au second tour. Formellement, cela signifie que pour chaque rang <em>k</em> de la liste, si l'on regarde uniquement les <em>k</em> premiers candidats, alors le nombre de candidats issus de chaque liste d'origine doit rester proportionnel à son score initial, à un arrondi près.</p>
+        <p>Pour qu'une fusion soit réellement équitable, la règle du « deux pour un » (dans notre exemple) doit se vérifier quel que soit le nombre de sièges obtenus par la liste au second tour. Formellement, cela signifie que pour chaque rang <em>k</em> de la liste (le 1er nom, le 2e, le 3e, etc.), si l'on regarde uniquement les <em>k</em> premiers candidats de la liste, alors le nombre de candidats issus de chaque liste d'origine doit rester proportionnel à son score initial, à un arrondi près. Dans notre cas, une alternance équitable pourrait être : deux candidats de la liste B, puis un de la liste A, à nouveau deux de la liste B, et ainsi de suite.</p>
 
-        <p>Prenons un exemple concret. Lors des municipales de 2020 à Nancy, deux listes de gauche ont fusionné&nbsp;: <em>«&nbsp;Nancy en grand&nbsp;»</em> (soutenue par le PS) et <em>«&nbsp;Nancy écologie citoyenne&nbsp;»</em> (soutenue par EELV). La première a obtenu 37,9&nbsp;% des voix au premier tour, et la seconde 10,2&nbsp;%.</p>
+        <p>Prenons un exemple concret. Lors des municipales de 2020 à Nancy, deux listes de gauche ont fusionné : <em>« Nancy en grand »</em> (soutenue par le PS) et <em>« Nancy écologie citoyenne »</em> (soutenue par EELV). La première a obtenu 37.9% des voix au premier tour, et la seconde 10.2%. Le graphique ci-dessous illustre ce que serait une distribution parfaite. Pour chaque rang <em>k</em>, la zone colorée représente la fourchette « équitable » (c'est à dire l'entier inférieur ou supérieur à la valeur idéale). Par exemple, si une liste a théoriquement le droit à 2,5 sièges sur les 5 premiers de la liste, la fusion est considérée comme équitable si cette liste en obtient 2 ou 3.</p>
 
         <div class="figure-block">
           <div class="figure-img">
@@ -559,6 +539,8 @@
           </div>
         </div>
 
+        <p>Et dans la réalité ? Les courbes en escalier du graphique suivant suivent la composition réelle de la liste déposée en préfecture : pour chaque valeur de <em>k</em>, les courbes correspondent au nombre de candidats de chaque liste d'origine parmi les <em>k</em> premiers candidats de la liste fusionnée. </p>
+
         <div class="figure-block">
           <div class="figure-img">
             <img src="Graphs/Nancy_sans_etiquette.png" alt="Fusion réelle à Nancy" onerror="this.parentElement.innerHTML='<div class=\'figure-placeholder\'><svg width=\'32\' height=\'32\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.5\'><rect x=\'3\' y=\'3\' width=\'18\' height=\'18\' rx=\'2\'/><path d=\'M3 9h18M9 21V9\'/></svg><span>Nancy_sans_etiquette.png</span></div>'" />
@@ -568,7 +550,7 @@
           </div>
         </div>
 
-        <p>Le constat est sans appel&nbsp;: les courbes restent scrupuleusement dans l'espace équitable. À Nancy, l'indice de disproportionnalité est de 0&nbsp;: la fusion était mathématiquement proportionnelle. Des chercheurs ont d'ailleurs récemment proposé un <a href="https://decol.hypotheses.org/9">indice de disproportionnalité</a> pour mesurer mathématiquement ces écarts. Pourtant, comme nous allons le voir, ce cas de figure relève davantage de l'exception que de la règle.</p>
+        <p>Le constat est sans appel : les courbes restent scrupuleusement dans l'espace équitable. Cela signifie que <em>quel que soit</em> le score final au second tour, chaque partenaire était assuré de recevoir sa part proportionnelle. Des chercheurs ont d'ailleurs récemment proposé un indice de disproportionalité [1] (que nous détaillons dans <a href="https://decol.hypotheses.org/9">cet article sur les fusions de listes aux élections régionales de 2021</a>) pour mesurer mathématiquement ces écarts. À Nancy, cet indice est de 0 : la fusion était mathématiquement proportionnelle. Pourtant, comme nous allons le voir, ce cas de figure relève davantage de l'exception que de la règle.</p>
       </section>
 
       <!-- S3 -->
@@ -578,7 +560,7 @@
           Des fusions peu proportionnelles
         </h2>
 
-        <p>Si le cas de Nancy est exemplaire, il fait figure d'exception. Dans la grande majorité des cas, la fusion profite à l'un des partenaires, le plus souvent celui qui est arrivé en tête au premier tour. Prenons l'exemple de la fusion des trois listes de gauche à Toulouse en 2020.</p>
+        <p>Si le cas de Nancy est exemplaire, il fait figure d'exception. Dans la grande majorité des cas, la fusion profite à l'un des partenaires, le plus souvent celui qui est arrivé en tête au premier tour. Prenons l'exemple de la fusion des trois listes de gauche à Toulouse en 2020. Le graphique ci-dessous représente, comme pour le cas de Nancy, l'évolution du nombre de sièges obtenus par les différentes listes. La fourchette de valeurs correspondant à une distribution proportionnelle et équitable apparaît en transparence. Les courbes en escalier représentent, quant à elles, la distribution effective des sièges dans la liste fusionnée.</p>
 
         <div class="figure-block">
           <div class="figure-img">
@@ -589,9 +571,9 @@
           </div>
         </div>
 
-        <p>On constate que la courbe pour la liste «&nbsp;Archipel Citoyen&nbsp;» (soutenue par EELV) se situe bien au-dessus de la fourchette équitable&nbsp;: elle reçoit plus que sa part proportionnelle. À l'inverse, la courbe de la liste «&nbsp;Une nouvelle énergie pour Toulouse&nbsp;» (soutenue notamment par le PS) est largement en dessous. Ici, l'indice de disproportionnalité vaut environ 4.</p>
+        <p>On constate que la courbe pour la liste « Archipel Citoyen » (soutenue par EELV) se situe bien au-dessus de la fourchette équitable : elle reçoit plus que sa part proportionnelle. A l'inverse, la courbe de la liste « Une nouvelle énergie pour Toulouse » (soutenue notamment par le PS) est largement en dessous. Ainsi, quel que soit le nombre de sièges effectivement obtenus par la liste fusionnée, la première liste obtiendra plus que sa part relative, tandis que la deuxième obtiendra moins. Ici, l'indice de disproportionnalité vaut environ 4 : cela signifie qu'une liste impliquée obtient en moyenne quatre sièges de plus ou de moins que ce qu'elle aurait dû obtenir avec une distribution parfaitement proportionnelle. Notons en plus que ce chiffre est tiré vers le bas par la distribution proportionnelle accordée à la troisième liste, soutenue par Génération·s. On peut ici supposer que les listes ont pris en compte d'autres paramètres que leurs scores respectifs pour négocier.</p>
 
-        <p>Plus rarement, on observe que la liste avec le meilleur score au premier tour est désavantagée par la fusion. Ce fut le cas à Saint-Paul (La Réunion) pour la fusion de trois listes de droite.</p>
+        <p>Plus rarement, on observe que la liste avec le meilleur score au premier tour est désavantagée par la fusion. Ce fut le cas à Saint-Paul (La Réunion) pour la fusion de trois listes de droite ou étiquetés divers. La liste arrivée en tête à droite était « Continuons à bâtir Saint-Paul » (19.9%), soutenue officiellement par LR et LREM, suivie par la liste « Libres et solidaires » menée par un dissident LR (14.6%). Pourtant, les négociations semblent avoir conduit à laisser la tête de liste ainsi que la plupart des sièges au candidat dissident. Le graphique suivant présente à nouveau la distribution effective (en escalier) face aux valeurs équitables (en transparence) :</p>
 
         <div class="figure-block">
           <div class="figure-img">
@@ -602,18 +584,22 @@
           </div>
         </div>
 
-        <p>D'une manière générale, sur les 548 fusions ayant eu lieu en 2020, 12&nbsp;% étaient parfaitement équitables, et 31&nbsp;% étaient fortement déséquilibrées (écart supérieur à 10&nbsp;% selon l'indice de disproportionnalité). En général, le déséquilibre est en faveur de la liste ayant eu le plus de voix au premier tour (81&nbsp;% des cas).</p>
+        <p>Cette fois-ci, la courbe de la liste dissidente est largement au-dessus de ses valeurs équitables, et dépasse même celles de la liste ayant obtenu le meilleur score au premier tour. Les deux autres partenaires ont obtenu bien moins que leur part proportionnelle. On retrouve un indice de disproportionnalité de 4. Cependant, la liste fusionnée ayant finalement obtenu seulement 10 sièges, l'écart réel lors de l'attribution des sièges est resté limité.</p>
 
+        <p>D'une manière générale, si l'on s'intéresse aux 548 fusions ayant eu lieu en 2020, on constate que 12% des fusions étaient parfaitement équitables, et 31% étaient fortement déséquilibrées (c'est-à-dire avec un écart à une distribution proportionnelle de plus de 10% selon l'indice de disproportionnalité), le reste n'est que faiblement déséquilibré. En général, le déséquilibre est en faveur de la liste ayant eu le plus de voix au premier tour : c'est le cas dans 81% des cas où il y a un déséquilibre.</p>
+
+        <p>Cependant, tous les déséquilibres ne se valent pas : si une fusion est équilibrée pour la plupart des places dans la liste mais très déséquilibrée pour les derniers noms, elle apparaîtra comme non proportionnelle, bien qu'en pratique une liste n'obtienne jamais tous les sièges au second tour (pourvu qu'il y ait une liste concurrente). Ce déséquilibre n'aurait donc pas de conséquences au moment de l'attribution des sièges. Il est donc important d'étudier également l'équité de la répartition effective des sièges <em>après</em> les résultats du second tour. Les résultats sont assez différents : près de 70% des fusions sont effectivement équitables une fois les sièges attribués. Toutefois, il reste 22% de fusions très déséquilibrées, et dans les fusions non équitables, le déséquilibre se fait presque toujours en faveur de la liste de tête.</p>
+
+        
         <div class="figure-block">
           <div class="figure-img">
             <img src="Graphs/bilan_fusions_flip.png" alt="Bilan des fusions" onerror="this.parentElement.innerHTML='<div class=\'figure-placeholder\'><svg width=\'32\' height=\'32\' viewBox=\'0 0 24 24\' fill=\'none\' stroke=\'currentColor\' stroke-width=\'1.5\'><rect x=\'3\' y=\'3\' width=\'18\' height=\'18\' rx=\'2\'/><path d=\'M3 9h18M9 21V9\'/></svg><span>bilan_fusions_flip.png</span></div>'" />
           </div>
           <div class="figure-caption">
-            <strong>Figure 6.</strong> Déséquilibre en faveur de la plus grande liste dans les fusions.
+            <strong>Figure 6.</strong> Déséquilibre et avantage de la plus grande liste dans les fusions.
           </div>
         </div>
 
-        <p>Cependant, tous les déséquilibres ne se valent pas. Il est donc important d'étudier également l'équité de la répartition effective des sièges <em>après</em> les résultats du second tour. Les résultats sont assez différents&nbsp;: près de 70&nbsp;% des fusions sont effectivement équitables une fois les sièges attribués. Toutefois, il reste 22&nbsp;% de fusions très déséquilibrées.</p>
       </section>
 
       <!-- S4 -->
@@ -623,15 +609,13 @@
           Impact sur le report de voix
         </h2>
 
-        <p>L'équité n'est pas la seule raison qui pourrait pousser les listes à privilégier une fusion proportionnelle. Il existe en effet des raisons de penser qu'une fusion déséquilibrée puisse créer des tensions mal perçues par l'électorat, causant <em>in fine</em> un mauvais report de voix.</p>
+        <p>L'équité n'est pas la seule raison qui pourrait pousser les listes à privilégier une fusion proportionnelle. Il existe en effet des raisons de penser qu'une fusion déséquilibrée puisse créer des tensions mal perçues par l'électorat, causant <em>in fine</em> un mauvais report de voix pour la liste fusionnée. Nous pouvons l'observer sur quelques exemples, bien que nous ne puissions à ce stade rien conclure de systématique.</p>
 
-        <p>À Nancy, où la fusion a été faite de manière parfaitement proportionnelle, les listes sont passées de 8&nbsp;803 voix au premier tour à 11&nbsp;435 au second tour — une augmentation de près de 30&nbsp;%, permettant à la liste de remporter l'élection avec un meilleur score que prévu par les sondages.</p>
+        <p>Regardons par exemple les trois villes évoquées plus haut : Nancy, Toulouse et Saint-Paul. À Nancy, où la fusion a été faite de manière parfaitement proportionnelle, les listes sont passées de 8 803 voix au premier tour à 11 435 au second tour (sachant que les autres listes de gauche non incluses dans la fusion, LFI et LO, totalisaient 984 voix au premier tour). Cela représente une augmentation de près de 30% entre les deux tours, permettant à la liste de remporter l'élection avec un meilleur score que prévu par les sondages.</p>
 
-        <p>À Toulouse en revanche, la fusion s'est faite sur fond de désaccord. Les listes sont passées de 45&nbsp;688 voix à 51&nbsp;564, soit une augmentation de seulement 13&nbsp;%. La liste a finalement perdu avec 48&nbsp;% des voix. De même, à Saint-Paul, les trois listes sont passées de 14&nbsp;698 voix à seulement 16&nbsp;138 (moins de 10&nbsp;% d'augmentation) et ont subi une large défaite.</p>
+        <p>À Toulouse en revanche, la fusion s'est faite sur fond de désaccord, notamment concernant le projet de ligne à grande vitesse. Les listes sont passées de 45 688 voix au premier tour à 51 564 au second tour, soit une augmentation de seulement 13%. Alors que les derniers sondages donnaient la liste fusionnée légèrement gagnante, elle a finalement perdu avec 48% des voix. De même, à Saint-Paul, les trois listes sont passées de 14 698 voix à seulement 16 138 voix au second tour (soit une augmentation de moins de 10%), et ont subi une large défaite.</p>
 
-        <div class="highlight-box">
-          Ces trois exemples soulignent un lien possible entre une fusion non proportionnelle — souvent synonyme de négociations conflictuelles — et une démobilisation des électeurs potentiels.
-        </div>
+        <p>Bien sûr, ces trois exemples n'ont pas valeur de preuve qu'une liste plus proportionnelle garantit un meilleur report de voix. Ils permettent néanmoins de souligner un lien possible entre une fusion non proportionnelle (souvent synonyme de négociations conflictuelles) et une démobilisation des électeurs potentiels.</p>
       </section>
 
       <!-- S5 -->
@@ -641,18 +625,27 @@
           Comment obtenir une fusion proportionnelle&nbsp;?
         </h2>
 
-        <p>Les raisons de la prévalence des fusions disproportionnelles sont multiples. Mais il est probable qu'il manquait, tout simplement, un outil fiable pour construire une liste équitable.</p>
+        <p>Les raisons de la prévalence des fusions disproportionnelles sont multiples. Il est possible que les partis privilégient d'autres paramètres lors des négociations. Mais il est aussi probable qu'il manquait, tout simplement, un outil fiable pour construire une liste équitable.</p>
 
-        <p>Pour répondre à ce besoin, nous avons créé un outil basé sur <a href="https://fr.wikipedia.org/wiki/Scrutin_proportionnel_plurinominal#M%C3%A9thode_de_Jefferson_ou_m%C3%A9thode_D'Hondt">la méthode de D'Hondt</a>, un système utilisé dans de nombreux pays pour l'attribution des sièges à la proportionnelle. D'un point de vue mathématique, cette méthode possède deux propriétés majeures&nbsp;:</p>
+        <p>Pour répondre à ce besoin, nous avons créé un outil basé sur <a href="https://fr.wikipedia.org/wiki/Scrutin_proportionnel_plurinominal#M%C3%A9thode_de_Jefferson_ou_m%C3%A9thode_D'Hondt">la méthode d'Hondt</a>, un système utilisé dans de nombreux pays pour l'attribution des sièges à la proportionnelle. D'un point de vue mathématique, cette méthode possède deux propriétés majeures :</p>
 
-        <p>1.&nbsp; Elle peut être adaptée pour construire une liste ordonnée (contrairement à la méthode des plus forts restes par exemple).<br>
-        2.&nbsp; Elle garantit à chaque partenaire d'obtenir au moins l'arrondi inférieur de sa part «&nbsp;idéale&nbsp;», quel que soit le nombre final de sièges obtenus par la liste fusionnée.</p>
+        <ol style="margin: 0 0 16px 20px; padding: 0; display: flex; flex-direction: column; gap: 8px;">
+          <li>Elle peut être adaptée pour construire une liste ordonnée (contrairement à la méthode des plus fort restes par exemple).</li>
+          <li>Elle garantit à chaque partenaire d'obtenir au moins l'arrondi inférieur de sa part « idéale », quel que soit le nombre final de sièges obtenus par la liste fusionnée.</li>
+        </ol>
 
-        <p>L'application de cette méthode aux municipales se heurte toutefois à une contrainte légale&nbsp;: l'alternance obligatoire entre hommes et femmes dans les listes. Il n'est pas toujours possible de respecter à la fois une proportionnalité parfaite, la parité, et l'ordre original des candidats.</p>
+        <p>C'est cette méthode que nous proposons sur notre plateforme : <a href="https://fusionequitable.dauphine.fr">fusionequitable.dauphine.fr</a>.</p>
 
-        <p>Prenons un cas extrême&nbsp;: deux listes ayant obtenu le même score fusionnent. Une alternance parfaite donnerait la 1ère place à la liste A, la 2e à la liste B, la 3e à la liste A, et ainsi de suite. Si la tête de liste est un homme, toutes les places impaires devront être occupées par des hommes et toutes les places paires par des femmes — aucune femme de la liste A ni aucun homme de la liste B ne pourrait figurer sur la nouvelle liste.</p>
+        <p>L'application de cette méthode aux municipales se heurte toutefois à une contrainte légale : l'alternance obligatoire entre hommes et femmes dans les listes. En effet, il n'est pas toujours possible de respecter à la fois une proportionnalité parfaite, la parité, et l'ordre original des candidats.</p>
 
-        <p>Pour remédier à ce problème, notre outil propose une variante de la méthode de D'Hondt qui force le respect de l'ordre des candidats originaux, quitte à perdre très légèrement en proportionnalité. En 2020, moins de 1&nbsp;% des fusions ont réussi à conserver l'ordre initial de tous les candidats impliqués.</p>
+
+        <p>Prenons un cas extrême : deux listes ayant obtenu le même score fusionnent. Une alternance parfaite donnerait la 1ère place à la liste A, la 2e à la liste B, la 3e à la liste A, et ainsi de suite. Si la tête de liste est un homme, cela signifie que toutes les places impaires (liste A) devront être occupées par des hommes, et toutes les places paires (liste B) par des femmes. Par conséquent, aucune femme de la liste A et aucun homme de la liste B ne pourrait figurer sur la nouvelle liste.</p>
+
+        <p>Les listes elles-mêmes semblent confrontées à ce dilemme de la conservation de l'ordre : en 2020, moins de 1% des fusions ont réussi à conserver l'ordre initial de tous les candidats impliqués.</p>
+
+        <p>Pour remédier à ce problème, notre outil propose une variante de la méthode d'Hondt qui force le respect de l'ordre des candidats originaux, quitte à perdre très légèrement en proportionnalité. Dans l'exemple précédent, cette méthode attribuerait par exemple les deux premiers sièges à la liste A (un homme, une femme), puis les deux suivants à la liste B (un homme, une femme), garantissant ainsi la parité sans sacrifier la cohérence interne des listes.</p>
+
+        <p>Nous mettons cet outil gratuitement à disposition pour générer des fusions ou évaluer le niveau de proportionnalité d'une liste déjà constituée. Si vous êtes candidat ou impliqué dans une liste amenée à fusionner, n'hésitez pas à mobiliser cet outil lors des négociations. Pour toute question, retour ou commentaire, vous pouvez nous contacter à l'adresse <a href="mailto:theo.delemazure@dauphine.eu">theo.delemazure@dauphine.eu</a>.</p>
 
         <!-- CTA -->
         <div class="article-cta">
@@ -670,15 +663,15 @@
 
         <div class="references">
           <h3>Références</h3>
-          <p>[1] Delemazure, T., Lang, J., Prévotat, A. — <a href="https://decol.hypotheses.org/9">Indice de disproportionnalité pour les fusions de listes aux élections régionales de 2021</a></p>
-          <p>Contact&nbsp;: <a href="mailto:theo.delemazure@dauphine.eu">theo.delemazure@dauphine.eu</a></p>
+          <p>[1] Skowron, P., Lackner, M., Brill, M., Peters, D., & Elkind, E.  — <a href="https://www.dominik-peters.de/publications/proprank.pdf">Proportional rankings (2017, August).</a> In Proceedings of the 26th International Joint Conference on Artificial Intelligence (pp. 409-415).</p>
+          <p>Contact&nbsp;: <a href="mailto:theo.delemazure@dauphine.eu"><span class="__cf_email__" data-cfemail="e89c808d87c68c8d848d8589929d9a8da88c899d988081868dc68d9d">theo.delemazure@dauphine.eu</span></a></p>
         </div>
       </section>
 
     </article>
   </div>
 
-  <script>
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
     // TOC active link on scroll
     const sections = document.querySelectorAll('.article-section');
     const links    = document.querySelectorAll('.toc-list a');
@@ -687,7 +680,7 @@
       entries.forEach(entry => {
         if (entry.isIntersecting) {
           links.forEach(l => l.classList.remove('active'));
-          const active = document.querySelector(`.toc-list a[href="#${entry.target.id}"]`);
+          ment.querySelector(`.toc-list a[href="#${entry.target.id}"]`);ment.querySelector(`.toc-list a[href="#${entry.target.id}"]`);
           if (active) active.classList.add('active');
         }
       });
