@@ -14,7 +14,7 @@ const LIST_NAMES     = ['A', 'B', 'C', 'D', 'E'];
    "committed"= ce qui a été validé et utilisé pour le classement
    ========================================= */
 
-let draftLists      = [];  // { name, color, votes, gender }  — formulaire en cours
+let draftLists      = [];  // { id, name, color, votes, gender }  — formulaire en cours
 let committedLists  = [];  // snapshot au moment du dernier "Valider"
 let committedForcedHead = null; // snapshot de forcedHeadIndex au moment du Valider
 
@@ -1242,7 +1242,10 @@ function onModeChange() {
 function addList() {
   if (cityLocked) return;
   if (draftLists.length >= MAX_LISTS) return;
-  const newList = { name: getNextName(), color: getDefaultColor(draftLists.length), votes: null, gender: null };
+const newId = draftLists.length ?
+    draftLists.reduce((acc, l) => acc > l.id ? acc : l.id, 0) + 1 :
+    0;
+  const newList = { id: newId, name: getNextName(), color: getDefaultColor(draftLists.length), votes: null, gender: null };
   draftLists.push(newList);
   const row = buildListRow(newList, draftLists.length - 1);
   row.classList.add('row-entering');
@@ -1258,8 +1261,8 @@ function addList() {
 
 function init() {
   draftLists = [
-    { name: 'Liste A', color: getDefaultColor(0), votes: null, gender: null },
-    { name: 'Liste B', color: getDefaultColor(1), votes: null, gender: null },
+    { id: 0, name: 'Liste A', color: getDefaultColor(0), votes: null, gender: null },
+    { id: 1, name: 'Liste B', color: getDefaultColor(1), votes: null, gender: null },
   ];
   renderForm();
   updateAddBtn();
@@ -1820,8 +1823,8 @@ function resetCity() {
   candidatsData = null;
   window._candidateAssigned = null;
   draftLists = [
-    { name: 'Liste A', color: getDefaultColor(0), votes: null, gender: null },
-    { name: 'Liste B', color: getDefaultColor(1), votes: null, gender: null },
+    { id: 0, name: 'Liste A', color: getDefaultColor(0), votes: null, gender: null },
+    { id: 1, name: 'Liste B', color: getDefaultColor(1), votes: null, gender: null },
   ];
   forcedHeadIndex = null;
   renderForm();
@@ -1907,6 +1910,7 @@ function importSelectedLists() {
 
   // Remplacer draftLists avec les couleurs de nuance + métadonnées pour candidats
   draftLists = toImport.map((row, i) => ({
+id: i,
     name:     row.libelle,
     color:    getNuanceColor(row.codeNuance),
     votes:    null,
