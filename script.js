@@ -6,7 +6,7 @@ const MAX_LISTS = 5;
 const MIN_LISTS = 2;
 
 const DEFAULT_COLORS = ['#52B788', '#4361EE', '#F4A261', '#E63946', '#A855F7'];
-const LIST_NAMES     = ['A', 'B', 'C', 'D', 'E'];
+const ALPHABET       = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 
 /* =========================================
    STATE — deux couches distinctes
@@ -47,7 +47,7 @@ const forcedHeadBtns     = document.getElementById('forced-head-btns');
    HELPERS
    ========================================= */
 
-function getNextName()      { return `Liste ${LIST_NAMES[draftLists.length]}`; }
+function getNextName(i)      { return `Liste ${ALPHABET[i % ALPHABET.length]}`; }
 function getDefaultColor(i) { return DEFAULT_COLORS[i] ?? `hsl(${Math.floor(Math.random()*360)},60%,55%)`; }
 
 function hexToRgb(hex) {
@@ -1245,7 +1245,7 @@ function addList() {
   const newId = draftLists.length ?
     draftLists.reduce((acc, l) => acc > l.id ? acc : l.id, 0) + 1 :
     0;
-  const newList = { id: newId, name: getNextName(), color: getDefaultColor(newId), votes: null, gender: null };
+  const newList = { id: newId, name: getNextName(newId), color: getDefaultColor(newId), votes: null, gender: null };
   draftLists.push(newList);
   const row = buildListRow(newList, draftLists.length - 1);
   row.classList.add('row-entering');
