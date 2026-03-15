@@ -1242,10 +1242,10 @@ function onModeChange() {
 function addList() {
   if (cityLocked) return;
   if (draftLists.length >= MAX_LISTS) return;
-const newId = draftLists.length ?
+  const newId = draftLists.length ?
     draftLists.reduce((acc, l) => acc > l.id ? acc : l.id, 0) + 1 :
     0;
-  const newList = { id: newId, name: getNextName(), color: getDefaultColor(draftLists.length), votes: null, gender: null };
+  const newList = { id: newId, name: getNextName(), color: getDefaultColor(newId), votes: null, gender: null };
   draftLists.push(newList);
   const row = buildListRow(newList, draftLists.length - 1);
   row.classList.add('row-entering');
@@ -1910,7 +1910,7 @@ function importSelectedLists() {
 
   // Remplacer draftLists avec les couleurs de nuance + métadonnées pour candidats
   draftLists = toImport.map((row, i) => ({
-id: i,
+    id: i,
     name:     row.libelle,
     color:    getNuanceColor(row.codeNuance),
     votes:    null,
